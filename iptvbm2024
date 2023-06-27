@@ -1427,6 +1427,158 @@ https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
 https://stream.vagalume.fm/hls/1499715905423293/aac.m3u8
 #EXTINF:-1 tvg-logo="https://bitmaster.listen2myshow.com/assets/images/uploads/user_146577503/radio_193669591/logo_banner/1685088049.jpg" group-title="RADIOS GRATIS", WebRADIO BITMASTER 24Hs Online
 https://Fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123&port=10077&type=s1
+
+#EXTINF:-1 tvg-logo="https://goo.gl/7WEitU" group-title="FILMES", CORPO FECHADO (240p A 720p)
+http://content.uplynk.com/acde39d6f5554d52a64f1aa3e4244e00.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yl8nVlp.jpg" group-title="FILMES", Sahara
+https://ia601500.us.archive.org/35/items/luaSaara/luaSaara.MP4
+
+#EXTINF:-1 tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES", A Conquista do Planeta dos Macacos (1972)
+https://archive.org/download/13Fantasmas2001720pDubladoAlan680/A%20Conquista%20do%20Planeta%20dos%20Macacos%20(1972)%20BluRay%201080p%20Dual%20%C3%81udio.mp4?&LYSTANALDYNHO
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ij1svetF9E4/sddefault.jpg" group-title="FILMES", alem dos limites humanos - hipoxia
+http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/02%20-%20Frio%5bmvm%5d.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ij1svetF9E4/sddefault.jpg" group-title="FILMES", alem dos limites humanos -frio
+http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/01%20-%20Hipoxia%5bmvm%5d.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ij1svetF9E4/sddefault.jpg" group-title="FILMES", alem dos limites humanos -tempo
+http://archive.org/download/AlemDosLimitesHumanosDubladoDocumentario/03%20-%20Tempo%5bmvm%5d.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/55/Filhas_do_Fogo_CN_0570.jpg/220px-Filhas_do_Fogo_CN_0570.jpg" group-title="FILMES", As Filhas Do Fogo (1978)
+http://archive.org/download/AsFilhasDoFogo1978/As%20Filhas%20do%20Fogo%201978.mp4
+
+#EXTINF:-1 tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES", Barbie Em Vida De Sereia 2010
+https://archive.org/download/BarbieEmVidaDeSereia20101/Barbie%20Em%20Vida%20De%20Sereia%20-%202010-1.mp4
+
+#EXTINF:-1 tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES", Barbie Fairytopia A Magia Do Arco Iris
+https://archive.org/download/BarbieFairytopiaAMagiaDoArcoIris/Barbie%20Fairytopia%20A%20Magia%20Do%20Arco-iris.mp4
+
+#EXTINF:-1 tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES", César!.2016.720p.BluRay.5.1.x264.DUAL
+https://lh3.googleusercontent.com/z4nqKiulQA9qjx1vv4K-ZrgTTTRhNyBe8CQyLgjTKYTkqjI1UzdYm0tkeO9KPNFfoVVzUBqX=m22
+
+#EXTINF:-1 tvg-logo="http://cde.3.elcomercio.pe/ima/0/0/8/7/2/872910.jpg" group-title="FILMES", Charlie Chaplin - A Jitney Elopement 1915
+http://archive.org/download/PeliculasDeChaplin-1915/1915-04-01AJitneyElopement_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://cde.3.elcomercio.pe/ima/0/0/8/7/2/872910.jpg" group-title="FILMES", Charlie Chaplin - A Night In The Show 1915
+http://archive.org/download/PeliculasDeChaplin-1915/1915-11-20ANightInTheShow_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://cde.3.elcomercio.pe/ima/0/0/8/7/2/872910.jpg" group-title="FILMES", Charlie Chaplin - By The Sea 1915
+http://archive.org/download/PeliculasDeChaplin-1915/1915-04-29ByTheSea_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://cde.3.elcomercio.pe/ima/0/0/8/7/2/872910.jpg" group-title="FILMES", Charlie Chaplin - Caught In A Caberet 1914
+http://archive.org/download/PeliculasDeChaplin-1914/1914-04-27CaughtinaCaberet_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://cde.3.elcomercio.pe/ima/0/0/8/7/2/872910.jpg" group-title="FILMES", Charlie Chaplin - Caugth In A Rain 1914
+http://archive.org/download/PeliculasDeChaplin-1914/1914-05-04CaugthInARain_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://cde.3.elcomercio.pe/ima/0/0/8/7/2/872910.jpg" group-title="FILMES", Charlie Chaplin - Charlie Shanghaied 1915
+http://archive.org/download/PeliculasDeChaplin-1915/1915-10-04CharlieShanghaied_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://cde.3.elcomercio.pe/ima/0/0/8/7/2/872910.jpg" group-title="FILMES", Charlie Chaplin - Charlot Gargon De Theater 1914
+http://archive.org/download/PeliculasDeChaplin-1914/1914-08-01CharlotGargonDeTheater_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://cde.3.elcomercio.pe/ima/0/0/8/7/2/872910.jpg" group-title="FILMES", Charlie Chaplin - Charlott Et Le Mannequin 1914
+http://archive.org/download/PeliculasDeChaplin-1914/1914-06-20CharlottEtLeMannequin_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://cde.3.elcomercio.pe/ima/0/0/8/7/2/872910.jpg" group-title="FILMES", Charlie Chaplin - Charlott Mabel Aux Courses 1914
+http://archive.org/download/PeliculasDeChaplin-1914/1914-10-29CharlottMabelAuxCourses_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://cde.3.elcomercio.pe/ima/0/0/8/7/2/872910.jpg" group-title="FILMES", Charlie Chaplin - Dough And Dynamite 1914
+http://archive.org/download/PeliculasDeChaplin-1914/1914-10-26DoughAndDynamite_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://cde.3.elcomercio.pe/ima/0/0/8/7/2/872910.jpg" group-title="FILMES", Charlie Chaplin - Face On The Barroom Floor 1914
+http://archive.org/download/PeliculasDeChaplin-1914/1914-08-10FaceOnTheBarroomFloor_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://cde.3.elcomercio.pe/ima/0/0/8/7/2/872910.jpg" group-title="FILMES", Charlie Chaplin - Film Johnny 1914
+http://archive.org/download/PeliculasDeChaplin-1914/1914-03-02FilmJohnny_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://cde.3.elcomercio.pe/ima/0/0/8/7/2/872910.jpg" group-title="FILMES", Charlie Chaplin - His New Job 1915
+http://archive.org/download/PeliculasDeChaplin-1915/1915-02-01HisNewJob_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://cde.3.elcomercio.pe/ima/0/0/8/7/2/872910.jpg" group-title="FILMES", Charlie Chaplin - His Prehistoric Past 1914
+http://archive.org/download/PeliculasDeChaplin-1914/1914-12-07HisPrehistoricPast_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://cde.3.elcomercio.pe/ima/0/0/8/7/2/872910.jpg" group-title="FILMES", Charlie Chaplin - His Regeneration 1915
+http://archive.org/download/PeliculasDeChaplin-1915/1915-05-07HisRegeneration_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://cde.3.elcomercio.pe/ima/0/0/8/7/2/872910.jpg" group-title="FILMES", Charlie Chaplin - His Trysting Place 1914
+http://archive.org/download/PeliculasDeChaplin-1914/1914-11-09HisTrystingPlace_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://cde.3.elcomercio.pe/ima/0/0/8/7/2/872910.jpg" group-title="FILMES", Charlie Chaplin - In The Park 1915
+http://archive.org/download/PeliculasDeChaplin-1915/1915-03-18InThePark_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://cde.3.elcomercio.pe/ima/0/0/8/7/2/872910.jpg" group-title="FILMES", Charlie Chaplin - Kids Auto Race At Venice 1914
+http://archive.org/download/PeliculasDeChaplin-1914/1914-02-07KidsAutoRaceAtVenice_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://cde.3.elcomercio.pe/ima/0/0/8/7/2/872910.jpg" group-title="FILMES", Charlie Chaplin - Mabel At The Wheel 1914
+http://archive.org/download/PeliculasDeChaplin-1914/1914-04-18MabelAtTheWheel_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://cde.3.elcomercio.pe/ima/0/0/8/7/2/872910.jpg" group-title="FILMES", Charlie Chaplin - Mabels Strange Predicament 1914
+http://archive.org/download/PeliculasDeChaplin-1914/1914-02-09MabelsStrangePredicament_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://cde.3.elcomercio.pe/ima/0/0/8/7/2/872910.jpg" group-title="FILMES", Charlie Chaplin - Making A Living 1914
+http://archive.org/download/PeliculasDeChaplin-1914/1914-02-02MakingALiving_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://cde.3.elcomercio.pe/ima/0/0/8/7/2/872910.jpg" group-title="FILMES", Charlie Chaplin - Recreation 1914
+http://archive.org/download/PeliculasDeChaplin-1914/1914-08-13Recreation_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://cde.3.elcomercio.pe/ima/0/0/8/7/2/872910.jpg" group-title="FILMES", Charlie Chaplin - Tango Tangles 1914
+http://archive.org/download/PeliculasDeChaplin-1914/1914-03-09TangoTangles_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://cde.3.elcomercio.pe/ima/0/0/8/7/2/872910.jpg" group-title="FILMES", Charlie Chaplin - The Bank 1915
+http://archive.org/download/PeliculasDeChaplin-1915/1915-08-09TheBank_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://cde.3.elcomercio.pe/ima/0/0/8/7/2/872910.jpg" group-title="FILMES", Charlie Chaplin - The Champion 1915
+http://archive.org/download/PeliculasDeChaplin-1915/1915-03-01TheChampion_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://cde.3.elcomercio.pe/ima/0/0/8/7/2/872910.jpg" group-title="FILMES", Charlie Chaplin - The Fatal Mallet 1914
+http://archive.org/download/PeliculasDeChaplin-1914/1914-06-01TheFatalMallet_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://cde.3.elcomercio.pe/ima/0/0/8/7/2/872910.jpg" group-title="FILMES", Charlie Chaplin - The Good For Nothing 1914
+http://archive.org/download/PeliculasDeChaplin-1914/1914-08-31TheGoodForNothing_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://cde.3.elcomercio.pe/ima/0/0/8/7/2/872910.jpg" group-title="FILMES", Charlie Chaplin - The Knockout 1914
+http://archive.org/download/PeliculasDeChaplin-1914/1914-06-11TheKnockout_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://cde.3.elcomercio.pe/ima/0/0/8/7/2/872910.jpg" group-title="FILMES", Charlie Chaplin - The Landladys Pet 1914
+http://archive.org/download/PeliculasDeChaplin-1914/1914-04-04TheLandladysPet_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://cde.3.elcomercio.pe/ima/0/0/8/7/2/872910.jpg" group-title="FILMES", Charlie Chaplin - Twenty Minutes Of Love 1914
+http://archive.org/download/PeliculasDeChaplin-1914/1914-04-20TwentyMinutesOfLove_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://cde.3.elcomercio.pe/ima/0/0/8/7/2/872910.jpg" group-title="FILMES", Charlie Chaplin - Work 1915
+http://archive.org/download/PeliculasDeChaplin-1915/1915-06-21Work_512kb.mp4
+
+#EXTINF:-1 tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES", Fabulas Disney
+https://archive.org/download/FbulasDisneyVol01/F%C3%A1bulas%20Disney%20Vol%2001.mp4
+
+#EXTINF:-1 tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES", Final Fantasy
+https://lh3.googleusercontent.com/4LBIcNUlkjDN-fxn37Y_PN01uRmE3eogsT6kGjoFqx_tPA7MbM8iNQ4oo2KLhQiZgHQ3e6wHeg=m22
+
+#EXTINF:-1 tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES", Guardiões da Galáxia
+https://lh3.googleusercontent.com/bMlfukb12RE78PtHuRXd-wKN8gXVssfODe7sprT8xnXyIhktxcyFu645k0GTNXe-HkLm3o8_cYYXsvltrg=m22
+
+#EXTINF:-1 tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES", LUCY (360p)
+https://archive.org/download/Lucy_Movie/Lucy.mp4
+
+#EXTINF:-1 tvg-logo="http://www.tiooda.com.br/images/filmes-estrangeiros/reino-unido/1984_p1.jpg" group-title="CLASSICOS", Mil Novecentos e Oitenta e Quatro
+http://archive.org/download/Filme1984GeorgeOrwellDubladoConhecimentoEhPoderByN1ngGg3n/Filme%201984%20George%20Orwell%20-%20Dublado%20-%20ConhecimentoEhPoder%20-%20By%20N1ngGg3n%20.mp4
+
+#EXTINF:-1 tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES", O 13o Guerreiro (1999)
+https://archive.org/download/13Fantasmas2001720pDubladoAlan680/O%2013%C2%BA%20Guerreiro.mp4
+
+#EXTINF:-1 tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES", Refem do Silencio (2001)
+https://archive.org/download/Refem.do.Silencio.2001Dual5.1720p/Refem.do.Silencio.2001%20dual%205.1%20720p.mp4
+
+#EXTINF:-1 tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES", Stephen Hawking e as Células-Tronco
+http://archive.org/download/Stephen.Hawking.e.as.Celulas-Tronco/C%c3%a9lulas-tronco%20com%20Stephen%20Hawking-PSG.mp4.mp4
+
+#EXTINF:-1 tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_cc4eda6329ce619bbb8dd23c0f51b4cc3b857c13.jpg" group-title="FILMES", Terceiro Reich: Queda
+http://archive.org/download/Terceiro.Reich.Ascensao.e.Queda/Terceiro%20Reich%20-%20A%20Queda.mp4
+
+
 #EXTINF:-1 tvg-logo="https://img.redtraffic.xyz/22179.jpg" group-title="x ADULTOS Gratis", Abi & Vanessas Summer Wedding Series Part 2 - The Wedding
 http://12204.vod.redtraffic.xyz/ph59a828c472efc/play.m3u8
 #EXTINF:-1 tvg-logo="https://img.adultiptv.net/27123.jpg" group-title="x ADULTOS Gratis", Adessa Winters  (Indique e GANHE 10 REAIS (47)99626-5594)
