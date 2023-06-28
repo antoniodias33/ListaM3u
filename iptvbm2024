@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="CANAIS: TV ABERTA", CANAL DO USUARIO Atualizado EM 27/06/23 19:00hs
+#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="CANAIS: TV ABERTA", CANAL DO USUARIO Atualizado EM 27/06/23 21:00hs
 https://archive.org/download/canal-do-usuario-iptvbm/Canal%20do%20Usuario%20IPTVBM.mp4
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="CANAIS: TV ABERTA", SBT Rede Massa (PR)
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
@@ -1458,6 +1458,15 @@ https://archive.org/download/BarbieFairytopiaAMagiaDoArcoIris/Barbie%20Fairytopi
 #EXTINF:-1 tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES", César!.2016.720p.BluRay.5.1.x264.DUAL
 https://lh3.googleusercontent.com/z4nqKiulQA9qjx1vv4K-ZrgTTTRhNyBe8CQyLgjTKYTkqjI1UzdYm0tkeO9KPNFfoVVzUBqX=m22
 
+#EXTINF:-0 tvg-logo="https://sites.google.com/site/lcseth/BANNER-todos500x400.jpg?attredirects=0" group-title="FILMES" pltv-subgroup="DESENHOS", Velocidade Corrida 1
+https://archive.org/download/SpeedRace18x1/speed%20race%2018x1.mp4
+
+#EXTINF:-0 tvg-logo="https://sites.google.com/site/lcseth/BANNER-todos500x400.jpg?attredirects=0" group-title="FILMES" pltv-subgroup="DESENHOS", Velocidade Corrida 2
+https://archive.org/download/SPEEDRAC18X2/SPEED%20RAC%2018X2.mp4
+
+#EXTINF:-0 tvg-logo="https://sites.google.com/site/lcseth/BANNER-todos500x400.jpg?attredirects=0" group-title="FILMES" pltv-subgroup="DESENHOS", Velocidade Corrida 3
+https://archive.org/download/SpeedRace18x3/speed%20race%2018x3.mp4
+
 #EXTINF:-1 tvg-logo="http://cde.3.elcomercio.pe/ima/0/0/8/7/2/872910.jpg" group-title="FILMES", Charlie Chaplin - A Jitney Elopement 1915
 http://archive.org/download/PeliculasDeChaplin-1915/1915-04-01AJitneyElopement_512kb.mp4
 
@@ -1563,7 +1572,7 @@ https://lh3.googleusercontent.com/bMlfukb12RE78PtHuRXd-wKN8gXVssfODe7sprT8xnXyIh
 #EXTINF:-1 tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES", LUCY (360p)
 https://archive.org/download/Lucy_Movie/Lucy.mp4
 
-#EXTINF:-1 tvg-logo="http://www.tiooda.com.br/images/filmes-estrangeiros/reino-unido/1984_p1.jpg" group-title="CLASSICOS", Mil Novecentos e Oitenta e Quatro
+#EXTINF:-1 tvg-logo="http://www.tiooda.com.br/images/filmes-estrangeiros/reino-unido/1984_p1.jpg" group-title="FILMES", Mil Novecentos e Oitenta e Quatro
 http://archive.org/download/Filme1984GeorgeOrwellDubladoConhecimentoEhPoderByN1ngGg3n/Filme%201984%20George%20Orwell%20-%20Dublado%20-%20ConhecimentoEhPoder%20-%20By%20N1ngGg3n%20.mp4
 
 #EXTINF:-1 tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES", O 13o Guerreiro (1999)
