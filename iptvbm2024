@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/wMgizLsJS7uZuS5dYW1G_yTom3WGFC2sQnsSK" group-title="CANAIS: TV ABERTA", _Gift Of Legacy (Como GANHAR 200 Mil Reais sem sair de casa)
 https://archive.org/download/apresentacao-gift-of-legacy-rui-16-ago-23-a/Apresenta%C3%A7%C3%A3o%20Gift%20Of%20Legacy%20%28Rui%29%2016Ago23A.mp4
-#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="CANAIS: TV ABERTA", CANAL DO USUARIO Atualizado EM 17/08/23 02:20hs
+#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="CANAIS: TV ABERTA", CANAL DO USUARIO Atualizado EM 18/08/23 22:50hs
 https://archive.org/download/canal-do-usuario-iptvbm/Canal%20do%20Usuario%20IPTVBM.mp4
 #EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/wMgizLsJS7uZuS5dYW1G_yTom3WGFC2sQnsSK" group-title="CANAIS: TV ABERTA", Transforme 5 reais em 2Mil reais vendendo doces
 https://archive.org/download/vslestrategia-gift-of-legacy-doces/VSLestrat%C3%A9giaGiftOfLegacyDoces.mp4
@@ -77,14 +77,14 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0UIM9d9.png" group-title="CANAIS: ABERTOS", CBTV NOW
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/wMgizLsJS7uZuS5dYW1G_yTom3WGFC2sQnsSK" group-title="CANAIS: ABERTOS", Gift Of Legacy (Como GANHAR 200 Mil Reais sem sair de casa)
+https://archive.org/download/apresentacao-gift-of-legacy-rui-16-ago-23-a/Apresenta%C3%A7%C3%A3o%20Gift%20Of%20Legacy%20%28Rui%29%2016Ago23A.mp4
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cctv13.png" group-title="CANAIS: ABERTOS", CCTV Notícias
 https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctv13_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GCTplnu.png" group-title="CANAIS: ABERTOS", CHANNEL 1
 https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/aZRobKc.png" group-title="CANAIS: ABERTOS", Channel 1
 https://stmv1.srvif.com/channel1/channel1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/wMgizLsJS7uZuS5dYW1G_yTom3WGFC2sQnsSK" group-title="CANAIS: ABERTOS", Gift Of Legacy (Como GANHAR 200 Mil Reais sem sair de casa)
-https://archive.org/download/apresentacao-gift-of-legacy-rui-16-ago-23-a/Apresenta%C3%A7%C3%A3o%20Gift%20Of%20Legacy%20%28Rui%29%2016Ago23A.mp4
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="CANAIS: ABERTOS", CLASSIQUE TV WESTERN
 https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2pSzgVU.png" group-title="CANAIS: ABERTOS", CONECT TV
@@ -161,6 +161,8 @@ https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2
 https://video01.kshost.com.br:4443/tiago4725/tiago4725/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/6KHGXbM.png" group-title="CANAIS: ABERTOS", TCM 10
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/wMgizLsJS7uZuS5dYW1G_yTom3WGFC2sQnsSK" group-title="CANAIS: ABERTOS", 03 Gift Of Legacy (A Comunidade que mais cresce no mundo)
+https://archive.org/download/comercial-02-gift-of-legacy/Comercial%2002%20Gift%20Of%20Legacy.mp4
 #EXTINF:-1 tvg-logo="https://imgur.com/ytZUsdv.png" group-title="CANAIS: ABERTOS", TV A FOLHA
 https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/plXLd8b.png" group-title="CANAIS: ABERTOS", TV ABERTA SP
@@ -337,6 +339,16 @@ https://archive.org/download/vsl-renda-extra-com-assinaturas-pela-internet/VSL%2
 https://archive.org/download/comercial-play-premiado-02/Comercial%20Play%20Premiado%2002.mp4
 #EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="CANAIS: SERVIÇOS DO USUARIO", Aplicativo pagando SEM INVESTIR
 https://archive.org/download/aplicativo-pagando-no-free-youtube/Aplicativo%20pagando%20no%20Free.mp4
+#EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/wMgizLsJS7uZuS5dYW1G_yTom3WGFC2sQnsSK" group-title="CANAIS: SERVIÇOS DO USUARIO",03 Gift Of Legacy (A Comunidade que mais cresce no mundo)
+https://archive.org/download/comercial-02-gift-of-legacy/Comercial%2002%20Gift%20Of%20Legacy.mp4
+#EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/wMgizLsJS7uZuS5dYW1G_yTom3WGFC2sQnsSK" group-title="CANAIS: GIFT OF LEGACY",00 Transforme 5 reais em 2Mil reais vendendo doces
+https://archive.org/download/vslestrategia-gift-of-legacy-doces/VSLestrat%C3%A9giaGiftOfLegacyDoces.mp4
+#EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/wMgizLsJS7uZuS5dYW1G_yTom3WGFC2sQnsSK" group-title="CANAIS: GIFT OF LEGACY",01 Gift Of Legacy (Transforme 500 reais em 200 Mil Reais)
+https://archive.org/download/apresentacao-gift-of-legacy-rui-16-ago-23-a/Apresenta%C3%A7%C3%A3o%20Gift%20Of%20Legacy%20%28Rui%29%2016Ago23A.mp4
+#EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/wMgizLsJS7uZuS5dYW1G_yTom3WGFC2sQnsSK" group-title="CANAIS: GIFT OF LEGACY",02 Gift Of Legacy (GANHAR DINHEIRO AJUDANDO PESSOAS)
+https://archive.org/download/apresentacao-gift-of-legacy-para-iptv/Apresenta%C3%A7%C3%A3o%20Gift%20Of%20Legacy%20%28Para%20IPTV%29.mp4
+#EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/wMgizLsJS7uZuS5dYW1G_yTom3WGFC2sQnsSK" group-title="CANAIS: GIFT OF LEGACY",03 Gift Of Legacy (A Comunidade que mais cresce no mundo)
+https://archive.org/download/comercial-02-gift-of-legacy/Comercial%2002%20Gift%20Of%20Legacy.mp4
 #EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/wMgizLsJS7uZuS5dYW1G_yTom3WGFC2sQnsSK" group-title="CANAIS: DOCUMENTARIOS Gratis", _Gift Of Legacy (Como MULTIPLICAR 500 Reais em 200Mil Reais)
 https://archive.org/download/apresentacao-gift-of-legacy-para-iptv/Apresenta%C3%A7%C3%A3o%20Gift%20Of%20Legacy%20%28Para%20IPTV%29.mp4
 #EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/wMgizLsJS7uZuS5dYW1G_yTom3WGFC2sQnsSK" group-title="CANAIS: DOCUMENTARIOS Gratis", Transforme 5 reais em 2Mil reais vendendo doces
@@ -619,18 +631,20 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/../../../5
 https://archive.org/download/indique-e-ganhe-completo/Comercial%20Indique%20e%20ganhe%20Completo-H%20%28VP-5%20RP10%29.mp4
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4850f3a4ceccc09a8ecbfb492473870f.png" group-title="CANAIS: NOTICIÁRIO Gratis", RAI NEWS
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/../../../598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rainews.png" group-title="CANAIS: NOTICIÁRIO Gratis", RAINEWS24
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="CANAIS: NOTICIÁRIO Gratis", Record News
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="CANAIS: NOTICIÁRIO Gratis", Record News
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/wMgizLsJS7uZuS5dYW1G_yTom3WGFC2sQnsSK" group-title="CANAIS: NOTICIÁRIO Gratis", Gift Of Legacy (Como GANHAR 200 Mil Reais sem sair de casa)
 https://archive.org/download/apresentacao-gift-of-legacy-rui-16-ago-23-a/Apresenta%C3%A7%C3%A3o%20Gift%20Of%20Legacy%20%28Rui%29%2016Ago23A.mp4
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rainews.png" group-title="CANAIS: NOTICIÁRIO Gratis", RAINEWS24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/russiatoday.jpg" group-title="CANAIS: NOTICIÁRIO Gratis", RT en español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/TV5-Monde-Info.png" group-title="CANAIS: NOTICIÁRIO Gratis", TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/wMgizLsJS7uZuS5dYW1G_yTom3WGFC2sQnsSK" group-title="CANAIS: NOTICIÁRIO Gratis",03 Gift Of Legacy (A Comunidade que mais cresce no mundo)
+https://archive.org/download/comercial-02-gift-of-legacy/Comercial%2002%20Gift%20Of%20Legacy.mp4
 #EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/wMgizLsJS7uZuS5dYW1G_yTom3WGFC2sQnsSK" group-title="CANAIS: RELIGIOSOS", _Gift Of Legacy (Como MULTIPLICAR 500 Reais em 200Mil Reais)
 https://archive.org/download/apresentacao-gift-of-legacy-para-iptv/Apresenta%C3%A7%C3%A3o%20Gift%20Of%20Legacy%20%28Para%20IPTV%29.mp4
 #EXTINF:0 tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="CANAIS: RELIGIOSOS", Angel TV America
@@ -1791,3 +1805,5 @@ http://live.mycamtv.com/white.m3u8
 http://live.mycamtv.com/young.m3u8
 #EXTINF:-1 tvg-logo="https://bitmaster.listen2myshow.com/assets/images/uploads/user_146577503/radio_193669591/logo_banner/1685088049.jpg" group-title="X FILMES: ADULTOS Gratis", WebRADIO BITMASTER 24Hs Online
 https://Fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123&port=10077&type=s1
+#EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/wMgizLsJS7uZuS5dYW1G_yTom3WGFC2sQnsSK" group-title="X FILMES: ADULTOS Gratis", 03 Gift Of Legacy (A Comunidade que mais cresce no mundo)
+https://archive.org/download/comercial-02-gift-of-legacy/Comercial%2002%20Gift%20Of%20Legacy.mp4
