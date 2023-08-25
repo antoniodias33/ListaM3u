@@ -2013,12 +2013,13 @@ https://596639ebdd89b.streamlock.net/8072/8072/playlist.m3u8
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="31 CANAIS:FILMES +", Filmes 19 
 https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="31 CANAIS:FILMES +", Filmes 2 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="31 CANAIS:FILMES +", Filmes 2
 https://stmv1.srvstm.com/webradiocidade/webradiocidade/chunklist_w1407966166.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="31 CANAIS:FILMES +", Filmes 20 
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 https://appletree-mytime-samsungCANAIS: BRASIL 2.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="31 CANAIS:FILMES +", Filmes 21 
-https://runtimeCANAIS: BRASIL 2-samsungCANAIS: BRASIL 2.amagi.tv/playlist.m3u8
+https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="31 CANAIS:FILMES +", Filmes 22 
 https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w455959427.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="31 CANAIS:FILMES +", Filmes 23 
