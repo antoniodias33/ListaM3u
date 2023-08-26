@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/wMgizLsJS7uZuS5dYW1G_yTom3WGFC2sQnsSK" group-title="CANAIS: TV ABERTA", 01 Gift Of Legacy (Como GANHAR 200 Mil Reais)
 https://archive.org/download/apresentacao-gift-of-legacy-rui-16-ago-23-a/Apresenta%C3%A7%C3%A3o%20Gift%20Of%20Legacy%20%28Rui%29%2016Ago23A.mp4
-#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="CANAIS: TV ABERTA", 02 CANAL DO USUARIO Atualizado EM 25/08/23 22:20hs
+#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="CANAIS: TV ABERTA", 02 CANAL DO USUARIO Atualizado EM 26/08/23 15:00hs
 https://archive.org/download/canal-do-usuario-iptvbm/Canal%20do%20Usuario%20IPTVBM.mp4
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="CANAIS: TV ABERTA", SBT Rede Massa (PR)
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
@@ -411,6 +411,27 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvideonews.png" group-title="CANAIS: DOCUMENTARIOS Gratis", TVídeoNews
 https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS: TNT ESPORTES", TNT SPORTES 1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS: TNT ESPORTES", TNT SPORTES 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS: TNT ESPORTES", TNT SPORTES 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS: TNT ESPORTES", TNT SPORTES 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS: TNT ESPORTES", TNT SPORTES 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS: TNT ESPORTES", TNT SPORTES 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS: TNT ESPORTES", TNT SPORTES 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
 #EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/wMgizLsJS7uZuS5dYW1G_yTom3WGFC2sQnsSK" group-title="CANAIS: ESPORTES GRATIS", _Gift Of Legacy (Como MULTIPLICAR 500 Reais em 200Mil Reais)
 https://archive.org/download/apresentacao-gift-of-legacy-para-iptv/Apresenta%C3%A7%C3%A3o%20Gift%20Of%20Legacy%20%28Para%20IPTV%29.mp4
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png" group-title="CANAIS: ESPORTES GRATIS", All Sports
@@ -427,12 +448,10 @@ https://rbmn-live.akamaized.net/hls/live/622817/BoRB-US/master.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="CANAIS: FILMES E SERIES", DarkFlix HD CONTRIBUA COM UM CAFEZINHO PIX Chave Fone (47)99626 5594 
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2021/09/Xicara-de-Cafe-Acucar-e-Colher-Png-1024x1024.png" group-title="CANAIS: FILMES E SERIES", BBC Drama PIX Chave Fone (47)99626 5594 CONTRIBUA COM UM CAFEZINHO
+#EXTINF:-1 tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2021/09/Xicara-de-Cafe-Acucar-e-Colher-Png-1024x1024.png" group-title="CANAIS: FILMES E SERIES", BBC Drama
 https://bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="CANAIS: FILMES E SERIES", Filmes 01 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="CANAIS: FILMES E SERIES", Filmes 01 PIX Chave Fone (47)99626 5594 CONTRIBUA COM UM CAFEZINHO
 https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="CANAIS: FILMES E SERIES", Filmes 02
-https://stmv1.srvstm.com/webradiocidade/webradiocidade/chunklist_w1407966166.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="CANAIS: FILMES E SERIES", Filmes 03
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="CANAIS: FILMES E SERIES", Filmes 04
