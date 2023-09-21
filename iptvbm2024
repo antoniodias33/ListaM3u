@@ -1,5 +1,5 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="01 CANAIS: TV ABERTA", 01 CANAL DO USUARIO Atualizado EM 28/08/23 12:00hs
+#EXTM3U 
+#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="01 CANAIS: TV ABERTA", 01 CANAL DO USUARIO Atualizado EM 21/09/23 09:00hs
 https://archive.org/download/canal-do-usuario-iptvbm/Canal%20do%20Usuario%20IPTVBM.mp4
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="01 CANAIS: TV ABERTA", 02  SBT (PI)
 http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
@@ -8,7 +8,7 @@ https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HpyVVvg.png" group-title="01 CANAIS: TV ABERTA", 04 Record TV
 https://caikron.com.br:19360/criciuma/criciuma.m3u8
 #EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/wMgizLsJS7uZuS5dYW1G_yTom3WGFC2sQnsSK" group-title="01 CANAIS: TV ABERTA", 08 Gift Of Legacy (Essa Comunidade ajuda pessoas a prosperar)
-https://archive.org/download/apresentacao-gift-of-legacy-rui-16-ago-23-a/Apresenta%C3%A7%C3%A3o%20Gift%20Of%20Legacy%20%28Rui%29%2016Ago23A.mp4
+https://archive.org/download/apresentacao-gift-of-legacy-rui-16-ago-23/Apresenta%C3%A7%C3%A3o%20Gift%20Of%20Legacy%20%28Rui%29%2016Ago23.mp4 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fh4SQ6L.png" group-title="01 CANAIS: TV ABERTA", 09 Band (Experimente o melhor em streaming com nossa lista PREMIUM)
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w16814077.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvtocantins.png" group-title="01 CANAIS: TV ABERTA", 10 RedeTV! Tocantins
@@ -54,23 +54,23 @@ https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HpyVVvg.png" group-title="01 CANAIS: TV ABERTA", 04 Record TV
 https://caikron.com.br:19360/criciuma/criciuma.m3u8
 #EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/wMgizLsJS7uZuS5dYW1G_yTom3WGFC2sQnsSK" group-title="01 CANAIS: TV ABERTA", 08 Gift Of Legacy (Essa Comunidade ajuda pessoas a prosperar)
-https://archive.org/download/apresentacao-gift-of-legacy-rui-16-ago-23-a/Apresenta%C3%A7%C3%A3o%20Gift%20Of%20Legacy%20%28Rui%29%2016Ago23A.mp4
+https://archive.org/download/apresentacao-gift-of-legacy-rui-16-ago-23/Apresenta%C3%A7%C3%A3o%20Gift%20Of%20Legacy%20%28Rui%29%2016Ago23.mp4 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fh4SQ6L.png" group-title="01 CANAIS: TV ABERTA", 09 Band (Experimente o melhor em streaming com nossa lista PREMIUM)
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w16814077.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvtocantins.png" group-title="01 CANAIS: TV ABERTA", 10 RedeTV! Tocantins
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/wMgizLsJS7uZuS5dYW1G_yTom3WGFC2sQnsSK" group-title="02 CANAIS: GIFT OF LEGACY", 01 Gift Of Legacy (Transforme 500 reais em 200 Mil Reais)
-https://archive.org/download/apresentacao-gift-of-legacy-rui-16-ago-23-a/Apresenta%C3%A7%C3%A3o%20Gift%20Of%20Legacy%20%28Rui%29%2016Ago23A.mp4
+https://archive.org/download/apresentacao-gift-of-legacy-rui-16-ago-23/Apresenta%C3%A7%C3%A3o%20Gift%20Of%20Legacy%20%28Rui%29%2016Ago23.mp4
 #EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/wMgizLsJS7uZuS5dYW1G_yTom3WGFC2sQnsSK" group-title="02 CANAIS: GIFT OF LEGACY", 02 Gift Of Legacy (GANHAR DINHEIRO AJUDANDO PESSOAS)
 https://archive.org/download/apresentacao-gift-of-legacy-para-iptv/Apresenta%C3%A7%C3%A3o%20Gift%20Of%20Legacy%20%28Para%20IPTV%29.mp4
 #EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/wMgizLsJS7uZuS5dYW1G_yTom3WGFC2sQnsSK" group-title="02 CANAIS: GIFT OF LEGACY", 03 Gift Of Legacy (A Comunidade que mais cresce no mundo)
 https://archive.org/download/comercial-02-gift-of-legacy/Comercial%2002%20Gift%20Of%20Legacy.mp4
 #EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/wMgizLsJS7uZuS5dYW1G_yTom3WGFC2sQnsSK" group-title="02 CANAIS: GIFT OF LEGACY", 04 Como Transforme 5 reais em 2Mil reais vendendo doces
 https://archive.org/download/vslestrategia-gift-of-legacy-doces/VSLestrat%C3%A9giaGiftOfLegacyDoces.mp4
-#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="03 CANAIS: SERVIÇOS DO USUARIO", 01 CANAL DO USUARIO Atualizado EM 28/08/23 12:00hs
+#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="03 CANAIS: SERVIÇOS DO USUARIO", 01 CANAL DO USUARIO Atualizado EM 29/08/23 12:00hs
 https://archive.org/download/canal-do-usuario-iptvbm/Canal%20do%20Usuario%20IPTVBM.mp4
 #EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/wMgizLsJS7uZuS5dYW1G_yTom3WGFC2sQnsSK" group-title="03 CANAIS: SERVIÇOS DO USUARIO", 02 Gift Of Legacy (Transforme 500 reais em 200 Mil Reais)
-https://archive.org/download/apresentacao-gift-of-legacy-rui-16-ago-23-a/Apresenta%C3%A7%C3%A3o%20Gift%20Of%20Legacy%20%28Rui%29%2016Ago23A.mp4
+https://archive.org/download/apresentacao-gift-of-legacy-rui-16-ago-23/Apresenta%C3%A7%C3%A3o%20Gift%20Of%20Legacy%20%28Rui%29%2016Ago23.mp4 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="03 CANAIS: SERVIÇOS DO USUARIO", 03 MIMOS DA CRIS (TIARAS E LAÇOS) (47)99115 0154
 https://archive.org/download/criativo-oktoberfest-01-mimos-da-cris/Criativo%20Oktoberfest%2001%20Mimos%20da%20Cris.mp4
 #EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="03 CANAIS: SERVIÇOS DO USUARIO", COMO FUNCIONA a Lista Premium. WhatsApp (47)99626-5594
@@ -103,16 +103,18 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/catve.png" group-title="04 CANAIS: ABERTOS", Catve - Cultura (PR)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/catve.png" group-title="04 CANAIS: ABERTOS", Catve - Cultura (PR)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JQU7Ysw.png" group-title="04 CANAIS: ABERTOS", CATVE PR
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0UIM9d9.png" group-title="04 CANAIS: ABERTOS", CBTV NOW
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cctv13.png" group-title="04 CANAIS: ABERTOS", CCTV Notícias
 https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctv13_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GCTplnu.png" group-title="04 CANAIS: ABERTOS", CHANNEL 1
-https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/aZRobKc.png" group-title="04 CANAIS: ABERTOS", Channel 1
 https://stmv1.srvif.com/channel1/channel1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GCTplnu.png" group-title="04 CANAIS: ABERTOS", CHANNEL 1
+https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="04 CANAIS: ABERTOS", CLASSIQUE TV WESTERN
 https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2pSzgVU.png" group-title="04 CANAIS: ABERTOS", CONECT TV
@@ -129,12 +131,14 @@ https://5c483b9d1019c.streamlock.net:443/falalitoraltv/falalitoraltv/playlist.m3
 http://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/635px-france24.png" group-title="04 CANAIS: ABERTOS", France 24
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="04 CANAIS: ABERTOS", GAZETA NORTE MINEIRO
+https://59e4b6c1beddc.streamlock.net:443/tvgazeta/tvgazeta/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="04 CANAIS: ABERTOS", GNM TV (A MELHOR LISTA DE CANAIS GRÁTIS É ESTA AQUI)
 https://59e4b6c1beddc.streamlock.net/tvgazeta/tvgazeta/chunklist_w1107061616.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/N9LT5mO.png" group-title="04 CANAIS: ABERTOS", MASTER SHOW TV
-https://serv2.videovox.pw/master1667/master1667/playlist.m3u8?wowzasessionid=933110662
-#EXTINF:-1 tvg-logo="https://imgur.com/N9LT5mO.png" group-title="04 CANAIS: ABERTOS", MASTER SHOW TV
 https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/N9LT5mO.png" group-title="04 CANAIS: ABERTOS", MASTER SHOW TV
+https://serv2.videovox.pw/master1667/master1667/playlist.m3u8?wowzasessionid=933110662
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hMLxwL0.img" group-title="04 CANAIS: ABERTOS", Master TV
 http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FioVeSb.png" group-title="04 CANAIS: ABERTOS", MASTER TV PR
@@ -151,6 +155,8 @@ http://200.189.113.201/hls/tve.m3u8
 https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5gkt9DD.png" group-title="04 CANAIS: ABERTOS", Rai 4K (Italy)
 https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="04 CANAIS: ABERTOS", Rede Brasil
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mfQtJq3.png" group-title="04 CANAIS: ABERTOS", REDE CAXIAS TV
 https://stmv1.srvstm.com/luis5346/luis5346/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.redefamilia.com.br/wp-content/uploads/2019/02/logo_20_Anos-1.png" group-title="04 CANAIS: ABERTOS", REDE FAMÍLIA
@@ -197,15 +203,17 @@ https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 #EXTINF:-1 tvg-logo="http://tvbrasil.ebc.com.br/sites/default/themes/tvbrasil/img/logo_tvbrasil_201904.png" group-title="04 CANAIS: ABERTOS", TV BRASIL (TVE Brasil)
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBRICSPortuguese.br" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="04 CANAIS: ABERTOS", TV BRICS Português (1080p)
+https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bnzdrdjj.jpg" group-title="04 CANAIS: ABERTOS", TV Brusque (SC)
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MgNfGtZ.png" group-title="04 CANAIS: ABERTOS", TV CAMARA SP
 https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IQWmGHN.png" group-title="04 CANAIS: ABERTOS", TV CANDIDES
 https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/RaFTDMi.png" group-title="04 CANAIS: ABERTOS", TV CARAVELAS
-https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvcaravelas.png" group-title="04 CANAIS: ABERTOS", TV Caravelas
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RaFTDMi.png" group-title="04 CANAIS: ABERTOS", TV CARAVELAS
 https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="04 CANAIS: ABERTOS", TV CARAVELAS (TV COM BRASIL)
 https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/chunklist_w1131983888.m3u8
@@ -238,11 +246,11 @@ https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/chunklist
 #EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/Yj9UKv2.png" group-title="04 CANAIS: ABERTOS", TV Escola
 http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png" group-title="04 CANAIS: ABERTOS", TV Faap
+https://midia.faap.net/faaplatamlive-live/stream_720/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png" group-title="04 CANAIS: ABERTOS", TV Faap
+https://midia.faap.net/faaplatamlive-live/stream_720/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png" group-title="04 CANAIS: ABERTOS", TV Faap
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png" group-title="04 CANAIS: ABERTOS", TV Faap
-https://midia.faap.net/faaplatamlive-live/stream_720/livestream.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png" group-title="04 CANAIS: ABERTOS", TV Faap
-https://midia.faap.net/faaplatamlive-live/stream_720/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fmGNohE.png" group-title="04 CANAIS: ABERTOS", TV GALEGA
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fmGNohE.png" group-title="04 CANAIS: ABERTOS", TV GALEGA
@@ -271,10 +279,10 @@ https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ix2GtVx.png" group-title="04 CANAIS: ABERTOS", TV MASTER PB
 https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e6aa0ad770325c0c0b656ab54716e542.png" group-title="04 CANAIS: ABERTOS", TV MAX
-https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FxZLUmE.png" group-title="04 CANAIS: ABERTOS", TV MAX
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e6aa0ad770325c0c0b656ab54716e542.png" group-title="04 CANAIS: ABERTOS", TV MAX
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bYIUQJb.png" group-title="04 CANAIS: ABERTOS", TV METROPOLITANA RIO
 https://alanza.iptv2022.com/METROPOLITANA_RIO/index.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logotipo_da_tv_metrc3b3pole.png" group-title="04 CANAIS: ABERTOS", TV Metrópole
@@ -291,6 +299,8 @@ https://video01.kshost.com.br/lourdes52007/lourdes52007/chunklist.m3u8
 https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="04 CANAIS: ABERTOS", TV Pampa - RedeTV! RS
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IVUjkii.png" group-title="04 CANAIS: ABERTOS", TV PARANA TURISMO
+http://200.189.113.201/hls/tve.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cWd3wHS.png" group-title="04 CANAIS: ABERTOS", TV PASSO FUNDO
 https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/P2iLxFP.png" group-title="04 CANAIS: ABERTOS", TV POCOS
@@ -311,20 +321,20 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 https://video01.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/CEvLASJ.png" group-title="04 CANAIS: ABERTOS", TVE ES
 http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/pBba0Wc.png" group-title="04 CANAIS: ABERTOS", TVN BRASIL
-http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="04 CANAIS: ABERTOS", TVN BRASIL
 http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/pBba0Wc.png" group-title="04 CANAIS: ABERTOS", TVN BRASIL
+http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0eYWk5q.png" group-title="04 CANAIS: ABERTOS", TVRP
 https://5b7f3c45ab7c2.streamlock.net:443/8042/8042/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Dx6Yqy.png" group-title="04 CANAIS: ABERTOS", UNISUL TV
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=4792034880553908000
 #EXTINF:-1 tvg-logo="https://imgur.com/Z65EEaH.png" group-title="04 CANAIS: ABERTOS", URBAN TV LIVE
 https://video01.logicahost.com.br/urbantvlive/urbantvlive/chunklist_w2118431116.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="04 CANAIS: FILMES E SERIES", DarkFlix HD CONTRIBUA COM UM CAFEZINHO PIX Chave Fone (47)99626 5594
-https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2021/09/Xicara-de-Cafe-Acucar-e-Colher-Png-1024x1024.png" group-title="04 CANAIS: FILMES E SERIES", BBC Drama
 https://bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="04 CANAIS: FILMES E SERIES", DarkFlix HD CONTRIBUA COM UM CAFEZINHO PIX Chave Fone (47)99626 5594
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="04 CANAIS: FILMES E SERIES", Filmes 01 PIX Chave Fone (47)99626 5594 CONTRIBUA COM UM CAFEZINHO
 https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="04 CANAIS: FILMES E SERIES", Filmes 03
@@ -345,6 +355,8 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0JM9jLh.jpg" group-title="04 CANAIS: FILMES E SERIES", GOSPEL MOVIES TELEVISION
 https://stmv1.srvif.com/gospelf/gospelf/chunklist_w74712399.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkBrazil.br" tvg-logo="https://i.imgur.com/aiGQtzI.png" group-title="04 CANAIS: FILMES E SERIES", MyTime Movie Network Brazil (720p)
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/60072798dcf437000755b4f3/colorLogoPNG.png" group-title="04 CANAIS: FILMES E SERIES", PARAMOUNT+ (Promoção de TVBOX e CELULARES Acesse: http://bit.ly/lojamaster)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60072798dcf437000755b4f3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=adce3d82-7ced-11eb-b41a-4d1db88b305b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8c2058a6-297d-4b07-8c15-fcb77b9a2808&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/7839/cabecalho-7839-20200604004458.jpg" group-title="04 CANAIS: FILMES E SERIES", TV NOVA PLAY
@@ -355,10 +367,10 @@ https://stmv1.srvif.com/tvserie/tvserie/chunklist_w173840741.m3u8
 https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/chunklist_w980435189.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8e2460502f204b225c89d644e88153a8.png" group-title="05 CANAIS: INFANTIL Gratis", Anime tv
 https://stmv1.srvif.com/animetv/animetv/chunklist_w1180850721.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/catve.png" group-title="05 CANAIS: INFANTIL Gratis", Catve - Cultura (PR)
-https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="05 CANAIS: INFANTIL Gratis", GAZETA NORTE MINEIRO
-https://59e4b6c1beddc.streamlock.net:443/tvgazeta/tvgazeta/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="05 CANAIS: INFANTIL Gratis", Cartoon Network (Português)
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonitoBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="05 CANAIS: INFANTIL Gratis", Cartoonito (Português)
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/smilinguido.png" group-title="05 CANAIS: INFANTIL Gratis", Gospel Cartoon  (Indique e GANHE 10 REAIS  (47)99626-5594)
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NIUqJYt.png" group-title="05 CANAIS: INFANTIL Gratis", LAVRAS CE TV WEB
@@ -377,8 +389,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RFRhwkC.png" group-title="05 CANAIS: INFANTIL Gratis", TV KIDMAIS
 https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IVUjkii.png" group-title="05 CANAIS: INFANTIL Gratis", TV PARANA TURISMO
-http://200.189.113.201/hls/tve.m3u8
 #EXTINF:-1 tvg-logo="http://urbantv.com.br/canais/urban-kids.png" group-title="05 CANAIS: INFANTIL Gratis", Urban Kids
 https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/wMgizLsJS7uZuS5dYW1G_yTom3WGFC2sQnsSK" group-title="06 CANAIS: ESPORTES GRATIS", _Gift Of Legacy (Como MULTIPLICAR 500 Reais em 200Mil Reais)
@@ -395,20 +405,30 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 https://rbmn-live.akamaized.net/hls/live/622817/BoRB-US/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/301f06c166156f3e5234ee0b6231b9a0.png" group-title="06 CANAIS: ESPORTES GRATIS", RED BULL TV (Indique 01 ASSINANTE e GANHE 30% COMISSÃO (47)99626 5594)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="07 CANAIS: TNT SPORTES", TNT SPORTES 1
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="07 CANAIS: TNT SPORTES", TNT SPORTS 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="07 CANAIS: TNT SPORTES", TNT SPORTES 2
+#EXTINF:-1 group-title="07 CANAIS: TNT SPORTES", TNT Sports 1 Brasil (720p) [Not 24/7]
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="07 CANAIS: TNT SPORTES", TNT SPORTS 2
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="07 CANAIS: TNT SPORTES", TNT SPORTES 3
+#EXTINF:-1 tvg-id="TNTSports2Brazil.br" tvg-logo="https://i.imgur.com/E6pLvOV.png" group-title="07 CANAIS: TNT SPORTES", TNT Sports 2 Brasil (720p) [Not 24/7]
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="07 CANAIS: TNT SPORTES", TNT SPORTS 3
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="07 CANAIS: TNT SPORTES", TNT SPORTES 4
+#EXTINF:-1 tvg-id="TNTSports3Brazil.br" tvg-logo="https://i.imgur.com/LFSMbpN.png" group-title="07 CANAIS: TNT SPORTES", TNT Sports 3 Brasil (720p) [Not 24/7]
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="07 CANAIS: TNT SPORTES", TNT SPORTS 4
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="07 CANAIS: TNT SPORTES", TNT SPORTES 5
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="07 CANAIS: TNT SPORTES", TNT SPORTES 4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="07 CANAIS: TNT SPORTES", TNT SPORTS 4
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="07 CANAIS: TNT SPORTES", TNT SPORTES 5
+#EXTINF:-1 tvg-id="TNTSports4Brazil.br" tvg-logo="https://i.imgur.com/Am70nWY.png" group-title="07 CANAIS: TNT SPORTES", TNT Sports 4 Brasil (720p) [Not 24/7]
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="07 CANAIS: TNT SPORTES", TNT SPORTS 5
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="07 CANAIS: TNT SPORTES", TNT SPORTS 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="TNTSports5Brazil.br" tvg-logo="https://i.imgur.com/XA3zxEE.png" group-title="07 CANAIS: TNT SPORTES", TNT Sports 5 Brasil (720p) [Not 24/7]
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CGTN-Espanol.png" group-title="08 CANAIS: DOCUMENTARIOS Gratis", CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rt.png" group-title="08 CANAIS: DOCUMENTARIOS Gratis", RT Documentary Channel
@@ -419,12 +439,18 @@ http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
 https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvredeboasnovas.png" group-title="09 CANAIS: RELIGIOSOS", Boas Novas
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lnSlOZ.png" group-title="09 CANAIS: RELIGIOSOS", Fonte TV
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aoq9CGU.png" group-title="09 CANAIS: RELIGIOSOS", Gospel Cartoon (360p)
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ipgo.xyz/tv/gmovies/imagens/logo_gospelf_site.png" group-title="09 CANAIS: RELIGIOSOS", Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospel.jpg" group-title="09 CANAIS: RELIGIOSOS", Gospel Movie TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0JM9jLh.jpg" group-title="09 CANAIS: RELIGIOSOS", GOSPEL MOVIES TELEVISION (Indique nossa LISTA PREMIUM e GANHE 10 REAIS mensais por cada Indicacao (47)99626-5594)
 https://stmv1.srvif.com/gospelf/gospelf/chunklist_w74712399.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D15qpCm.png" group-title="09 CANAIS: RELIGIOSOS", IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/nt8hdct.png" group-title="09 CANAIS: RELIGIOSOS", IMPD TV (Indique e GANHE 10 REAIS (47)99626-5594)
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png" group-title="09 CANAIS: RELIGIOSOS", IURD TV
@@ -433,6 +459,8 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="09 CANAIS: RELIGIOSOS", MIMOS DA CRIS (TIARAS E LAÇOS) (47)99115-0154
 https://archive.org/download/criativo-oktoberfest-01-mimos-da-cris/Criativo%20Oktoberfest%2001%20Mimos%20da%20Cris.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/exdDHml.png" group-title="09 CANAIS: RELIGIOSOS", Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/izkxzj9.png" group-title="09 CANAIS: RELIGIOSOS", Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/izkxzj9.png" group-title="09 CANAIS: RELIGIOSOS", Novo Tempo Assine nossa Lista Premium para canais Religiosos. WhatsApp(47)99626-5594
@@ -441,14 +469,28 @@ http://stream.novotempo.com:1935/tv/tvnovotempo.stream/live.m3u8
 http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9pZox0Z.png" group-title="09 CANAIS: RELIGIOSOS", PLENA TV
 https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://portal.rbc1.com.br/public/portal/img/layout/logorbc.png" group-title="09 CANAIS: RELIGIOSOS", Rede Brasil de Comunicação
+http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yvxG9m5.png" group-title="09 CANAIS: RELIGIOSOS", Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cqD6DNY.png" group-title="09 CANAIS: RELIGIOSOS", Rede Mão Amiga (480p)
+http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rede_Vida_logo.png/267px-Rede_Vida_logo.png" group-title="09 CANAIS: RELIGIOSOS", Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-rede_vida_logo.png" group-title="09 CANAIS: RELIGIOSOS", Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fk2mNc4.png" group-title="09 CANAIS: RELIGIOSOS", TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="09 CANAIS: RELIGIOSOS", TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tv_evangelizar.png" group-title="09 CANAIS: RELIGIOSOS", TV Evangelizar
 https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/71/Logotipo_da_R%C3%A1dio_Evangelizar.png" group-title="09 CANAIS: RELIGIOSOS", TV Evangelizar
 http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4LG6sA0.png" group-title="09 CANAIS: RELIGIOSOS", TV Evangelizar (480p)
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaBrazil.pt" tvg-logo="https://i.imgur.com/zBtvnD5.png" group-title="09 CANAIS: RELIGIOSOS", TV Maná Brazil (1080p)
+https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="09 CANAIS: RELIGIOSOS", TV NOVO TEMPO
 http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y7b29VG.png" group-title="09 CANAIS: RELIGIOSOS", TV Padre Cicero
@@ -457,34 +499,12 @@ https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8?chec
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/paieterno.png" group-title="09 CANAIS: RELIGIOSOS", TV Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.paieterno.com.br/wp-content/uploads/2019/05/cropped-logo-portal-01-192x192.png" group-title="09 CANAIS: RELIGIOSOS", TV Pai Eterno (480p)
+https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://portalquatro.com.br/wp-content/uploads/2019/03/tvpaieterno.jpg" group-title="09 CANAIS: RELIGIOSOS", TV PAI ETERNO (RCI)
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist_w1606625831.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zW83GGD.png" group-title="09 CANAIS: RELIGIOSOS", TV Terceiro Anjo
 http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lnSlOZ.png" group-title="09 CANAIS: RELIGIOSOS", Fonte TV
-http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
-#EXTINF:-1 tvg-logo="https://ipgo.xyz/tv/gmovies/imagens/logo_gospelf_site.png" group-title="09 CANAIS: RELIGIOSOS", Gospel Movie TV
-https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D15qpCm.png" group-title="09 CANAIS: RELIGIOSOS", IMPD TV
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/exdDHml.png" group-title="09 CANAIS: RELIGIOSOS", Novo Tempo
-https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/604a8dedbca75b0007b1c753/colorLogoPNG.png" group-title="09 CANAIS: RELIGIOSOS", Pluto TV Paisagens por Stingray
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604a8dedbca75b0007b1c753/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 tvg-logo="http://portal.rbc1.com.br/public/portal/img/layout/logorbc.png" group-title="09 CANAIS: RELIGIOSOS", Rede Brasil de ComunicaÃ§Ã£o
-http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yvxG9m5.png" group-title="09 CANAIS: RELIGIOSOS", Rede Gospel
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cqD6DNY.png" group-title="09 CANAIS: RELIGIOSOS", Rede Mão Amiga (480p)
-http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rede_Vida_logo.png/267px-Rede_Vida_logo.png" group-title="09 CANAIS: RELIGIOSOS", Rede Vida
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="09 CANAIS: RELIGIOSOS", TV Aparecida
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4LG6sA0.png" group-title="09 CANAIS: RELIGIOSOS", TV Evangelizar (480p)
-https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.paieterno.com.br/wp-content/uploads/2019/05/cropped-logo-portal-01-192x192.png" group-title="09 CANAIS: RELIGIOSOS", TV Pai Eterno (480p)
-https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.terceiroanjo.com/static/img/logo-2019-gif.gif" group-title="09 CANAIS: RELIGIOSOS", TV Terceiro Anjo (360p)
 https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1-12141_al-jazeera-png-aljazeera-logo-01-png-al.png" group-title="10 CANAIS: NOTICIÁRIO Gratis", Al Jazeera English
@@ -497,6 +517,8 @@ https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctv13_1/index.m3u8
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4850f3a4ceccc09a8ecbfb492473870f.png" group-title="10 CANAIS: NOTICIÁRIO Gratis", RAI NEWS
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/../../../598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png" group-title="10 CANAIS: NOTICIÁRIO Gratis", CNN Brasil
+http://170.82.200.38:8080/cnn_brasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4850f3a4ceccc09a8ecbfb492473870f.png" group-title="10 CANAIS: NOTICIÁRIO Gratis", RAI NEWS
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/../../../598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rainews.png" group-title="10 CANAIS: NOTICIÁRIO Gratis", RAINEWS24
@@ -511,10 +533,10 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png" group-title="11 CANAIS: VARIEDADES GRATIS", AgroBrasil TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2022/06/amazon.png" group-title="11 CANAIS: VARIEDADES GRATIS", Amazon Sat
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/hHaH74V.png" group-title="11 CANAIS: VARIEDADES GRATIS", Amazon Sat
 http://liveabr2.sambatech.com.br/abr/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2022/06/amazon.png" group-title="11 CANAIS: VARIEDADES GRATIS", Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png" group-title="11 CANAIS: VARIEDADES GRATIS", ANIME TV  (Promoção de TVBOX e CELULARES Acesse: http://bit.ly/lojamaster)
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arirang_logo.png" group-title="11 CANAIS: VARIEDADES GRATIS", Arirang
@@ -583,6 +605,8 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_sic_2018.png" group-title="11 CANAIS: VARIEDADES GRATIS", SIC (apenas em Portugal)
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+#EXTINF:-1 tvg-id="TastemadeBrazil.br" tvg-logo="https://i.imgur.com/FPy4zF4.png" group-title="11 CANAIS: VARIEDADES GRATIS", Tastemade Brasil (1080p)
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="11 CANAIS: VARIEDADES GRATIS", Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-terra_viva_logo.svg_.png" group-title="11 CANAIS: VARIEDADES GRATIS", Terra Viva
@@ -613,6 +637,8 @@ http://200.189.113.201/hls/tve.m3u8
 http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/04tEiC4.jpg" group-title="11 CANAIS: VARIEDADES GRATIS", VH1 (Italia)
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?ct=c&expand=simulcast_standard&exp=1515898109&rn=-1916303254&cid=36953f5b6546464590d2fcd954bc89cf&tc=1&sig=
+#EXTINF:-1 tvg-id="WTVBrasil.br" tvg-logo="https://i.imgur.com/4T8z1Ni.png" group-title="11 CANAIS: VARIEDADES GRATIS", WTV Brasil (720p)
+https://stmv1.srvstm.com/wtvbrasil/wtvbrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-accion-mexicana-16x9.jpg" group-title="12 CANAIS: INTERNACIONAIS Gratis", ACCIÓN MEXICANA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="12 CANAIS: INTERNACIONAIS Gratis", Angel TV America
@@ -939,7 +965,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a574
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="30 PLUTO TV: INFANTIL", Babyfirst
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png" group-title="30 PLUTO TV: INFANTIL", Nick ClÃ¡ssico
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png" group-title="30 PLUTO TV: INFANTIL", Nick Clássico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png" group-title="30 PLUTO TV: INFANTIL", Nick Jr. Club (480p)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
@@ -947,10 +973,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fb
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="30 PLUTO TV: INFANTIL", O Reino Infantil
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png" group-title="30 PLUTO TV: INFANTIL", Pluto TV CANAIS: INFANTIL
+#EXTINF:-1 tvg-id="NickClassico.br" tvg-logo="https://i.imgur.com/Crip6wT.png" group-title="30 PLUTO TV: INFANTIL", Pluto TV Classic Nick (Brazil) (240p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f12151794c1800007a8ae63&deviceLat=-23.5475&deviceLon=-46.6361&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false&sid=730&terminate=false&userId=
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png" group-title="30 PLUTO TV: INFANTIL", Pluto TV INFANTIL
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png" group-title="30 PLUTO TV: INFANTIL", Pluto TV Junior
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 group-title="30 PLUTO TV: INFANTIL", Pluto TV Nick Jr. Club (Brazil) (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f121460b73ac6000719fbaf&deviceLat=-23.5475&deviceLon=-46.6361&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false&sid=706&terminate=false&userId=
+#EXTINF:-1 group-title="30 PLUTO TV: INFANTIL", Pluto TV Rocko’s Modern Life (Brazil) (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f6df6293a12e10007017396&deviceLat=-23.5475&deviceLon=-46.6361&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false&sid=731&terminate=false&userId=
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png" group-title="30 PLUTO TV: INFANTIL", Turma da MÃ´nica
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1212ad1728050007a523b8/colorLogoPNG.png" group-title="30 PLUTO TV: SERIES", Pluto TV Retrô
@@ -989,12 +1021,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f8841a4865da0007421177/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f516730b78b7600079294f5/colorLogoPNG.png" group-title="30 PLUTO TV: VARIEDADES", Pluto TV Fashionbox
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294f5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="MTVBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="30 PLUTO TV: VARIEDADES", Pluto TV MTV (Brazil) (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG.png" group-title="30 PLUTO TV: VARIEDADES", Porta dos Fundos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png" group-title="30 PLUTO TV: VARIEDADES", Tastemade
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png" group-title="30 PLUTO TV: VARIEDADES", The Pet Collective
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/604a8dedbca75b0007b1c753/colorLogoPNG.png" group-title="30 PLUTO TV: VARIEDADES", Pluto TV Paisagens por Stingray
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604a8dedbca75b0007b1c753/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/wMgizLsJS7uZuS5dYW1G_yTom3WGFC2sQnsSK" group-title="31 PLUTO TV: ESTADOS UNIDOS", _Gift Of Legacy (Como MULTIPLICAR 500 Reais em 200Mil Reais)
 https://archive.org/download/apresentacao-gift-of-legacy-para-iptv/Apresenta%C3%A7%C3%A3o%20Gift%20Of%20Legacy%20%28Para%20IPTV%29.mp4
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" group-title="31 PLUTO TV: ESTADOS UNIDOS", 48 Hours
