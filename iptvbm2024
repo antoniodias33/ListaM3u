@@ -1,5 +1,5 @@
 #EXTM3U   
-#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="01 CANAIS: TV ABERTA", 01 CANAL DO USUARIO Atualizado EM 22/09/23 14:10hs
+#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="01 CANAIS: TV ABERTA", 01 CANAL DO USUARIO Atualizado EM 22/09/23 14:35hs
 https://archive.org/download/canal-do-usuario-iptvbm/Canal%20do%20Usuario%20IPTVBM.mp4
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="01 CANAIS: TV ABERTA", 02  SBT (PI)
 http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
@@ -363,12 +363,16 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60072798dcf43700075
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="04 CANAIS: FILMES E SERIES", TV SERIES 1 AS PANTERAS
 https://stmv1.srvif.com/tvserie/tvserie/chunklist_w173840741.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/g3TwbPa.png" group-title="04 CANAIS: FILMES E SERIES", TV VIA MORENA
+#EXTINF:-1 tvg-logo="https://imgur.com/g3TwbPa.png" group-title="04 CANAIS: FILMES E SERIES", TV VIA MORENA 
 https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/chunklist_w980435189.m3u8
+#EXTINF:-1 tvg-logo="https://sp.rmbl.ws/s8/1/h/G/3/U/hG3Ui.aiEB-small-O-Coelho-Pimpo-Histria-Infa.jpg" group-title="05 CANAIS: INFANTIL YouTube", O Coelho Pimpao
+https://hugh.cdn.rumble.cloud/video/s8/2/h/G/3/U/hG3Ui.caa.mp4?u=3&b=0
 #EXTINF:-1 tvg-logo="https://sp.rmbl.ws/s8/1/P/B/E/3/PBE3i.qR4e-small-Pimpo-e-a-caada-do-Coelho-d.jpg" group-title="05 CANAIS: INFANTIL YouTube", As Aventuras do Coelho Pimpao
 https://hugh.cdn.rumble.cloud/video/s8/2/P/B/E/3/PBE3i.baa.mp4?u=3&b=0
 #EXTINF:-1 tvg-logo="https://sp.rmbl.ws/s8/1/L/l/C/Y/LlCYi.aiEB-small-As-Aventuras-da-Abelha-Luiz.jpg" group-title="05 CANAIS: INFANTIL YouTube", As Aventuras da Abelha Luiza
 https://hugh.cdn.rumble.cloud/video/s8/2/L/l/C/Y/LlCYi.caa.mp4?u=3&b=0
+#EXTINF:-1 tvg-logo="https://sp.rmbl.ws/s8/1/n/P/3/R/nP3Ri.aiEB-small-Dino-O-Drago-Mgico-Histria-.jpg" group-title="05 CANAIS: INFANTIL YouTube", DINO O Dragão Magico
+https://hugh.cdn.rumble.cloud/video/s8/2/n/P/3/R/nP3Ri.caa.mp4?u=3&b=0
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8e2460502f204b225c89d644e88153a8.png" group-title="05 CANAIS: INFANTIL Gratis", Anime tv
 https://stmv1.srvif.com/animetv/animetv/chunklist_w1180850721.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="05 CANAIS: INFANTIL Gratis", Cartoon Network (Português)
