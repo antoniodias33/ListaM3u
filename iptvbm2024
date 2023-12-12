@@ -1,10 +1,10 @@
-#EXTM3U
+#EXTM3U 
 #EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="01 CANAIS: TV ABERTA", 01 CANAL DO USUARIO Atualizado EM 12/12/23 01:35hs
 https://archive.org/download/canal-do-usuario-iptvbm/Canal%20do%20Usuario%20IPTVBM.mp4
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="01 CANAIS: TV ABERTA", 02  SBT (PI)
 http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://behappyworld.pro/public/assets/images/logo.png" group-title="01 CANAIS: TV ABERTA", 04 BeHappyWorld WhatsApp(47)99626-5594
-https://player.odycdn.com/v6/streams/9e11f06216acc0bc42467e8eec01dab1425a8451/cdd01b.mp4
+https://hugh.cdn.rumble.cloud/video/s8/2/Q/f/5/F/Qf5Fo.baa.mp4?u=3&b=0
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="01 CANAIS: TV ABERTA", 03 SBT - TV Difusora (MA)
 https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
 #EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/wMgizLsJS7uZuS5dYW1G_yTom3WGFC2sQnsSK" group-title="01 CANAIS: TV ABERTA", 08 Gift Of Legacy (Essa Comunidade ajuda pessoas a prosperar)
@@ -68,7 +68,7 @@ https://hugh.cdn.rumble.cloud/video/s8/2/_/r/t/i/_rtim.caa.mp4?u=3&b=0
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="03 CANAIS: SERVIÇOS DO USUARIO", 03 MIMOS DA CRIS (TIARAS E LAÇOS) (47)99115 0154
 https://archive.org/download/criativo-oktoberfest-01-mimos-da-cris/Criativo%20Oktoberfest%2001%20Mimos%20da%20Cris.mp4
 #EXTINF:-1 tvg-logo="https://behappyworld.pro/public/assets/images/logo.png" group-title="03 CANAIS: SERVIÇOS DO USUARIO", 04 BeHappyWorld WhatsApp(47)99626-5594
-https://player.odycdn.com/v6/streams/9e11f06216acc0bc42467e8eec01dab1425a8451/cdd01b.mp4
+https://hugh.cdn.rumble.cloud/video/s8/2/Q/f/5/F/Qf5Fo.baa.mp4?u=3&b=0
 #EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="03 CANAIS: SERVIÇOS DO USUARIO", COMO FUNCIONA a Lista Premium. WhatsApp (47)99626-5594
 https://archive.org/download/vsl-como-funciona-canais-tv-e-streamings-bm-criativo/VSL%20Como%20Funciona%20Canais%20TV%20e%20Streamings%20BM%20%28Criativo%29.mp4
 #EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="03 CANAIS: SERVIÇOS DO USUARIO", Ganhe dinheiro assistindo VIDEOS
