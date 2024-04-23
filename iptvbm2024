@@ -1,26 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="01 CANAIS: TV ABERTA", 01 CANAL DO USUARIO Atualizado EM 22/04/24 21:55hs
+#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="01 CANAIS: TV ABERTA", 01 CANAL DO USUARIO Atualizado EM 23/04/24 14:05hs
 https://archive.org/download/canal-do-usuario-iptvbm/Canal%20do%20Usuario%20IPTVBM.mp4
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="01 CANAIS: TV ABERTA", 02  SBT (PI)
 http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="01 CANAIS: TV ABERTA", 02  SBT (PI)
-http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="01 CANAIS: TV ABERTA", 03 SBT - TV Difusora (MA)
-https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="01 CANAIS: TV ABERTA", 03 SBT - TV Difusora (MA)
 https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
 #EXTINF:-1 tvg-logo="https://behappyworld.pro/public/assets/images/logo.png" group-title="01 CANAIS: TV ABERTA", 04 BeHappyWorld WhatsApp(47)99626-5594
 https://hugh.cdn.rumble.cloud/video/s8/2/Q/f/5/F/Qf5Fo.baa.mp4?u=3&b=0
 #EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/wMgizLsJS7uZuS5dYW1G_yTom3WGFC2sQnsSK" group-title="01 CANAIS: TV ABERTA", 08 Gift Of Legacy (Essa Comunidade ajuda pessoas a prosperar)
 https://hugh.cdn.rumble.cloud/video/s8/2/_/r/t/i/_rtim.caa.mp4?u=3&b=0
-#EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/wMgizLsJS7uZuS5dYW1G_yTom3WGFC2sQnsSK" group-title="01 CANAIS: TV ABERTA", 08 Gift Of Legacy (Essa Comunidade ajuda pessoas a prosperar)
-https://hugh.cdn.rumble.cloud/video/s8/2/_/r/t/i/_rtim.caa.mp4?u=3&b=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fh4SQ6L.png" group-title="01 CANAIS: TV ABERTA", 09 Band (Experimente o melhor em streaming com nossa lista PREMIUM)
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w16814077.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fh4SQ6L.png" group-title="01 CANAIS: TV ABERTA", 09 Band (Experimente o melhor em streaming com nossa lista PREMIUM)
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w16814077.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvtocantins.png" group-title="01 CANAIS: TV ABERTA", 10 RedeTV! Tocantins
-https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvtocantins.png" group-title="01 CANAIS: TV ABERTA", 10 RedeTV! Tocantins
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2021/09/Xicara-de-Cafe-Acucar-e-Colher-Png-1024x1024.png" group-title="01 CANAIS: TV ABERTA", CONTRIBUA COM UM CAFEZINHO PIX Chave Fone (47)99626 5594
@@ -35,8 +25,6 @@ https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="01 CANAIS: TV ABERTA", SBT HD (PR)
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="01 CANAIS: TV ABERTA", SBT Rede Massa (1080p) .
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="01 CANAIS: TV ABERTA", SBT Rede Massa (PR)
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvaratu.png" group-title="01 CANAIS: TV ABERTA", SBT TV Aratu (BA)
@@ -47,7 +35,245 @@ https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-tve-png.png" group-title="01 CANAIS: TV ABERTA", TVE RS
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="03 CANAIS: SERVIÇOS DO USUARIO", 01 CANAL DO USUARIO Atualizado EM 18/03/24 15:35hs
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png" group-title="03 CANAIS: ABERTOS", AgroBrasil TV (Assine nossa LISTA PREMIUM. WhatsApp(47)99626 5594)
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2021/09/Xicara-de-Cafe-Acucar-e-Colher-Png-1024x1024.png" group-title="03 CANAIS: ABERTOS", Amazon Sat CONTRIBUA COM UM CAFEZINHO PIX Chave Fone (47)99626 5594
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/8Kvx7aU.png" group-title="03 CANAIS: ABERTOS", BRAZITV
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="03 CANAIS: ABERTOS", Canal Educacao
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rHPY0Yv.png" group-title="03 CANAIS: ABERTOS", Canal Gov
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LnWWKzP.png" group-title="03 CANAIS: ABERTOS", Canal Libras
+https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/catve.png" group-title="03 CANAIS: ABERTOS", Catve - Cultura (PR)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/catve.png" group-title="03 CANAIS: ABERTOS", Catve - Cultura (PR)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/JQU7Ysw.png" group-title="03 CANAIS: ABERTOS", CATVE PR
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0UIM9d9.png" group-title="03 CANAIS: ABERTOS", CBTV NOW
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cctv13.png" group-title="03 CANAIS: ABERTOS", CCTV Notícias
+https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctv13_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="03 CANAIS: ABERTOS", CLASSIQUE TV WESTERN
+https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GrjGwKM.png" group-title="03 CANAIS: ABERTOS", COM Brasil
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2pSzgVU.png" group-title="03 CANAIS: ABERTOS", CONECT TV
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XN6jjMR.png" group-title="03 CANAIS: ABERTOS", ConecTV Brasil
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/s80elMU.png" group-title="03 CANAIS: ABERTOS", CONEXAO TV
+https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/chunklist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KmOaCXH.png" group-title="03 CANAIS: ABERTOS", CWB TV
+https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Yr8diVX.png" group-title="03 CANAIS: ABERTOS", DEMAIS TV
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/X3lIFxM.png" group-title="03 CANAIS: ABERTOS", FALA LITORAL WEB TV
+https://5c483b9d1019c.streamlock.net:443/falalitoraltv/falalitoraltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/635px-france24.png" group-title="03 CANAIS: ABERTOS", France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="03 CANAIS: ABERTOS", GAZETA NORTE MINEIRO
+https://59e4b6c1beddc.streamlock.net:443/tvgazeta/tvgazeta/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="03 CANAIS: ABERTOS", GNM TV (A MELHOR LISTA DE CANAIS GRÁTIS É ESTA AQUI)
+https://59e4b6c1beddc.streamlock.net/tvgazeta/tvgazeta/chunklist_w1107061616.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/N9LT5mO.png" group-title="03 CANAIS: ABERTOS", MASTER SHOW TV
+https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/N9LT5mO.png" group-title="03 CANAIS: ABERTOS", MASTER SHOW TV
+https://serv2.videovox.pw/master1667/master1667/playlist.m3u8?wowzasessionid=933110662
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMLxwL0.img" group-title="03 CANAIS: ABERTOS", Master TV
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FioVeSb.png" group-title="03 CANAIS: ABERTOS", MASTER TV PR
+http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bnr_world.png" group-title="03 CANAIS: ABERTOS", NHK Japan
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/McgXMZ6.png" group-title="03 CANAIS: ABERTOS", NOVA ERA TV
+http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Bvw0tui.png" group-title="03 CANAIS: ABERTOS", NOVA TV AGROTOUR
+https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_redeparanaeducativa.png" group-title="03 CANAIS: ABERTOS", Paraná Turismo
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wqOAIgT.png" group-title="03 CANAIS: ABERTOS", PLAN TV
+https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5gkt9DD.png" group-title="03 CANAIS: ABERTOS", Rai 4K (Italy)
+https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mfQtJq3.png" group-title="03 CANAIS: ABERTOS", REDE CAXIAS TV
+https://stmv1.srvstm.com/luis5346/luis5346/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.redefamilia.com.br/wp-content/uploads/2019/02/logo_20_Anos-1.png" group-title="03 CANAIS: ABERTOS", REDE FAMÍLIA
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fP74ULx.png" group-title="03 CANAIS: ABERTOS", REDE METROPOLITANA
+https://cdn.cdnseguro.com/metropolitana2/metropolitana2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/90kb4L2.png" group-title="03 CANAIS: ABERTOS", RTV CANAL 38
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2Vxo3Lc.png" group-title="03 CANAIS: ABERTOS", SANDEGI TV
+https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/yjBgTgY.png" group-title="03 CANAIS: ABERTOS", SAO RAIMUNDO TV
+https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="03 CANAIS: ABERTOS", SBT Interior
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="03 CANAIS: ABERTOS", SBT Interior
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/XaTKJef.png" group-title="03 CANAIS: ABERTOS", SERTAO TV
+http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8" group-title="03 CANAIS: ABERTOS", SERTÃO TV
+http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/chunklist_w1172238546.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/V3haAYn.png" group-title="03 CANAIS: ABERTOS", SOU TV
+https://video01.kshost.com.br:4443/tiago4725/tiago4725/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/6KHGXbM.png" group-title="03 CANAIS: ABERTOS", TCM 10
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ytZUsdv.png" group-title="03 CANAIS: ABERTOS", TV A FOLHA
+https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/plXLd8b.png" group-title="03 CANAIS: ABERTOS", TV ABERTA SP
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/xX8eqFj.png" group-title="03 CANAIS: ABERTOS", TV ALTERNATIVA (Indique e GANHE 10 REAIS (47)99626 5594)
+https://stmv1.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JxsyXCD.png" group-title="03 CANAIS: ABERTOS", TV Beltrao
+https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JxsyXCD.png" group-title="03 CANAIS: ABERTOS", TV Beltrao
+https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vOgUR4M.png" group-title="03 CANAIS: ABERTOS", TV BOQUEIRAO
+https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/3KyZQDS.png" group-title="03 CANAIS: ABERTOS", TV BRAGA BRASIL
+https://alanza.iptv2022.com/Braga_Brasil/index.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-logotipo_da_tv_brasil.png" group-title="03 CANAIS: ABERTOS", TV Brasil  - Joinville
+https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-logotipo_da_tv_brasil.png" group-title="03 CANAIS: ABERTOS", TV Brasil  - Joinville
+https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvbrasil.ebc.com.br/sites/default/themes/tvbrasil/img/logo_tvbrasil_201904.png" group-title="03 CANAIS: ABERTOS", TV BRASIL (TVE Brasil)
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/noqGfuy.png" group-title="03 CANAIS: ABERTOS", TV Brasil Oeste
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/noqGfuy.png" group-title="03 CANAIS: ABERTOS", TV Brasil Oeste
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="03 CANAIS: ABERTOS", TV BRICS Português (1080p)
+https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bnzdrdjj.jpg" group-title="03 CANAIS: ABERTOS", TV Brusque (SC)
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IQWmGHN.png" group-title="03 CANAIS: ABERTOS", TV CANDIDES
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RaFTDMi.png" group-title="03 CANAIS: ABERTOS", TV CARAVELAS
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvcaravelas.png" group-title="03 CANAIS: ABERTOS", TV Caravelas
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="03 CANAIS: ABERTOS", TV CARAVELAS (TV COM BRASIL)
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/chunklist_w1131983888.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/DPXwC9p.png" group-title="03 CANAIS: ABERTOS", TV CHROMA
+https://5c483b9d1019c.streamlock.net:443/8054/8054/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/keCbpIP.png" group-title="03 CANAIS: ABERTOS", TV CIDADE CANAL 9
+https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/pur9IVR.png" group-title="03 CANAIS: ABERTOS", TV CINEC
+https://59f1cbe63db89.streamlock.net:1443/tvcinec/_definst_/tvcinec/chunklist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Ea5KBfh.png" group-title="03 CANAIS: ABERTOS", TV CLUBE WEB
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/hBw3n2j.png" group-title="03 CANAIS: ABERTOS", TV CN AGITOS
+http://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4o6Xeee.png" group-title="03 CANAIS: ABERTOS", TV COM DF
+https://5b7f3c45ab7c2.streamlock.net:443/8008/smil:8008.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rlz2Mvg.png" group-title="03 CANAIS: ABERTOS", TV COM SANTOS
+https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uxefHY3.png" group-title="03 CANAIS: ABERTOS", TV Comunitaria
+https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uxefHY3.png" group-title="03 CANAIS: ABERTOS", TV Comunitaria
+https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-logo="https://imgur.com/k7kRnlq.png" group-title="03 CANAIS: ABERTOS", TV CORDEIRO
+https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/slWITgo.png" group-title="03 CANAIS: ABERTOS", TV CULTURA SC
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/m6RDJBZ.png" group-title="03 CANAIS: ABERTOS", TV DIGITAL BIRIGUI
+http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="03 CANAIS: ABERTOS", TV DIGITAL BIRIGUI
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Pv95YP8.png" group-title="03 CANAIS: ABERTOS", TV DO POVO
+https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/iqu8T5B.png" group-title="03 CANAIS: ABERTOS", TV EMPIRE NO AR
+https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/chunklist_w1336890723.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/Yj9UKv2.png" group-title="03 CANAIS: ABERTOS", TV Escola
+http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png" group-title="03 CANAIS: ABERTOS", TV Faap
+https://midia.faap.net/faaplatamlive-live/stream_720/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png" group-title="03 CANAIS: ABERTOS", TV Faap
+https://midia.faap.net/faaplatamlive-live/stream_720/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fmGNohE.png" group-title="03 CANAIS: ABERTOS", TV GALEGA
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fmGNohE.png" group-title="03 CANAIS: ABERTOS", TV GALEGA
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FY8kjgr.png" group-title="03 CANAIS: ABERTOS", TV GALLO
+https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/3YP7dFy.png" group-title="03 CANAIS: ABERTOS", TV GAZETA NORTE MINEIRA
+https://59e4b6c1beddc.streamlock.net:443/tvgazeta/tvgazeta/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FWYjaed.png" group-title="03 CANAIS: ABERTOS", TV GRANDE NATAL
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/NOEr7gX.png" group-title="03 CANAIS: ABERTOS", TV GRAO PARA
+https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/USSYh91.png" group-title="03 CANAIS: ABERTOS", TV IRACEMA
+https://stmv1.srvstm.com/iracematv/iracematv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5hzyZO1.png" group-title="03 CANAIS: ABERTOS", TV ITAPETININGA
+https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bQSP2oQ.png" group-title="03 CANAIS: ABERTOS", TV LIBERDADE
+https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmaceio.jpg" group-title="03 CANAIS: ABERTOS", TV Maceió (AL)
+https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmaceio.jpg" group-title="03 CANAIS: ABERTOS", TV Maceió (AL)
+https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/F66Mq8p.png" group-title="03 CANAIS: ABERTOS", TV MAIS MARICA
+https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ix2GtVx.png" group-title="03 CANAIS: ABERTOS", TV MASTER PB
+https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FxZLUmE.png" group-title="03 CANAIS: ABERTOS", TV MAX
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e6aa0ad770325c0c0b656ab54716e542.png" group-title="03 CANAIS: ABERTOS", TV MAX
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bYIUQJb.png" group-title="03 CANAIS: ABERTOS", TV METROPOLITANA RIO
+https://alanza.iptv2022.com/METROPOLITANA_RIO/index.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logotipo_da_tv_metrc3b3pole.png" group-title="03 CANAIS: ABERTOS", TV Metrópole
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ee19d371-e.png" group-title="03 CANAIS: ABERTOS", TV Mon
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fiUk40Y.png" group-title="03 CANAIS: ABERTOS", TV NOVA PLAY
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1739392633.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/L2ib2Mg.png" group-title="03 CANAIS: ABERTOS", TV OMINDARE
+https://video01.kshost.com.br/lourdes52007/lourdes52007/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/YsqXFyc.png" group-title="03 CANAIS: ABERTOS", TV OSORIO NEWS
+https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="03 CANAIS: ABERTOS", TV Pampa - RedeTV! RS
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IVUjkii.png" group-title="03 CANAIS: ABERTOS", TV PARANA TURISMO
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/cWd3wHS.png" group-title="03 CANAIS: ABERTOS", TV PASSO FUNDO
+https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1cYYuy.png" group-title="03 CANAIS: ABERTOS", TV Plan
+https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1cYYuy.png" group-title="03 CANAIS: ABERTOS", TV Plan
+https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/P2iLxFP.png" group-title="03 CANAIS: ABERTOS", TV POCOS
+https://live.cdn.upx.com/00084/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/331000de68258bdb7681313d840ec833.png" group-title="03 CANAIS: ABERTOS", TV POÇOS
+https://live.cdn.upx.com/00084/myStream.sdp/chunklist.m3u8?55e983619eed8fb6a2072cd4fb962114
+#EXTINF:-1 tvg-logo="https://imgur.com/PWcD36m.png" group-title="03 CANAIS: ABERTOS", TV PRECABURA
+http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Klwjy9d.png" group-title="03 CANAIS: ABERTOS", TV RIO MADEIRA
+https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/santacecilia.png" group-title="03 CANAIS: ABERTOS", TV Santa Cecília (SP)
+http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/rLGrmCU.png" group-title="03 CANAIS: ABERTOS", TV SUL DE MINAS
+https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/TV5-Monde-Info.png" group-title="03 CANAIS: ABERTOS", TV5 Monde Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zUpWcUN.png" group-title="03 CANAIS: ABERTOS", TVBE Joinville
+https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zUpWcUN.png" group-title="03 CANAIS: ABERTOS", TVBE Joinville
+https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/CEvLASJ.png" group-title="03 CANAIS: ABERTOS", TVE ES
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/pBba0Wc.png" group-title="03 CANAIS: ABERTOS", TVN BRASIL
+http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="03 CANAIS: ABERTOS", TVN BRASIL
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Dx6Yqy.png" group-title="03 CANAIS: ABERTOS", UNISUL TV
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=4792034880553908000
+#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="03 CANAIS: SERVIÇOS DO USUARIO", 01 CANAL DO USUARIO Atualizado EM 23/04/24 14:05hs
 https://archive.org/download/canal-do-usuario-iptvbm/Canal%20do%20Usuario%20IPTVBM.mp4
 #EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/wMgizLsJS7uZuS5dYW1G_yTom3WGFC2sQnsSK" group-title="03 CANAIS: SERVIÇOS DO USUARIO", 02 Gift Of Legacy (GANHAR DINHEIRO AJUDANDO PESSOAS)
 https://archive.org/download/apresentacao-gift-of-legacy-para-iptv/Apresenta%C3%A7%C3%A3o%20Gift%20Of%20Legacy%20%28Para%20IPTV%29.mp4
@@ -75,210 +301,10 @@ https://archive.org/download/vsl-renda-extra-com-assinaturas-pela-internet/VSL%2
 https://archive.org/download/comercial-ganhe-roupas-shein/Comercial%20Ganhe%20roupas%20Shein.mp4
 #EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="03 CANAIS: SERVIÇOS DO USUARIO", VEJA COMO FUNCIONA A LISTA PREMIUM WhatsApp (47)99626-5594
 https://archive.org/download/vsl-como-funciona-canais-tv-e-streamings-bm-criativo/VSL%20Como%20Funciona%20Canais%20TV%20e%20Streamings%20BM%20%28Criativo%29.mp4
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png" group-title="04 CANAIS: ABERTOS", AgroBrasil TV (Assine nossa LISTA PREMIUM. WhatsApp(47)99626 5594)
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2021/09/Xicara-de-Cafe-Acucar-e-Colher-Png-1024x1024.png" group-title="04 CANAIS: ABERTOS", Amazon Sat CONTRIBUA COM UM CAFEZINHO PIX Chave Fone (47)99626 5594
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/8Kvx7aU.png" group-title="04 CANAIS: ABERTOS", BRAZITV
-https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/catve.png" group-title="04 CANAIS: ABERTOS", Catve - Cultura (PR)
-https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/catve.png" group-title="04 CANAIS: ABERTOS", Catve - Cultura (PR)
-https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/JQU7Ysw.png" group-title="04 CANAIS: ABERTOS", CATVE PR
-https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/0UIM9d9.png" group-title="04 CANAIS: ABERTOS", CBTV NOW
-https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cctv13.png" group-title="04 CANAIS: ABERTOS", CCTV Notícias
-https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctv13_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="04 CANAIS: ABERTOS", CLASSIQUE TV WESTERN
-https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/2pSzgVU.png" group-title="04 CANAIS: ABERTOS", CONECT TV
-https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/s80elMU.png" group-title="04 CANAIS: ABERTOS", CONEXAO TV
-https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/chunklist-480p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KmOaCXH.png" group-title="04 CANAIS: ABERTOS", CWB TV
-https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Yr8diVX.png" group-title="04 CANAIS: ABERTOS", DEMAIS TV
-https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/X3lIFxM.png" group-title="04 CANAIS: ABERTOS", FALA LITORAL WEB TV
-https://5c483b9d1019c.streamlock.net:443/falalitoraltv/falalitoraltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/635px-france24.png" group-title="04 CANAIS: ABERTOS", France 24
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="04 CANAIS: ABERTOS", GAZETA NORTE MINEIRO
-https://59e4b6c1beddc.streamlock.net:443/tvgazeta/tvgazeta/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="04 CANAIS: ABERTOS", GNM TV (A MELHOR LISTA DE CANAIS GRÁTIS É ESTA AQUI)
-https://59e4b6c1beddc.streamlock.net/tvgazeta/tvgazeta/chunklist_w1107061616.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/N9LT5mO.png" group-title="04 CANAIS: ABERTOS", MASTER SHOW TV
-https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/N9LT5mO.png" group-title="04 CANAIS: ABERTOS", MASTER SHOW TV
-https://serv2.videovox.pw/master1667/master1667/playlist.m3u8?wowzasessionid=933110662
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hMLxwL0.img" group-title="04 CANAIS: ABERTOS", Master TV
-http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FioVeSb.png" group-title="04 CANAIS: ABERTOS", MASTER TV PR
-http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bnr_world.png" group-title="04 CANAIS: ABERTOS", NHK Japan
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/McgXMZ6.png" group-title="04 CANAIS: ABERTOS", NOVA ERA TV
-http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Bvw0tui.png" group-title="04 CANAIS: ABERTOS", NOVA TV AGROTOUR
-https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_redeparanaeducativa.png" group-title="04 CANAIS: ABERTOS", Paraná Turismo
-http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/wqOAIgT.png" group-title="04 CANAIS: ABERTOS", PLAN TV
-https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5gkt9DD.png" group-title="04 CANAIS: ABERTOS", Rai 4K (Italy)
-https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/mfQtJq3.png" group-title="04 CANAIS: ABERTOS", REDE CAXIAS TV
-https://stmv1.srvstm.com/luis5346/luis5346/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.redefamilia.com.br/wp-content/uploads/2019/02/logo_20_Anos-1.png" group-title="04 CANAIS: ABERTOS", REDE FAMÍLIA
-https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/fP74ULx.png" group-title="04 CANAIS: ABERTOS", REDE METROPOLITANA
-https://cdn.cdnseguro.com/metropolitana2/metropolitana2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/90kb4L2.png" group-title="04 CANAIS: ABERTOS", RTV CANAL 38
-https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/2Vxo3Lc.png" group-title="04 CANAIS: ABERTOS", SANDEGI TV
-https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/yjBgTgY.png" group-title="04 CANAIS: ABERTOS", SAO RAIMUNDO TV
-https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/XaTKJef.png" group-title="04 CANAIS: ABERTOS", SERTAO TV
-http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8" group-title="04 CANAIS: ABERTOS", SERTÃO TV
-http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/chunklist_w1172238546.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/V3haAYn.png" group-title="04 CANAIS: ABERTOS", SOU TV
-https://video01.kshost.com.br:4443/tiago4725/tiago4725/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/6KHGXbM.png" group-title="04 CANAIS: ABERTOS", TCM 10
-https://live.tcm10.com.br/tcm10hd/stream.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ytZUsdv.png" group-title="04 CANAIS: ABERTOS", TV A FOLHA
-https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/plXLd8b.png" group-title="04 CANAIS: ABERTOS", TV ABERTA SP
-https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/xX8eqFj.png" group-title="04 CANAIS: ABERTOS", TV ALTERNATIVA (Indique e GANHE 10 REAIS (47)99626 5594)
-https://stmv1.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/vOgUR4M.png" group-title="04 CANAIS: ABERTOS", TV BOQUEIRAO
-https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/3KyZQDS.png" group-title="04 CANAIS: ABERTOS", TV BRAGA BRASIL
-https://alanza.iptv2022.com/Braga_Brasil/index.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-logotipo_da_tv_brasil.png" group-title="04 CANAIS: ABERTOS", TV Brasil  - Joinville
-https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-logotipo_da_tv_brasil.png" group-title="04 CANAIS: ABERTOS", TV Brasil  - Joinville
-https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tvbrasil.ebc.com.br/sites/default/themes/tvbrasil/img/logo_tvbrasil_201904.png" group-title="04 CANAIS: ABERTOS", TV BRASIL (TVE Brasil)
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="04 CANAIS: ABERTOS", TV BRICS Português (1080p)
-https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bnzdrdjj.jpg" group-title="04 CANAIS: ABERTOS", TV Brusque (SC)
-https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/IQWmGHN.png" group-title="04 CANAIS: ABERTOS", TV CANDIDES
-https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvcaravelas.png" group-title="04 CANAIS: ABERTOS", TV Caravelas
-https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/RaFTDMi.png" group-title="04 CANAIS: ABERTOS", TV CARAVELAS
-https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="04 CANAIS: ABERTOS", TV CARAVELAS (TV COM BRASIL)
-https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/chunklist_w1131983888.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/DPXwC9p.png" group-title="04 CANAIS: ABERTOS", TV CHROMA
-https://5c483b9d1019c.streamlock.net:443/8054/8054/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/keCbpIP.png" group-title="04 CANAIS: ABERTOS", TV CIDADE CANAL 9
-https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/pur9IVR.png" group-title="04 CANAIS: ABERTOS", TV CINEC
-https://59f1cbe63db89.streamlock.net:1443/tvcinec/_definst_/tvcinec/chunklist-480p.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Ea5KBfh.png" group-title="04 CANAIS: ABERTOS", TV CLUBE WEB
-https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/hBw3n2j.png" group-title="04 CANAIS: ABERTOS", TV CN AGITOS
-http://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/4o6Xeee.png" group-title="04 CANAIS: ABERTOS", TV COM DF
-https://5b7f3c45ab7c2.streamlock.net:443/8008/smil:8008.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Rlz2Mvg.png" group-title="04 CANAIS: ABERTOS", TV COM SANTOS
-https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/k7kRnlq.png" group-title="04 CANAIS: ABERTOS", TV CORDEIRO
-https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/slWITgo.png" group-title="04 CANAIS: ABERTOS", TV CULTURA SC
-http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="04 CANAIS: ABERTOS", TV DIGITAL BIRIGUI
-http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/m6RDJBZ.png" group-title="04 CANAIS: ABERTOS", TV DIGITAL BIRIGUI
-http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Pv95YP8.png" group-title="04 CANAIS: ABERTOS", TV DO POVO
-https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/iqu8T5B.png" group-title="04 CANAIS: ABERTOS", TV EMPIRE NO AR
-https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/chunklist_w1336890723.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/Yj9UKv2.png" group-title="04 CANAIS: ABERTOS", TV Escola
-http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png" group-title="04 CANAIS: ABERTOS", TV Faap
-https://midia.faap.net/faaplatamlive-live/stream_720/livestream.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png" group-title="04 CANAIS: ABERTOS", TV Faap
-https://midia.faap.net/faaplatamlive-live/stream_720/livestream.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/fmGNohE.png" group-title="04 CANAIS: ABERTOS", TV GALEGA
-https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/fmGNohE.png" group-title="04 CANAIS: ABERTOS", TV GALEGA
-https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FY8kjgr.png" group-title="04 CANAIS: ABERTOS", TV GALLO
-https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/3YP7dFy.png" group-title="04 CANAIS: ABERTOS", TV GAZETA NORTE MINEIRA
-https://59e4b6c1beddc.streamlock.net:443/tvgazeta/tvgazeta/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FWYjaed.png" group-title="04 CANAIS: ABERTOS", TV GRANDE NATAL
-http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/NOEr7gX.png" group-title="04 CANAIS: ABERTOS", TV GRAO PARA
-https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/USSYh91.png" group-title="04 CANAIS: ABERTOS", TV IRACEMA
-https://stmv1.srvstm.com/iracematv/iracematv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/5hzyZO1.png" group-title="04 CANAIS: ABERTOS", TV ITAPETININGA
-https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/bQSP2oQ.png" group-title="04 CANAIS: ABERTOS", TV LIBERDADE
-https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmaceio.jpg" group-title="04 CANAIS: ABERTOS", TV Maceió (AL)
-https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmaceio.jpg" group-title="04 CANAIS: ABERTOS", TV Maceió (AL)
-https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/F66Mq8p.png" group-title="04 CANAIS: ABERTOS", TV MAIS MARICA
-https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ix2GtVx.png" group-title="04 CANAIS: ABERTOS", TV MASTER PB
-https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FxZLUmE.png" group-title="04 CANAIS: ABERTOS", TV MAX
-https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e6aa0ad770325c0c0b656ab54716e542.png" group-title="04 CANAIS: ABERTOS", TV MAX
-https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/bYIUQJb.png" group-title="04 CANAIS: ABERTOS", TV METROPOLITANA RIO
-https://alanza.iptv2022.com/METROPOLITANA_RIO/index.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logotipo_da_tv_metrc3b3pole.png" group-title="04 CANAIS: ABERTOS", TV Metrópole
-https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ee19d371-e.png" group-title="04 CANAIS: ABERTOS", TV Mon
-https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/fiUk40Y.png" group-title="04 CANAIS: ABERTOS", TV NOVA PLAY
-https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1739392633.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/L2ib2Mg.png" group-title="04 CANAIS: ABERTOS", TV OMINDARE
-https://video01.kshost.com.br/lourdes52007/lourdes52007/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/YsqXFyc.png" group-title="04 CANAIS: ABERTOS", TV OSORIO NEWS
-https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="04 CANAIS: ABERTOS", TV Pampa - RedeTV! RS
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IVUjkii.png" group-title="04 CANAIS: ABERTOS", TV PARANA TURISMO
-http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/cWd3wHS.png" group-title="04 CANAIS: ABERTOS", TV PASSO FUNDO
-https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/P2iLxFP.png" group-title="04 CANAIS: ABERTOS", TV POCOS
-https://live.cdn.upx.com/00084/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/331000de68258bdb7681313d840ec833.png" group-title="04 CANAIS: ABERTOS", TV POÇOS
-https://live.cdn.upx.com/00084/myStream.sdp/chunklist.m3u8?55e983619eed8fb6a2072cd4fb962114
-#EXTINF:-1 tvg-logo="https://imgur.com/PWcD36m.png" group-title="04 CANAIS: ABERTOS", TV PRECABURA
-http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Klwjy9d.png" group-title="04 CANAIS: ABERTOS", TV RIO MADEIRA
-https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/santacecilia.png" group-title="04 CANAIS: ABERTOS", TV Santa Cecília (SP)
-http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/rLGrmCU.png" group-title="04 CANAIS: ABERTOS", TV SUL DE MINAS
-https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/TV5-Monde-Info.png" group-title="04 CANAIS: ABERTOS", TV5 Monde Info
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/CEvLASJ.png" group-title="04 CANAIS: ABERTOS", TVE ES
-http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="04 CANAIS: ABERTOS", TVN BRASIL
-http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/pBba0Wc.png" group-title="04 CANAIS: ABERTOS", TVN BRASIL
-http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9Dx6Yqy.png" group-title="04 CANAIS: ABERTOS", UNISUL TV
-https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=4792034880553908000
+#EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/wMgizLsJS7uZuS5dYW1G_yTom3WGFC2sQnsSK" group-title="03 CANAIS: SERVIÇOS DO USUARIO", 08 Gift Of Legacy (Essa Comunidade ajuda pessoas a prosperar)
+https://hugh.cdn.rumble.cloud/video/s8/2/_/r/t/i/_rtim.caa.mp4?u=3&b=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fh4SQ6L.png" group-title="03 CANAIS: SERVIÇOS DO USUARIO", 09 Band (Experimente o melhor em streaming com nossa lista PREMIUM)
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w16814077.m3u8
 #EXTINF:-1 tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2021/09/Xicara-de-Cafe-Acucar-e-Colher-Png-1024x1024.png" group-title="04 CANAIS: FILMES E SERIES", BBC Drama
 https://bbceu-bbcdrama-3-es.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="04 CANAIS: FILMES E SERIES", DarkFlix HD CONTRIBUA COM UM CAFEZINHO PIX Chave Fone (47)99626 5594
@@ -363,9 +389,9 @@ https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aoq9CGU.png" group-title="09 CANAIS: RELIGIOSOS", Gospel Cartoon (360p)
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospel.jpg" group-title="09 CANAIS: RELIGIOSOS", Gospel Movie TV
-https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ipgo.xyz/tv/gmovies/imagens/logo_gospelf_site.png" group-title="09 CANAIS: RELIGIOSOS", Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospel.jpg" group-title="09 CANAIS: RELIGIOSOS", Gospel Movie TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0JM9jLh.jpg" group-title="09 CANAIS: RELIGIOSOS", GOSPEL MOVIES TELEVISION (Indique nossa LISTA PREMIUM e GANHE 10 REAIS mensais por cada Indicacao (47)99626-5594)
 https://stmv1.srvif.com/gospelf/gospelf/chunklist_w74712399.m3u8
@@ -379,9 +405,9 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="09 CANAIS: RELIGIOSOS", MIMOS DA CRIS (TIARAS E LAÇOS) (47)99115-0154
 https://archive.org/download/criativo-oktoberfest-01-mimos-da-cris/Criativo%20Oktoberfest%2001%20Mimos%20da%20Cris.mp4
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/izkxzj9.png" group-title="09 CANAIS: RELIGIOSOS", Novo Tempo
-https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/exdDHml.png" group-title="09 CANAIS: RELIGIOSOS", Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/izkxzj9.png" group-title="09 CANAIS: RELIGIOSOS", Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/izkxzj9.png" group-title="09 CANAIS: RELIGIOSOS", Novo Tempo Assine nossa Lista Premium para canais Religiosos. WhatsApp(47)99626-5594
 http://stream.novotempo.com:1935/tv/tvnovotempo.stream/live.m3u8
@@ -389,19 +415,23 @@ http://stream.novotempo.com:1935/tv/tvnovotempo.stream/live.m3u8
 http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9pZox0Z.png" group-title="09 CANAIS: RELIGIOSOS", PLENA TV
 https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iiJufN2.png" group-title="09 CANAIS: RELIGIOSOS", Rede Brasil de Comunicacao
+http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iiJufN2.png" group-title="09 CANAIS: RELIGIOSOS", Rede Brasil de Comunicacao
+http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
 #EXTINF:-1 tvg-logo="http://portal.rbc1.com.br/public/portal/img/layout/logorbc.png" group-title="09 CANAIS: RELIGIOSOS", Rede Brasil de Comunicação
 http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yvxG9m5.png" group-title="09 CANAIS: RELIGIOSOS", Rede Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cqD6DNY.png" group-title="09 CANAIS: RELIGIOSOS", Rede Mão Amiga (480p)
 http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-rede_vida_logo.png" group-title="09 CANAIS: RELIGIOSOS", Rede Vida
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rede_Vida_logo.png/267px-Rede_Vida_logo.png" group-title="09 CANAIS: RELIGIOSOS", Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="09 CANAIS: RELIGIOSOS", TV Aparecida
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-rede_vida_logo.png" group-title="09 CANAIS: RELIGIOSOS", Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fk2mNc4.png" group-title="09 CANAIS: RELIGIOSOS", TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="09 CANAIS: RELIGIOSOS", TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tv_evangelizar.png" group-title="09 CANAIS: RELIGIOSOS", TV Evangelizar
 https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
@@ -416,9 +446,9 @@ http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y7b29VG.png" group-title="09 CANAIS: RELIGIOSOS", TV Padre Cicero
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/paieterno.png" group-title="09 CANAIS: RELIGIOSOS", TV Pai Eterno
-https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/paieterno.png" group-title="09 CANAIS: RELIGIOSOS", TV Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/paieterno.png" group-title="09 CANAIS: RELIGIOSOS", TV Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.paieterno.com.br/wp-content/uploads/2019/05/cropped-logo-portal-01-192x192.png" group-title="09 CANAIS: RELIGIOSOS", TV Pai Eterno (480p)
 https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://portalquatro.com.br/wp-content/uploads/2019/03/tvpaieterno.jpg" group-title="09 CANAIS: RELIGIOSOS", TV PAI ETERNO (RCI)
@@ -609,18 +639,18 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 http://midia.ac.gov.br/difusora
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/djing.png" group-title="13 CANAIS: MUSICAS Gratis", DJing
 https://www.djing.com/tv/29054-03.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/djing.png" group-title="13 CANAIS: MUSICAS Gratis", DJing Animation
-https://www.djing.com/tv/a-28904-04.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="13 CANAIS: MUSICAS Gratis", DJING Animation
 https://www.djing.com/tv/animation.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/djing.png" group-title="13 CANAIS: MUSICAS Gratis", DJing Animation
+https://www.djing.com/tv/a-28904-04.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="13 CANAIS: MUSICAS Gratis", DJING Summer Vibes ¹
 https://www.djing.com/tv/s-28049-03-summer-vibes.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospelmusic.jpg" group-title="13 CANAIS: MUSICAS Gratis", Gospel Music
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-kronehit_logo2018_nachtblau_rgb.svg_.png" group-title="13 CANAIS: MUSICAS Gratis", KroneHIT
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="13 CANAIS: MUSICAS Gratis", Kronehit
 https://bitcdn-kronehit.bitmovin.com/v2/hls/20000k.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-kronehit_logo2018_nachtblau_rgb.svg_.png" group-title="13 CANAIS: MUSICAS Gratis", KroneHIT
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-radio_m2o_-_logo_2019.svg_.png" group-title="13 CANAIS: MUSICAS Gratis", M2O
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/musictop2.png" group-title="13 CANAIS: MUSICAS Gratis", Music Top
@@ -637,14 +667,14 @@ https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 http://streaming.bitonlive.net:8080/hls/ottofm2/204_203/index.m3u8
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/pop-pegajoso.jpeg" group-title="13 CANAIS: MUSICAS Gratis", POP PEGAJOSO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
-#EXTINF:-1 tvg-logo="https://imgur.com/nYirGYT.png" group-title="13 CANAIS: MUSICAS Gratis", POWER TV
-http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2c8dg7Y.png" group-title="13 CANAIS: MUSICAS Gratis", POWER TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-logo-bile2.png" group-title="13 CANAIS: MUSICAS Gratis", Retrô TV
-http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nYirGYT.png" group-title="13 CANAIS: MUSICAS Gratis", POWER TV
+http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-logo-bile2.png" group-title="13 CANAIS: MUSICAS Gratis", Retrô TV
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-logo-bile2.png" group-title="13 CANAIS: MUSICAS Gratis", Retrô TV
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/ritmos-inolvidables-16x9-v1.jpg" group-title="13 CANAIS: MUSICAS Gratis", RITMOS INOLVIDABLES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rtl.png" group-title="13 CANAIS: MUSICAS Gratis", RTL (Itália)
@@ -1489,10 +1519,10 @@ https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8
 https://stream.vagalume.fm/hls/1467745876337223/aac.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="40 RADIOS GRATIS", Rádio Reggae
 https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="40 RADIOS GRATIS", Rádio Rock
-https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HrbGf0q/spotify.png" group-title="40 RADIOS GRATIS", Rádio Rock
 https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="40 RADIOS GRATIS", Rádio Rock
+https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HrbGf0q/spotify.png" group-title="40 RADIOS GRATIS", Rádio Românticas
 https://stream.vagalume.fm/hls/1470155219129532/aac.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HrbGf0q/spotify.png" group-title="40 RADIOS GRATIS", Rádio Sertanejo
@@ -1553,10 +1583,10 @@ http://11216.vod.redtraffic.xyz/ph557f114383e2e/play.m3u8
 http://1465.vod.redtraffic.xyz/ph5b1f9da00b1a0/play.m3u8
 #EXTINF:-1 tvg-logo="http://lhmtv.tk/xxxlogo/canalxxx.png" group-title="90 CANAIS: ADULTOS", VISIT-X
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="90 CANAIS: ADULTOS", Visit-X TV
-http://stream.visit-x.tv/vxtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" group-title="90 CANAIS: ADULTOS", Visit-X TV
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="90 CANAIS: ADULTOS", Visit-X TV
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://.png" group-title="90 CANAIS: ADULTOS", XXX Anal
 http://cdn.redtraffic.net/anal.m3u8
 #EXTINF:-1 tvg-logo="http://.png" group-title="90 CANAIS: ADULTOS", XXX Big Ass
@@ -1605,8 +1635,14 @@ http://cdn.redtraffic.net/russian.m3u8
 http://cdn.redtraffic.net/teen.m3u8
 #EXTINF:-1 tvg-logo="http://.png" group-title="90 CANAIS: ADULTOS", XXX Threesome
 http://cdn.redtraffic.net/threesome.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nvrR5/1bb233b647.png" group-title="91 CANAIS: ADULTOS",  Miami TV
+http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="91 CANAIS: ADULTOS",  PenthouseX
+http://live.redtraffic.xyz/pornstar.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/932_Anal.png" group-title="91 CANAIS: ADULTOS", Anal  | US
 http://cdn.adultiptv.net/anal.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://elo.tokyo/wp-content/uploads/2019/05/actress-39.jpg" group-title="91 CANAIS: ADULTOS", Asian teen
+https://videos.pornworms.com/media/videos/mp4/61650.mp4?st=VJvOTaiSJHaX6NuR-mPfnA&e=1563018895
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/931_Big_Ass.png" group-title="91 CANAIS: ADULTOS", Big Ass  | US
 http://cdn.adultiptv.net/bigass.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/930_Big_Dick.png" group-title="91 CANAIS: ADULTOS", Big Dick  | US
@@ -1617,22 +1653,36 @@ http://cdn.adultiptv.net/bigtits.m3u8?PlaylistM3UCL
 http://cdn.adultiptv.net/blonde.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/939_Blowjob.png" group-title="91 CANAIS: ADULTOS", Blowjob  | US
 http://cdn.adultiptv.net/blowjob.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="91 CANAIS: ADULTOS", BRAZZERS
+http://live.redtraffic.xyz/bigtits.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/936_Brunette.png" group-title="91 CANAIS: ADULTOS", Brunette  | US
 http://cdn.adultiptv.net/brunette.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/922_Compilation.png" group-title="91 CANAIS: ADULTOS", Compilation  | US
 http://cdn.adultiptv.net/compilation.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/944_Cuckold.png" group-title="91 CANAIS: ADULTOS", Cuckold  | US
 http://cdn.adultiptv.net/cuckold.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://elo.tokyo/wp-content/uploads/2019/05/actress-39.jpg" group-title="91 CANAIS: ADULTOS", dirty anal teen
+https://videos.pornworms.com/media/videos/mp4/60748.mp4?st=_SLPPE59bcKKqtLSB8lqNA&e=1563023197
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="91 CANAIS: ADULTOS", Dusk
+http://live.redtraffic.xyz/milf.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/921_Fetish.png" group-title="91 CANAIS: ADULTOS", Fetish  | US
 http://cdn.adultiptv.net/fetish.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/942_Gangbang.png" group-title="91 CANAIS: ADULTOS", Gangbang  | US
 http://cdn.adultiptv.net/gangbang.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/946_Gay.png" group-title="91 CANAIS: ADULTOS", Gay  | US
 http://cdn.adultiptv.net/gay.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://elo.tokyo/wp-content/uploads/2019/05/actress-39.jpg" group-title="91 CANAIS: ADULTOS", German teen Painful
+https://videos.pornworms.com/media/videos/mp4/168631.mp4?st=hdnq4zln5gGafc517p_EDw&e=1563020106
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/920_Hardcore.png" group-title="91 CANAIS: ADULTOS", Hardcore  | US
 http://cdn.adultiptv.net/hardcore.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="91 CANAIS: ADULTOS", HOT
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 tvg-logo="https://s19.postimg.org/t9qpt32f7/HUSTLER.png" group-title="91 CANAIS: ADULTOS", HustlerXXX
+http://live.redtraffic.xyz/bigdick.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/937_Interracial.png" group-title="91 CANAIS: ADULTOS", Interracial  | US
 http://cdn.adultiptv.net/interracial.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="91 CANAIS: ADULTOS", Juice
+http://live.redtraffic.xyz/bigass.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/934_Latina.png" group-title="91 CANAIS: ADULTOS", Latina  | US
 http://cdn.adultiptv.net/latina.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/945_Lesbian.png" group-title="91 CANAIS: ADULTOS", Lesbian  | US
@@ -1641,568 +1691,329 @@ http://cdn.adultiptv.net/lesbian.m3u8?PlaylistM3UCL
 http://cdn.adultiptv.net/livecams.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/919_MILF.png" group-title="91 CANAIS: ADULTOS", MILF  | US
 http://cdn.adultiptv.net/milf.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Logotipo_da_Playboy_TV.png" group-title="91 CANAIS: ADULTOS", PlayboyX Tv
+http://live.redtraffic.xyz/latina.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/918_Pornstar.png" group-title="91 CANAIS: ADULTOS", Pornstar  | US
 http://cdn.adultiptv.net/pornstar.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/938_POV.png" group-title="91 CANAIS: ADULTOS", POV  | US
 http://cdn.adultiptv.net/pov.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.diesl.com/wp-content/uploads/2013/04/hustlertv.png" group-title="91 CANAIS: ADULTOS", PrivateX
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 tvg-logo="https://elo.tokyo/wp-content/uploads/2019/05/actress-39.jpg" group-title="91 CANAIS: ADULTOS", Redhead teen ass fuck
+https://videos.pornworms.com/media/videos/mp4/48969.mp4?st=yc2QZjXwJRqL5c9UPmsy2Q&e=1563020778
+#EXTINF:-1 tvg-logo="http://vercanalestv.com/imagenes/redlight.png" group-title="91 CANAIS: ADULTOS", RedlightX
+http://live.redtraffic.xyz/russian.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/941_Rough.png" group-title="91 CANAIS: ADULTOS", Rough  | US
 http://cdn.adultiptv.net/rough.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/917_Russian.png" group-title="91 CANAIS: ADULTOS", Russian  | US
 http://cdn.adultiptv.net/russian.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://totaltv.tv/oec/images/tv_channels/bdc6d5c54bd382de621a6c1ec682ff89.png" group-title="91 CANAIS: ADULTOS", SEXTATION
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png" group-title="91 CANAIS: ADULTOS", Sextreme
+http://live.redtraffic.xyz/fetish.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/933_Teen.png" group-title="91 CANAIS: ADULTOS", Teen  | US
 http://cdn.adultiptv.net/teen.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://elo.tokyo/wp-content/uploads/2019/05/actress-39.jpg" group-title="91 CANAIS: ADULTOS", teen anal invasion sex
+https://videos.pornworms.com/media/videos/mp4/62329.mp4?st=dIOTFK3HoxSyd-LkmzwU0w&e=1563019356
+#EXTINF:-1 tvg-logo="https://elo.tokyo/wp-content/uploads/2019/05/actress-39.jpg" group-title="91 CANAIS: ADULTOS", teen anal Outdoors
+https://videos.pornworms.com/media/videos/mp4/171257.mp4?st=D7B_f5umkp0tSMn84IaQ_g&e=1563019248
+#EXTINF:-1 tvg-logo="https://elo.tokyo/wp-content/uploads/2019/05/actress-39.jpg" group-title="91 CANAIS: ADULTOS", teen anal pounding
+https://videos.pornworms.com/media/videos/mp4/171941.mp4?st=j5BJvEkdd_xKeJhNnT8m4Q&e=1563019301
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/940_Threesome.png" group-title="91 CANAIS: ADULTOS", Threesome  | US
 http://cdn.adultiptv.net/threesome.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://elo.tokyo/wp-content/uploads/2019/05/actress-39.jpg" group-title="92 CANAIS: ADULTOS", Asian teen
-https://videos.pornworms.com/media/videos/mp4/61650.mp4?st=VJvOTaiSJHaX6NuR-mPfnA&e=1563018895
-#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="92 CANAIS: ADULTOS", BRAZZERS
-http://live.redtraffic.xyz/bigtits.m3u8
-#EXTINF:-1 tvg-logo="https://elo.tokyo/wp-content/uploads/2019/05/actress-39.jpg" group-title="92 CANAIS: ADULTOS", dirty anal teen
-https://videos.pornworms.com/media/videos/mp4/60748.mp4?st=_SLPPE59bcKKqtLSB8lqNA&e=1563023197
-#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="92 CANAIS: ADULTOS", Dusk
-http://live.redtraffic.xyz/milf.m3u8
-#EXTINF:-1 tvg-logo="https://elo.tokyo/wp-content/uploads/2019/05/actress-39.jpg" group-title="92 CANAIS: ADULTOS", German teen Painful
-https://videos.pornworms.com/media/videos/mp4/168631.mp4?st=hdnq4zln5gGafc517p_EDw&e=1563020106
-#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="92 CANAIS: ADULTOS", HOT
-http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:-1 tvg-logo="https://s19.postimg.org/t9qpt32f7/HUSTLER.png" group-title="92 CANAIS: ADULTOS", HustlerXXX
-http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="92 CANAIS: ADULTOS", Juice
-http://live.redtraffic.xyz/bigass.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/nvrR5/1bb233b647.png" group-title="92 CANAIS: ADULTOS",  Miami TV
-http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
-#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="92 CANAIS: ADULTOS",  PenthouseX
-http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Logotipo_da_Playboy_TV.png" group-title="92 CANAIS: ADULTOS", PlayboyX Tv
-http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:-1 tvg-logo="http://www.diesl.com/wp-content/uploads/2013/04/hustlertv.png" group-title="92 CANAIS: ADULTOS", PrivateX
-http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:-1 tvg-logo="https://elo.tokyo/wp-content/uploads/2019/05/actress-39.jpg" group-title="92 CANAIS: ADULTOS", Redhead teen ass fuck
-https://videos.pornworms.com/media/videos/mp4/48969.mp4?st=yc2QZjXwJRqL5c9UPmsy2Q&e=1563020778
-#EXTINF:-1 tvg-logo="http://vercanalestv.com/imagenes/redlight.png" group-title="92 CANAIS: ADULTOS", RedlightX
-http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:-1 tvg-logo="http://totaltv.tv/oec/images/tv_channels/bdc6d5c54bd382de621a6c1ec682ff89.png" group-title="92 CANAIS: ADULTOS", SEXTATION
-http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png" group-title="92 CANAIS: ADULTOS", Sextreme
-http://live.redtraffic.xyz/fetish.m3u8
-#EXTINF:-1 tvg-logo="https://elo.tokyo/wp-content/uploads/2019/05/actress-39.jpg" group-title="92 CANAIS: ADULTOS", teen anal invasion sex
-https://videos.pornworms.com/media/videos/mp4/62329.mp4?st=dIOTFK3HoxSyd-LkmzwU0w&e=1563019356
-#EXTINF:-1 tvg-logo="https://elo.tokyo/wp-content/uploads/2019/05/actress-39.jpg" group-title="92 CANAIS: ADULTOS", teen anal Outdoors
-https://videos.pornworms.com/media/videos/mp4/171257.mp4?st=D7B_f5umkp0tSMn84IaQ_g&e=1563019248
-#EXTINF:-1 tvg-logo="https://elo.tokyo/wp-content/uploads/2019/05/actress-39.jpg" group-title="92 CANAIS: ADULTOS", teen anal pounding
-https://videos.pornworms.com/media/videos/mp4/171941.mp4?st=j5BJvEkdd_xKeJhNnT8m4Q&e=1563019301
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/48/Logo_venus_out_color.jpg" group-title="92 CANAIS: ADULTOS", VENUS
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/48/Logo_venus_out_color.jpg" group-title="91 CANAIS: ADULTOS", VENUS
 http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="92 CANAIS: ADULTOS", You Porn
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="91 CANAIS: ADULTOS", You Porn
 http://live.redtraffic.xyz/pov.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XXX Adultos", Adult 4K: VOD1
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XXX Adultos", Adult 4K: VOD2
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XXX Adultos", Adult 4K: VOD3
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XXX Adultos", Adult 4K: VOD4
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XXX Adultos", Adult 4K: VOD5
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XXX Adultos", Adult 4K: VOD6
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XXX Adultos", Adult 4K: VOD7
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OEQbRcz.jpg" group-title="92 XXX ADULTOS", Adult 4K: VOD
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XXX Adultos", Adult 4K: VOD8
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XXX Adultos", Adult 4K: VOD9
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XXX Adultos", Adult 4K: VOD10
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XXX Adultos", Adult 4K: VOD11
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XXX Adultos", Adulto 4K: VOD1
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XXX Adultos", Adulto 4K: VOD2
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XXX Adultos", Adulto 4K: VOD3
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XXX Adultos", Adulto 4K: VOD4
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XXX Adultos", Adulto 4K: VOD5
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XXX Adultos", Adulto 4K: VOD6
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OEQbRcz.jpg" group-title="92 XXX ADULTOS", Adult 4K: VOD
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XXX Adultos", Adulto 4K: VOD7
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XXX Adultos", Adulto 4K: VOD8
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XXX Adultos", Adulto 4K: VOD9
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XXX Adultos", Adulto 4K: VOD10
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XXX Adultos", Adulto 4K: VOD11
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XXX Adultos", VISIT-X TV (18+)
-http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XXX Adultos", 越南ANTV
-http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XXX Adultos", 奇妙77臺
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XXX Adultos", 奇妙電視
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="XXX Adultos", 台湾唯心台
-http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VgjVlp3.png" group-title="XXX Adultos", TV Brasil Central
-https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XZS13xD.png" group-title="XXX Adultos", TVN Brasil
-http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VgjVlp3.png" group-title="XXX Adultos", TV Brasil Central
-https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XZS13xD.png" group-title="XXX Adultos", TVN Brasil
-http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="XXX Adultos", Visit-X TV
-http://stream.visit-x.tv/vxtv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="XXX Adultos", Visit-X TV
-http://stream.visit-x.tv/vxtv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://r8q5w2u7.ssl.hwcdn.net/porn-tube/assets/tour/hero-2.png" group-title="ADULTO - PREMIUM", X-ART (COMPILAÇÃO)
-http://pornstar4k.com/videos/xart/x-art_bg_kenna_james_kennas_sexual_fantasy_preview.mp4
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/GHnd5rB.png" group-title="XXX Adultos", BRAZZERS
-http://static.brazzers.com/scenes/3327/180sec.flv
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/GHnd5rB.png" group-title="XXX Adultos", BRAZZERS
-http://static.brazzers.com/scenes/3328/180sec.flv
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/GHnd5rB.png" group-title="XXX Adultos", BRAZZERS
-http://static.brazzers.com/scenes/3330/180sec.flv
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/GHnd5rB.png" group-title="XXX Adultos", BRAZZERS
-http://static.brazzers.com/scenes/3340/180sec.flv
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/GHnd5rB.png" group-title="XXX Adultos", BRAZZERS
-http://static.brazzers.com/scenes/3342/180sec.flv
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/GHnd5rB.png" group-title="XXX Adultos", BRAZZERS
-http://static.brazzers.com/scenes/3343/180sec.flv
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/GHnd5rB.png" group-title="XXX Adultos", BRAZZERS
-http://static.brazzers.com/scenes/3344/180sec.flv
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/GHnd5rB.png" group-title="XXX Adultos", BRAZZERS
-http://static.brazzers.com/scenes/3345/180sec.flv
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OEQbRcz.jpg" group-title="XXX Adultos", Adult 4K: VOD1
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OEQbRcz.jpg" group-title="XXX Adultos", Adult 4K: VOD2
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OEQbRcz.jpg" group-title="XXX Adultos", Adult 4K: VOD3
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OEQbRcz.jpg" group-title="XXX Adultos", Adult 4K: VOD4
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OEQbRcz.jpg" group-title="XXX Adultos", Adult 4K: VOD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OEQbRcz.jpg" group-title="92 XXX ADULTOS", Adult 4K: VOD
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OEQbRcz.jpg" group-title="XXX Adultos", Adult 4K: VOD
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OEQbRcz.jpg" group-title="XXX Adultos", Adult 4K: VOD
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OEQbRcz.jpg" group-title="XXX Adultos", Adult 4K: VOD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OEQbRcz.jpg" group-title="92 XXX ADULTOS", Adult 4K: VOD
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OEQbRcz.jpg" group-title="XXX Adultos", Adult 4K: VOD
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OEQbRcz.jpg" group-title="XXX Adultos", Adult 4K: VOD
-http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OEQbRcz.jpg" group-title="XXX Adultos", Adult 4K: VOD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OEQbRcz.jpg" group-title="92 XXX ADULTOS", Adult 4K: VOD
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QFo6Ptm.png" group-title="XXX Adultos", AdultIPTV.net Anal
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OEQbRcz.jpg" group-title="92 XXX ADULTOS", Adult 4K: VOD
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OEQbRcz.jpg" group-title="92 XXX ADULTOS", Adult 4K: VOD
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OEQbRcz.jpg" group-title="92 XXX ADULTOS", Adult 4K: VOD1
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="92 XXX ADULTOS", Adult 4K: VOD1
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="92 XXX ADULTOS", Adult 4K: VOD10
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="92 XXX ADULTOS", Adult 4K: VOD11
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OEQbRcz.jpg" group-title="92 XXX ADULTOS", Adult 4K: VOD2
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="92 XXX ADULTOS", Adult 4K: VOD2
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="92 XXX ADULTOS", Adult 4K: VOD3
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OEQbRcz.jpg" group-title="92 XXX ADULTOS", Adult 4K: VOD3
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="92 XXX ADULTOS", Adult 4K: VOD4
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OEQbRcz.jpg" group-title="92 XXX ADULTOS", Adult 4K: VOD4
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="92 XXX ADULTOS", Adult 4K: VOD5
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="92 XXX ADULTOS", Adult 4K: VOD6
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="92 XXX ADULTOS", Adult 4K: VOD7
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="92 XXX ADULTOS", Adult 4K: VOD8
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="92 XXX ADULTOS", Adult 4K: VOD9
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QFo6Ptm.png" group-title="92 XXX ADULTOS", AdultIPTV.net Anal
 https://cdn.adultiptv.net/anal.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mBJyTOp.png" group-title="XXX Adultos", AdultIPTV.net Asian
-https://cdn.adultiptv.net/asian.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Big Ass
-https://cdn.adultiptv.net/bigass.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Big Dick
-https://cdn.adultiptv.net/bigdick.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Big Tits
-https://cdn.adultiptv.net/bigtits.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Blonde
-https://cdn.adultiptv.net/blonde.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Blowjob
-https://cdn.adultiptv.net/blowjob.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Brunette
-https://cdn.adultiptv.net/brunette.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Compilation
-https://cdn.adultiptv.net/compilation.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Cuckold
-https://cdn.adultiptv.net/cuckold.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Fetish
-https://cdn.adultiptv.net/fetish.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Gangbang
-https://cdn.adultiptv.net/gangbang.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Gay
-https://cdn.adultiptv.net/gay.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Hardcore
-https://cdn.adultiptv.net/hardcore.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Interracial
-https://cdn.adultiptv.net/interracial.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Latina
-https://cdn.adultiptv.net/latina.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Lesbian
-https://cdn.adultiptv.net/lesbian.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Live Cams
-https://cdn.adultiptv.net/livecams.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net MILF
-https://cdn.adultiptv.net/milf.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Pornstar
-https://cdn.adultiptv.net/pornstar.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net POV
-https://cdn.adultiptv.net/pov.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Rough
-https://cdn.adultiptv.net/rough.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Russian
-https://cdn.adultiptv.net/russian.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Teen
-https://cdn.adultiptv.net/teen.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Threesome
-https://cdn.adultiptv.net/threesome.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Woman
-https://live.redtraffic.net/woman.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QFo6Ptm.png" group-title="XXX Adultos", AdultIPTV.net Anal
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QFo6Ptm.png" group-title="92 XXX ADULTOS", AdultIPTV.net Anal
 https://cdn.adultiptv.net/anal.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mBJyTOp.png" group-title="XXX Adultos", AdultIPTV.net Asian
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mBJyTOp.png" group-title="92 XXX ADULTOS", AdultIPTV.net Asian
 https://cdn.adultiptv.net/asian.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Big Ass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mBJyTOp.png" group-title="92 XXX ADULTOS", AdultIPTV.net Asian
+https://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Big Ass
 https://cdn.adultiptv.net/bigass.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Big Dick
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Big Ass
+https://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Big Dick
 https://cdn.adultiptv.net/bigdick.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Big Tits
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Big Dick
+https://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Big Tits
 https://cdn.adultiptv.net/bigtits.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Blonde
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Big Tits
+https://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Blonde
 https://cdn.adultiptv.net/blonde.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Blowjob
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Blonde
+https://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Blowjob
 https://cdn.adultiptv.net/blowjob.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Brunette
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Blowjob
+https://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Brunette
 https://cdn.adultiptv.net/brunette.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Compilation
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Brunette
+https://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Compilation
 https://cdn.adultiptv.net/compilation.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Cuckold
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Compilation
+https://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Cuckold
 https://cdn.adultiptv.net/cuckold.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Fetish
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Cuckold
+https://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Fetish
 https://cdn.adultiptv.net/fetish.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Gangbang
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Fetish
+https://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Gangbang
 https://cdn.adultiptv.net/gangbang.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Gay
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Gangbang
+https://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Gay
 https://cdn.adultiptv.net/gay.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Hardcore
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Gay
+https://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Hardcore
 https://cdn.adultiptv.net/hardcore.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Interracial
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Hardcore
+https://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Interracial
 https://cdn.adultiptv.net/interracial.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Latina
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Interracial
+https://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Latina
 https://cdn.adultiptv.net/latina.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Lesbian
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Latina
+https://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Lesbian
 https://cdn.adultiptv.net/lesbian.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Live Cams
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Lesbian
+https://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Live Cams
 https://cdn.adultiptv.net/livecams.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net MILF
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Live Cams
+https://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net MILF
 https://cdn.adultiptv.net/milf.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Pornstar
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net MILF
+https://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Pornstar
 https://cdn.adultiptv.net/pornstar.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net POV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Pornstar
+https://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net POV
 https://cdn.adultiptv.net/pov.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Rough
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net POV
+https://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Rough
 https://cdn.adultiptv.net/rough.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Russian
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Rough
+https://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Russian
 https://cdn.adultiptv.net/russian.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Teen
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Russian
+https://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Teen
 https://cdn.adultiptv.net/teen.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Threesome
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Teen
+https://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Threesome
 https://cdn.adultiptv.net/threesome.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="XXX Adultos", AdultIPTV.net Woman
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Threesome
+https://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Woman
 https://live.redtraffic.net/woman.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y6uU6fP.png" group-title="XXX Adultos", Babestation 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Woman
+https://live.redtraffic.net/woman.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="92 XXX ADULTOS", Adulto 4K: VOD1
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="92 XXX ADULTOS", Adulto 4K: VOD10
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="92 XXX ADULTOS", Adulto 4K: VOD11
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="92 XXX ADULTOS", Adulto 4K: VOD2
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="92 XXX ADULTOS", Adulto 4K: VOD3
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="92 XXX ADULTOS", Adulto 4K: VOD4
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="92 XXX ADULTOS", Adulto 4K: VOD5
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="92 XXX ADULTOS", Adulto 4K: VOD6
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="92 XXX ADULTOS", Adulto 4K: VOD7
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="92 XXX ADULTOS", Adulto 4K: VOD8
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="92 XXX ADULTOS", Adulto 4K: VOD9
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y6uU6fP.png" group-title="92 XXX ADULTOS", Babestation 24
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="XXX Adultos", FashionTV Midnight Secrets
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GHnd5rB.png" group-title="92 XXX ADULTOS", BRAZZERS
+http://static.brazzers.com/scenes/3330/180sec.flv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GHnd5rB.png" group-title="92 XXX ADULTOS", BRAZZERS
+http://static.brazzers.com/scenes/3328/180sec.flv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GHnd5rB.png" group-title="92 XXX ADULTOS", BRAZZERS
+http://static.brazzers.com/scenes/3327/180sec.flv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GHnd5rB.png" group-title="92 XXX ADULTOS", BRAZZERS
+http://static.brazzers.com/scenes/3343/180sec.flv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GHnd5rB.png" group-title="92 XXX ADULTOS", BRAZZERS
+http://static.brazzers.com/scenes/3344/180sec.flv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GHnd5rB.png" group-title="92 XXX ADULTOS", BRAZZERS
+http://static.brazzers.com/scenes/3345/180sec.flv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GHnd5rB.png" group-title="92 XXX ADULTOS", BRAZZERS
+http://static.brazzers.com/scenes/3342/180sec.flv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GHnd5rB.png" group-title="92 XXX ADULTOS", BRAZZERS
+http://static.brazzers.com/scenes/3340/180sec.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="92 XXX ADULTOS", FashionTV Midnight Secrets
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sli5irt.png" group-title="XXX Adultos", MyCam TV Anal
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sli5irt.png" group-title="92 XXX ADULTOS", MyCam TV Anal
 https://live.mycamtv.com/anal.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FBSodo6.png" group-title="XXX Adultos", MyCam TV Asian
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FBSodo6.png" group-title="92 XXX ADULTOS", MyCam TV Asian
 https://live.mycamtv.com/asian.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX Adultos", MyCam TV Big Ass
+#EXTINF:-1 tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="92 XXX ADULTOS", MyCam TV Big Ass
 https://live.mycamtv.com/defstream.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX Adultos", MyCam TV Big Tits
+#EXTINF:-1 tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="92 XXX ADULTOS", MyCam TV Big Tits
 https://live.mycamtv.com/bigtits.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX Adultos", MyCam TV Blonde
+#EXTINF:-1 tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="92 XXX ADULTOS", MyCam TV Blonde
 https://live.mycamtv.com/blonde.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX Adultos", MyCam TV Brunette
+#EXTINF:-1 tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="92 XXX ADULTOS", MyCam TV Brunette
 https://live.mycamtv.com/brunette.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX Adultos", MyCam TV Ebony
+#EXTINF:-1 tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="92 XXX ADULTOS", MyCam TV Ebony
 https://live.mycamtv.com/medium.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX Adultos", MyCam TV Latina
+#EXTINF:-1 tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="92 XXX ADULTOS", MyCam TV Latina
 https://live.mycamtv.com/latina.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX Adultos", MyCam TV Skinny
+#EXTINF:-1 tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="92 XXX ADULTOS", MyCam TV Skinny
 https://live.mycamtv.com/arab.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX Adultos", MyCam TV Squirt
+#EXTINF:-1 tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="92 XXX ADULTOS", MyCam TV Squirt
 https://live.mycamtv.com/squirt.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX Adultos", MyCam TV White
+#EXTINF:-1 tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="92 XXX ADULTOS", MyCam TV White
 https://live.mycamtv.com/white.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cvnniFH.png" group-title="Animation", Adult Swim Aqua Teen Hunger Force
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VgjVlp3.png" group-title="92 XXX ADULTOS", TV Brasil Central
+https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VgjVlp3.png" group-title="92 XXX ADULTOS", TV Brasil Central
+https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XZS13xD.png" group-title="92 XXX ADULTOS", TVN Brasil
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XZS13xD.png" group-title="92 XXX ADULTOS", TVN Brasil
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="92 XXX ADULTOS", Visit-X TV
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IBS0DC5.png" group-title="92 XXX ADULTOS", Visit-X TV
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="92 XXX ADULTOS", VISIT-X TV (18+)
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="92 XXX ADULTOS", 台湾唯心台
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="92 XXX ADULTOS", 奇妙77臺
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="92 XXX ADULTOS", 奇妙電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="92 XXX ADULTOS", 越南ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cvnniFH.png" group-title="93 ADULTOS", Adult Swim Aqua Teen Hunger Force
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uPV5CT1.png" group-title="Animation", Adult Swim Rick and Morty
-https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E6EJ14j.png" group-title="Animation", Adult Swim Robot Chicken
-https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UOZ4VTH.png" group-title="Animation", Adult Swim Samurai Jack
-https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZwNmt8Y.png" group-title="Animation", Adult Swim The Venture Bros
-https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cvnniFH.png" group-title="Animation", Adult Swim Aqua Teen Hunger Force
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cvnniFH.png" group-title="93 ADULTOS", Adult Swim Aqua Teen Hunger Force
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uPV5CT1.png" group-title="Animation", Adult Swim Rick and Morty
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QWzEK8i.png" group-title="93 ADULTOS", Adult Swim Black Jesus
+https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QWzEK8i.png" group-title="93 ADULTOS", Adult Swim Black Jesus
+https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G9TyeCN.png" group-title="93 ADULTOS", Adult Swim Channel 5
+https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G9TyeCN.png" group-title="93 ADULTOS", Adult Swim Channel 5
+https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TSuWOBP.png" group-title="93 ADULTOS", Adult Swim Dream Corp LLC
+https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TSuWOBP.png" group-title="93 ADULTOS", Adult Swim Dream Corp LLC
+https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gu8luP0.png" group-title="93 ADULTOS", Adult Swim Infomercials
+https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gu8luP0.png" group-title="93 ADULTOS", Adult Swim Infomercials
+https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bnZCZD2.png" group-title="93 ADULTOS", Adult Swim Last Stream On The Left
+https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bnZCZD2.png" group-title="93 ADULTOS", Adult Swim Last Stream On The Left
+https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CaKq6Mt.png" group-title="93 ADULTOS", Adult Swim Metalocalypse
+https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CaKq6Mt.png" group-title="93 ADULTOS", Adult Swim Metalocalypse
+https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X2qhBpO.png" group-title="93 ADULTOS", Adult Swim Off The Air
+https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X2qhBpO.png" group-title="93 ADULTOS", Adult Swim Off The Air
+https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPV5CT1.png" group-title="93 ADULTOS", Adult Swim Rick and Morty
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E6EJ14j.png" group-title="Animation", Adult Swim Robot Chicken
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uPV5CT1.png" group-title="93 ADULTOS", Adult Swim Rick and Morty
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E6EJ14j.png" group-title="93 ADULTOS", Adult Swim Robot Chicken
 https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UOZ4VTH.png" group-title="Animation", Adult Swim Samurai Jack
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E6EJ14j.png" group-title="93 ADULTOS", Adult Swim Robot Chicken
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UOZ4VTH.png" group-title="93 ADULTOS", Adult Swim Samurai Jack
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZwNmt8Y.png" group-title="Animation", Adult Swim The Venture Bros
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UOZ4VTH.png" group-title="93 ADULTOS", Adult Swim Samurai Jack
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/47za7Yq.png" group-title="93 ADULTOS", Adult Swim The Eric Andre Show
+https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/47za7Yq.png" group-title="93 ADULTOS", Adult Swim The Eric Andre Show
+https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZwNmt8Y.png" group-title="93 ADULTOS", Adult Swim The Venture Bros
 https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QWzEK8i.png" group-title="Series", Adult Swim Black Jesus
-https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/47za7Yq.png" group-title="Series", Adult Swim The Eric Andre Show
-https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uLoRE4F.png" group-title="Series", Adult Swim Your Pretty Face Is Going To Hell
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZwNmt8Y.png" group-title="93 ADULTOS", Adult Swim The Venture Bros
+https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uLoRE4F.png" group-title="93 ADULTOS", Adult Swim Your Pretty Face Is Going To Hell
 https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QWzEK8i.png" group-title="Series", Adult Swim Black Jesus
-https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/47za7Yq.png" group-title="Series", Adult Swim The Eric Andre Show
-https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uLoRE4F.png" group-title="Series", Adult Swim Your Pretty Face Is Going To Hell
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uLoRE4F.png" group-title="93 ADULTOS", Adult Swim Your Pretty Face Is Going To Hell
 https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G9TyeCN.png" group-title="Entertainment", Adult Swim Channel 5
-https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gu8luP0.png" group-title="Entertainment", Adult Swim Infomercials
-https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bnZCZD2.png" group-title="Entertainment", Adult Swim Last Stream On The Left
-https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CaKq6Mt.png" group-title="Entertainment", Adult Swim Metalocalypse
-https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G9TyeCN.png" group-title="Entertainment", Adult Swim Channel 5
-https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gu8luP0.png" group-title="Entertainment", Adult Swim Infomercials
-https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bnZCZD2.png" group-title="Entertainment", Adult Swim Last Stream On The Left
-https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CaKq6Mt.png" group-title="Entertainment", Adult Swim Metalocalypse
-https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TSuWOBP.png" group-title="Comedy", Adult Swim Dream Corp LLC
-https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TSuWOBP.png" group-title="Comedy", Adult Swim Dream Corp LLC
-https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X2qhBpO.png" group-title="Relax", Adult Swim Off The Air
-https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X2qhBpO.png" group-title="Relax", Adult Swim Off The Air
-https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="Education", Canal Educacao
-https://canaleducacao-stream.ebc.com.br/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="Education", Canal Educacao
-https://canaleducacao-stream.ebc.com.br/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rHPY0Yv.png" group-title="Legislative", Canal Gov
-https://canalgov-stream.ebc.com.br/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rHPY0Yv.png" group-title="Legislative", Canal Gov
-https://canalgov-stream.ebc.com.br/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LnWWKzP.png" group-title="General", Canal Libras
-https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GrjGwKM.png" group-title="General", COM Brasil
-https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XN6jjMR.png" group-title="General", ConecTV Brasil
-https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="General", SBT Interior
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JxsyXCD.png" group-title="General", TV Beltrao
-https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/noqGfuy.png" group-title="General", TV Brasil Oeste
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uxefHY3.png" group-title="General", TV Comunitaria
-https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U1cYYuy.png" group-title="General", TV Plan
-https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LnWWKzP.png" group-title="General", Canal Libras
-https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GrjGwKM.png" group-title="General", COM Brasil
-https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XN6jjMR.png" group-title="General", ConecTV Brasil
-https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="General", SBT Interior
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JxsyXCD.png" group-title="General", TV Beltrao
-https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/noqGfuy.png" group-title="General", TV Brasil Oeste
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uxefHY3.png" group-title="General", TV Comunitaria
-https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U1cYYuy.png" group-title="General", TV Plan
-https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iiJufN2.png" group-title="Religious", Rede Brasil de Comunicacao
-http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iiJufN2.png" group-title="Religious", Rede Brasil de Comunicacao
-http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zUpWcUN.png" group-title="Culture;Education", TVBE Joinville
-https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zUpWcUN.png" group-title="Culture;Education", TVBE Joinville
-https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://r8q5w2u7.ssl.hwcdn.net/porn-tube/assets/tour/hero-2.png" group-title="93 ADULTOS", X-ART (COMPILAÇÃO)
+http://pornstar4k.com/videos/xart/x-art_bg_kenna_james_kennas_sexual_fantasy_preview.mp4
