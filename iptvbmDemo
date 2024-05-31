@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="01 CANAIS: TV ABERTA", 01 CANAL DO USUARIO Atualizado EM 09/05/24 15:55hs
+https://archive.org/download/canal-do-usuario-iptvbm/Canal%20do%20Usuario%20IPTVBM.mp4
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="01 CANAIS: TV ABERTA", SBT - TV Cidade Verde - (PI)
+http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="01 CANAIS: TV ABERTA", 03 SBT - TV Difusora (MA)
+https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fh4SQ6L.png" group-title="01 CANAIS: TV ABERTA", 09 Band (Experimente o melhor em streaming com nossa lista PREMIUM)
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w16814077.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvtocantins.png" group-title="01 CANAIS: TV ABERTA", 10 RedeTV! Tocantins
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2021/09/Xicara-de-Cafe-Acucar-e-Colher-Png-1024x1024.png" group-title="01 CANAIS: TV ABERTA", CONTRIBUA COM UM CAFEZINHO PIX Chave Fone (47)99626 5594
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/xkmeoGO.png" group-title="01 CANAIS: TV ABERTA", Record News ES
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="01 CANAIS: TV ABERTA", RecordTV MT 2
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanalredetv.png" group-title="01 CANAIS: TV ABERTA", RedeTV! TV Pantanal (MT)
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="01 CANAIS: TV ABERTA", SBT - TV Cidade Verde - (PI)
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="01 CANAIS: TV ABERTA", SBT HD (PR)
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="01 CANAIS: TV ABERTA", SBT Rede Massa (PR)
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvaratu.png" group-title="01 CANAIS: TV ABERTA", SBT TV Aratu (BA)
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvabertasp.png" group-title="01 CANAIS: TV ABERTA", TV ABERTA SP
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvguajara.png" group-title="01 CANAIS: TV ABERTA", SBT TV Guajará (PA)
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/c1XFUsl.png" group-title="01 CANAIS: TV ABERTA", TV Cultura
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-tve-png.png" group-title="01 CANAIS: TV ABERTA", TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="03 CANAIS: SERVIÇOS DO USUARIO", 01 CANAL DO USUARIO Atualizado EM 09/05/24 15:55hs
+https://archive.org/download/canal-do-usuario-iptvbm/Canal%20do%20Usuario%20IPTVBM.mp4
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="03 CANAIS: SERVIÇOS DO USUARIO", 03 MIMOS DA CRIS (TIARAS E LAÇOS) (47)99115 0154
+https://archive.org/download/criativo-oktoberfest-01-mimos-da-cris/Criativo%20Oktoberfest%2001%20Mimos%20da%20Cris.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fh4SQ6L.png" group-title="03 CANAIS: SERVIÇOS DO USUARIO", 09 Band (Experimente o melhor em streaming com nossa lista PREMIUM)
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w16814077.m3u8
+#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="03 CANAIS: SERVIÇOS DO USUARIO", Ganhe dinheiro assistindo VIDEOS
+https://archive.org/download/comercial-play-premiado-01/Comercial%20Play%20Premiado%2001.mp4
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="03 CANAIS: SERVIÇOS DO USUARIO", INDIQUE E GANHE 10 Reais
+https://archive.org/download/indique-e-ganhe-completo/Comercial%20Indique%20e%20ganhe%20Completo-H%20%28VP-5%20RP10%29.mp4
+#EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180802/ufq/kisspng-logo-dish-network-television-channel-directv-5b62ee9d68c872.0964188715332102694292.jpg" group-title="03 CANAIS: SERVIÇOS DO USUARIO", RENDA EXTRA COM Assinaturas pela Internet (47)99195-2228
+https://archive.org/download/vsl-renda-extra-com-assinaturas-pela-internet/VSL%20Renda%20Extra%20com%20Assinaturas%20pela%20Internet.mp4
+#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="03 CANAIS: SERVIÇOS DO USUARIO", VEJA COMO FUNCIONA A LISTA PREMIUM WhatsApp (47)99626-5594
+https://archive.org/download/vsl-como-funciona-canais-tv-e-streamings-bm-criativo/VSL%20Como%20Funciona%20Canais%20TV%20e%20Streamings%20BM%20%28Criativo%29.mp4
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="30 PLUTO TV: ANIMES", Naruto
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="30 PLUTO TV: ANIMES", Pluto TV Anime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="30 PLUTO TV: ANIMES", Pluto TV Anime AÃ§Ã£o
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="30 PLUTO TV: ANIMES", Tokusato
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="ABERTOS", SBT Interior SP
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="ABERTOS", SBT Interior SP
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/sbtrs.png" group-title="ABERTOS", SBT RS (Youtube)
+https://ythls-v2.onrender.com/channel/UCHDfPYXReWt5EVIzBA6TzOQ.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/sbtrs.png" group-title="ABERTOS", SBT RS (Youtube)
+https://ythls-v2.onrender.com/channel/UCHDfPYXReWt5EVIzBA6TzOQ.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/thathi.png" group-title="ABERTOS", SBT TV Thathi (SP)
+https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/hAVgsPo.png" group-title="ABERTOS", REDE TV MAIS
+https://novo.bitstreaming.info:1936/8010/8010/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/vagiDGp.png" group-title="ABERTOS", REDE TV SUL
+https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cinekuriakos.png" group-title="Filmes", KURIAKOS CINE
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cctv13.png" group-title="Filmes", CCTV Filmes
+https://cctvwbcdtxyhw.liveplay.myqcloud.com/live/cdrmjzcctv6_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/boa-vontade-tv.png" group-title="Religioso", Boa Vontade TV (Youtube)
+https://ythls-v2.onrender.com/channel/UCedt33latJW7StRfdF4-1FQ.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/seculo21.png" group-title="Religioso", Rede Século 21
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
