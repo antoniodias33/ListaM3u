@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="01 CANAIS: TV ABERTA", 01 CANAL DO USUARIO Atualizado EM 09/05/24 15:55hs
+#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="01 CANAIS: TV ABERTA", 01 CANAL DO USUARIO Atualizado EM 05/08/24 11:05hs
 https://archive.org/download/canal-do-usuario-iptvbm/Canal%20do%20Usuario%20IPTVBM.mp4
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="01 CANAIS: TV ABERTA", SBT - TV Cidade Verde - (PI)
 http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
@@ -91,6 +91,9 @@ https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 https://stream.ichibantv.com:3827/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="01 CANAIS: TV ABERTA", 03 SBT - TV Difusora (MA)
 https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/S9icaS4.png" group-title="01 CANAIS: TV ABERTA", SBT - BEM TV
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://behappyworld.pro/public/assets/images/logo.png" group-title="01 CANAIS: TV ABERTA", 04 BeHappyWorld WhatsApp(47)99626-5594
 https://hugh.cdn.rumble.cloud/video/s8/2/Q/f/5/F/Qf5Fo.baa.mp4?u=3&b=0
 #EXTINF:-1 tvg-logo="https://ugc.production.linktr.ee/wMgizLsJS7uZuS5dYW1G_yTom3WGFC2sQnsSK" group-title="01 CANAIS: TV ABERTA", 08 Gift Of Legacy (Essa Comunidade ajuda pessoas a prosperar)
@@ -193,8 +196,6 @@ https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/diAxFOm.png" group-title="03 CANAIS: ABERTOS", ADESSO TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/S9icaS4.png" group-title="03 CANAIS: ABERTOS", BEM TV
-http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ipKpPCe.png" group-title="03 CANAIS: ABERTOS", BLITS TV
 https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3tLkoPl.png" group-title="03 CANAIS: ABERTOS", CAMOCIM WEB TV
@@ -533,28 +534,40 @@ https://cctvwbcdtxyhw.liveplay.myqcloud.com/live/cdrmjzcctv6_1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="04 CANAIS: FILMES E SERIES", Filmes 03
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="04 CANAIS: FILMES E SERIES", Filmes 07
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="04 CANAIS: FILMES E SERIES", Filmes 08
 https://stmv1.srvif.com/gospelf/gospelf/chunklist_w74712399.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="04 CANAIS: FILMES E SERIES", Filmes 14
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="04 CANAIS: FILMES E SERIES", Filmes 18
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="04 CANAIS: FILMES E SERIES", Filmes 20
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospel.jpg" group-title="04 CANAIS: FILMES E SERIES", Gospel Movie TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0JM9jLh.jpg" group-title="04 CANAIS: FILMES E SERIES", GOSPEL MOVIES TELEVISION
 https://stmv1.srvif.com/gospelf/gospelf/chunklist_w74712399.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aiGQtzI.png" group-title="04 CANAIS: FILMES E SERIES", MyTime Movie Network Brazil (720p)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/7839/cabecalho-7839-20200604004458.jpg" group-title="04 CANAIS: FILMES E SERIES", TV NOVA PLAY
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/OJMDjjz.png" group-title="03 CANAIS: ABERTOS", TV SDB
 https://5a0c3936c25c8.streamlock.net/8094/8094/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/PYRH7yJ.png" group-title="04 CANAIS: FILMES E SERIES", TV SERIES 1 AS PANTERAS
 https://stmv1.srvif.com/tvserie/tvserie/chunklist_w173840741.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/g3TwbPa.png" group-title="04 CANAIS: FILMES E SERIES", TV VIA MORENA
 https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/chunklist_w980435189.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8e2460502f204b225c89d644e88153a8.png" group-title="05 CANAIS: INFANTIL Gratis", Anime tv
@@ -2003,102 +2016,52 @@ https://cdn.adultiptv.net/anal.m3u8
 https://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mBJyTOp.png" group-title="92 XXX ADULTOS", AdultIPTV.net Asian
 https://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mBJyTOp.png" group-title="92 XXX ADULTOS", AdultIPTV.net Asian
-https://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Big Ass
-https://cdn.adultiptv.net/bigass.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Big Ass
 https://cdn.adultiptv.net/bigass.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Big Dick
 https://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Big Dick
-https://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Big Tits
-https://cdn.adultiptv.net/bigtits.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Big Tits
 https://cdn.adultiptv.net/bigtits.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Blonde
 https://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Blonde
-https://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Blowjob
-https://cdn.adultiptv.net/blowjob.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Blowjob
 https://cdn.adultiptv.net/blowjob.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Brunette
 https://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Brunette
-https://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Compilation
-https://cdn.adultiptv.net/compilation.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Compilation
 https://cdn.adultiptv.net/compilation.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Cuckold
 https://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Cuckold
-https://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Fetish
-https://cdn.adultiptv.net/fetish.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Fetish
 https://cdn.adultiptv.net/fetish.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Gangbang
 https://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Gangbang
-https://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Gay
-https://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Gay
 https://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Hardcore
 https://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Hardcore
-https://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Interracial
-https://cdn.adultiptv.net/interracial.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Interracial
 https://cdn.adultiptv.net/interracial.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Latina
 https://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Latina
-https://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Lesbian
-https://cdn.adultiptv.net/lesbian.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Lesbian
 https://cdn.adultiptv.net/lesbian.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Live Cams
 https://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Live Cams
-https://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net MILF
-https://cdn.adultiptv.net/milf.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net MILF
 https://cdn.adultiptv.net/milf.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Pornstar
 https://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Pornstar
-https://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net POV
-https://cdn.adultiptv.net/pov.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net POV
 https://cdn.adultiptv.net/pov.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Rough
 https://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Rough
-https://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Russian
-https://cdn.adultiptv.net/russian.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Russian
 https://cdn.adultiptv.net/russian.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Teen
 https://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Teen
-https://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Threesome
 https://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Threesome
-https://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Woman
-https://live.redtraffic.net/woman.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eUIaHx.png" group-title="92 XXX ADULTOS", AdultIPTV.net Woman
 https://live.redtraffic.net/woman.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="92 XXX ADULTOS", Adulto 4K: VOD1
