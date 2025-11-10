@@ -12,6 +12,9 @@ https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="CANAIS | ABERTOS", SBT
 https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ad1ff26218bd5eae6959174fb296227b.webp" group-title="CANAIS | CARROS", Garage TV Ao Vivo
+https://stream1.sersat.com/hls/garagetv.m3u8
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvguajara.png" group-title="CANAIS | ABERTOS", SBT TV Guajará (PA)
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 
