@@ -369,6 +369,9 @@ https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/chu
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/smilinguido.png" group-title="CANAIS | INFANTIL Gratis", Gospel Cartoon  (Indique e GANHE 10 REAIS  (47)99626-5594)
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7856d68f41f8f261c2cdeca2b92dce7b.webp" group-title="CANAIS | INFANTIL Gratis", Jetsons Tv Ao Vivo
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/tg-en-espanol-rectangle-logo-option4.jpeg" group-title="CANAIS | INFANTIL Gratis", TOON GOGGLES EN ESPAÑOL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 
