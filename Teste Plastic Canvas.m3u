@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="TESTE CANVAS" parent-code="1", 01 TESTE EM 20/07/2026 11:21Hs
-https://vimeo.com/255285410
+https://player.vimeo.com/video/255285410?h=0174d2a24b
 #EXTINF:-1 tvg-id="2" tvg-logo="" group-title="TESTE CANVAS" parent-code="2", 02 Plataforma Bolsas na Tela
-https://vimeo.com/1070091051
+https://player.vimeo.com/video/1070091051?h=256cbffbb9
 
 #EXTINF:-1 tvg-id="3" tvg-logo="" group-title="TESTE CANVAS" parent-code="3", 03 Bolsa Alba em couro legítimo
-https://vimeo.com/872366969
+https://player.vimeo.com/video/872366969?h=9aa3358541
