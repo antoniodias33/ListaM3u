@@ -1,11 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="CANAIS | ABERTOS", BAND Pará - RBA TV
+https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="CANAIS | ABERTOS", RECORD 2
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="CANAIS | ABERTOS", REDE TV
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="CANAIS | ABERTOS", 20/07/2026 11:40hs BAND Pará - RBA TV
 https://youtu.be/bU3f5YxaWns
 
-#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="CANAIS | ABERTOS", RECORD 2
+#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="CANAIS | ABERTOS", Youtube2
 https://youtu.be/XQu0gXEjIQk
 
-#EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="CANAIS | ABERTOS", REDE TV
+#EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="CANAIS | ABERTOS", Youtube3
 https://youtu.be/Bqr0DeyuovA
 
