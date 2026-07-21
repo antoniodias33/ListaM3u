@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="INTRODUÇÃO", foi feita à mão.  ATUALIZADO EM: 21/07/2026 13:00hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="INTRODUÇÃO" audio-track="por", foi feita à mão.  ATUALIZADO EM: 21/07/2026 14:10hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
+#EXTINF:1244 tvg-logo="https://i.ytimg.com/vi/6KdqGQMbb1s/mqdefault.jpg" group-title="INTRODUÇÃO",Como marcar sua tela para montar sua bolsa 1
+https://www.youtube.com/watch?v=6KdqGQMbb1s
+#EXTINF:1343 tvg-logo="https://i.ytimg.com/vi/UyrMSJr4po4/mqdefault.jpg" group-title="INTRODUÇÃO",Como marcar sua tela para montar sua bolsa 2
+https://www.youtube.com/watch?v=UyrMSJr4po4
 #EXTINF:1971 tvg-logo="https://i.ytimg.com/vi/_JkV6P1XyEA/mqdefault.jpg" group-title="MÓDULO 1 - INICIANTES",Bolsa de Tela de Plástico | Qualquer um pode fazer! | Tutorial Fácil de Bolsa de Tela de Plástico (Faça Você Mesmo)
 https://www.youtube.com/watch?v=_JkV6P1XyEA
 #EXTINF:1615 tvg-logo="https://i.ytimg.com/vi/c_gku3rI1V0/mqdefault.jpg" group-title="MÓDULO 1 - INICIANTES",Como cortar sua tela para montar sua bolsa
@@ -77,10 +81,6 @@ https://www.youtube.com/watch?v=8pGFAbcgpus
 https://www.youtube.com/watch?v=YGGolbGD2AQ
 #EXTINF:55 tvg-logo="https://i.ytimg.com/vi/OMFT4viTvbw/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",Como fazer bolsas bordada em tela em breve
 https://www.youtube.com/watch?v=OMFT4viTvbw
-#EXTINF:1244 tvg-logo="https://i.ytimg.com/vi/6KdqGQMbb1s/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",Como marcar sua tela para montar sua bolsa
-https://www.youtube.com/watch?v=6KdqGQMbb1s
-#EXTINF:1343 tvg-logo="https://i.ytimg.com/vi/UyrMSJr4po4/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",Como marcar sua tela para montar sua bolsa
-https://www.youtube.com/watch?v=UyrMSJr4po4
 #EXTINF:1193 tvg-logo="https://i.ytimg.com/vi/EW78sqrHR-8/mqdefault.jpg" group-title="MÓDULO 5 - CURSO BOLSAS NA TELA", tejida en MALLA PLÁSTICA / punto plaid en plastic canvas
 https://www.youtube.com/watch?v=EW78sqrHR-8
 #EXTINF:1474 tvg-logo="https://i.ytimg.com/vi/X4QHXaO2ppY/mqdefault.jpg" group-title="MÓDULO 5 - CURSO BOLSAS NA TELA", terminamos a sacola! Forro e acabamento profissionais + anúncio do concurso e prêmios para os participantes. Sacola de lona plástica
@@ -289,6 +289,12 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanalredetv.png" group-title="TV | CANAIS | ABERTOS", RedeTV! TV Pantanal (MT)
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG-1599153408949.png" group-title="TV | CANAIS | PLUTO TV: ANIMES", Pluto TV Anime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&devi ceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_do main=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="TV | CANAIS | PLUTO TV: ANIMES", Pluto TV Anime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="TV | CANAIS | PLUTO TV: ANIMES", Pluto TV Anime AÃ§Ã£o
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3f6171c551bfebb0226b4f7d526a8e6f.webp" group-title="TV | CANAIS | RELIGIOSOS", TV Gideões
 https://tv01.zas.media:1936/gideoes/gideoes/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4lnSlOZ.png" group-title="TV | CANAIS | RELIGIOSOS", Fonte TV
@@ -327,9 +333,3 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_f61dea77-770b-444c-8f61-88b3f8666b3f.m3u8
 #EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/60ddb652a9fbc_d19ecce6131ee18d0d846a16aae7ed6e.png" group-title="TV | CANAIS | RELIGIOSOS", Vivas Tv
 https://stmv1.liveplushd.com.br/tvvivam/tvvivam/chunklist_w252085201.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG-1599153408949.png" group-title="TV | CANAIS | PLUTO TV: ANIMES", Pluto TV Anime
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&devi ceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_do main=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="TV | CANAIS | PLUTO TV: ANIMES", Pluto TV Anime
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="TV | CANAIS | PLUTO TV: ANIMES", Pluto TV Anime AÃ§Ã£o
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
