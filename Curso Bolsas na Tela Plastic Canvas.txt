@@ -1,0 +1,202 @@
+#EXTM3U
+#EXTINF:1615 tvg-logo="https://i.ytimg.com/vi/c_gku3rI1V0/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Como cortar sua tela para montar sua bolsa
+https://www.youtube.com/watch?v=c_gku3rI1V0
+#EXTINF:635 tvg-logo="https://i.ytimg.com/vi/LTE67pknJrQ/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Qualquer um consegue fazer – Bolsa de Tela Plástica (DIY)
+https://www.youtube.com/watch?v=LTE67pknJrQ
+#EXTINF:547 tvg-logo="https://i.ytimg.com/vi/iYfgvAtLbVg/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Esta ideia vai te ajudar muito nas férias deste verão! É tão caro!
+https://www.youtube.com/watch?v=iYfgvAtLbVg
+#EXTINF:2918 tvg-logo="https://i.ytimg.com/vi/tvgK5ElBaJo/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Passo a Passo ‪@ruteprestes-bolsasnatela
+https://www.youtube.com/watch?v=tvgK5ElBaJo
+#EXTINF:3185 tvg-logo="https://i.ytimg.com/vi/vHgXx63h35Y/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Bolsa sacola simples (DIY) com tela plástica e macramê de poliéster
+https://www.youtube.com/watch?v=vHgXx63h35Y
+#EXTINF:823 tvg-logo="https://i.ytimg.com/vi/5P-iLqDEkKE/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Plastic Canvas Bag Tutorial | Bolsa de tela plástica (faça você mesmo) #bolsadetela #telaplástica #bolsadetelaplástica
+https://www.youtube.com/watch?v=5P-iLqDEkKE
+#EXTINF:1486 tvg-logo="https://i.ytimg.com/vi/XQVSHRm__Bw/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Como fazer uma bolsa elegante feita à mão usando tela plástica e fita / Tutorial de bolsa de tela plástica (ESPANHOL)
+https://www.youtube.com/watch?v=XQVSHRm__Bw
+#EXTINF:3212 tvg-logo="https://i.ytimg.com/vi/Ks8gwH8RDJo/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Como fazer você mesmo uma bolsa de lona estilosa
+https://www.youtube.com/watch?v=Ks8gwH8RDJo
+#EXTINF:719 tvg-logo="https://i.ytimg.com/vi/9Opom1PU-Kk/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Biblioteca de Pontos: Como fazer um ponto bonito usando plástico como tela
+https://www.youtube.com/watch?v=9Opom1PU-Kk
+#EXTINF:653 tvg-logo="https://i.ytimg.com/vi/qFhwp_obC-c/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Passo a passo da Bag Fé uma bolsa de crochê estruturada com acabamento de luxo
+https://www.youtube.com/watch?v=qFhwp_obC-c
+#EXTINF:1971 tvg-logo="https://i.ytimg.com/vi/_JkV6P1XyEA/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Bolsa de Tela de Plástico | Qualquer um pode fazer! | Tutorial Fácil de Bolsa de Tela de Plástico (Faça Você Mesmo)
+https://www.youtube.com/watch?v=_JkV6P1XyEA
+#EXTINF:1731 tvg-logo="https://i.ytimg.com/vi/JsPyL_1jTrw/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Fiz uma bolsa com cara de grife usando tela plástica! Tutorial fácil de fazer em casa
+https://www.youtube.com/watch?v=JsPyL_1jTrw
+#EXTINF:2058 tvg-logo="https://i.ytimg.com/vi/S25D6Qqegjo/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Bolsa de Lona e Tela (DIY) | Essa bolsa sempre recebe elogios!
+https://www.youtube.com/watch?v=S25D6Qqegjo
+#EXTINF:805 tvg-logo="https://i.ytimg.com/vi/1WPZCiD57ZE/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Elegante e estiloso! Como fazer uma bolsinha de celular com tela plástica (DIY)
+https://www.youtube.com/watch?v=1WPZCiD57ZE
+#EXTINF:520 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA", Não é de uma boutique! Esta bolsa de malha feita de plástico e fio de camiseta, inspirada na Tous, foi feita à mão.
+https://www.youtube.com/watch?v=QuQFg7QUTnE
+#EXTINF:759 tvg-logo="https://i.ytimg.com/vi/g1p-b5llm6I/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",VOCÊ CONSEGUE FAZER COM TELA! Como fazer uma bolsa de cristal com tela plástica
+https://www.youtube.com/watch?v=g1p-b5llm6I
+#EXTINF:1211 tvg-logo="https://i.ytimg.com/vi/PnIpTwy5BTM/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Você vai se apaixonar! Faça esta bolsa elegante usando tela plástica e fita de tule.
+https://www.youtube.com/watch?v=PnIpTwy5BTM
+#EXTINF:1106 tvg-logo="https://i.ytimg.com/vi/8MuQO53LhuI/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Everyone will want one! Make this plastic mesh bag with a professional finish!
+https://www.youtube.com/watch?v=8MuQO53LhuI
+#EXTINF:1169 tvg-logo="https://i.ytimg.com/vi/iovaspFBv7A/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Esta BOLSA de MALLA de PLÁSTICO y trapillo será de las favoritas en tu NEGOCIO
+https://www.youtube.com/watch?v=iovaspFBv7A
+#EXTINF:750 tvg-logo="https://i.ytimg.com/vi/UoLUZ6uthyg/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",For a BAG! How to MAKE a PLASTIC MESH HEART by cutting the mesh
+https://www.youtube.com/watch?v=UoLUZ6uthyg
+#EXTINF:488 tvg-logo="https://i.ytimg.com/vi/w_J_vRa6J80/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",How cute! How to make a really easy and pretty card holder with plastic mesh and raffia
+https://www.youtube.com/watch?v=w_J_vRa6J80
+#EXTINF:581 tvg-logo="https://i.ytimg.com/vi/QSWVL6Ud6hE/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",How to make a lady's wallet with plastic mesh and t-shirt yarn and how to sew a zipper onto a bag
+https://www.youtube.com/watch?v=QSWVL6Ud6hE
+#EXTINF:1735 tvg-logo="https://i.ytimg.com/vi/jI0BOoCAd_Y/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Make it yourself and surprise everyone! 😯 How to make a bag with plastic mesh / briefcase wallet
+https://www.youtube.com/watch?v=jI0BOoCAd_Y
+#EXTINF:828 tvg-logo="https://i.ytimg.com/vi/k4Oe-xtc_1Q/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",SUPER TRICK! How to MAKE a PLASTIC MESH BAG and HIDE the CLASP / Elegant Envelope-Style Wallet
+https://www.youtube.com/watch?v=k4Oe-xtc_1Q
+#EXTINF:1170 tvg-logo="https://i.ytimg.com/vi/Vs_gCapsbOg/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",How beautiful! How to make a backpack with plastic mesh and raffia / plastic canvas bag
+https://www.youtube.com/watch?v=Vs_gCapsbOg
+#EXTINF:647 tvg-logo="https://i.ytimg.com/vi/BZQUS5B3IiU/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Carterita CUTE! Cómo HACER esta CARTERA DE MALLA PLÁSTICA o Plastic Canvas 😍 Última Parte
+https://www.youtube.com/watch?v=BZQUS5B3IiU
+#EXTINF:794 tvg-logo="https://i.ytimg.com/vi/Y0O6Qp-qsxs/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Cute! Make this purse with plastic mesh or plastic canvas / Part 1
+https://www.youtube.com/watch?v=Y0O6Qp-qsxs
+#EXTINF:808 tvg-logo="https://i.ytimg.com/vi/cUl7XLL2IjY/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",With Plastic Canvas! How to Make a Mini Bag with Plastic Canvas / Cute DIY Suitcase
+https://www.youtube.com/watch?v=cUl7XLL2IjY
+#EXTINF:782 tvg-logo="https://i.ytimg.com/vi/42Sy60EHefQ/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",How to MAKE a PURSE cube with PLASTIC MESH
+https://www.youtube.com/watch?v=42Sy60EHefQ
+#EXTINF:1854 tvg-logo="https://i.ytimg.com/vi/eff4kgkbPHo/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Haz esta MINI MOCHILA! Como HACER una BOLSA con MALLA PLÁSTICA
+https://www.youtube.com/watch?v=eff4kgkbPHo
+#EXTINF:818 tvg-logo="https://i.ytimg.com/vi/CifMaA166kI/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Now yes 😂 COMPLETE SUMMARY / how to make a BAG with PLASTIC MESH / summer clutch
+https://www.youtube.com/watch?v=CifMaA166kI
+#EXTINF:823 tvg-logo="https://i.ytimg.com/vi/e0T30vzLb1o/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Learn how to easily make this summer bag with plastic mesh / clutch style
+https://www.youtube.com/watch?v=e0T30vzLb1o
+#EXTINF:1363 tvg-logo="https://i.ytimg.com/vi/ZvsFCEJ4UsU/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",FROM SCRATCH! Bag with plastic mesh and raffia / Diamond stitch and reinforcement / Plastic canvas
+https://www.youtube.com/watch?v=ZvsFCEJ4UsU
+#EXTINF:1426 tvg-logo="https://i.ytimg.com/vi/Lz4jcdQjuT8/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",How to make a mini bag with plastic mesh and raffia
+https://www.youtube.com/watch?v=Lz4jcdQjuT8
+#EXTINF:1328 tvg-logo="https://i.ytimg.com/vi/vDS4kRIB8Xc/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Stitch and Assembly Summary! How to Make a Bag with Plastic Mesh and Raffia (CHANEL TWEED inspira...
+https://www.youtube.com/watch?v=vDS4kRIB8Xc
+#EXTINF:1362 tvg-logo="https://i.ytimg.com/vi/TQxZTB2RVZo/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",How to make a bag with plastic mesh and raffia / Tweed style / Weaving in plastic canvas
+https://www.youtube.com/watch?v=TQxZTB2RVZo
+#EXTINF:1317 tvg-logo="https://i.ytimg.com/vi/ILKUlYAS2y4/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Both Tutorials Together and Summarized! Bag with plastic mesh. Diamond stitch and assembly.
+https://www.youtube.com/watch?v=ILKUlYAS2y4
+#EXTINF:1044 tvg-logo="https://i.ytimg.com/vi/WHypClW54Jo/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",How Fat! How to Make a Bag with Plastic Mesh and Chenille / Handmade Bag
+https://www.youtube.com/watch?v=WHypClW54Jo
+#EXTINF:1769 tvg-logo="https://i.ytimg.com/vi/omxIlof_MAo/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",MAKE THE BAG FROM SCRATCH! How to Knit with Mesh and Raffia and How to Assemble It / Plastic Canv...
+https://www.youtube.com/watch?v=omxIlof_MAo
+#EXTINF:1233 tvg-logo="https://i.ytimg.com/vi/0WYwSShC2mU/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Como hacer una BOLSA con MALLA DE PLÁSTICO Y RAFIA estilo TALAVERA Mexicana / Plastic Canvas Bag
+https://www.youtube.com/watch?v=0WYwSShC2mU
+#EXTINF:1799 tvg-logo="https://i.ytimg.com/vi/mie-dzX_lq0/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Como hacer DISEÑO con MALLA DE PLASTICO Y RAFIA estilo TALAVERA mexicana / flor / Plastic Canvas
+https://www.youtube.com/watch?v=mie-dzX_lq0
+#EXTINF:1017 tvg-logo="https://i.ytimg.com/vi/50rdxVMDvTY/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",A todas les GUSTARÁ !! Como hacer Cartera o BOLSA DE MALLA DE PLÁSTICO / Plastic Canvas
+https://www.youtube.com/watch?v=50rdxVMDvTY
+#EXTINF:1193 tvg-logo="https://i.ytimg.com/vi/EW78sqrHR-8/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA", tejida en MALLA PLÁSTICA / punto plaid en plastic canvas
+https://www.youtube.com/watch?v=EW78sqrHR-8
+#EXTINF:812 tvg-logo="https://i.ytimg.com/vi/07HKlKzDT9A/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Como hacer CARTERA o billetera TEJIDA con MALLA PLASTICA y divisiones a CROCHET / plastic canvas bag
+https://www.youtube.com/watch?v=07HKlKzDT9A
+#EXTINF:930 tvg-logo="https://i.ytimg.com/vi/9xN2UdPXwqw/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",¡ENAMÓRATE! Como HACER una MINI BOLSA tejida con MALLA DE PLÁSTICO Y RAFIA / plastic canvas
+https://www.youtube.com/watch?v=9xN2UdPXwqw
+#EXTINF:639 tvg-logo="https://i.ytimg.com/vi/msiMBqdiBTU/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",¡CHIC y LLAMATIVA! Como HACER una BOLSA tejida en MALLA D PLÁSTICO / pata de gallo / plastic canvas
+https://www.youtube.com/watch?v=msiMBqdiBTU
+#EXTINF:1730 tvg-logo="https://i.ytimg.com/vi/UXNu-OPTJ4M/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Como HACER esta CARTERA o billetera CON COMPARTIMENTOS tejida en MALLA DE PLÁSTICO / plastic canvas
+https://www.youtube.com/watch?v=UXNu-OPTJ4M
+#EXTINF:985 tvg-logo="https://i.ytimg.com/vi/7KWneXgOgtg/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Cómo hacer la BOLSA tejida EN MALLA DE PLÁSTICO más tierna y CUTE / plastic canvas
+https://www.youtube.com/watch?v=7KWneXgOgtg
+#EXTINF:1270 tvg-logo="https://i.ytimg.com/vi/OSPCqeD4LAU/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Everyone loves it // How to make the most charming woven plastic mesh bag
+https://www.youtube.com/watch?v=OSPCqeD4LAU
+#EXTINF:785 tvg-logo="https://i.ytimg.com/vi/ZdX6-z6ilMc/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Perdí la cuenta de las veces que la chulearon // como bordar o tejer una bolsa usando malla plástica
+https://www.youtube.com/watch?v=ZdX6-z6ilMc
+#EXTINF:215 tvg-logo="https://i.ytimg.com/vi/bsN2Kp-6wek/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",A simple but very beautiful bag made of plastic canvas.
+https://www.youtube.com/watch?v=bsN2Kp-6wek
+#EXTINF:1461 tvg-logo="https://i.ytimg.com/vi/owXeuav0_yU/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",شنطة شبك كنفاه بغرزة الحلزون (السينابون)الجزء التاني بطريقة سهلة وبسيطه plastic canva bag #trending 
+https://www.youtube.com/watch?v=owXeuav0_yU
+#EXTINF:2057 tvg-logo="https://i.ytimg.com/vi/glv3N2t9VJs/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",طريقة عمل شنطة شبك كنفا شنطة العيد غرزة جديده للمبتدئين الجزء الأولplastic canvas #trending #explore
+https://www.youtube.com/watch?v=glv3N2t9VJs
+#EXTINF:1846 tvg-logo="https://i.ytimg.com/vi/H2LQzj-fEdw/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",بناء على طلب الجماهير شنطه شبك كنفا بغرزة السينابون 🤭 بطريقة سهلة للمبتدئين#trend#explore #handmade
+https://www.youtube.com/watch?v=H2LQzj-fEdw
+#EXTINF:968 tvg-logo="https://i.ytimg.com/vi/1Sh8aj5Y888/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",طريقة عمل شنطه شبك كنفا بغرزة جديدة وتصميم مميز شنطة العيد plastic canvas bag شرح مبسط للمبتدئين
+https://www.youtube.com/watch?v=1Sh8aj5Y888
+#EXTINF:2410 tvg-logo="https://i.ytimg.com/vi/J63L61sZl9A/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",طريقة عمل شنطه شبك كنفا بغرزة الشعلة باأسهل طريقة للمبتدئين plasticcanvasbag#trend#اكسبلور #handmade
+https://www.youtube.com/watch?v=J63L61sZl9A
+#EXTINF:2255 tvg-logo="https://i.ytimg.com/vi/F5uR5BQAPno/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",طريقة عمل شنطة شبك كنفاه بغرزة 3D مميزة ومختلفه ب اسهل طريقه للمبتدئين plastic canvas bag #trending
+https://www.youtube.com/watch?v=F5uR5BQAPno
+#EXTINF:4108 tvg-logo="https://i.ytimg.com/vi/XOgSX-g6NjA/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",طريقة عمل شنطة شبك كنفا بخيط السلسلةاسهل طريقه للمبتدئين plastic canvas bag stitch#اكسبلور #trending
+https://www.youtube.com/watch?v=XOgSX-g6NjA
+#EXTINF:1465 tvg-logo="https://i.ytimg.com/vi/faLb1Aqzttc/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",طريقة عمل شنطة شبك كنفا ب اسهل طريقه للمبتدئين 😍 بغرزة الزجزاج  plastic canvas bag stitch #اكسبلور
+https://www.youtube.com/watch?v=faLb1Aqzttc
+#EXTINF:1893 tvg-logo="https://i.ytimg.com/vi/W6DQWGcqF3A/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",طريقة عمل شنطه شبك كنفاه بغرزة جديدة باسهل طريقةللمبتدئين new stitch plastic canvas#اكسبلور#handmade
+https://www.youtube.com/watch?v=W6DQWGcqF3A
+#EXTINF:1611 tvg-logo="https://i.ytimg.com/vi/k-1uJ1f7sX4/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",طريقة عمل شنطه شبك كنفاه سواريه بغرزة الاسهم الهرميه plastic canvas stitch باسهل طريقه للمبتدئين
+https://www.youtube.com/watch?v=k-1uJ1f7sX4
+#EXTINF:693 tvg-logo="https://i.ytimg.com/vi/1bvCkvWtPZA/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",طريقة عمل شنطة شبك كنفاه كانفا بغرزة جديدة اسهل غرزة للمبتدئين😍الجزء الأول plastic canvas bag stitch
+https://www.youtube.com/watch?v=1bvCkvWtPZA
+#EXTINF:1780 tvg-logo="https://i.ytimg.com/vi/f3kKWH3c27Q/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",طريقة عمل شنطه كنفاه بغرزة الخطوط المايله زجزاج ب اسهل طريقة للمبتدئين 😍 يوم واحد شغل ومشروع مربح♥️👛
+https://www.youtube.com/watch?v=f3kKWH3c27Q
+#EXTINF:899 tvg-logo="https://i.ytimg.com/vi/mrcoPcy0-3I/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",💥The Most Epic 2026 Handmade Bag Workshop🔥Start with a stitch... and dazzle everyone with luxurio...
+https://www.youtube.com/watch?v=mrcoPcy0-3I
+#EXTINF:836 tvg-logo="https://i.ytimg.com/vi/Wuy9UKGeLS8/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",A lição mais importante da oficina | O segredo para uma bolsa com aparência profissional do primeiro ao último ponto (bolsa de lona plástica)
+
+https://www.youtube.com/watch?v=Wuy9UKGeLS8
+#EXTINF:1092 tvg-logo="https://i.ytimg.com/vi/VGpuHPP-ZdQ/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",❌ NEVER make bag sides this way! The results will be 180 degrees different 😍🔥 Free Workshop Lesso...
+https://www.youtube.com/watch?v=VGpuHPP-ZdQ
+#EXTINF:1474 tvg-logo="https://i.ytimg.com/vi/X4QHXaO2ppY/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Finalmente, terminamos a sacola! Forro e acabamento profissionais + anúncio do concurso e prêmios para os participantes. Sacola de lona plástica
+https://www.youtube.com/watch?v=X4QHXaO2ppY
+#EXTINF:5689 tvg-logo="https://i.ytimg.com/vi/qYPy1LeKt18/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",🔥 إعلان المسابقة الكبرى أخيرًا! مفاجآت وجوائز محدش متوقعها 🎁🔥
+https://www.youtube.com/watch?v=qYPy1LeKt18
+#EXTINF:1431 tvg-logo="https://i.ytimg.com/vi/a3na0BW09Ls/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",طريقه عمل شنطه شبك كنفاه بغرزة جديده بطريقه سهله للمبتدئين plastic canva bag #handmade #اكسبلور 
+https://www.youtube.com/watch?v=a3na0BW09Ls
+#EXTINF:1434 tvg-logo="https://i.ytimg.com/vi/LcXvhg9kbHM/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",طريقة عمل شنطه شبك كنفاه بغرزة تدريج اللون الاخضر الزمردي اكتبولي رائيكم في 😍 #handmade #اكسبلور
+https://www.youtube.com/watch?v=LcXvhg9kbHM
+#EXTINF:2722 tvg-logo="https://i.ytimg.com/vi/xcKcoU8X7jM/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",شنطه شبك كنفاه بغرزة جديده باللون الابيض والاسود كامله plastic canva bag #اكسبلور #handmade #explore
+https://www.youtube.com/watch?v=xcKcoU8X7jM
+#EXTINF:710 tvg-logo="https://i.ytimg.com/vi/LSkW595ng6w/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",طريقةعمل شنطه شبك كنفاه بغرزةجديده بطريقه سهله للمبتدئين#اكسبلور #jumbobag#crochet #handmad#explore 
+https://www.youtube.com/watch?v=LSkW595ng6w
+#EXTINF:1569 tvg-logo="https://i.ytimg.com/vi/iGa_BJ097dY/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",طريقة عمل شنطه شبك كنفاه بطريقة سهلة الجزء التاني #handmade #اكسبلور #explore plastic canva bag 
+https://www.youtube.com/watch?v=iGa_BJ097dY
+#EXTINF:1743 tvg-logo="https://i.ytimg.com/vi/R8GjSqyvM_0/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",شنطه شبك كنفاه بغرزة 3D بفريم معدن الجزء الثالث بطريقه سهله للمبتدئين #اكسبلور #explore #handmade 
+https://www.youtube.com/watch?v=R8GjSqyvM_0
+#EXTINF:1116 tvg-logo="https://i.ytimg.com/vi/2X882kKxe88/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",شنطه شبك كنفاه بفريم معدن الجزء الاخير تقفيل الشنطه وتركيب الفريم على الشبك بطريقه سهله للمبتدئين 
+https://www.youtube.com/watch?v=2X882kKxe88
+#EXTINF:1116 tvg-logo="https://i.ytimg.com/vi/bq9e-3kpRNk/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",How to Make a Canvas Mesh Bag with a Metal Frame - Part 2: Easy Method for Beginners #explore #ex...
+https://www.youtube.com/watch?v=bq9e-3kpRNk
+#EXTINF:2374 tvg-logo="https://i.ytimg.com/vi/m9JLdWtCkOA/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",طريقة عمل شنطة قطيفة شبك كنفا كانفا بأسهل طريقه للمبتدئين 😍plastic canvas bag velvet #trending
+https://www.youtube.com/watch?v=m9JLdWtCkOA
+#EXTINF:1425 tvg-logo="https://i.ytimg.com/vi/1nApYYMoIVM/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",طريقة عمل شنطه كنفاه سواريه من شرايط الاورجانزا  ااسهل طريقه للمبتدئين 😍👍 #handmade  plastic canvas
+https://www.youtube.com/watch?v=1nApYYMoIVM
+#EXTINF:3544 tvg-logo="https://i.ytimg.com/vi/lG8BCrIqjVI/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",How to make a Canvas Bag | Luxury Bag | step by step
+https://www.youtube.com/watch?v=lG8BCrIqjVI
+#EXTINF:3494 tvg-logo="https://i.ytimg.com/vi/LdJLjAKmDaE/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Easy Bag on Screen | Luxury Bag Step-by-Step
+https://www.youtube.com/watch?v=LdJLjAKmDaE
+#EXTINF:2236 tvg-logo="https://i.ytimg.com/vi/xjM9t14e9Sg/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Canvas Bag | Everyday Bag | Step-by-Step
+https://www.youtube.com/watch?v=xjM9t14e9Sg
+#EXTINF:3470 tvg-logo="https://i.ytimg.com/vi/956p-s4UD28/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Backpack Style Canvas Bag | Canvas Bag | Step by Step
+https://www.youtube.com/watch?v=956p-s4UD28
+#EXTINF:4097 tvg-logo="https://i.ytimg.com/vi/5AA4WKIWb4U/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Bolsa Baú na Tela com zíper|Bolsa na Tela|Passo a passo
+https://www.youtube.com/watch?v=5AA4WKIWb4U
+#EXTINF:3496 tvg-logo="https://i.ytimg.com/vi/xolxWGY9J-M/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Plastic Mesh Bag | Mesh Bag Step by Step | Bag Step by Step
+https://www.youtube.com/watch?v=xolxWGY9J-M
+#EXTINF:2590 tvg-logo="https://i.ytimg.com/vi/LYtZHBWwbHU/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",How to Make a Bag in Solid Canvas | Canvas Bag | Step by Step
+https://www.youtube.com/watch?v=LYtZHBWwbHU
+#EXTINF:3587 tvg-logo="https://i.ytimg.com/vi/OHrE8fz8r-c/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",⬛  DIY New plastic canvas  bag design /plastic canvas bag full tutorial #diy  #plasticcanvas
+https://www.youtube.com/watch?v=OHrE8fz8r-c
+#EXTINF:6285 tvg-logo="https://i.ytimg.com/vi/7d5NzTjreh8/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",HOW TO MAKE HANDMADE PLASTIC CANVAS BAG TUTORIAL / NEW PLASTIC CANVAS SITITCHES TUTORIAL
+https://www.youtube.com/watch?v=7d5NzTjreh8
+#EXTINF:4240 tvg-logo="https://i.ytimg.com/vi/8fcO06fHBtQ/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Diy New bag style - Diy plastic canvas purse full tutorial/  How to make pyramid stitch   #diy
+https://www.youtube.com/watch?v=8fcO06fHBtQ
+#EXTINF:3315 tvg-logo="https://i.ytimg.com/vi/nM4eQ2wt1zQ/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",plastic canvas bag full tutorial for beginners / High - quality luxury bag
+https://www.youtube.com/watch?v=nM4eQ2wt1zQ
+#EXTINF:3335 tvg-logo="https://i.ytimg.com/vi/hc-OGPkfW84/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Handmade bag with plastic canvas /diy plastic canvas purse /New design bag- full tutorial
+https://www.youtube.com/watch?v=hc-OGPkfW84
+#EXTINF:3457 tvg-logo="https://i.ytimg.com/vi/vzc2eW2hpI4/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",plastic canvas bag DIY |  canvasDIY PURSE BAG TUTORIAl ||Everyone can make it -How to make a purse
+https://www.youtube.com/watch?v=vzc2eW2hpI4
+#EXTINF:957 tvg-logo="https://i.ytimg.com/vi/kFLTaIaX-VQ/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",DIY PURSE BAG TUTORIAl ||Everyone can make it - Plastic Canvas Bag DIY . How to make a handmade bag
+https://www.youtube.com/watch?v=kFLTaIaX-VQ
+#EXTINF:1198 tvg-logo="https://i.ytimg.com/vi/YylKuSxQ_0o/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",DIY PURSE BAG TUTORIAl ||Everyone can make it - Plastic Canvas Bag DIY . How to make a handmade bag
+https://www.youtube.com/watch?v=YylKuSxQ_0o
+#EXTINF:1420 tvg-logo="https://i.ytimg.com/vi/tNRMCmjTrcU/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",plastic canvas bag DIY |  canvas DIY  PURSE BAG TUTORIAl || New Cross Stitch on plastic canvas
+https://www.youtube.com/watch?v=tNRMCmjTrcU
+#EXTINF:1453 tvg-logo="https://i.ytimg.com/vi/x8nssQn4wD0/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",DIY PURSE tutorial with plastic canvas | How to make a handmade women bag with plastic canvas #DIY
+https://www.youtube.com/watch?v=x8nssQn4wD0
+#EXTINF:1136 tvg-logo="https://i.ytimg.com/vi/Er4voVqGw8w/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Beautiful handmade bag with plastic canvas / plastic canvas purse tutorial /Diy bag
+https://www.youtube.com/watch?v=Er4voVqGw8w
+#EXTINF:938 tvg-logo="https://i.ytimg.com/vi/YtoUlZRtSFk/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",DIY PURSE BAG TUTORIAl - Plastic Canvas Bag DIY . How to Crochet a bag / Easy plastic Canvas
+https://www.youtube.com/watch?v=YtoUlZRtSFk
+#EXTINF:2651 tvg-logo="https://i.ytimg.com/vi/WotUWQeD0qQ/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",DIY New stitch on plastic canvas bag / New plastic canvas bag design / full tutorial
+https://www.youtube.com/watch?v=WotUWQeD0qQ
+#EXTINF:2967 tvg-logo="https://i.ytimg.com/vi/iPzQi6fNWfs/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Diy Luxury bag with plastic canvas and leather metallic thread - full tutorial- New bag design
+https://www.youtube.com/watch?v=iPzQi6fNWfs
+#EXTINF:3565 tvg-logo="https://i.ytimg.com/vi/iM9DZlYLDeI/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",DIY PLASTIC CANVAS BAG / EASY PLASTIC CANVAS BAG TUTORIAL FOR BEGINNERS
+https://www.youtube.com/watch?v=iM9DZlYLDeI
