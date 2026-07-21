@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="INTRODUÇÃO" audio-track="por", foi feita à mão.  ATUALIZADO EM: 21/07/2026 14:10hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="INTRODUÇÃO" audio-track="pt-BR", foi feita à mão.  ATUALIZADO EM: 21/07/2026 14:20hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
 #EXTINF:1244 tvg-logo="https://i.ytimg.com/vi/6KdqGQMbb1s/mqdefault.jpg" group-title="INTRODUÇÃO",Como marcar sua tela para montar sua bolsa 1
 https://www.youtube.com/watch?v=6KdqGQMbb1s
