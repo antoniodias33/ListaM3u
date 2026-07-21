@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="CANAIS | 01 ABERTOS", 01  CANAL DO USUARIO Atualizado EM 20/07/2026 18:55Hs
+#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="CANAIS | 01 ABERTOS", 01  CANAL DO USUARIO Atualizado EM 20/07/2026 23:40Hs
 https://archive.org/download/canal-do-usuario-iptvbm/Canal%20do%20Usuario%20IPTVBM.mp4
 #EXTINF:-1 group-title="CANAIS | 02 TESTE",Segredos Revelados do Gênesis ao Apocalipse (Figuras Misteriosas da Bíblia) 
 https://www.youtube.com/watch?v=1XNYV-M_Gtg
@@ -11,15 +11,15 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="CANAIS | ABERTOS", SBT
 https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvguajara.png" group-title="CANAIS | ABERTOS", SBT TV Guajará (PA)
+#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="CANAIS | ABERTOS", SBT TV Guajará (PA)
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/thathi.png" group-title="CANAIS | ABERTOS", SBT TV Thathi (SP)
+#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="CANAIS | ABERTOS", SBT TV Thathi (SP)
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="CANAIS | ABERTOS", RecordTV MT
+#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="CANAIS | ABERTOS", RecordTV MT
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="CANAIS | ABERTOS", RecordTV MT 2
+#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="CANAIS | ABERTOS", RecordTV MT 2
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="CANAIS | ABERTOS", RecordTV MT 2
+#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="CANAIS | ABERTOS", RecordTV MT 2
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanalredetv.png" group-title="CANAIS | ABERTOS", RedeTV! TV Pantanal (MT)
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
