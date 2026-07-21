@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="INTRODUÇÃO", foi feita à mão.  ATUALIZADO EM: 21/07/2026 12:50hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="INTRODUÇÃO", foi feita à mão.  ATUALIZADO EM: 21/07/2026 13:00hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
 #EXTINF:1971 tvg-logo="https://i.ytimg.com/vi/_JkV6P1XyEA/mqdefault.jpg" group-title="MÓDULO 1 - INICIANTES",Bolsa de Tela de Plástico | Qualquer um pode fazer! | Tutorial Fácil de Bolsa de Tela de Plástico (Faça Você Mesmo)
 https://www.youtube.com/watch?v=_JkV6P1XyEA
@@ -120,9 +120,9 @@ https://www.youtube.com/watch?v=Y0O6Qp-qsxs
 #EXTINF:985 tvg-logo="https://i.ytimg.com/vi/7KWneXgOgtg/mqdefault.jpg" group-title="MÓDULO 5 - CURSO BOLSAS NA TELA",Cómo hacer la BOLSA tejida EN MALLA DE PLÁSTICO más tierna y CUTE / plastic canvas
 https://www.youtube.com/watch?v=7KWneXgOgtg
 #EXTINF:2967 tvg-logo="https://i.ytimg.com/vi/iPzQi6fNWfs/mqdefault.jpg" group-title="MÓDULO 5 - CURSO BOLSAS NA TELA",Diy Luxury bag with plastic canvas and leather metallic thread - full tutorial- New bag design
-https://www.youtube.com/watch?v=iPzQi6fNWfs
-#EXTINF:4240 tvg-logo="https://i.ytimg.com/vi/8fcO06fHBtQ/mqdefault.jpg" group-title="MÓDULO 5 - CURSO BOLSAS NA TELA",Diy New bag style - Diy plastic canvas purse full tutorial/  How to make pyramid stitch   #diy
-https://www.youtube.com/watch?v=8fcO06fHBtQ
+https://youtu.be/iPzQi6fNWfs?si=0-_7c9pdDZkxKlfc
+#EXTINF:4240 tvg-logo="https://i.ytimg.com/vi/8fcO06fHBtQ/mqdefault.jpg" group-title="MÓDULO 5 - CURSO BOLSAS NA TELA",Faça você mesma um novo estilo de bolsa - Tutorial completo de bolsa de lona plástica/ Como fazer ponto pirâmide
+https://youtu.be/8fcO06fHBtQ?si=Sv-ck2CEF1FXG4NB
 #EXTINF:2651 tvg-logo="https://i.ytimg.com/vi/WotUWQeD0qQ/mqdefault.jpg" group-title="MÓDULO 5 - CURSO BOLSAS NA TELA",DIY New stitch on plastic canvas bag / New plastic canvas bag design / full tutorial
 https://www.youtube.com/watch?v=WotUWQeD0qQ
 #EXTINF:3565 tvg-logo="https://i.ytimg.com/vi/iM9DZlYLDeI/mqdefault.jpg" group-title="MÓDULO 5 - CURSO BOLSAS NA TELA",DIY PLASTIC CANVAS BAG / EASY PLASTIC CANVAS BAG TUTORIAL FOR BEGINNERS
