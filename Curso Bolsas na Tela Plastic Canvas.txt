@@ -1,8 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="INTRODUÇÃO", foi feita à mão.  ATUALIZADO EM: 21/07/2026 12:00hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="INTRODUÇÃO", foi feita à mão.  ATUALIZADO EM: 21/07/2026 12:10hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159363961-960480accadb7c66fc57ce523dec93aca5a0f5e7e4fe2974fff460f0d3edd620-d_360x203?&r=pad&region=us" group-title="INTRODUÇÃO", Bolsa Luxo com visual sofisticado e marcante (Polipropileno)
 https://vimeo.com/1193802598
+
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159363961-960480accadb7c66fc57ce523dec93aca5a0f5e7e4fe2974fff460f0d3edd620-d_360x203?&r=pad&region=us" group-title="INTRODUÇÃO", 2 Bolsa Luxo com visual sofisticado e marcante (Polipropileno)
+https://player.vimeo.com/video/1193802598
+
 #EXTINF:1615 tvg-logo="https://i.ytimg.com/vi/c_gku3rI1V0/mqdefault.jpg" group-title="AULAS INICIANTES",Como cortar sua tela para montar sua bolsa
 https://www.youtube.com/watch?v=c_gku3rI1V0
 #EXTINF:547 tvg-logo="https://i.ytimg.com/vi/iYfgvAtLbVg/mqdefault.jpg" group-title="AULAS INICIANTES",Esta ideia vai te ajudar muito nas férias deste verão! É tão caro!
