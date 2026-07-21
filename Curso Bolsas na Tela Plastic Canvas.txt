@@ -1,11 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="INTRODUÇÃO", foi feita à mão.  ATUALIZADO EM: 21/07/2026 12:10hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="INTRODUÇÃO", foi feita à mão.  ATUALIZADO EM: 21/07/2026 12:40hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159363961-960480accadb7c66fc57ce523dec93aca5a0f5e7e4fe2974fff460f0d3edd620-d_360x203?&r=pad&region=us" group-title="INTRODUÇÃO", Bolsa Luxo com visual sofisticado e marcante (Polipropileno)
-https://vimeo.com/1193802598
-
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159363961-960480accadb7c66fc57ce523dec93aca5a0f5e7e4fe2974fff460f0d3edd620-d_360x203?&r=pad&region=us" group-title="INTRODUÇÃO", 2 Bolsa Luxo com visual sofisticado e marcante (Polipropileno)
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159363961-960480accadb7c66fc57ce523dec93aca5a0f5e7e4fe2974fff460f0d3edd620-d_360x203?&r=pad&region=us" group-title="AULAS PRÁTICAS",Bolsa Luxo com visual sofisticado e marcante (Polipropileno)
 https://player.vimeo.com/video/1193802598
+
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159363961-960480accadb7c66fc57ce523dec93aca5a0f5e7e4fe2974fff460f0d3edd620-d_360x203?&r=pad&region=us" group-title="AULAS PRÁTICAS",Bolsa Íris - Delicado e versátil.
+https://player.vimeo.com/video/1193803746
+
+Bolsa Líria - 
+https://player.vimeo.com/video/1193806900
+
+
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159366254-d25c1fb421980e01c88038cb3889fae9c7ad5b2e8b0612136d15f8fdcc57513e-d_360x203?&r=pad&region=us" group-title="AULAS PRÁTICAS",Bolsa Edna - Fio Poliester 5mm 53.5x50cm - Sofisticada com detalhes metálicos
+https://player.vimeo.com/video/1193802601
+
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159364749-6da03870109452ee088f8d0297b769067b6a881431409fb52b61d1ce12d36213-d_360x203?&r=pad&region=us" group-title="AULAS PRÁTICAS",Bolsa Ester - Versátil com possibilidade de personalizações
+https://player.vimeo.com/video/1193802600
 
 #EXTINF:1615 tvg-logo="https://i.ytimg.com/vi/c_gku3rI1V0/mqdefault.jpg" group-title="AULAS INICIANTES",Como cortar sua tela para montar sua bolsa
 https://www.youtube.com/watch?v=c_gku3rI1V0
