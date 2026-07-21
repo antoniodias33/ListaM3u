@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=c_gku3rI1V0
 https://www.youtube.com/watch?v=LTE67pknJrQ
 #EXTINF:547 tvg-logo="https://i.ytimg.com/vi/iYfgvAtLbVg/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Esta ideia vai te ajudar muito nas férias deste verão! É tão caro!
 https://www.youtube.com/watch?v=iYfgvAtLbVg
-#EXTINF:2918 tvg-logo="https://i.ytimg.com/vi/tvgK5ElBaJo/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Passo a Passo ‪@ruteprestes-bolsasnatela
+#EXTINF:2918 tvg-logo="https://i.ytimg.com/vi/tvgK5ElBaJo/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Passo a Passo @ruteprestes-bolsasnatela
 https://www.youtube.com/watch?v=tvgK5ElBaJo
 #EXTINF:3185 tvg-logo="https://i.ytimg.com/vi/vHgXx63h35Y/mqdefault.jpg" group-title="CANAIS | CURSO BOLSAS NA TELA",Bolsa sacola simples (DIY) com tela plástica e macramê de poliéster
 https://www.youtube.com/watch?v=vHgXx63h35Y
