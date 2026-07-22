@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 22/07/2026 15:40hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 22/07/2026 16:00hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
-
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO  0 - BOAS VINDAS",Aula 1 - Bem-vindo ao Curso
 https://www.youtube.com/watch?v=B6MdFl1PIDA
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO  0 - BOAS VINDAS",Aula 2 - Como utilizar o aplicativo
@@ -312,10 +311,8 @@ https://www.youtube.com/watch?v=B6MdFl1PIDA
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/an_webp/fKWA5oTmCFc/mqdefault_6s.webp?du=3000&sqp=CJvqg9MG&rs=AOn4CLCxLXSGNC_zAhhjsRL5dQIMJaBVNw" group-title="MÓDULO 02 – MATERIAIS",Aula 10 - Zíperes - Carteira Clutch Elegante | Tutorial Parte 2
 https://www.youtube.com/watch?v=fKWA5oTmCFc
-
 #EXTINF:-1 tvg-logo="sqp=CJPYg9MG&rs=AOn4CLA0aJ6bDboJdfw4cD8YMs_ELJyUOw" group-title="MÓDULO 02 – MATERIAIS",Aula 11 - Zíperes - Como costurar um zíper em uma bolsa de tela plástica – Parte 2
 https://www.youtube.com/watch?v=w9A8fXzEqgc
-
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 02 – MATERIAIS",Aula 12 - Onde comprar materiais
 https://www.youtube.com/watch?v=B6MdFl1PIDA
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 03 – Técnicas Básicas",Como iniciar a costura
@@ -532,168 +529,110 @@ https://www.youtube.com/watch?v=OxrNJBeK4tk
 https://www.youtube.com/watch?v=YT7AeynFlPA
 #EXTINF:1819 tvg-logo="https://i.ytimg.com/vi/qzl9w5Vi85A/mqdefault.jpg" group-title="MÓDULO 22 - EXTRAS (CROCHÊ)",Base oval de crochê com fio náutico | Técnica moderna e fácil
 https://www.youtube.com/watch?v=qzl9w5Vi85A
-
-
-#EXTINF:3587 tvg-logo="https://i.ytimg.com/vi/OHrE8fz8r-c/mqdefault.jpg" group-title="Hanoure Art",⬛  DIY New plastic canvas  bag design /plastic canvas bag full tutorial #diy  #plasticcanvas
+#EXTINF:3587 tvg-logo="https://i.ytimg.com/vi/OHrE8fz8r-c/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",DIY New plastic canvas  bag design /plastic canvas bag full tutorial #diy  #plasticcanvas
 https://www.youtube.com/watch?v=OHrE8fz8r-c
-
-#EXTINF:6285 tvg-logo="https://i.ytimg.com/vi/7d5NzTjreh8/mqdefault.jpg" group-title="Hanoure Art",HOW TO MAKE HANDMADE PLASTIC CANVAS BAG TUTORIAL / NEW PLASTIC CANVAS SITITCHES TUTORIAL
+#EXTINF:6285 tvg-logo="https://i.ytimg.com/vi/7d5NzTjreh8/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",HOW TO MAKE HANDMADE PLASTIC CANVAS BAG TUTORIAL / NEW PLASTIC CANVAS SITITCHES TUTORIAL
 https://www.youtube.com/watch?v=7d5NzTjreh8
-
-#EXTINF:4240 tvg-logo="https://i.ytimg.com/vi/8fcO06fHBtQ/mqdefault.jpg" group-title="Hanoure Art",Diy New bag style - Diy plastic canvas purse full tutorial/  How to make pyramid stitch   #diy
+#EXTINF:4240 tvg-logo="https://i.ytimg.com/vi/8fcO06fHBtQ/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",Diy New bag style - Diy plastic canvas purse full tutorial/  How to make pyramid stitch   #diy
 https://www.youtube.com/watch?v=8fcO06fHBtQ
-
-#EXTINF:3315 tvg-logo="https://i.ytimg.com/vi/nM4eQ2wt1zQ/mqdefault.jpg" group-title="Hanoure Art",plastic canvas bag full tutorial for beginners / High - quality luxury bag
+#EXTINF:3315 tvg-logo="https://i.ytimg.com/vi/nM4eQ2wt1zQ/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",plastic canvas bag full tutorial for beginners / High - quality luxury bag
 https://www.youtube.com/watch?v=nM4eQ2wt1zQ
-
-#EXTINF:3335 tvg-logo="https://i.ytimg.com/vi/hc-OGPkfW84/mqdefault.jpg" group-title="Hanoure Art",Handmade bag with plastic canvas /diy plastic canvas purse /New design bag- full tutorial
+#EXTINF:3335 tvg-logo="https://i.ytimg.com/vi/hc-OGPkfW84/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",Handmade bag with plastic canvas /diy plastic canvas purse /New design bag- full tutorial
 https://www.youtube.com/watch?v=hc-OGPkfW84
-
-#EXTINF:3457 tvg-logo="https://i.ytimg.com/vi/vzc2eW2hpI4/mqdefault.jpg" group-title="Hanoure Art",plastic canvas bag DIY |  canvasDIY PURSE BAG TUTORIAl ||Everyone can make it -How to make a purse
+#EXTINF:3457 tvg-logo="https://i.ytimg.com/vi/vzc2eW2hpI4/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",plastic canvas bag DIY |  canvasDIY PURSE BAG TUTORIAl ||Everyone can make it -How to make a purse
 https://www.youtube.com/watch?v=vzc2eW2hpI4
-
-#EXTINF:957 tvg-logo="https://i.ytimg.com/vi/kFLTaIaX-VQ/mqdefault.jpg" group-title="Hanoure Art",DIY PURSE BAG TUTORIAl ||Everyone can make it - Plastic Canvas Bag DIY . How to make a handmade bag
+#EXTINF:957 tvg-logo="https://i.ytimg.com/vi/kFLTaIaX-VQ/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",DIY PURSE BAG TUTORIAl ||Everyone can make it - Plastic Canvas Bag DIY . How to make a handmade bag
 https://www.youtube.com/watch?v=kFLTaIaX-VQ
-
-#EXTINF:1198 tvg-logo="https://i.ytimg.com/vi/YylKuSxQ_0o/mqdefault.jpg" group-title="Hanoure Art",DIY PURSE BAG TUTORIAl ||Everyone can make it - Plastic Canvas Bag DIY . How to make a handmade bag
+#EXTINF:1198 tvg-logo="https://i.ytimg.com/vi/YylKuSxQ_0o/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",DIY PURSE BAG TUTORIAl ||Everyone can make it - Plastic Canvas Bag DIY . How to make a handmade bag
 https://www.youtube.com/watch?v=YylKuSxQ_0o
-
-#EXTINF:969 tvg-logo="https://i.ytimg.com/vi/dhOAoj62pb8/mqdefault.jpg" group-title="Hanoure Art",plastic canvas bag DIY |  canvasDIY PURSE BAG TUTORIAl ||Everyone can make it -How to make a purse
+#EXTINF:969 tvg-logo="https://i.ytimg.com/vi/dhOAoj62pb8/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",plastic canvas bag DIY |  canvasDIY PURSE BAG TUTORIAl ||Everyone can make it -How to make a purse
 https://www.youtube.com/watch?v=dhOAoj62pb8
-
-#EXTINF:1420 tvg-logo="https://i.ytimg.com/vi/tNRMCmjTrcU/mqdefault.jpg" group-title="Hanoure Art",plastic canvas bag DIY |  canvas DIY  PURSE BAG TUTORIAl || New Cross Stitch on plastic canvas
+#EXTINF:1420 tvg-logo="https://i.ytimg.com/vi/tNRMCmjTrcU/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",plastic canvas bag DIY |  canvas DIY  PURSE BAG TUTORIAl || New Cross Stitch on plastic canvas
 https://www.youtube.com/watch?v=tNRMCmjTrcU
-
-#EXTINF:1101 tvg-logo="https://i.ytimg.com/vi/C3pn0qhlQMo/mqdefault.jpg" group-title="Hanoure Art",DIY PURSE BAG. How to make a handmade women bag with plastic canvas #DIY #hand_made
+#EXTINF:1101 tvg-logo="https://i.ytimg.com/vi/C3pn0qhlQMo/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",DIY PURSE BAG. How to make a handmade women bag with plastic canvas #DIY #hand_made
 https://www.youtube.com/watch?v=C3pn0qhlQMo
-
-#EXTINF:935 tvg-logo="https://i.ytimg.com/vi/c8jeqtphDus/mqdefault.jpg" group-title="Hanoure Art",DIY PURSE BAG TUTORIAl ||Everyone can make it - Plastic Canvas Bag DIY . How to make a handmade bag
+#EXTINF:935 tvg-logo="https://i.ytimg.com/vi/c8jeqtphDus/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",DIY PURSE BAG TUTORIAl ||Everyone can make it - Plastic Canvas Bag DIY . How to make a handmade bag
 https://www.youtube.com/watch?v=c8jeqtphDus
-
-#EXTINF:482 tvg-logo="https://i.ytimg.com/vi/6d6PPKdFCqA/mqdefault.jpg" group-title="Hanoure Art",DIY PLACTIS CANVAS BAG TUTORIAL FOR BEGINNERS / EVERY ONE CAN MAKE IT
+#EXTINF:482 tvg-logo="https://i.ytimg.com/vi/6d6PPKdFCqA/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",DIY PLACTIS CANVAS BAG TUTORIAL FOR BEGINNERS / EVERY ONE CAN MAKE IT
 https://www.youtube.com/watch?v=6d6PPKdFCqA
-
-#EXTINF:1453 tvg-logo="https://i.ytimg.com/vi/x8nssQn4wD0/mqdefault.jpg" group-title="Hanoure Art",DIY PURSE tutorial with plastic canvas | How to make a handmade women bag with plastic canvas #DIY
+#EXTINF:1453 tvg-logo="https://i.ytimg.com/vi/x8nssQn4wD0/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",DIY PURSE tutorial with plastic canvas | How to make a handmade women bag with plastic canvas #DIY
 https://www.youtube.com/watch?v=x8nssQn4wD0
-
-#EXTINF:938 tvg-logo="https://i.ytimg.com/vi/YtoUlZRtSFk/mqdefault.jpg" group-title="Hanoure Art",DIY PURSE BAG TUTORIAl - Plastic Canvas Bag DIY . How to Crochet a bag / Easy plastic Canvas
+#EXTINF:938 tvg-logo="https://i.ytimg.com/vi/YtoUlZRtSFk/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",DIY PURSE BAG TUTORIAl - Plastic Canvas Bag DIY . How to Crochet a bag / Easy plastic Canvas
 https://www.youtube.com/watch?v=YtoUlZRtSFk
-
-#EXTINF:1136 tvg-logo="https://i.ytimg.com/vi/Er4voVqGw8w/mqdefault.jpg" group-title="Hanoure Art",Beautiful handmade bag with plastic canvas / plastic canvas purse tutorial /Diy bag
+#EXTINF:1136 tvg-logo="https://i.ytimg.com/vi/Er4voVqGw8w/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",Beautiful handmade bag with plastic canvas / plastic canvas purse tutorial /Diy bag
 https://www.youtube.com/watch?v=Er4voVqGw8w
-
-#EXTINF:6146 tvg-logo="https://i.ytimg.com/vi/EWCsmatydHE/mqdefault.jpg" group-title="Hanoure Art",Luxury handmade bag with plastic canvas - full tutorial- pyramid stitch 4 /DIY plastic canvas purse
+#EXTINF:6146 tvg-logo="https://i.ytimg.com/vi/EWCsmatydHE/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",Luxury handmade bag with plastic canvas - full tutorial- pyramid stitch 4 /DIY plastic canvas purse
 https://www.youtube.com/watch?v=EWCsmatydHE
-
-#EXTINF:2066 tvg-logo="https://i.ytimg.com/vi/wsgGThFWRs0/mqdefault.jpg" group-title="Hanoure Art",Diy New style of phone bag with plastic canvas and leather /full tutorial cross bag phone bag
+#EXTINF:2066 tvg-logo="https://i.ytimg.com/vi/wsgGThFWRs0/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",Diy New style of phone bag with plastic canvas and leather /full tutorial cross bag phone bag
 https://www.youtube.com/watch?v=wsgGThFWRs0
-
-#EXTINF:2651 tvg-logo="https://i.ytimg.com/vi/WotUWQeD0qQ/mqdefault.jpg" group-title="Hanoure Art",DIY New stitch on plastic canvas bag / New plastic canvas bag design / full tutorial
+#EXTINF:2651 tvg-logo="https://i.ytimg.com/vi/WotUWQeD0qQ/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",DIY New stitch on plastic canvas bag / New plastic canvas bag design / full tutorial
 https://www.youtube.com/watch?v=WotUWQeD0qQ
-
-#EXTINF:5730 tvg-logo="https://i.ytimg.com/vi/npJu7RE373g/mqdefault.jpg" group-title="Hanoure Art",DIY 2 plastic canvas bags with metallic thread and leather thread using plastic canvas grid
+#EXTINF:5730 tvg-logo="https://i.ytimg.com/vi/npJu7RE373g/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",DIY 2 plastic canvas bags with metallic thread and leather thread using plastic canvas grid
 https://www.youtube.com/watch?v=npJu7RE373g
-
-#EXTINF:1520 tvg-logo="https://i.ytimg.com/vi/PnWJwTVclQM/mqdefault.jpg" group-title="Hanoure Art",Diy Plastic canvas clutch wallet / Plastic canvas clutch wallet tutorial #diy
+#EXTINF:1520 tvg-logo="https://i.ytimg.com/vi/PnWJwTVclQM/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",Diy Plastic canvas clutch wallet / Plastic canvas clutch wallet tutorial #diy
 https://www.youtube.com/watch?v=PnWJwTVclQM
-
-#EXTINF:2967 tvg-logo="https://i.ytimg.com/vi/iPzQi6fNWfs/mqdefault.jpg" group-title="Hanoure Art",Diy Luxury bag with plastic canvas and leather metallic thread - full tutorial- New bag design
+#EXTINF:2967 tvg-logo="https://i.ytimg.com/vi/iPzQi6fNWfs/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",Diy Luxury bag with plastic canvas and leather metallic thread - full tutorial- New bag design
 https://www.youtube.com/watch?v=iPzQi6fNWfs
-
-#EXTINF:2773 tvg-logo="https://i.ytimg.com/vi/P9W257He3WY/mqdefault.jpg" group-title="Hanoure Art",Diy New leather bag design with plastic canvas / New stitch on plastic canvas bag
+#EXTINF:2773 tvg-logo="https://i.ytimg.com/vi/P9W257He3WY/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",Diy New leather bag design with plastic canvas / New stitch on plastic canvas bag
 https://www.youtube.com/watch?v=P9W257He3WY
-
-#EXTINF:1665 tvg-logo="https://i.ytimg.com/vi/2932bs47-r4/mqdefault.jpg" group-title="Hanoure Art",How to make a handmade women bag with hidden frame and plastic canvas grid / DIY bag #diy
+#EXTINF:1665 tvg-logo="https://i.ytimg.com/vi/2932bs47-r4/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",How to make a handmade women bag with hidden frame and plastic canvas grid / DIY bag #diy
 https://www.youtube.com/watch?v=2932bs47-r4
-
-#EXTINF:2002 tvg-logo="https://i.ytimg.com/vi/qt8y8RHfmvg/mqdefault.jpg" group-title="Hanoure Art",DIY LUXURY METALLIC  BAG WITH PLASTIC CANVAS. TUTORIAL
+#EXTINF:2002 tvg-logo="https://i.ytimg.com/vi/qt8y8RHfmvg/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",DIY LUXURY METALLIC  BAG WITH PLASTIC CANVAS. TUTORIAL
 https://www.youtube.com/watch?v=qt8y8RHfmvg
-
-#EXTINF:1686 tvg-logo="https://i.ytimg.com/vi/RRRfhhlPJds/mqdefault.jpg" group-title="Hanoure Art",DIY GLOW BAG WITH PLASTIC CANVAS GRID / NEW STITCH AND NEW BAG DESIGN
+#EXTINF:1686 tvg-logo="https://i.ytimg.com/vi/RRRfhhlPJds/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",DIY GLOW BAG WITH PLASTIC CANVAS GRID / NEW STITCH AND NEW BAG DESIGN
 https://www.youtube.com/watch?v=RRRfhhlPJds
-
-#EXTINF:1659 tvg-logo="https://i.ytimg.com/vi/OwNWa-o1Ssg/mqdefault.jpg" group-title="Hanoure Art",PlASTIC CANVAS BAG DIY FOR BEGINNERS / HOW TO MAKE HANDMADE WOMEN BAG / LEATHER BAG
+#EXTINF:1659 tvg-logo="https://i.ytimg.com/vi/OwNWa-o1Ssg/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",PlASTIC CANVAS BAG DIY FOR BEGINNERS / HOW TO MAKE HANDMADE WOMEN BAG / LEATHER BAG
 https://www.youtube.com/watch?v=OwNWa-o1Ssg
-
-#EXTINF:3565 tvg-logo="https://i.ytimg.com/vi/iM9DZlYLDeI/mqdefault.jpg" group-title="Hanoure Art",DIY PLASTIC CANVAS BAG / EASY PLASTIC CANVAS BAG TUTORIAL FOR BEGINNERS
+#EXTINF:3565 tvg-logo="https://i.ytimg.com/vi/iM9DZlYLDeI/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",DIY PLASTIC CANVAS BAG / EASY PLASTIC CANVAS BAG TUTORIAL FOR BEGINNERS
 https://www.youtube.com/watch?v=iM9DZlYLDeI
-
-#EXTINF:2257 tvg-logo="https://i.ytimg.com/vi/RGipCd-Ssr8/mqdefault.jpg" group-title="Hanoure Art",EASY PlASTIC CANVAS BAG FOR BEGINNERS / DIY PURSE BAG /HOW TO MAKE HANDMADE WOMEN BAG
+#EXTINF:2257 tvg-logo="https://i.ytimg.com/vi/RGipCd-Ssr8/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",EASY PlASTIC CANVAS BAG FOR BEGINNERS / DIY PURSE BAG /HOW TO MAKE HANDMADE WOMEN BAG
 https://www.youtube.com/watch?v=RGipCd-Ssr8
-
-#EXTINF:3367 tvg-logo="https://i.ytimg.com/vi/SrJoSs2NXaE/mqdefault.jpg" group-title="Hanoure Art",EASY PLASTIC CANVAS BAG TUTORIAL FOR BEGINNERS / NEW DESIGN
+#EXTINF:3367 tvg-logo="https://i.ytimg.com/vi/SrJoSs2NXaE/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",EASY PLASTIC CANVAS BAG TUTORIAL FOR BEGINNERS / NEW DESIGN
 https://www.youtube.com/watch?v=SrJoSs2NXaE
-
-#EXTINF:3876 tvg-logo="https://i.ytimg.com/vi/5MlLXOBO-2s/mqdefault.jpg" group-title="Hanoure Art",DIY LUXURY LEATHER BAG TUTORIAL /PLASTIC CANVAS BAG NEW DESIGN
+#EXTINF:3876 tvg-logo="https://i.ytimg.com/vi/5MlLXOBO-2s/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",DIY LUXURY LEATHER BAG TUTORIAL /PLASTIC CANVAS BAG NEW DESIGN
 https://www.youtube.com/watch?v=5MlLXOBO-2s
-
-#EXTINF:2205 tvg-logo="https://i.ytimg.com/vi/aAk2ozVc6pM/mqdefault.jpg" group-title="Hanoure Art",EASY PLASTIC CANVAS BAG TUTORIAL FOR BEGINNERS -  STEP-BY-STEP #handmade
+#EXTINF:2205 tvg-logo="https://i.ytimg.com/vi/aAk2ozVc6pM/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",EASY PLASTIC CANVAS BAG TUTORIAL FOR BEGINNERS -  STEP-BY-STEP #handmade
 https://www.youtube.com/watch?v=aAk2ozVc6pM
-
-#EXTINF:2368 tvg-logo="https://i.ytimg.com/vi/Qg6GI6G7sHg/mqdefault.jpg" group-title="Hanoure Art",NEW PLASTIC CANVAS BAG DESIGN / PLASTIC BAG TUTORIAL /HANDMADE WOMEN BAG
+#EXTINF:2368 tvg-logo="https://i.ytimg.com/vi/Qg6GI6G7sHg/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",NEW PLASTIC CANVAS BAG DESIGN / PLASTIC BAG TUTORIAL /HANDMADE WOMEN BAG
 https://www.youtube.com/watch?v=Qg6GI6G7sHg
-
-#EXTINF:5198 tvg-logo="https://i.ytimg.com/vi/fxpBjlmCS60/mqdefault.jpg" group-title="Hanoure Art",شنطه لامعه و أنيقه بالكانفا البلاستيك و خيط الميتاليك  EASY PLASTIC CANVAS BAG TUTORIAL
+#EXTINF:5198 tvg-logo="https://i.ytimg.com/vi/fxpBjlmCS60/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",شنطه لامعه و أنيقه بالكانفا البلاستيك و خيط الميتاليك  EASY PLASTIC CANVAS BAG TUTORIAL
 https://www.youtube.com/watch?v=fxpBjlmCS60
-
-#EXTINF:4295 tvg-logo="https://i.ytimg.com/vi/VzPebOpDX-k/mqdefault.jpg" group-title="Hanoure Art",DIY NEW PLASTIC CANVAS ROUND BAG DESIGN / PLASTIC CANVAS BAG TUTORIAL
+#EXTINF:4295 tvg-logo="https://i.ytimg.com/vi/VzPebOpDX-k/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",DIY NEW PLASTIC CANVAS ROUND BAG DESIGN / PLASTIC CANVAS BAG TUTORIAL
 https://www.youtube.com/watch?v=VzPebOpDX-k
-
-#EXTINF:6959 tvg-logo="https://i.ytimg.com/vi/cOaeENvtzM0/mqdefault.jpg" group-title="Hanoure Art",ELEGANT PLACTIS CANVAS BAG TUTORIAL - DIY PLASTIC CANVAS BAG كيف تقص شبك الكانفا و تصنع شنطه أنيقه
+#EXTINF:6959 tvg-logo="https://i.ytimg.com/vi/cOaeENvtzM0/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",ELEGANT PLACTIS CANVAS BAG TUTORIAL - DIY PLASTIC CANVAS BAG كيف تقص شبك الكانفا و تصنع شنطه أنيقه
 https://www.youtube.com/watch?v=cOaeENvtzM0
-
-#EXTINF:2863 tvg-logo="https://i.ytimg.com/vi/VkHWyYXoKxs/mqdefault.jpg" group-title="Hanoure Art",DIY PURSE BAG TUTORIAl ||Everyone can make it - Plastic Canvas Bag DIY . How to make a handmade bag
+#EXTINF:2863 tvg-logo="https://i.ytimg.com/vi/VkHWyYXoKxs/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",DIY PURSE BAG TUTORIAl ||Everyone can make it - Plastic Canvas Bag DIY . How to make a handmade bag
 https://www.youtube.com/watch?v=VkHWyYXoKxs
-
-#EXTINF:5480 tvg-logo="https://i.ytimg.com/vi/51GHU64B70k/mqdefault.jpg" group-title="Hanoure Art",DIY PURSE BAG TUTORIAL - PLASTIC CANVAS BAG DIY . HOW TO MAKE A HANDMADE BAD
+#EXTINF:5480 tvg-logo="https://i.ytimg.com/vi/51GHU64B70k/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",DIY PURSE BAG TUTORIAL - PLASTIC CANVAS BAG DIY . HOW TO MAKE A HANDMADE BAD
 https://www.youtube.com/watch?v=51GHU64B70k
-
-#EXTINF:3751 tvg-logo="https://i.ytimg.com/vi/Cwe_EpMYR7Q/mqdefault.jpg" group-title="Hanoure Art",LUXURY PURSE WITH PLASTIC CANVAS  / DIY PLASTIC CANVAS WALLET #handmade
+#EXTINF:3751 tvg-logo="https://i.ytimg.com/vi/Cwe_EpMYR7Q/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",LUXURY PURSE WITH PLASTIC CANVAS  / DIY PLASTIC CANVAS WALLET #handmade
 https://www.youtube.com/watch?v=Cwe_EpMYR7Q
-
-#EXTINF:2587 tvg-logo="https://i.ytimg.com/vi/k-VJUlNaaKw/mqdefault.jpg" group-title="Hanoure Art",EASY PLASTIC CANVAS BAG FOR BEGINNERS / DIY PLASTIC CANVAS PURSE WITH GLITTER THREAD
+#EXTINF:2587 tvg-logo="https://i.ytimg.com/vi/k-VJUlNaaKw/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",EASY PLASTIC CANVAS BAG FOR BEGINNERS / DIY PLASTIC CANVAS PURSE WITH GLITTER THREAD
 https://www.youtube.com/watch?v=k-VJUlNaaKw
-
-#EXTINF:3279 tvg-logo="https://i.ytimg.com/vi/Cw6T_ayLlUc/mqdefault.jpg" group-title="Hanoure Art",EASY AND FAST BAG ON PLASTIC CANVAS MADE OF GLITTER CORD /  MESH CLUTCH BAG - TUTORIAL
+#EXTINF:3279 tvg-logo="https://i.ytimg.com/vi/Cw6T_ayLlUc/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",EASY AND FAST BAG ON PLASTIC CANVAS MADE OF GLITTER CORD /  MESH CLUTCH BAG - TUTORIAL
 https://www.youtube.com/watch?v=Cw6T_ayLlUc
-
-#EXTINF:3341 tvg-logo="https://i.ytimg.com/vi/WzUgC_m8bX8/mqdefault.jpg" group-title="Hanoure Art",PLASTIC CANVAS BAG DIY | PLASTIC CANVAS SITITCHES TUTORIAL | HOW TO MAKE HANDMADE BAG
+#EXTINF:3341 tvg-logo="https://i.ytimg.com/vi/WzUgC_m8bX8/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",PLASTIC CANVAS BAG DIY | PLASTIC CANVAS SITITCHES TUTORIAL | HOW TO MAKE HANDMADE BAG
 https://www.youtube.com/watch?v=WzUgC_m8bX8
-
-#EXTINF:2760 tvg-logo="https://i.ytimg.com/vi/NEbaZpVIHNQ/mqdefault.jpg" group-title="Hanoure Art",How to Make a Beautiful Bag on Plastic Canvas | DIY | Step-by-Step  for beginners
+#EXTINF:2760 tvg-logo="https://i.ytimg.com/vi/NEbaZpVIHNQ/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",How to Make a Beautiful Bag on Plastic Canvas | DIY | Step-by-Step  for beginners
 https://www.youtube.com/watch?v=NEbaZpVIHNQ
-
-#EXTINF:3502 tvg-logo="https://i.ytimg.com/vi/a4CWoGShwgM/mqdefault.jpg" group-title="Hanoure Art",DIY TOTE BAG / PLASTIC CANVAS  LARGE BAG TUTORIAL -  PLASTIC CANVAS TOTE BAG
+#EXTINF:3502 tvg-logo="https://i.ytimg.com/vi/a4CWoGShwgM/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",DIY TOTE BAG / PLASTIC CANVAS  LARGE BAG TUTORIAL -  PLASTIC CANVAS TOTE BAG
 https://www.youtube.com/watch?v=a4CWoGShwgM
-
-#EXTINF:3185 tvg-logo="https://i.ytimg.com/vi/vHgXx63h35Y/mqdefault.jpg" group-title="Hanoure Art",DIY SIMPLE TOTE BAG WITH PLASTIC CANVAS AND POLYESTER MACRAME
+#EXTINF:3185 tvg-logo="https://i.ytimg.com/vi/vHgXx63h35Y/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",DIY SIMPLE TOTE BAG WITH PLASTIC CANVAS AND POLYESTER MACRAME
 https://www.youtube.com/watch?v=vHgXx63h35Y
-
-#EXTINF:2373 tvg-logo="https://i.ytimg.com/vi/_qRVWwmjvOg/mqdefault.jpg" group-title="Hanoure Art",TRENDY PLASTIC CANVAS BAG DIY | PLASTIC CANVAS SITITCHES TUTORIAL | HOW TO MAKE HANDMADE BAG
+#EXTINF:2373 tvg-logo="https://i.ytimg.com/vi/_qRVWwmjvOg/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",TRENDY PLASTIC CANVAS BAG DIY | PLASTIC CANVAS SITITCHES TUTORIAL | HOW TO MAKE HANDMADE BAG
 https://www.youtube.com/watch?v=_qRVWwmjvOg
-
-#EXTINF:1781 tvg-logo="https://i.ytimg.com/vi/x3yNka3EvbY/mqdefault.jpg" group-title="Hanoure Art",موديل جديد لشنطه بنوع جديد من شبك الكانفا و ما هو الخيط المناسب؟ / NEW PLASTIC CANVAS BAG DESIGN
+#EXTINF:1781 tvg-logo="https://i.ytimg.com/vi/x3yNka3EvbY/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",موديل جديد لشنطه بنوع جديد من شبك الكانفا و ما هو الخيط المناسب؟ / NEW PLASTIC CANVAS BAG DESIGN
 https://www.youtube.com/watch?v=x3yNka3EvbY
-
-#EXTINF:1739 tvg-logo="https://i.ytimg.com/vi/zHQvEad813M/mqdefault.jpg" group-title="Hanoure Art",Incredible! Easy Plastic canvas Bag I Beginner friendly! | Hanoure Art Handicrafts
+#EXTINF:1739 tvg-logo="https://i.ytimg.com/vi/zHQvEad813M/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",Incredible! Easy Plastic canvas Bag I Beginner friendly! | Hanoure Art Handicrafts
 https://www.youtube.com/watch?v=zHQvEad813M
-
-#EXTINF:2924 tvg-logo="https://i.ytimg.com/vi/Sav3cBhVrHM/mqdefault.jpg" group-title="Hanoure Art",EASY PLASTIC CANVAS PATTERN FOR BEGINNERS / TRENDY BAG TUTORIAL BY HANOURE ART
+#EXTINF:2924 tvg-logo="https://i.ytimg.com/vi/Sav3cBhVrHM/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",EASY PLASTIC CANVAS PATTERN FOR BEGINNERS / TRENDY BAG TUTORIAL BY HANOURE ART
 https://www.youtube.com/watch?v=Sav3cBhVrHM
-
-#EXTINF:4005 tvg-logo="https://i.ytimg.com/vi/HLiAuMlEAmY/mqdefault.jpg" group-title="Hanoure Art",EASY PLASTIC CANVAS BAG FOR BEGINNERS / DIY PLASTIC CANVAS PURSE WITH GLITTER COTTON THREAD
+#EXTINF:4005 tvg-logo="https://i.ytimg.com/vi/HLiAuMlEAmY/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",EASY PLASTIC CANVAS BAG FOR BEGINNERS / DIY PLASTIC CANVAS PURSE WITH GLITTER COTTON THREAD
 https://www.youtube.com/watch?v=HLiAuMlEAmY
-
-#EXTINF:1177 tvg-logo="https://i.ytimg.com/vi/5gVKTmM7UiQ/mqdefault.jpg" group-title="Hanoure Art",HOW TO MAKE A BAG FROM BEADS AND ORGANZA RIBBON WITH PLASTIC CANVAS MESH — THE RESULT IS AMAZING
+#EXTINF:1177 tvg-logo="https://i.ytimg.com/vi/5gVKTmM7UiQ/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",HOW TO MAKE A BAG FROM BEADS AND ORGANZA RIBBON WITH PLASTIC CANVAS MESH — THE RESULT IS AMAZING
 https://www.youtube.com/watch?v=5gVKTmM7UiQ
-
-#EXTINF:306 tvg-logo="https://i.ytimg.com/vi/WpPLgeLb78k/mqdefault.jpg" group-title="Hanoure Art",NEW STITCH ON  PLASTIC CANVAS GRID TO MAKE AN ELEGANT AND LUXURIOUS BAG
+#EXTINF:306 tvg-logo="https://i.ytimg.com/vi/WpPLgeLb78k/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",NEW STITCH ON  PLASTIC CANVAS GRID TO MAKE AN ELEGANT AND LUXURIOUS BAG
 https://www.youtube.com/watch?v=WpPLgeLb78k
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="TV | CANAIS | ABERTOS", BAND Pará - RBA TV
 https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="TV | CANAIS | ABERTOS", GLOBO SP
