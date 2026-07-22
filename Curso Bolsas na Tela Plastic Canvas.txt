@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR", Isso foi feita à mão.  (ATUALIZADO EM: 22/07/2026 00:40hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR", Isso foi feita à mão.  (ATUALIZADO EM: 22/07/2026 00:45hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO  0 - BOAS VINDAS",Aula 1 - Bem-vindo ao Curso
 https://www.youtube.com/watch?v=B6MdFl1PIDA
@@ -274,169 +274,170 @@ https://www.youtube.com/watch?v=mrcoPcy0-3I
 https://www.youtube.com/watch?v=qYPy1LeKt18
 #EXTINF:823 tvg-logo="https://i.ytimg.com/vi/5P-iLqDEkKE/mqdefault.jpg" group-title="MÓDULO  7 - AULAS EM INGLÊS",Plastic Canvas Bag Tutorial | Bolsa de tela plástica (faça você mesmo) #bolsadetela #telaplástica #bolsadetelaplástica
 https://www.youtube.com/watch?v=5P-iLqDEkKE
-#EXTINF:-1 group-title="MÓDULO 02 – MATERIAIS",Aula 01 - Telas: tamanhos e espessuras
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 02 – MATERIAIS",Aula 01 - Telas: tamanhos e espessuras
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 02 – MATERIAIS",Aula 02 - Diferença entre tela 3 mm e 4 mm e outras (Bolsa Edna aos 37Minutos
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 02 – MATERIAIS",Aula 02 - Diferença entre tela 3 mm e 4 mm e outras (Bolsa Edna aos 37Minutos
 https://player.vimeo.com/video/1193802601?fl=pl&fe=sh#t=37m38s&end=39m35s
 
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 02 – MATERIAIS",Aula 03 - Linhas indicadas
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 02 – MATERIAIS",Aula 03 - Linhas indicadas
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 02 – MATERIAIS",Aula 04 - Agulhas
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 02 – MATERIAIS",Aula 04 - Agulhas
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 02 – MATERIAIS",Aula 05 - Tesouras
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 02 – MATERIAIS",Aula 05 - Tesouras
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 02 – MATERIAIS",Aula 06 - Alças
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 02 – MATERIAIS",Aula 06 - Alças
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 02 – MATERIAIS",Aula 07 - Fechos
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 02 – MATERIAIS",Aula 07 - Fechos
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 02 – MATERIAIS",Aula 08 - Ferragens
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 02 – MATERIAIS",Aula 08 - Ferragens
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 02 – MATERIAIS",Aula 09 - Zíperes
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 02 – MATERIAIS",Aula 09 - Zíperes
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 02 – MATERIAIS",Aula 10 - Onde comprar materiais
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 02 – MATERIAIS",Aula 10 - Onde comprar materiais
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 03 – Técnicas Básicas",Como iniciar a costura
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 03 – Técnicas Básicas",Como iniciar a costura
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 03 – Técnicas Básicas",Como esconder a ponta da linha
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 03 – Técnicas Básicas",Como esconder a ponta da linha
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 03 – Técnicas Básicas",Como trocar a linha
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 03 – Técnicas Básicas",Como trocar a linha
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 03 – Técnicas Básicas",Arremates
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 03 – Técnicas Básicas",Arremates
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 03 – Técnicas Básicas",Como fazer cantos
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 03 – Técnicas Básicas",Como fazer cantos
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 03 – Técnicas Básicas",Como costurar duas telas
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 03 – Técnicas Básicas",Como costurar duas telas
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 03 – Técnicas Básicas",Como fazer curvas
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 03 – Técnicas Básicas",Como fazer curvas
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 03 – Técnicas Básicas",Como evitar deformações
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 03 – Técnicas Básicas",Como evitar deformações
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 03 – Técnicas Básicas",Como deixar o acabamento perfeito
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 03 – Técnicas Básicas",Como deixar o acabamento perfeito
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 04 – Pontos Básicos",Ponto Diagonal
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 04 – Pontos Básicos",Ponto Diagonal
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 04 – Pontos Básicos",Ponto Continental
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 04 – Pontos Básicos",Ponto Continental
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 04 – Pontos Básicos",Ponto Cruzado
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 04 – Pontos Básicos",Ponto Cruzado
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 04 – Pontos Básicos",Ponto Vertical
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 04 – Pontos Básicos",Ponto Vertical
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 04 – Pontos Básicos",Ponto Horizontal
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 04 – Pontos Básicos",Ponto Horizontal
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 04 – Pontos Básicos",Ponto Decorativo 1
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 04 – Pontos Básicos",Ponto Decorativo 1
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 04 – Pontos Básicos",Ponto Decorativo 2
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 04 – Pontos Básicos",Ponto Decorativo 2
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 04 – Pontos Básicos",Ponto Decorativo 3
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 04 – Pontos Básicos",Ponto Decorativo 3
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 05 – Primeira Bolsa",Aula 1 - Cortando as peças
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 05 – Primeira Bolsa",Aula 1 - Cortando as peças
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 05 – Primeira Bolsa",Aula 2 - Costurando a frente
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 05 – Primeira Bolsa",Aula 2 - Costurando a frente
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 05 – Primeira Bolsa",Aula 3 - Costurando as laterais
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 05 – Primeira Bolsa",Aula 3 - Costurando as laterais
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 05 – Primeira Bolsa",Aula 4 - Montagem
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 05 – Primeira Bolsa",Aula 4 - Montagem
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 05 – Primeira Bolsa",Aula 5 - Acabamento
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 05 – Primeira Bolsa",Aula 5 - Acabamento
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 05 – Primeira Bolsa",Aula 6 - Colocação da alça
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 05 – Primeira Bolsa",Aula 6 - Colocação da alça
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 05 – Primeira Bolsa",Aula 7 - Revisão Final
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 05 – Primeira Bolsa",Aula 7 - Revisão Final
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 06 – Bolsas Intermediárias",Bolsa Carteira
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 06 – Bolsas Intermediárias",Bolsa Carteira
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 06 – Bolsas Intermediárias",Bolsa Tiracolo
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 06 – Bolsas Intermediárias",Bolsa Tiracolo
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 06 – Bolsas Intermediárias",Bolsa Clutch
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 06 – Bolsas Intermediárias",Bolsa Clutch
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 06 – Bolsas Intermediárias",Bolsa Baú
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 06 – Bolsas Intermediárias",Bolsa Baú
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 06 – Bolsas Intermediárias",Bolsa Quadrada
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 06 – Bolsas Intermediárias",Bolsa Quadrada
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 06 – Bolsas Intermediárias",Bolsa Retangular
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 06 – Bolsas Intermediárias",Bolsa Retangular
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 07 – Bolsas Avançadas",Bolsa Luxo
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 07 – Bolsas Avançadas",Bolsa Luxo
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 07 – Bolsas Avançadas",Bolsa Festa
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 07 – Bolsas Avançadas",Bolsa Festa
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 08 – Acabamentos Profissionais",Forração
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 08 – Acabamentos Profissionais",Forração
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 08 – Acabamentos Profissionais",Costura invisível
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 08 – Acabamentos Profissionais",Costura invisível
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 08 – Acabamentos Profissionais",Aplicação de zíper
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 08 – Acabamentos Profissionais",Aplicação de zíper
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 08 – Acabamentos Profissionais",Aplicação de botão magnético
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 08 – Acabamentos Profissionais",Aplicação de botão magnético
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 08 – Acabamentos Profissionais",Colocação de ferragens
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 08 – Acabamentos Profissionais",Colocação de ferragens
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 08 – Acabamentos Profissionais",Como alinhar perfeitamente
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 08 – Acabamentos Profissionais",Como alinhar perfeitamente
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 08 – Acabamentos Profissionais",Como evitar folgas
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 08 – Acabamentos Profissionais",Como evitar folgas
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 08 – Acabamentos Profissionais",Como deixar a bolsa reta
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 08 – Acabamentos Profissionais",Como deixar a bolsa reta
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 09 – Modelos Exclusivos",Bolsa Paris
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 09 – Modelos Exclusivos",Bolsa Paris
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 09 – Modelos Exclusivos",Bolsa Itália
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 09 – Modelos Exclusivos",Bolsa Itália
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 09 – Modelos Exclusivos",Bolsa Viena
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 09 – Modelos Exclusivos",Bolsa Viena
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 09 – Modelos Exclusivos",Bolsa Dubai
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 09 – Modelos Exclusivos",Bolsa Dubai
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 09 – Modelos Exclusivos",Bolsa Luxo Cristal
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 09 – Modelos Exclusivos",Bolsa Luxo Cristal
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 09 – Modelos Exclusivos",Bolsa Floral
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 09 – Modelos Exclusivos",Bolsa Floral
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 09 – Modelos Exclusivos",Bolsa Geométrica
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 09 – Modelos Exclusivos",Bolsa Geométrica
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 09 – Modelos Exclusivos",Bolsa Premium Gold
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 09 – Modelos Exclusivos",Bolsa Premium Gold
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 10 – Reparos",Como trocar uma peça
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 10 – Reparos",Como trocar uma peça
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 10 – Reparos",Como substituir uma alça
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 10 – Reparos",Como substituir uma alça
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 10 – Reparos",Como trocar o forro
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 10 – Reparos",Como trocar o forro
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 10 – Reparos",Como recuperar uma tela quebrada
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 10 – Reparos",Como recuperar uma tela quebrada
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 10 – Reparos",Como limpar a bolsa
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 10 – Reparos",Como limpar a bolsa
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 10 – Reparos",Como guardar corretamente
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 10 – Reparos",Como guardar corretamente
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 11 – Venda suas Bolsas",Como calcular o preço
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 11 – Venda suas Bolsas",Como calcular o preço
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 11 – Venda suas Bolsas",Quanto cobrar pela mão de obra
+
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 11 – Venda suas Bolsas",Quanto cobrar pela mão de obra
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 11 – Venda suas Bolsas",Como tirar fotos
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 11 – Venda suas Bolsas",Como tirar fotos
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 11 – Venda suas Bolsas",Como vender no Instagram
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 11 – Venda suas Bolsas",Como vender no Instagram
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 11 – Venda suas Bolsas",Como vender no Facebook
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 11 – Venda suas Bolsas",Como vender no Facebook
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 11 – Venda suas Bolsas",Como vender pelo WhatsApp
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 11 – Venda suas Bolsas",Como vender pelo WhatsApp
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 11 – Venda suas Bolsas",Como vender na Shopee
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 11 – Venda suas Bolsas",Como vender na Shopee
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 11 – Venda suas Bolsas",Como vender no Mercado Livre
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 11 – Venda suas Bolsas",Como vender no Mercado Livre
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 11 – Venda suas Bolsas",Como atender clientes
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 11 – Venda suas Bolsas",Como atender clientes
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 11 – Venda suas Bolsas",Como fidelizar compradores
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 11 – Venda suas Bolsas",Como fidelizar compradores
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 12 – Bônus",Organização do Ateliê
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 12 – Bônus",Organização do Ateliê
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 12 – Bônus",Dicas para produzir mais rápido
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 12 – Bônus",Dicas para produzir mais rápido
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 12 – Bônus",Como escolher cores
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 12 – Bônus",Como escolher cores
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 12 – Bônus",Tendências de Moda
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 12 – Bônus",Tendências de Moda
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 12 – Bônus",Ferramentas que facilitam o trabalho
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 12 – Bônus",Ferramentas que facilitam o trabalho
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 12 – Bônus",Erros mais comuns
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 12 – Bônus",Erros mais comuns
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 group-title="MÓDULO 12 – Bônus",Perguntas Frequentes
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 12 – Bônus",Perguntas Frequentes
 https://www.youtube.com/watch?v=B6MdFl1PIDA
 #EXTINF:427 tvg-logo="https://i.ytimg.com/vi/m93TVfpKIoY/mqdefault.jpg" group-title="MÓDULO 20 - EM BREVE",Bolsa bordada em tela aprenda a fazer em breve
 https://www.youtube.com/watch?v=m93TVfpKIoY
