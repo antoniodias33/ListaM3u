@@ -1,26 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR", Isso foi feita à mão.  (ATUALIZADO EM: 22/07/2026 13:15hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 22/07/2026 15:05hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
-
-#EXTINF:2668 tvg-logo="https://i.ytimg.com/vi/X3A3QHZTGuI/mqdefault.jpg",CROCHET BAG STEP BY STEP POLYESTER OR NAUTICAL CORD LARGE CROCHET BAG
-https://youtu.be/X3A3QHZTGuI
-
-#EXTINF:1819 tvg-logo="https://i.ytimg.com/vi/qzl9w5Vi85A/mqdefault.jpg",CROCHET OVAL BASE WITH NAUTICAL YARN | MODERN AND EASY TECHNIQUE
-https://youtu.be/qzl9w5Vi85A
-
-#EXTINF:1302 tvg-logo="https://i.ytimg.com/vi/AsJt0Jk9xmU/mqdefault.jpg",For beginners! Uses 2 basic crochet stitches!
-https://youtu.be/AsJt0Jk9xmU
-
-#EXTINF:2668 tvg-logo="https://i.ytimg.com/vi/X3A3QHZTGuI/mqdefault.jpg" group-title="Ateliê Joana Fernandes Crochê Moderno",CROCHET BAG STEP BY STEP POLYESTER OR NAUTICAL CORD LARGE CROCHET BAG
-https://www.youtube.com/watch?v=X3A3QHZTGuI
-
-#EXTINF:1819 tvg-logo="https://i.ytimg.com/vi/qzl9w5Vi85A/mqdefault.jpg" group-title="Ateliê Joana Fernandes Crochê Moderno",CROCHET OVAL BASE WITH NAUTICAL YARN | MODERN AND EASY TECHNIQUE
-https://www.youtube.com/watch?v=qzl9w5Vi85A
-
-#EXTINF:1302 tvg-logo="https://i.ytimg.com/vi/AsJt0Jk9xmU/mqdefault.jpg" group-title="Ateliê Joana Fernandes Crochê Moderno",For beginners! Uses 2 basic crochet stitches!
-https://www.youtube.com/watch?v=AsJt0Jk9xmU
-
-
 
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO  0 - BOAS VINDAS",Aula 1 - Bem-vindo ao Curso
 https://www.youtube.com/watch?v=B6MdFl1PIDA
@@ -42,6 +22,16 @@ https://www.youtube.com/watch?v=c_gku3rI1V0
 https://www.youtube.com/watch?v=iYfgvAtLbVg
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/an_webp/fJkCBlA8Q_w/mqdefault_6s.webp?du=3000&sqp=CJjVg9MG&rs=AOn4CLB5FtiNgkVxcGzL8rYkhrLUS95bRg" group-title="MÓDULO  1 - INICIANTES",BOLSA NA TELA PLÁSTICA PASSO A PASSO
 https://www.youtube.com/watch?v=fJkCBlA8Q_w
+#EXTINF:1493 tvg-logo="https://i.ytimg.com/vi/9_JvJsfXzSE/mqdefault.jpg" group-title="MÓDULO  1 - INICIANTES",2 - Passo a passo para fazer uma bolsa na tela plástica
+https://www.youtube.com/watch?v=9_JvJsfXzSE
+#EXTINF:347 tvg-logo="https://i.ytimg.com/vi/kg-eB5zYtt8/mqdefault.jpg" group-title="MÓDULO  1 - INICIANTES",1 - Embalagens para Artesanato fáceis de fazer
+https://www.youtube.com/watch?v=kg-eB5zYtt8
+#EXTINF:1142 tvg-logo="https://i.ytimg.com/vi/5TNmdxJ5Zxo/mqdefault.jpg" group-title="MÓDULO  1 - INICIANTES",7 - BOLSA DE TELA PLÁSTICA
+https://www.youtube.com/watch?v=5TNmdxJ5Zxo
+#EXTINF:2590 tvg-logo="https://i.ytimg.com/vi/jHt9aKSVguc/mqdefault.jpg" group-title="MÓDULO  1 - INICIANTES",Bolsa na tela – Não é necessário saber fazer crochê
+https://www.youtube.com/watch?v=jHt9aKSVguc
+#EXTINF:3021 tvg-logo="https://i.ytimg.com/vi/OUCVUs9DPz8/mqdefault.jpg" group-title="MÓDULO  1 - INICIANTES",BOLSA NA TELA COM FIO DE MALHA E PRECIFICAÇÃO PASSO A PASSO  #plasticcanvas
+https://www.youtube.com/watch?v=OUCVUs9DPz8
 #EXTINF:719 tvg-logo="https://i.ytimg.com/vi/9Opom1PU-Kk/mqdefault.jpg" group-title="MÓDULO  2 - AULAS AVANÇADAS",Biblioteca de Pontos: Como fazer um ponto bonito usando plástico como tela
 https://www.youtube.com/watch?v=9Opom1PU-Kk
 #EXTINF:2058 tvg-logo="https://i.ytimg.com/vi/S25D6Qqegjo/mqdefault.jpg" group-title="MÓDULO  2 - AULAS AVANÇADAS",Bolsa de Lona e Tela (DIY) | Essa bolsa sempre recebe elogios!
@@ -60,6 +50,8 @@ https://player.vimeo.com/video/1193802600
 https://player.vimeo.com/video/1193802598
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159363961-960480accadb7c66fc57ce523dec93aca5a0f5e7e4fe2974fff460f0d3edd620-d_360x203?&r=pad&region=us" group-title="MÓDULO  3 - AULAS PRÁTICAS",Bolsa Íris - Delicado e versátil.
 https://player.vimeo.com/video/1193803746
+#EXTINF:589 tvg-logo="https://i.ytimg.com/vi/0fumEXDlPOs/mqdefault.jpg" group-title="MÓDULO  3 - AULAS PRÁTICAS",Alça de bolsa em fio de malha crochê ou tricô
+https://www.youtube.com/watch?v=0fumEXDlPOs
 #EXTINF:1244 tvg-logo="https://i.ytimg.com/vi/6KdqGQMbb1s/mqdefault.jpg" group-title="MÓDULO  4 - AULAS MARCAÇÃO",Como marcar sua tela para montar sua bolsa 1
 https://www.youtube.com/watch?v=6KdqGQMbb1s
 #EXTINF:1937 tvg-logo="https://i.ytimg.com/vi/Jre1lbPjetI/mqdefault.jpg" group-title="MÓDULO  4 - AULAS MARCAÇÃO",COMO FAZER BOLSA BORDADA EM TELA AULA 2
@@ -298,7 +290,11 @@ https://www.youtube.com/watch?v=qYPy1LeKt18
 https://www.youtube.com/watch?v=5P-iLqDEkKE
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 02 – MATERIAIS",Aula 01 - Telas: tamanhos e espessuras
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159366254-d25c1fb421980e01c88038cb3889fae9c7ad5b2e8b0612136d15f8fdcc57513e-d_360x203?&r=pad&region=us" group-title="MÓDULO 02 – MATERIAIS",Aula 02 - Diferença entre tela 3 mm e 4 mm e outras (Bolsa Edna aos 37Minutos)
+#EXTINF:723 tvg-logo="https://i.ytimg.com/vi/XGs_DmcrX7o/mqdefault.jpg" group-title="MÓDULO 02 – MATERIAIS",Aula 02 - TELA PLÁSTICA  QUAL MELHOR FIO  Telas com furos de 3mm
+https://www.youtube.com/watch?v=XGs_DmcrX7o
+#EXTINF:2865 tvg-logo="https://i.ytimg.com/vi/l3xcAn3vL8k/mqdefault.jpg" group-title="MÓDULO 02 – MATERIAIS",Aula 03 Minha 1ª Bolsa na tela plástica (Materiais)
+https://www.youtube.com/watch?v=l3xcAn3vL8k
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159366254-d25c1fb421980e01c88038cb3889fae9c7ad5b2e8b0612136d15f8fdcc57513e-d_360x203?&r=pad&region=us" group-title="MÓDULO 02 – MATERIAIS",Aula 03 - Diferença entre tela 3 mm e 4 mm e outras (Bolsa Edna aos 37Minutos)
 https://player.vimeo.com/video/1193802601?fl=pl&fe=sh#t=37m38s&end=39m35s
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 02 – MATERIAIS",Aula 03 - Linhas indicadas
 https://www.youtube.com/watch?v=B6MdFl1PIDA
@@ -312,9 +308,15 @@ https://www.youtube.com/watch?v=B6MdFl1PIDA
 https://www.youtube.com/watch?v=B6MdFl1PIDA
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 02 – MATERIAIS",Aula 08 - Ferragens
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 02 – MATERIAIS",Aula 09 - Zíperes
-https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 02 – MATERIAIS",Aula 10 - Onde comprar materiais
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rppJjiCaO2g/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAYhEoWPZW2CKCf3d8t0g2ZWTGKYA" group-title="MÓDULO 02 – MATERIAIS",Aula 09 - Zíperes - Passo a passo Bolsa Baú na Tela com zíper
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/an_webp/fKWA5oTmCFc/mqdefault_6s.webp?du=3000&sqp=CJvqg9MG&rs=AOn4CLCxLXSGNC_zAhhjsRL5dQIMJaBVNw" group-title="MÓDULO 02 – MATERIAIS",Aula 10 - Zíperes - Carteira Clutch Elegante | Tutorial Parte 2
+https://www.youtube.com/watch?v=fKWA5oTmCFc
+
+#EXTINF:-1 tvg-logo="sqp=CJPYg9MG&rs=AOn4CLA0aJ6bDboJdfw4cD8YMs_ELJyUOw" group-title="MÓDULO 02 – MATERIAIS",Aula 11 - Zíperes - Como costurar um zíper em uma bolsa de tela plástica – Parte 2
+https://www.youtube.com/watch?v=w9A8fXzEqgc
+
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 02 – MATERIAIS",Aula 12 - Onde comprar materiais
 https://www.youtube.com/watch?v=B6MdFl1PIDA
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 03 – Técnicas Básicas",Como iniciar a costura
 https://www.youtube.com/watch?v=B6MdFl1PIDA
@@ -458,8 +460,78 @@ https://www.youtube.com/watch?v=B6MdFl1PIDA
 https://www.youtube.com/watch?v=B6MdFl1PIDA
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 12 – Bônus",Perguntas Frequentes
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:427 tvg-logo="https://i.ytimg.com/vi/m93TVfpKIoY/mqdefault.jpg" group-title="MÓDULO 20 - EM BREVE",Bolsa bordada em tela aprenda a fazer em breve
+#EXTINF:665 tvg-logo="https://i.ytimg.com/vi/BVP2ULag46o/mqdefault.jpg" group-title="MÓDULO 20 - Ateliê Joana Fernandes Crochê Moderno",ALÇA PARA BOLSA DE CROCHÊ EM FIO DE MALHA
+https://www.youtube.com/watch?v=BVP2ULag46o
+#EXTINF:131 tvg-logo="https://i.ytimg.com/vi/X9gClF9kLa0/mqdefault.jpg" group-title="MÓDULO 20 - Ateliê Joana Fernandes Crochê Moderno",Alça de bolsa feita com corda náutica
+https://www.youtube.com/watch?v=X9gClF9kLa0
+#EXTINF:640 tvg-logo="https://i.ytimg.com/vi/qdfap0peepM/mqdefault.jpg" group-title="MÓDULO 20 - Ateliê Joana Fernandes Crochê Moderno",Alça para bolsa de crochê #crochê
+https://www.youtube.com/watch?v=qdfap0peepM
+#EXTINF:2598 tvg-logo="https://i.ytimg.com/vi/PHXQ6UmfSQ0/mqdefault.jpg" group-title="MÓDULO 20 - Ateliê Joana Fernandes Crochê Moderno",BOLSA DE CROCHÊ COM FIO DE MALHA
+https://www.youtube.com/watch?v=PHXQ6UmfSQ0
+#EXTINF:2210 tvg-logo="https://i.ytimg.com/vi/GNes9-Pa16M/mqdefault.jpg" group-title="MÓDULO 20 - Ateliê Joana Fernandes Crochê Moderno",BOLSA DE CROCHÊ COM FIO DE MALHA (PONTO FANTASIA)
+https://www.youtube.com/watch?v=GNes9-Pa16M
+#EXTINF:1657 tvg-logo="https://i.ytimg.com/vi/363HvF6ZMhw/mqdefault.jpg" group-title="MÓDULO 20 - Ateliê Joana Fernandes Crochê Moderno",BOLSA DE CROCHÊ COM FIO DE MALHA RÁPIDA E FÁCIL DE FAZER
+https://www.youtube.com/watch?v=363HvF6ZMhw
+#EXTINF:1559 tvg-logo="https://i.ytimg.com/vi/2519a-1dYQc/mqdefault.jpg" group-title="MÓDULO 20 - Ateliê Joana Fernandes Crochê Moderno",BOLSA DE CROCHÊ COM PINGENTE EM FIO DE MALHA  SUPER ECONÔMICA
+https://www.youtube.com/watch?v=2519a-1dYQc
+#EXTINF:1099 tvg-logo="https://i.ytimg.com/vi/UiUg4u81Sc4/mqdefault.jpg" group-title="MÓDULO 20 - Ateliê Joana Fernandes Crochê Moderno",BOLSA DE CROCHÊ EM FIO DE MALHA COM PONTO FÁCIL E RÁPIDO
+https://www.youtube.com/watch?v=UiUg4u81Sc4
+#EXTINF:2463 tvg-logo="https://i.ytimg.com/vi/BJ2WqSoQ4Rw/mqdefault.jpg" group-title="MÓDULO 20 - Ateliê Joana Fernandes Crochê Moderno",BOLSA DE CROCHÊ ESTILO SACO (MOCHILA EM FIO DE MALHA)
+https://www.youtube.com/watch?v=BJ2WqSoQ4Rw
+#EXTINF:2617 tvg-logo="https://i.ytimg.com/vi/JEC-5B2fA60/mqdefault.jpg" group-title="MÓDULO 20 - Ateliê Joana Fernandes Crochê Moderno",BOLSA DE CROCHÊ MEIA LUA COM TEMA DE OLHO GREGO EM FIO DE MALHA
+https://www.youtube.com/watch?v=JEC-5B2fA60
+#EXTINF:1213 tvg-logo="https://i.ytimg.com/vi/jXVpyKzZgwQ/mqdefault.jpg" group-title="MÓDULO 20 - Ateliê Joana Fernandes Crochê Moderno",Bolsa de crochê feita com apenas 3 pontos básicos! Confeccionada com fio adequado para iniciantes
+https://www.youtube.com/watch?v=jXVpyKzZgwQ
+#EXTINF:1704 tvg-logo="https://i.ytimg.com/vi/TBXc0lr04nI/mqdefault.jpg" group-title="MÓDULO 20 - Ateliê Joana Fernandes Crochê Moderno",Bolsa de crochê feita com fio de malha
+https://www.youtube.com/watch?v=TBXc0lr04nI
+#EXTINF:2971 tvg-logo="https://i.ytimg.com/vi/Yyl3xztNmbE/mqdefault.jpg" group-title="MÓDULO 20 - Ateliê Joana Fernandes Crochê Moderno",Bolsa de Crochê Feita em um único Square Simples e Rápida
+https://www.youtube.com/watch?v=Yyl3xztNmbE
+#EXTINF:2668 tvg-logo="https://i.ytimg.com/vi/X3A3QHZTGuI/mqdefault.jpg" group-title="MÓDULO 20 - Ateliê Joana Fernandes Crochê Moderno",Bolsa de crochê passo a passo (bolsa grande em fio de poliéster ou cordão náutico)
+https://www.youtube.com/watch?v=X3A3QHZTGuI
+#EXTINF:1788 tvg-logo="https://i.ytimg.com/vi/fHyGPt8Ua6g/mqdefault.jpg" group-title="MÓDULO 20 - Ateliê Joana Fernandes Crochê Moderno",Bolsa de fio de malha em crochê sem emendas
+https://www.youtube.com/watch?v=fHyGPt8Ua6g
+#EXTINF:2371 tvg-logo="https://i.ytimg.com/vi/vlMgEagYidM/mqdefault.jpg" group-title="MÓDULO 20 - Ateliê Joana Fernandes Crochê Moderno",BOLSA EM FIO DE MALHA COM ÓTIMO ESPAÇO INTERNO PARA O DIA A DIA
+https://www.youtube.com/watch?v=vlMgEagYidM
+#EXTINF:1727 tvg-logo="https://i.ytimg.com/vi/ovmSKPSTei8/mqdefault.jpg" group-title="MÓDULO 20 - Ateliê Joana Fernandes Crochê Moderno",Bolsa em fio de malha crochê  Alça com bolso
+https://www.youtube.com/watch?v=ovmSKPSTei8
+#EXTINF:1533 tvg-logo="https://i.ytimg.com/vi/92WJPkBke3E/mqdefault.jpg" group-title="MÓDULO 20 - Ateliê Joana Fernandes Crochê Moderno",Bolsa em fio de malha Crochê – Faça com sobras de fio
+https://www.youtube.com/watch?v=92WJPkBke3E
+#EXTINF:984 tvg-logo="https://i.ytimg.com/vi/TH945NqxFSU/mqdefault.jpg" group-title="MÓDULO 20 - Ateliê Joana Fernandes Crochê Moderno",BOLSA FLOR CROCHÊ COM FIO DE MALHA
+https://www.youtube.com/watch?v=TH945NqxFSU
+#EXTINF:1742 tvg-logo="https://i.ytimg.com/vi/8PPVq5bwcgk/mqdefault.jpg" group-title="MÓDULO 20 - Ateliê Joana Fernandes Crochê Moderno",BOLSA GRINGA EM FIO DE MALHA CROCHÊ  FÁCIL E ECONÔMICA
+https://www.youtube.com/watch?v=8PPVq5bwcgk
+#EXTINF:2320 tvg-logo="https://i.ytimg.com/vi/2yM_3yu0t4Q/mqdefault.jpg" group-title="MÓDULO 20 - Ateliê Joana Fernandes Crochê Moderno",Bolsa Heloisa Crochê Fio de Malha (Fundo Duplo e Reforçado)
+https://www.youtube.com/watch?v=2yM_3yu0t4Q
+#EXTINF:1930 tvg-logo="https://i.ytimg.com/vi/SErOvrewCm8/mqdefault.jpg" group-title="MÓDULO 20 - Ateliê Joana Fernandes Crochê Moderno",BOLSA SEM EMENDAS NO FIO DE MALHA CROCHÊ
+https://www.youtube.com/watch?v=SErOvrewCm8
+#EXTINF:2726 tvg-logo="https://i.ytimg.com/vi/s0y4eohq89U/mqdefault.jpg" group-title="MÓDULO 20 - Ateliê Joana Fernandes Crochê Moderno",Bolsa Sem Emendas Ponto Espinha de Peixe   Crochê fio de malha
+https://www.youtube.com/watch?v=s0y4eohq89U
+#EXTINF:1245 tvg-logo="https://i.ytimg.com/vi/MJhNqgrMxXI/mqdefault.jpg" group-title="MÓDULO 20 - Ateliê Joana Fernandes Crochê Moderno",Carteira em Crochê Fio Náutico Econômica
+https://www.youtube.com/watch?v=MJhNqgrMxXI
+#EXTINF:1325 tvg-logo="https://i.ytimg.com/vi/ogu0iRL3lXI/mqdefault.jpg" group-title="MÓDULO 20 - Ateliê Joana Fernandes Crochê Moderno",Mini Bolsa na Tela  Mesmo padrão para bolsas maiores!
+https://www.youtube.com/watch?v=ogu0iRL3lXI
+#EXTINF:427 tvg-logo="https://i.ytimg.com/vi/m93TVfpKIoY/mqdefault.jpg" group-title="MÓDULO 21 - EM BREVE",Bolsa bordada em tela aprenda a fazer em breve
 https://www.youtube.com/watch?v=m93TVfpKIoY
+#EXTINF:2584 tvg-logo="https://i.ytimg.com/vi/ECacmIV5daQ/mqdefault.jpg" group-title="MÓDULO 22 - EXTRAS (CROCHÊ)",Bolsa de crochê
+https://www.youtube.com/watch?v=ECacmIV5daQ
+#EXTINF:1489 tvg-logo="https://i.ytimg.com/vi/_ezssz6MExI/mqdefault.jpg" group-title="MÓDULO 22 - EXTRAS (CROCHÊ)",COMO FAZER BOLSA EM FIO DE MALHA PASSO A PASSO
+https://www.youtube.com/watch?v=_ezssz6MExI
+#EXTINF:2285 tvg-logo="https://i.ytimg.com/vi/2YEC9xCPitA/mqdefault.jpg" group-title="MÓDULO 22 - EXTRAS (CROCHÊ)",Como fazer uma bolsa de crochê com fio de malha
+https://www.youtube.com/watch?v=2YEC9xCPitA
+#EXTINF:1464 tvg-logo="https://i.ytimg.com/vi/E5lwPyb9Uuw/mqdefault.jpg" group-title="MÓDULO 22 - EXTRAS (CROCHÊ)",Carteira de mão feita de fio de malha em crochê
+https://www.youtube.com/watch?v=E5lwPyb9Uuw
+#EXTINF:1214 tvg-logo="https://i.ytimg.com/vi/ifcefNMH6ow/mqdefault.jpg" group-title="MÓDULO 22 - EXTRAS (CROCHÊ)",Tutorial Bolsa que vende Fácil (Econômica e rápida)
+https://www.youtube.com/watch?v=ifcefNMH6ow
+#EXTINF:1302 tvg-logo="https://i.ytimg.com/vi/AsJt0Jk9xmU/mqdefault.jpg" group-title="MÓDULO 22 - EXTRAS (CROCHÊ)",Para iniciantes! Usa 2 pontos básicos de crochê!
+https://www.youtube.com/watch?v=AsJt0Jk9xmU
+#EXTINF:2133 tvg-logo="https://i.ytimg.com/vi/hUMUsIZ99bM/mqdefault.jpg" group-title="MÓDULO 22 - EXTRAS (CROCHÊ)",Como fazer uma bolsa usando fio de malha com ponto fantasia
+https://www.youtube.com/watch?v=hUMUsIZ99bM
+#EXTINF:1464 tvg-logo="https://i.ytimg.com/vi/OxrNJBeK4tk/mqdefault.jpg" group-title="MÓDULO 22 - EXTRAS (CROCHÊ)",CARTEIRA DE MÃO EM FIO DE MALHA CROCHÊ
+https://www.youtube.com/watch?v=OxrNJBeK4tk
+#EXTINF:2955 tvg-logo="https://i.ytimg.com/vi/YT7AeynFlPA/mqdefault.jpg" group-title="MÓDULO 22 - EXTRAS (CROCHÊ)",BOLSA TULIPA EM FIO DE MALHA CROCHÊ  RECEITA EXCLUSIVA AQUI DO CANAL PARA VOCÊ 🌷
+https://www.youtube.com/watch?v=YT7AeynFlPA
+#EXTINF:1819 tvg-logo="https://i.ytimg.com/vi/qzl9w5Vi85A/mqdefault.jpg" group-title="MÓDULO 22 - EXTRAS (CROCHÊ)",Base oval de crochê com fio náutico | Técnica moderna e fácil
+https://www.youtube.com/watch?v=qzl9w5Vi85A
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="TV | CANAIS | ABERTOS", BAND Pará - RBA TV
 https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="TV | CANAIS | ABERTOS", GLOBO SP
