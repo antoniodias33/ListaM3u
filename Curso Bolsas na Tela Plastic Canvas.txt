@@ -642,6 +642,8 @@ https://www.youtube.com/watch?v=7hCshaKVpdE
 #EXTINF:2952 tvg-logo="https://i.ytimg.com/vi/egWqD2_VGrQ/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela",BOLSA BAGUETE ISA! CHARME EM CROCHÊ NA TELA #crochet
 https://www.youtube.com/watch?v=egWqD2_VGrQ
 #EXTINF:2918 tvg-logo="https://i.ytimg.com/vi/tvgK5ElBaJo/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela", step by step @ruteprestes-bolsasnatela
+
+
 https://www.youtube.com/watch?v=tvgK5ElBaJo
 #EXTINF:3621 tvg-logo="https://i.ytimg.com/vi/EtL7P1OiIB8/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela",COMO FAZER BOLSA DIRETO NA TELA RAPIDO / FACÍL  #crochet #croche
 https://www.youtube.com/watch?v=EtL7P1OiIB8
@@ -921,6 +923,7 @@ https://www.youtube.com/watch?v=jHt9aKSVguc
 https://www.youtube.com/watch?v=fJkCBlA8Q_w
 #EXTINF:1402 tvg-logo="https://i.ytimg.com/vi/09RSISeoCl0/mqdefault.jpg" group-title="Ateliê Joana Fernandes Crochê Moderno",PLASTIC CANVAS   COIN AND CARD WALLET   PLASTIC CANVAS BAG TUTORIAL
 https://www.youtube.com/watch?v=09RSISeoCl0
+
 #EXTINF:719 tvg-logo="https://i.ytimg.com/vi/ev6RZVJqayg/mqdefault.jpg" group-title="Permita-se Conectar",Passo a Passo ponto Bolsa de Tela Júlia - Parte 1
 https://www.youtube.com/watch?v=ev6RZVJqayg
 #EXTINF:500 tvg-logo="https://i.ytimg.com/vi/MRIXyMphsWo/mqdefault.jpg" group-title="Permita-se Conectar",Saiba as PRINCIPAIS FERRAMENTAS para quem quer INICIAR no artesanato | Bolsas em Crochê ou em Tela
