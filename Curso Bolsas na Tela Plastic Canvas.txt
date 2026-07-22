@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR", Isso foi feita à mão.  (ATUALIZADO EM: 22/07/2026 00:10hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR", Isso foi feita à mão.  (ATUALIZADO EM: 22/07/2026 00:15hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO  0 - BOAS VINDAS",Aula 1 - Bem-vindo ao Curso
 https://ia600406.us.archive.org/24/items/tela-em-breve-aguarde/TELA_EM_BREVE%20-%20AGUARDE.mp4
@@ -278,7 +278,8 @@ https://www.youtube.com/watch?v=5P-iLqDEkKE
 #EXTINF:-1 group-title="MÓDULO 02 – MATERIAIS",Aula 01 - Telas: tamanhos e espessuras
 https://archive.org/download/tela-em-breve-aguarde/TELA_EM_BREVE%20-%20AGUARDE.mp4
 #EXTINF:-1 group-title="MÓDULO 02 – MATERIAIS",Aula 02 - Diferença entre tela 3 mm, 4 mm e outras (Bolsa Edna aos 37Minutos
-https://vimeo.com/1193802601?fl=pl&fe=sh#t=37m38s&end=39m35s
+https://player.vimeo.com/video/1193802601?fl=pl&fe=sh#t=37m38s&end=39m35s
+
 #EXTINF:-1 group-title="MÓDULO 02 – MATERIAIS",Aula 03 - Linhas indicadas
 https://archive.org/download/tela-em-breve-aguarde/TELA_EM_BREVE%20-%20AGUARDE.mp4
 #EXTINF:-1 group-title="MÓDULO 02 – MATERIAIS",Aula 04 - Agulhas
