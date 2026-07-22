@@ -1,15 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR", Isso foi feita à mão.  (ATUALIZADO EM: 22/07/2026 12:55hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR", Isso foi feita à mão.  (ATUALIZADO EM: 22/07/2026 13:15hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
+
+#EXTINF:2668 tvg-logo="https://i.ytimg.com/vi/X3A3QHZTGuI/mqdefault.jpg",CROCHET BAG STEP BY STEP POLYESTER OR NAUTICAL CORD LARGE CROCHET BAG
+https://youtu.be/X3A3QHZTGuI
+
+#EXTINF:1819 tvg-logo="https://i.ytimg.com/vi/qzl9w5Vi85A/mqdefault.jpg",CROCHET OVAL BASE WITH NAUTICAL YARN | MODERN AND EASY TECHNIQUE
+https://youtu.be/qzl9w5Vi85A
+
+#EXTINF:1302 tvg-logo="https://i.ytimg.com/vi/AsJt0Jk9xmU/mqdefault.jpg",For beginners! Uses 2 basic crochet stitches!
+https://youtu.be/AsJt0Jk9xmU
+
+#EXTINF:2668 tvg-logo="https://i.ytimg.com/vi/X3A3QHZTGuI/mqdefault.jpg" group-title="Ateliê Joana Fernandes Crochê Moderno",CROCHET BAG STEP BY STEP POLYESTER OR NAUTICAL CORD LARGE CROCHET BAG
+https://www.youtube.com/watch?v=X3A3QHZTGuI
+
+#EXTINF:1819 tvg-logo="https://i.ytimg.com/vi/qzl9w5Vi85A/mqdefault.jpg" group-title="Ateliê Joana Fernandes Crochê Moderno",CROCHET OVAL BASE WITH NAUTICAL YARN | MODERN AND EASY TECHNIQUE
+https://www.youtube.com/watch?v=qzl9w5Vi85A
+
+#EXTINF:1302 tvg-logo="https://i.ytimg.com/vi/AsJt0Jk9xmU/mqdefault.jpg" group-title="Ateliê Joana Fernandes Crochê Moderno",For beginners! Uses 2 basic crochet stitches!
+https://www.youtube.com/watch?v=AsJt0Jk9xmU
+
+
+
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO  0 - BOAS VINDAS",Aula 1 - Bem-vindo ao Curso
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO  0 - BOAS VINDAS",Aula 2 - Como utilizar o aplicativo
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/an_webp/erGbeK-psPQ/mqdefault_6s.webp?du=3000&sqp=CLCng9MG&rs=AOn4CLDpx6qeLrqZRLZizmXK7kBv8KOamQ" group-title="MÓDULO  0 - BOAS VINDAS",Aula 3 - Materiais necessários
 https://www.youtube.com/watch?v=erGbeK-psPQ
-
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO  0 - BOAS VINDAS",Aula 4 - Conhecendo a Tela Plástica
 https://www.youtube.com/watch?v=B6MdFl1PIDA
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO  0 - BOAS VINDAS",Aula 5 - Tipos de Bolsas que iremos produzir
@@ -22,6 +40,8 @@ https://www.youtube.com/watch?v=_JkV6P1XyEA
 https://www.youtube.com/watch?v=c_gku3rI1V0
 #EXTINF:547 tvg-logo="https://i.ytimg.com/vi/iYfgvAtLbVg/mqdefault.jpg" group-title="MÓDULO  1 - INICIANTES",Esta ideia vai te ajudar muito nas férias deste verão! É tão caro!
 https://www.youtube.com/watch?v=iYfgvAtLbVg
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/an_webp/fJkCBlA8Q_w/mqdefault_6s.webp?du=3000&sqp=CJjVg9MG&rs=AOn4CLB5FtiNgkVxcGzL8rYkhrLUS95bRg" group-title="MÓDULO  1 - INICIANTES",BOLSA NA TELA PLÁSTICA PASSO A PASSO
+https://www.youtube.com/watch?v=fJkCBlA8Q_w
 #EXTINF:719 tvg-logo="https://i.ytimg.com/vi/9Opom1PU-Kk/mqdefault.jpg" group-title="MÓDULO  2 - AULAS AVANÇADAS",Biblioteca de Pontos: Como fazer um ponto bonito usando plástico como tela
 https://www.youtube.com/watch?v=9Opom1PU-Kk
 #EXTINF:2058 tvg-logo="https://i.ytimg.com/vi/S25D6Qqegjo/mqdefault.jpg" group-title="MÓDULO  2 - AULAS AVANÇADAS",Bolsa de Lona e Tela (DIY) | Essa bolsa sempre recebe elogios!
@@ -280,8 +300,6 @@ https://www.youtube.com/watch?v=5P-iLqDEkKE
 https://www.youtube.com/watch?v=B6MdFl1PIDA
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159366254-d25c1fb421980e01c88038cb3889fae9c7ad5b2e8b0612136d15f8fdcc57513e-d_360x203?&r=pad&region=us" group-title="MÓDULO 02 – MATERIAIS",Aula 02 - Diferença entre tela 3 mm e 4 mm e outras (Bolsa Edna aos 37Minutos)
 https://player.vimeo.com/video/1193802601?fl=pl&fe=sh#t=37m38s&end=39m35s
-
-https://www.youtube.com/watch?v=B6MdFl1PIDA
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 02 – MATERIAIS",Aula 03 - Linhas indicadas
 https://www.youtube.com/watch?v=B6MdFl1PIDA
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 02 – MATERIAIS",Aula 04 - Agulhas
@@ -408,7 +426,6 @@ https://www.youtube.com/watch?v=B6MdFl1PIDA
 https://www.youtube.com/watch?v=B6MdFl1PIDA
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 11 – Venda suas Bolsas",Como calcular o preço
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 11 – Venda suas Bolsas",Quanto cobrar pela mão de obra
 https://www.youtube.com/watch?v=B6MdFl1PIDA
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 11 – Venda suas Bolsas",Como tirar fotos
