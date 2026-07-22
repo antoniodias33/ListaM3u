@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR", Isso foi feita à mão.  (ATUALIZADO EM: 22/07/2026 00:05hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
+
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1NYRVdgXArRMFHa4X1XDtCFIA99a9s929/view?usp=drive_link" group-title="MÓDULO  0 - BOAS VINDAS",Aula 1 - Bem-vindo ao Curso
 https://ia600406.us.archive.org/24/items/tela-em-breve-aguarde/TELA_EM_BREVE%20-%20AGUARDE.mp4
 
