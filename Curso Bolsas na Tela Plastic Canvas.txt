@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="INTRODUÇÃO" audio-track="pt-BR", foi feita à mão.  ATUALIZADO EM: 21/07/2026 14:20hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="INTRODUÇÃO" audio-track="pt-BR", foi feita à mão.  ATUALIZADO EM: 21/07/2026 21:40hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
-#EXTINF:1244 tvg-logo="https://i.ytimg.com/vi/6KdqGQMbb1s/mqdefault.jpg" group-title="INTRODUÇÃO",Como marcar sua tela para montar sua bolsa 1
-https://www.youtube.com/watch?v=6KdqGQMbb1s
-#EXTINF:1343 tvg-logo="https://i.ytimg.com/vi/UyrMSJr4po4/mqdefault.jpg" group-title="INTRODUÇÃO",Como marcar sua tela para montar sua bolsa 2
-https://www.youtube.com/watch?v=UyrMSJr4po4
 #EXTINF:1971 tvg-logo="https://i.ytimg.com/vi/_JkV6P1XyEA/mqdefault.jpg" group-title="MÓDULO 1 - INICIANTES",Bolsa de Tela de Plástico | Qualquer um pode fazer! | Tutorial Fácil de Bolsa de Tela de Plástico (Faça Você Mesmo)
 https://www.youtube.com/watch?v=_JkV6P1XyEA
 #EXTINF:1615 tvg-logo="https://i.ytimg.com/vi/c_gku3rI1V0/mqdefault.jpg" group-title="MÓDULO 1 - INICIANTES",Como cortar sua tela para montar sua bolsa
@@ -29,56 +25,58 @@ https://player.vimeo.com/video/1193802600
 https://player.vimeo.com/video/1193802598
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159363961-960480accadb7c66fc57ce523dec93aca5a0f5e7e4fe2974fff460f0d3edd620-d_360x203?&r=pad&region=us" group-title="MÓDULO 3 - AULAS PRÁTICAS",Bolsa Íris - Delicado e versátil.
 https://player.vimeo.com/video/1193803746
+#EXTINF:1244 tvg-logo="https://i.ytimg.com/vi/6KdqGQMbb1s/mqdefault.jpg" group-title="MÓDULO 4 - AULAS MARCAÇÃO",Como marcar sua tela para montar sua bolsa 1
+https://www.youtube.com/watch?v=6KdqGQMbb1s
+#EXTINF:1937 tvg-logo="https://i.ytimg.com/vi/Jre1lbPjetI/mqdefault.jpg" group-title="MÓDULO 4 - AULAS MARCAÇÃO",COMO FAZER BOLSA BORDADA EM TELA AULA 2
+https://www.youtube.com/watch?v=Jre1lbPjetI
+#EXTINF:1814 tvg-logo="https://i.ytimg.com/vi/UFT27JUPyi0/mqdefault.jpg" group-title="MÓDULO 4 - AULAS MARCAÇÃO",COMO FAZER BOLSA BORDADA EM TELA AULA 1
+https://www.youtube.com/watch?v=UFT27JUPyi0
+#EXTINF:1343 tvg-logo="https://i.ytimg.com/vi/UyrMSJr4po4/mqdefault.jpg" group-title="MÓDULO 4 - AULAS MARCAÇÃO",Como marcar sua tela para montar sua bolsa 2
+https://www.youtube.com/watch?v=UyrMSJr4po4
+#EXTINF:1830 tvg-logo="https://i.ytimg.com/vi/2_ZEH8DvRjk/mqdefault.jpg" group-title="MÓDULO 4 - AULAS MARCAÇÃO",COMO FAZER BOLSA BORDADA EM TELA AULA 3
+https://www.youtube.com/watch?v=2_ZEH8DvRjk
+#EXTINF:1938 tvg-logo="https://i.ytimg.com/vi/YbgJ3x9QZiA/mqdefault.jpg" group-title="MÓDULO 4 - AULAS MARCAÇÃO",COMO FAZER BOLSA BORDADA EM TELA AULA FINAL
+https://www.youtube.com/watch?v=YbgJ3x9QZiA
 #EXTINF:2103 tvg-logo="https://i.ytimg.com/vi/eYGlI7o4Je4/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's", BOLSA PRAIANA PARTE 1
 https://www.youtube.com/watch?v=eYGlI7o4Je4
 #EXTINF:1529 tvg-logo="https://i.ytimg.com/vi/9hPMVlU_26I/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's", BOLSA PRAIANA PARTE 2
 https://www.youtube.com/watch?v=9hPMVlU_26I
 #EXTINF:1269 tvg-logo="https://i.ytimg.com/vi/eUxdXjpYJBw/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's", BOLSA PRAIANA PARTE 3 FINAL
 https://www.youtube.com/watch?v=eUxdXjpYJBw
-#EXTINF:427 tvg-logo="https://i.ytimg.com/vi/m93TVfpKIoY/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",Bolsa bordada em tela aprenda a fazer em breve
-https://www.youtube.com/watch?v=m93TVfpKIoY
+#EXTINF:1796 tvg-logo="https://i.ytimg.com/vi/YGGolbGD2AQ/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",1 Como fazer bolsa bordada em tela aula 1
+https://www.youtube.com/watch?v=YGGolbGD2AQ
+#EXTINF:1951 tvg-logo="https://i.ytimg.com/vi/lR9v6jLHttw/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",1 Como fazer bolsa bordada em tela aula 2
+https://www.youtube.com/watch?v=lR9v6jLHttw
+#EXTINF:1452 tvg-logo="https://i.ytimg.com/vi/KQD7-FIoxzo/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",1 Como fazer bolsa bordada em tela aula 3
+https://www.youtube.com/watch?v=KQD7-FIoxzo
+#EXTINF:2139 tvg-logo="https://i.ytimg.com/vi/JpOBqZY0SKE/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",2 COMO FAZER BOLSA BORDADA EM TELA PARTE 1
+https://www.youtube.com/watch?v=JpOBqZY0SKE
+#EXTINF:1706 tvg-logo="https://i.ytimg.com/vi/Q_ra_3gpej0/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",2 COMO FAZER BOLSA BORDADA EM TELA PARTE 2
+https://www.youtube.com/watch?v=Q_ra_3gpej0
+#EXTINF:1239 tvg-logo="https://i.ytimg.com/vi/1W0D5Yg5byI/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",2 COMO FAZER BOLSA BORDADA EM TELA PARTE 3
+https://www.youtube.com/watch?v=1W0D5Yg5byI
+#EXTINF:1296 tvg-logo="https://i.ytimg.com/vi/8pGFAbcgpus/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",2 COMO FAZER BOLSA BORDADA RM TELA ULTIMA PARTE
+https://www.youtube.com/watch?v=8pGFAbcgpus
+#EXTINF:1875 tvg-logo="https://i.ytimg.com/vi/ZhkAeclC9co/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",3 COMO FAZER BOLSA BORDADA EM TELA PARTE 1
+https://www.youtube.com/watch?v=ZhkAeclC9co
+#EXTINF:1476 tvg-logo="https://i.ytimg.com/vi/o_OBgkcyqW0/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",3 COMO FAZER BOLSA BORDADA EM TELA PARTE 2
+https://www.youtube.com/watch?v=o_OBgkcyqW0
+#EXTINF:1281 tvg-logo="https://i.ytimg.com/vi/FLy2dcN3OjI/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",3 COMO FAZER BOLSA BORDADA EM TELA PARTE 3
+https://www.youtube.com/watch?v=FLy2dcN3OjI
+#EXTINF:1874 tvg-logo="https://i.ytimg.com/vi/nda7hXh5Yjc/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",4 COMO FAZER BOLSA BORDADA EM TELA PARTE 1
+https://www.youtube.com/watch?v=nda7hXh5Yjc
+#EXTINF:2148 tvg-logo="https://i.ytimg.com/vi/yvWK4cz3t8U/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",5 COMO FAZER BOLSA BORDADA EM TELA PARTE 2
+https://www.youtube.com/watch?v=yvWK4cz3t8U
+#EXTINF:1618 tvg-logo="https://i.ytimg.com/vi/TqlanXAmW78/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",5 COMO FAZER BOLSA BORDADA EM TELA PARTE 3
+https://www.youtube.com/watch?v=TqlanXAmW78
+#EXTINF:1652 tvg-logo="https://i.ytimg.com/vi/oaBeNV6Kc5M/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",6 Como fazer bolsa bordada em tela aula 1
+https://www.youtube.com/watch?v=oaBeNV6Kc5M
+#EXTINF:1093 tvg-logo="https://i.ytimg.com/vi/3UthFMKMCAg/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",6 Como fazer bolsa bordada em tela parte 2
+https://www.youtube.com/watch?v=3UthFMKMCAg
 #EXTINF:1615 tvg-logo="https://i.ytimg.com/vi/c_gku3rI1V0/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",Como cortar sua tela para montar sua bolsa
 https://www.youtube.com/watch?v=c_gku3rI1V0
 #EXTINF:1143 tvg-logo="https://i.ytimg.com/vi/sAwA4wDqk7g/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",COMO CORTAR TELA PARA BOLSAS
 https://www.youtube.com/watch?v=sAwA4wDqk7g
-#EXTINF:1814 tvg-logo="https://i.ytimg.com/vi/UFT27JUPyi0/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",COMO FAZER BOLSA BORDADA EM TELA AULA 1
-https://www.youtube.com/watch?v=UFT27JUPyi0
-#EXTINF:1937 tvg-logo="https://i.ytimg.com/vi/Jre1lbPjetI/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",COMO FAZER BOLSA BORDADA EM TELA AULA 2
-https://www.youtube.com/watch?v=Jre1lbPjetI
-#EXTINF:1951 tvg-logo="https://i.ytimg.com/vi/lR9v6jLHttw/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",Como fazer bolsa bordada em tela aula 2
-https://www.youtube.com/watch?v=lR9v6jLHttw
-#EXTINF:1830 tvg-logo="https://i.ytimg.com/vi/2_ZEH8DvRjk/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",COMO FAZER BOLSA BORDADA EM TELA AULA 3
-https://www.youtube.com/watch?v=2_ZEH8DvRjk
-#EXTINF:1452 tvg-logo="https://i.ytimg.com/vi/KQD7-FIoxzo/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",Como fazer bolsa bordada em tela aula 3
-https://www.youtube.com/watch?v=KQD7-FIoxzo
-#EXTINF:1938 tvg-logo="https://i.ytimg.com/vi/YbgJ3x9QZiA/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",COMO FAZER BOLSA BORDADA EM TELA AULA FINAL
-https://www.youtube.com/watch?v=YbgJ3x9QZiA
-#EXTINF:1652 tvg-logo="https://i.ytimg.com/vi/oaBeNV6Kc5M/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",Como fazer bolsa bordada em tela parte 1
-https://www.youtube.com/watch?v=oaBeNV6Kc5M
-#EXTINF:1874 tvg-logo="https://i.ytimg.com/vi/nda7hXh5Yjc/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",COMO FAZER BOLSA BORDADA EM TELA PARTE 1
-https://www.youtube.com/watch?v=nda7hXh5Yjc
-#EXTINF:1875 tvg-logo="https://i.ytimg.com/vi/ZhkAeclC9co/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",COMO FAZER BOLSA BORDADA EM TELA PARTE 1
-https://www.youtube.com/watch?v=ZhkAeclC9co
-#EXTINF:2139 tvg-logo="https://i.ytimg.com/vi/JpOBqZY0SKE/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",COMO FAZER BOLSA BORDADA EM TELA PARTE 1
-https://www.youtube.com/watch?v=JpOBqZY0SKE
-#EXTINF:1706 tvg-logo="https://i.ytimg.com/vi/Q_ra_3gpej0/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",COMO FAZER BOLSA BORDADA EM TELA PARTE 2
-https://www.youtube.com/watch?v=Q_ra_3gpej0
-#EXTINF:2148 tvg-logo="https://i.ytimg.com/vi/yvWK4cz3t8U/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",COMO FAZER BOLSA BORDADA EM TELA PARTE 2
-https://www.youtube.com/watch?v=yvWK4cz3t8U
-#EXTINF:1476 tvg-logo="https://i.ytimg.com/vi/o_OBgkcyqW0/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",COMO FAZER BOLSA BORDADA EM TELA PARTE 2
-https://www.youtube.com/watch?v=o_OBgkcyqW0
-#EXTINF:1093 tvg-logo="https://i.ytimg.com/vi/3UthFMKMCAg/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",Como fazer bolsa bordada em tela parte 2
-https://www.youtube.com/watch?v=3UthFMKMCAg
-#EXTINF:1281 tvg-logo="https://i.ytimg.com/vi/FLy2dcN3OjI/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",COMO FAZER BOLSA BORDADA EM TELA PARTE 3
-https://www.youtube.com/watch?v=FLy2dcN3OjI
-#EXTINF:1239 tvg-logo="https://i.ytimg.com/vi/1W0D5Yg5byI/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",COMO FAZER BOLSA BORDADA EM TELA PARTE 3
-https://www.youtube.com/watch?v=1W0D5Yg5byI
-#EXTINF:1618 tvg-logo="https://i.ytimg.com/vi/TqlanXAmW78/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",COMO FAZER BOLSA BORDADA EM TELA PARTE 3
-https://www.youtube.com/watch?v=TqlanXAmW78
-#EXTINF:1296 tvg-logo="https://i.ytimg.com/vi/8pGFAbcgpus/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",COMO FAZER BOLSA BORDADA RM TELA ULTIMA PARTE
-https://www.youtube.com/watch?v=8pGFAbcgpus
-#EXTINF:1796 tvg-logo="https://i.ytimg.com/vi/YGGolbGD2AQ/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",Como fazer bolsa bordado em tela aula 1
-https://www.youtube.com/watch?v=YGGolbGD2AQ
 #EXTINF:55 tvg-logo="https://i.ytimg.com/vi/OMFT4viTvbw/mqdefault.jpg" group-title="MÓDULO 4 - AULAS Suely Art's",Como fazer bolsas bordada em tela em breve
 https://www.youtube.com/watch?v=OMFT4viTvbw
 #EXTINF:1193 tvg-logo="https://i.ytimg.com/vi/EW78sqrHR-8/mqdefault.jpg" group-title="MÓDULO 5 - CURSO BOLSAS NA TELA", tejida en MALLA PLÁSTICA / punto plaid en plastic canvas
@@ -263,6 +261,8 @@ https://www.youtube.com/watch?v=mrcoPcy0-3I
 https://www.youtube.com/watch?v=qYPy1LeKt18
 #EXTINF:823 tvg-logo="https://i.ytimg.com/vi/5P-iLqDEkKE/mqdefault.jpg" group-title="MÓDULO 6 - AULAS EM INGLÊS",Plastic Canvas Bag Tutorial | Bolsa de tela plástica (faça você mesmo) #bolsadetela #telaplástica #bolsadetelaplástica
 https://www.youtube.com/watch?v=5P-iLqDEkKE
+#EXTINF:427 tvg-logo="https://i.ytimg.com/vi/m93TVfpKIoY/mqdefault.jpg" group-title="MÓDULO 7 - EM BREVE",Bolsa bordada em tela aprenda a fazer em breve
+https://www.youtube.com/watch?v=m93TVfpKIoY
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="TV | CANAIS | ABERTOS", BAND Pará - RBA TV
 https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="TV | CANAIS | ABERTOS", GLOBO SP
