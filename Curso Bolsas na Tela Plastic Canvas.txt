@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR", Isso foi feita à mão.  (ATUALIZADO EM: 22/07/2026 00:45hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR", Isso foi feita à mão.  (ATUALIZADO EM: 22/07/2026 00:50hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO  0 - BOAS VINDAS",Aula 1 - Bem-vindo ao Curso
 https://www.youtube.com/watch?v=B6MdFl1PIDA
@@ -276,7 +276,7 @@ https://www.youtube.com/watch?v=qYPy1LeKt18
 https://www.youtube.com/watch?v=5P-iLqDEkKE
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 02 – MATERIAIS",Aula 01 - Telas: tamanhos e espessuras
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO 02 – MATERIAIS",Aula 02 - Diferença entre tela 3 mm e 4 mm e outras (Bolsa Edna aos 37Minutos
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159366254-d25c1fb421980e01c88038cb3889fae9c7ad5b2e8b0612136d15f8fdcc57513e-d_360x203?&r=pad&region=us" group-title="MÓDULO 02 – MATERIAIS",Aula 02 - Diferença entre tela 3 mm e 4 mm e outras (Bolsa Edna aos 37Minutos)
 https://player.vimeo.com/video/1193802601?fl=pl&fe=sh#t=37m38s&end=39m35s
 
 https://www.youtube.com/watch?v=B6MdFl1PIDA
