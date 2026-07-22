@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 22/07/2026 16:00hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 22/07/2026 16:15hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO  0 - BOAS VINDAS",Aula 1 - Bem-vindo ao Curso
 https://www.youtube.com/watch?v=B6MdFl1PIDA
@@ -633,6 +633,66 @@ https://www.youtube.com/watch?v=HLiAuMlEAmY
 https://www.youtube.com/watch?v=5gVKTmM7UiQ
 #EXTINF:306 tvg-logo="https://i.ytimg.com/vi/WpPLgeLb78k/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",NEW STITCH ON  PLASTIC CANVAS GRID TO MAKE AN ELEGANT AND LUXURIOUS BAG
 https://www.youtube.com/watch?v=WpPLgeLb78k
+#EXTINF:2080 tvg-logo="https://i.ytimg.com/vi/NqK4NchscyA/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela",CROCHÊ DIFERENTE ✅ #croche #tela #crochet
+https://www.youtube.com/watch?v=NqK4NchscyA
+#EXTINF:3844 tvg-logo="https://i.ytimg.com/vi/yB_rmikCNaE/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela",SECRET TRICK! How to make a bag on the screen✔️❎
+https://www.youtube.com/watch?v=yB_rmikCNaE
+#EXTINF:3709 tvg-logo="https://i.ytimg.com/vi/7hCshaKVpdE/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela",Nina bag: on canvas 👜  #BolsaNina
+https://www.youtube.com/watch?v=7hCshaKVpdE
+#EXTINF:2952 tvg-logo="https://i.ytimg.com/vi/egWqD2_VGrQ/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela",BOLSA BAGUETE ISA! 👜 CHARME EM CROCHÊ NA TELA #crochet
+https://www.youtube.com/watch?v=egWqD2_VGrQ
+#EXTINF:2918 tvg-logo="https://i.ytimg.com/vi/tvgK5ElBaJo/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela", step by step ‪@ruteprestes-bolsasnatela
+https://www.youtube.com/watch?v=tvgK5ElBaJo
+#EXTINF:3621 tvg-logo="https://i.ytimg.com/vi/EtL7P1OiIB8/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela",COMO FAZER BOLSA DIRETO NA TELA RAPIDO / FACÍL  #crochet #croche
+https://www.youtube.com/watch?v=EtL7P1OiIB8
+#EXTINF:634 tvg-logo="https://i.ytimg.com/vi/LINnnWBMlKE/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela",Different CROCHET on the FABRIC #tutorial #easy
+https://www.youtube.com/watch?v=LINnnWBMlKE
+#EXTINF:3865 tvg-logo="https://i.ytimg.com/vi/7ihZmPrUuOQ/mqdefault.jpg" group-title="MÓDULO 25 -  Paula Gama Ateliê",Clutch Elegance - Crochê na Tela com amigurumi pelúcia.
+https://www.youtube.com/watch?v=7ihZmPrUuOQ
+#EXTINF:4090 tvg-logo="https://i.ytimg.com/vi/Pmj8wlC1rwM/mqdefault.jpg" group-title="MÓDULO 25 -  Paula Gama Ateliê",Bolsa Verona em Crochê na Tela
+https://www.youtube.com/watch?v=Pmj8wlC1rwM
+#EXTINF:1893 tvg-logo="https://i.ytimg.com/vi/W6DQWGcqF3A/mqdefault.jpg" group-title="MÓDULO 25 - Mo7a semsem",طريقة عمل شنطه شبك كنفاه بغرزة جديدة باسهل طريقةللمبتدئين new stitch plastic canvas#اكسبلور#handmade
+https://www.youtube.com/watch?v=W6DQWGcqF3A
+#EXTINF:1604 tvg-logo="https://i.ytimg.com/vi/OWtXxLljU_U/mqdefault.jpg" group-title="MÓDULO 25 - CreativaRita Handmade",Pochette su rete "Lillà" - Tutorial!
+https://www.youtube.com/watch?v=OWtXxLljU_U
+#EXTINF:3315 tvg-logo="https://i.ytimg.com/vi/nM4eQ2wt1zQ/mqdefault.jpg" group-title="MÓDULO 25 - Hanoure Art",plastic canvas bag full tutorial for beginners / High - quality luxury bag
+https://www.youtube.com/watch?v=nM4eQ2wt1zQ
+#EXTINF:1198 tvg-logo="https://i.ytimg.com/vi/YylKuSxQ_0o/mqdefault.jpg" group-title="MÓDULO 25 - Hanoure Art",DIY PURSE BAG TUTORIAl ||Everyone can make it - Plastic Canvas Bag DIY . How to make a handmade bag
+https://www.youtube.com/watch?v=YylKuSxQ_0o
+#EXTINF:3587 tvg-logo="https://i.ytimg.com/vi/OHrE8fz8r-c/mqdefault.jpg" group-title="MÓDULO 25 - Hanoure Art",⬛  DIY New plastic canvas  bag design /plastic canvas bag full tutorial #diy  #plasticcanvas
+https://www.youtube.com/watch?v=OHrE8fz8r-c
+#EXTINF:6146 tvg-logo="https://i.ytimg.com/vi/EWCsmatydHE/mqdefault.jpg" group-title="MÓDULO 25 - Hanoure Art",Luxury handmade bag with plastic canvas - full tutorial- pyramid stitch 4 /DIY plastic canvas purse
+https://www.youtube.com/watch?v=EWCsmatydHE
+#EXTINF:2587 tvg-logo="https://i.ytimg.com/vi/k-VJUlNaaKw/mqdefault.jpg" group-title="MÓDULO 25 - Hanoure Art",EASY PLASTIC CANVAS BAG FOR BEGINNERS / DIY PLASTIC CANVAS PURSE WITH GLITTER THREAD
+https://www.youtube.com/watch?v=k-VJUlNaaKw
+#EXTINF:969 tvg-logo="https://i.ytimg.com/vi/dhOAoj62pb8/mqdefault.jpg" group-title="MÓDULO 25 - Hanoure Art",plastic canvas bag DIY |  canvasDIY PURSE BAG TUTORIAl ||Everyone can make it -How to make a purse
+https://www.youtube.com/watch?v=dhOAoj62pb8
+#EXTINF:957 tvg-logo="https://i.ytimg.com/vi/kFLTaIaX-VQ/mqdefault.jpg" group-title="MÓDULO 25 - Hanoure Art",DIY PURSE BAG TUTORIAl ||Everyone can make it - Plastic Canvas Bag DIY . How to make a handmade bag
+https://www.youtube.com/watch?v=kFLTaIaX-VQ
+#EXTINF:1379 tvg-logo="https://i.ytimg.com/vi/zhn_TmUYGGU/mqdefault.jpg" group-title="MÓDULO 25 - Canal da Rô - Artes em Bargello",Fechamento bolsa plastic canvas - Aula 03 #314
+https://www.youtube.com/watch?v=zhn_TmUYGGU
+#EXTINF:2219 tvg-logo="https://i.ytimg.com/vi/54q-ZGmhrTg/mqdefault.jpg" group-title="MÓDULO 25 - Canal da Rô - Artes em Bargello",Bordando uma bolsa em Bargello no Plastic Canvas - Aula 01 #310
+https://www.youtube.com/watch?v=54q-ZGmhrTg
+#EXTINF:2952 tvg-logo="https://i.ytimg.com/vi/kbbk54YpwpI/mqdefault.jpg" group-title="MÓDULO 25 - Nirvana Crochet",Plastic Canvas Bag
+https://www.youtube.com/watch?v=kbbk54YpwpI
+#EXTINF:1144 tvg-logo="https://i.ytimg.com/vi/bCXvPIc8m8w/mqdefault.jpg" group-title="MÓDULO 25 - DIY Simple Crafts ",Easy Woolen Bag Making With Plastic Canvas | Make A Cute Crossbody Bag | Plastic Canvas Bag DIY
+https://www.youtube.com/watch?v=bCXvPIc8m8w
+#EXTINF:1185 tvg-logo="https://i.ytimg.com/vi/71vJBNMA3wk/mqdefault.jpg" group-title="MÓDULO 25 - DIY Simple Crafts ",Easy Ribbon Bag Making With Plastic Canvas | Make A Cute Crossbody Bag | Plastic Canvas Bag DIY
+https://www.youtube.com/watch?v=71vJBNMA3wk
+#EXTINF:967 tvg-logo="https://i.ytimg.com/vi/v43DnZIpkSI/mqdefault.jpg" group-title="MÓDULO 25 - TV Aparecida",Bolsa em plastic canvas com bordado de fio náutico | LOOK ESTILOSO
+https://www.youtube.com/watch?v=v43DnZIpkSI
+#EXTINF:1169 tvg-logo="https://i.ytimg.com/vi/VKbfxis_g4I/mqdefault.jpg" group-title="MÓDULO 25 - Jelory Collection",How To Make An Organza Ribbon Bag | Plastic Canvas Bag Tutorial 2021 | Membuat Tas Dari Pita Organdi
+https://www.youtube.com/watch?v=VKbfxis_g4I
+#EXTINF:522 tvg-logo="https://i.ytimg.com/vi/lBlEkAnwI6I/mqdefault.jpg" group-title="MÓDULO 25 - OV LEE",Video 1 - Plastic Canvas  / Needlework Tote Bag - Shoulder Bag DIY
+https://www.youtube.com/watch?v=lBlEkAnwI6I
+#EXTINF:4451 tvg-logo="https://i.ytimg.com/vi/XxE0FVT8wEk/mqdefault.jpg" group-title="MÓDULO 25 - Sara Cristina",Plastic mesh bag
+https://www.youtube.com/watch?v=XxE0FVT8wEk
+#EXTINF:2865 tvg-logo="https://i.ytimg.com/vi/l3xcAn3vL8k/mqdefault.jpg" group-title="MÓDULO 25 - Sara Cristina",Bolsa na tela plástica
+https://www.youtube.com/watch?v=l3xcAn3vL8k
+#EXTINF:1971 tvg-logo="https://i.ytimg.com/vi/_JkV6P1XyEA/mqdefault.jpg" group-title="MÓDULO 25 - Danysska",Plastic Canvas Mesh Bag | Everyone can make it! | Easy DIY Plastic Canvas Mesh Bag Tutorial
+https://www.youtube.com/watch?v=_JkV6P1XyEA
+#EXTINF:6507 tvg-logo="https://i.ytimg.com/vi/l2QSC7kSMGM/mqdefault.jpg" group-title="MÓDULO 25 - Keu Crochê",Bolsa na Tela  Helena 👜✨ Passo a Passo -Para Iniciantes - Canva Plastic. 
+https://www.youtube.com/watch?v=l2QSC7kSMGM
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="TV | CANAIS | ABERTOS", BAND Pará - RBA TV
 https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="TV | CANAIS | ABERTOS", GLOBO SP
