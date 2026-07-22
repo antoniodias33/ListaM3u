@@ -950,14 +950,12 @@ https://www.youtube.com/watch?v=BNBUEOItzz8
 https://www.youtube.com/watch?v=f85BjJiLauk
 #EXTINF:952 tvg-logo="https://i.ytimg.com/vi/PnKEVWLOtFA/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",Vamos fazer a alca Jessy? você faz vai amar!!✅️
 https://www.youtube.com/watch?v=PnKEVWLOtFA
-#EXTINF:2918 tvg-logo="https://i.ytimg.com/vi/tvgK5ElBaJo/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela", step by step ‪@ruteprestes-bolsasnatela
+#EXTINF:2918 tvg-logo="https://i.ytimg.com/vi/tvgK5ElBaJo/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela", step by step @ruteprestes-bolsasnatela
 https://www.youtube.com/watch?v=tvgK5ElBaJo
 #EXTINF:3844 tvg-logo="https://i.ytimg.com/vi/yB_rmikCNaE/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",SECRET TRICK! How to make a bag on the screen✔️❎
 https://www.youtube.com/watch?v=yB_rmikCNaE
 #EXTINF:3246 tvg-logo="https://i.ytimg.com/vi/DCJ_BBulARw/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",Raquel Baguette Bag with Mesh Base
 https://www.youtube.com/watch?v=DCJ_BBulARw
-#EXTINF:2918 tvg-logo="https://i.ytimg.com/vi/tvgK5ElBaJo/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela", step by step ‪@ruteprestes-bolsasnatela
-https://www.youtube.com/watch?v=tvgK5ElBaJo
 #EXTINF:2259 tvg-logo="https://i.ytimg.com/vi/a8UwJ3AyRHU/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",Learn how to make an Amanda bag on screen #screen
 https://www.youtube.com/watch?v=a8UwJ3AyRHU
 #EXTINF:74 tvg-logo="https://i.ytimg.com/vi/kgxwjhS1vAc/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",Tutorial como colocar o fecho na bolsa! #plasticcanvas #crochet
