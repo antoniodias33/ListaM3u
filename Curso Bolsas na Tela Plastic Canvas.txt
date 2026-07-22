@@ -1,18 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR", Isso foi feita à mão.  (ATUALIZADO EM: 21/07/2026 22:55hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR", Isso foi feita à mão.  (ATUALIZADO EM: 21/07/2026 23:55hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1NYRVdgXArRMFHa4X1XDtCFIA99a9s929/view?usp=drive_link" group-title="MÓDULO  0 - BOAS VINDAS",Aula 1 - Bem-vindo ao Curso
-
+https://drive.google.com/file/d/1lpouoYiSzWI4nd-YKOcedCsPQFrYYACb/view?usp=drive_link
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1NYRVdgXArRMFHa4X1XDtCFIA99a9s929/view?usp=drive_link" group-title="MÓDULO  0 - BOAS VINDAS",Aula 2 - Como utilizar o aplicativo
-
+https://drive.google.com/file/d/1lpouoYiSzWI4nd-YKOcedCsPQFrYYACb/view?usp=drive_link
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1NYRVdgXArRMFHa4X1XDtCFIA99a9s929/view?usp=drive_link" group-title="MÓDULO  0 - BOAS VINDAS",Aula 3 - Materiais necessários
-
+https://drive.google.com/file/d/1lpouoYiSzWI4nd-YKOcedCsPQFrYYACb/view?usp=drive_link
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1NYRVdgXArRMFHa4X1XDtCFIA99a9s929/view?usp=drive_link" group-title="MÓDULO  0 - BOAS VINDAS",Aula 4 - Conhecendo a Tela Plástica
-
+https://drive.google.com/file/d/1lpouoYiSzWI4nd-YKOcedCsPQFrYYACb/view?usp=drive_link
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1NYRVdgXArRMFHa4X1XDtCFIA99a9s929/view?usp=drive_link" group-title="MÓDULO  0 - BOAS VINDAS",Aula 5 - Tipos de Bolsas que iremos produzir
-
+https://drive.google.com/file/d/1lpouoYiSzWI4nd-YKOcedCsPQFrYYACb/view?usp=drive_link
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1NYRVdgXArRMFHa4X1XDtCFIA99a9s929/view?usp=drive_link" group-title="MÓDULO  0 - BOAS VINDAS",Aula 6 - Como organizar seu espaço de trabalho
-
+https://drive.google.com/file/d/1lpouoYiSzWI4nd-YKOcedCsPQFrYYACb/view?usp=drive_link
 #EXTINF:1971 tvg-logo="https://i.ytimg.com/vi/_JkV6P1XyEA/mqdefault.jpg" group-title="MÓDULO  1 - INICIANTES",Bolsa de Tela de Plástico | Qualquer um pode fazer! | Tutorial Fácil de Bolsa de Tela de Plástico (Faça Você Mesmo)
 https://www.youtube.com/watch?v=_JkV6P1XyEA
 #EXTINF:1615 tvg-logo="https://i.ytimg.com/vi/c_gku3rI1V0/mqdefault.jpg" group-title="MÓDULO  1 - INICIANTES",Como cortar sua tela para montar sua bolsa
@@ -274,27 +274,27 @@ https://www.youtube.com/watch?v=qYPy1LeKt18
 #EXTINF:823 tvg-logo="https://i.ytimg.com/vi/5P-iLqDEkKE/mqdefault.jpg" group-title="MÓDULO  7 - AULAS EM INGLÊS",Plastic Canvas Bag Tutorial | Bolsa de tela plástica (faça você mesmo) #bolsadetela #telaplástica #bolsadetelaplástica
 https://www.youtube.com/watch?v=5P-iLqDEkKE
 #EXTINF:-1 group-title="MÓDULO 02 – MATERIAIS",Aula 01 - Telas: tamanhos e espessuras
-
-#EXTINF:-1 group-title="MÓDULO 02 – MATERIAIS",Aula 10 - Onde comprar materiais
-
-#EXTINF:-1 group-title="MÓDULO 02 – MATERIAIS",Aula 02 - Diferença entre tela 3 mm, 5 mm e outras
-
+https://archive.org/download/tela-em-breve-aguarde/TELA_EM_BREVE%20-%20AGUARDE.mp4
+#EXTINF:-1 group-title="MÓDULO 02 – MATERIAIS",Aula 02 - Diferença entre tela 3 mm, 4 mm e outras (Bolsa Edna aos 37Minutos
+https://vimeo.com/1193802601?fl=pl&fe=sh#t=37m38s&end=39m35s
 #EXTINF:-1 group-title="MÓDULO 02 – MATERIAIS",Aula 03 - Linhas indicadas
-
+https://archive.org/download/tela-em-breve-aguarde/TELA_EM_BREVE%20-%20AGUARDE.mp4
 #EXTINF:-1 group-title="MÓDULO 02 – MATERIAIS",Aula 04 - Agulhas
-
+https://archive.org/download/tela-em-breve-aguarde/TELA_EM_BREVE%20-%20AGUARDE.mp4
 #EXTINF:-1 group-title="MÓDULO 02 – MATERIAIS",Aula 05 - Tesouras
-
+https://archive.org/download/tela-em-breve-aguarde/TELA_EM_BREVE%20-%20AGUARDE.mp4
 #EXTINF:-1 group-title="MÓDULO 02 – MATERIAIS",Aula 06 - Alças
-
+https://archive.org/download/tela-em-breve-aguarde/TELA_EM_BREVE%20-%20AGUARDE.mp4
 #EXTINF:-1 group-title="MÓDULO 02 – MATERIAIS",Aula 07 - Fechos
-
+https://archive.org/download/tela-em-breve-aguarde/TELA_EM_BREVE%20-%20AGUARDE.mp4
 #EXTINF:-1 group-title="MÓDULO 02 – MATERIAIS",Aula 08 - Ferragens
-
+https://archive.org/download/tela-em-breve-aguarde/TELA_EM_BREVE%20-%20AGUARDE.mp4
 #EXTINF:-1 group-title="MÓDULO 02 – MATERIAIS",Aula 09 - Zíperes
-
+https://archive.org/download/tela-em-breve-aguarde/TELA_EM_BREVE%20-%20AGUARDE.mp4
+#EXTINF:-1 group-title="MÓDULO 02 – MATERIAIS",Aula 10 - Onde comprar materiais
+https://archive.org/download/tela-em-breve-aguarde/TELA_EM_BREVE%20-%20AGUARDE.mp4
 #EXTINF:-1 group-title="MÓDULO 03 – Técnicas Básicas",Como iniciar a costura
-
+https://archive.org/download/tela-em-breve-aguarde/TELA_EM_BREVE%20-%20AGUARDE.mp4
 #EXTINF:-1 group-title="MÓDULO 03 – Técnicas Básicas",Como esconder a ponta da linha
 
 #EXTINF:-1 group-title="MÓDULO 03 – Técnicas Básicas",Como trocar a linha
@@ -312,7 +312,7 @@ https://www.youtube.com/watch?v=5P-iLqDEkKE
 #EXTINF:-1 group-title="MÓDULO 03 – Técnicas Básicas",Como deixar o acabamento perfeito
 
 #EXTINF:-1 group-title="MÓDULO 04 – Pontos Básicos",Ponto Diagonal
-
+https://archive.org/download/tela-em-breve-aguarde/TELA_EM_BREVE%20-%20AGUARDE.mp4
 #EXTINF:-1 group-title="MÓDULO 04 – Pontos Básicos",Ponto Continental
 
 #EXTINF:-1 group-title="MÓDULO 04 – Pontos Básicos",Ponto Cruzado
@@ -328,9 +328,9 @@ https://www.youtube.com/watch?v=5P-iLqDEkKE
 #EXTINF:-1 group-title="MÓDULO 04 – Pontos Básicos",Ponto Decorativo 3
 
 #EXTINF:-1 group-title="MÓDULO 05 – Primeira Bolsa",Aula 1 - Cortando as peças
-
+https://archive.org/download/tela-em-breve-aguarde/TELA_EM_BREVE%20-%20AGUARDE.mp4
 #EXTINF:-1 group-title="MÓDULO 05 – Primeira Bolsa",Aula 2 - Costurando a frente
-
+https://archive.org/download/tela-em-breve-aguarde/TELA_EM_BREVE%20-%20AGUARDE.mp4
 #EXTINF:-1 group-title="MÓDULO 05 – Primeira Bolsa",Aula 3 - Costurando as laterais
 
 #EXTINF:-1 group-title="MÓDULO 05 – Primeira Bolsa",Aula 4 - Montagem
@@ -342,7 +342,7 @@ https://www.youtube.com/watch?v=5P-iLqDEkKE
 #EXTINF:-1 group-title="MÓDULO 05 – Primeira Bolsa",Aula 7 - Revisão Final
 
 #EXTINF:-1 group-title="MÓDULO 06 – Bolsas Intermediárias",Bolsa Carteira
-
+https://archive.org/download/tela-em-breve-aguarde/TELA_EM_BREVE%20-%20AGUARDE.mp4
 #EXTINF:-1 group-title="MÓDULO 06 – Bolsas Intermediárias",Bolsa Tiracolo
 
 #EXTINF:-1 group-title="MÓDULO 06 – Bolsas Intermediárias",Bolsa Clutch
@@ -354,7 +354,7 @@ https://www.youtube.com/watch?v=5P-iLqDEkKE
 #EXTINF:-1 group-title="MÓDULO 06 – Bolsas Intermediárias",Bolsa Retangular
 
 #EXTINF:-1 group-title="MÓDULO 07 – Bolsas Avançadas",Bolsa Luxo
-
+https://archive.org/download/tela-em-breve-aguarde/TELA_EM_BREVE%20-%20AGUARDE.mp4
 #EXTINF:-1 group-title="MÓDULO 07 – Bolsas Avançadas",Bolsa Festa
 
 #EXTINF:-1 group-title="MÓDULO 08 – Acabamentos Profissionais",Forração
