@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 22/07/2026 16:20hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 22/07/2026 16:25hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO  0 - BOAS VINDAS",Aula 1 - Bem-vindo ao Curso
 https://www.youtube.com/watch?v=B6MdFl1PIDA
@@ -633,7 +633,7 @@ https://www.youtube.com/watch?v=HLiAuMlEAmY
 https://www.youtube.com/watch?v=5gVKTmM7UiQ
 #EXTINF:306 tvg-logo="https://i.ytimg.com/vi/WpPLgeLb78k/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",NEW STITCH ON  PLASTIC CANVAS GRID TO MAKE AN ELEGANT AND LUXURIOUS BAG
 https://www.youtube.com/watch?v=WpPLgeLb78k
-#EXTINF:2080 tvg-logo="https://i.ytimg.com/vi/NqK4NchscyA/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela",CROCHÊ DIFERENTE #croche #tela #crochet
+#EXTINF:2080 tvg-logo="https://i.ytimg.com/vi/NqK4NchscyA/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela",CROCHÊ DIFERENTE
 https://www.youtube.com/watch?v=NqK4NchscyA
 #EXTINF:3844 tvg-logo="https://i.ytimg.com/vi/yB_rmikCNaE/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela",SECRET TRICK! How to make a bag on the screen
 https://www.youtube.com/watch?v=yB_rmikCNaE
