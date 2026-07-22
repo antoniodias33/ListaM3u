@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 22/07/2026 16:30hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 22/07/2026 16:50hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO  0 - BOAS VINDAS",Aula 1 - Bem-vindo ao Curso
 https://www.youtube.com/watch?v=B6MdFl1PIDA
@@ -693,38 +693,160 @@ https://www.youtube.com/watch?v=l3xcAn3vL8k
 https://www.youtube.com/watch?v=_JkV6P1XyEA
 #EXTINF:6507 tvg-logo="https://i.ytimg.com/vi/l2QSC7kSMGM/mqdefault.jpg" group-title="MÓDULO 25 - Keu Crochê",Bolsa na Tela  Helena (Passo a Passo -Para Iniciantes - Canva Plastic)
 https://www.youtube.com/watch?v=l2QSC7kSMGM
-#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="TV | CANAIS | ABERTOS", RECORD 2
-https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="TV | CANAIS | ABERTOS", RECORD 2
-https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="TV | CANAIS | ABERTOS", REDE TV
-https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="TV | CANAIS | ABERTOS", SBT TV Guajará (PA)
-https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="TV | CANAIS | ABERTOS", RecordTV MT
-https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png" group-title="TV | CANAIS | ABERTOS", SIC
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="TV | CANAIS | ABERTOS", BAND Pará - RBA TV
-https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="TV | CANAIS | ABERTOS", GLOBO SP
-http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="TV | CANAIS | ABERTOS", SBT
-https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="TV | CANAIS | ABERTOS", SBT TV Thathi (SP)
-https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="TV | CANAIS | ABERTOS", RecordTV MT 2
-https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="TV | CANAIS | ABERTOS", RecordTV MT 2
-https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanalredetv.png" group-title="TV | CANAIS | ABERTOS", RedeTV! TV Pantanal (MT)
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG-1599153408949.png" group-title="TV | CANAIS | PLUTO TV: ANIMES", Pluto TV Anime
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&devi ceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_do main=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="TV | CANAIS | PLUTO TV: ANIMES", Pluto TV Anime
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="TV | CANAIS | PLUTO TV: ANIMES", Pluto TV Anime AÃ§Ã£o
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:635 tvg-logo="https://i.ytimg.com/vi/LTE67pknJrQ/mqdefault.jpg" group-title="Learn with Yufi",Everyone can make it - Plastic Canvas  Bag DIY
+https://www.youtube.com/watch?v=LTE67pknJrQ
+#EXTINF:547 tvg-logo="https://i.ytimg.com/vi/iYfgvAtLbVg/mqdefault.jpg" group-title="SULTANIN OYUNCAK ATÖLYESİ",This Idea Will Help You A Lot On Vacation This Summer! It's So Expensive!
+https://www.youtube.com/watch?v=iYfgvAtLbVg
+#EXTINF:823 tvg-logo="https://i.ytimg.com/vi/5P-iLqDEkKE/mqdefault.jpg" group-title="Jelory Collection",Plastic Canvas Bag Tutorial | DIY Plastic Canvas Bag #canvasbag #plasticcanvas #plasticcanvasbag
+https://www.youtube.com/watch?v=5P-iLqDEkKE
+#EXTINF:1486 tvg-logo="https://i.ytimg.com/vi/XQVSHRm__Bw/mqdefault.jpg" group-title="Tejidos Lauser",Como HACER A MANO elegante BOLSA con MALLA DE PLÁSTICO y cintilla / PLASTIC CANVAS  purse tutorial
+https://www.youtube.com/watch?v=XQVSHRm__Bw
+#EXTINF:805 tvg-logo="https://i.ytimg.com/vi/1WPZCiD57ZE/mqdefault.jpg" group-title="Tejidos Lauser",ELEGANT and FASHIONABLE! How to make a DIY plastic canvas cell phone bag
+https://www.youtube.com/watch?v=1WPZCiD57ZE
+#EXTINF:520 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="Tejidos Lauser", was h...
+https://www.youtube.com/watch?v=QuQFg7QUTnE
+#EXTINF:759 tvg-logo="https://i.ytimg.com/vi/g1p-b5llm6I/mqdefault.jpg" group-title="Tejidos Lauser",YOU CAN DO IT WITH CANVAS! How to make a CRYSTAL BAG with PLASTIC MESH
+https://www.youtube.com/watch?v=g1p-b5llm6I
+#EXTINF:1211 tvg-logo="https://i.ytimg.com/vi/PnIpTwy5BTM/mqdefault.jpg" group-title="Tejidos Lauser",You're going to fall in love! Make this elegant bag from plastic mesh and tulle ribbon.
+https://www.youtube.com/watch?v=PnIpTwy5BTM
+#EXTINF:1106 tvg-logo="https://i.ytimg.com/vi/8MuQO53LhuI/mqdefault.jpg" group-title="Tejidos Lauser",Everyone will want one! Make this plastic mesh bag with a professional finish!
+https://www.youtube.com/watch?v=8MuQO53LhuI
+#EXTINF:1169 tvg-logo="https://i.ytimg.com/vi/iovaspFBv7A/mqdefault.jpg" group-title="Tejidos Lauser",Esta BOLSA de MALLA de PLÁSTICO y trapillo será de las favoritas en tu NEGOCIO
+https://www.youtube.com/watch?v=iovaspFBv7A
+#EXTINF:750 tvg-logo="https://i.ytimg.com/vi/UoLUZ6uthyg/mqdefault.jpg" group-title="Tejidos Lauser",For a BAG! How to MAKE a PLASTIC MESH HEART by cutting the mesh
+https://www.youtube.com/watch?v=UoLUZ6uthyg
+#EXTINF:488 tvg-logo="https://i.ytimg.com/vi/w_J_vRa6J80/mqdefault.jpg" group-title="Tejidos Lauser",How cute! How to make a really easy and pretty card holder with plastic mesh and raffia
+https://www.youtube.com/watch?v=w_J_vRa6J80
+#EXTINF:581 tvg-logo="https://i.ytimg.com/vi/QSWVL6Ud6hE/mqdefault.jpg" group-title="Tejidos Lauser",How to make a lady's wallet with plastic mesh and t-shirt yarn and how to sew a zipper onto a bag
+https://www.youtube.com/watch?v=QSWVL6Ud6hE
+#EXTINF:1735 tvg-logo="https://i.ytimg.com/vi/jI0BOoCAd_Y/mqdefault.jpg" group-title="Tejidos Lauser",Make it yourself and surprise everyone! 😯 How to make a bag with plastic mesh / briefcase wallet
+https://www.youtube.com/watch?v=jI0BOoCAd_Y
+#EXTINF:828 tvg-logo="https://i.ytimg.com/vi/k4Oe-xtc_1Q/mqdefault.jpg" group-title="Tejidos Lauser",SUPER TRICK! How to MAKE a PLASTIC MESH BAG and HIDE the CLASP / Elegant Envelope-Style Wallet
+https://www.youtube.com/watch?v=k4Oe-xtc_1Q
+#EXTINF:1170 tvg-logo="https://i.ytimg.com/vi/Vs_gCapsbOg/mqdefault.jpg" group-title="Tejidos Lauser",How beautiful! How to make a backpack with plastic mesh and raffia / plastic canvas bag
+https://www.youtube.com/watch?v=Vs_gCapsbOg
+#EXTINF:647 tvg-logo="https://i.ytimg.com/vi/BZQUS5B3IiU/mqdefault.jpg" group-title="Tejidos Lauser",Carterita CUTE! Cómo HACER esta CARTERA DE MALLA PLÁSTICA o Plastic Canvas 😍 Última Parte
+https://www.youtube.com/watch?v=BZQUS5B3IiU
+#EXTINF:794 tvg-logo="https://i.ytimg.com/vi/Y0O6Qp-qsxs/mqdefault.jpg" group-title="Tejidos Lauser",Cute! Make this purse with plastic mesh or plastic canvas / Part 1
+https://www.youtube.com/watch?v=Y0O6Qp-qsxs
+#EXTINF:808 tvg-logo="https://i.ytimg.com/vi/cUl7XLL2IjY/mqdefault.jpg" group-title="Tejidos Lauser",With Plastic Canvas! How to Make a Mini Bag with Plastic Canvas / Cute DIY Suitcase
+https://www.youtube.com/watch?v=cUl7XLL2IjY
+#EXTINF:782 tvg-logo="https://i.ytimg.com/vi/42Sy60EHefQ/mqdefault.jpg" group-title="Tejidos Lauser",How to MAKE a PURSE cube with PLASTIC MESH
+https://www.youtube.com/watch?v=42Sy60EHefQ
+#EXTINF:1854 tvg-logo="https://i.ytimg.com/vi/eff4kgkbPHo/mqdefault.jpg" group-title="Tejidos Lauser",Haz esta MINI MOCHILA! Como HACER una BOLSA con MALLA PLÁSTICA
+https://www.youtube.com/watch?v=eff4kgkbPHo
+#EXTINF:818 tvg-logo="https://i.ytimg.com/vi/CifMaA166kI/mqdefault.jpg" group-title="Tejidos Lauser",Now yes 😂 COMPLETE SUMMARY / how to make a BAG with PLASTIC MESH / summer clutch
+https://www.youtube.com/watch?v=CifMaA166kI
+#EXTINF:823 tvg-logo="https://i.ytimg.com/vi/e0T30vzLb1o/mqdefault.jpg" group-title="Tejidos Lauser",Learn how to easily make this summer bag with plastic mesh / clutch style
+https://www.youtube.com/watch?v=e0T30vzLb1o
+#EXTINF:1363 tvg-logo="https://i.ytimg.com/vi/ZvsFCEJ4UsU/mqdefault.jpg" group-title="Tejidos Lauser",FROM SCRATCH! Bag with plastic mesh and raffia / Diamond stitch and reinforcement / Plastic canvas
+https://www.youtube.com/watch?v=ZvsFCEJ4UsU
+#EXTINF:1426 tvg-logo="https://i.ytimg.com/vi/Lz4jcdQjuT8/mqdefault.jpg" group-title="Tejidos Lauser",How to make a mini bag with plastic mesh and raffia
+https://www.youtube.com/watch?v=Lz4jcdQjuT8
+#EXTINF:1328 tvg-logo="https://i.ytimg.com/vi/vDS4kRIB8Xc/mqdefault.jpg" group-title="Tejidos Lauser",Stitch and Assembly Summary! How to Make a Bag with Plastic Mesh and Raffia (CHANEL TWEED inspira...
+https://www.youtube.com/watch?v=vDS4kRIB8Xc
+#EXTINF:1362 tvg-logo="https://i.ytimg.com/vi/TQxZTB2RVZo/mqdefault.jpg" group-title="Tejidos Lauser",How to make a bag with plastic mesh and raffia / Tweed style / Weaving in plastic canvas
+https://www.youtube.com/watch?v=TQxZTB2RVZo
+#EXTINF:1317 tvg-logo="https://i.ytimg.com/vi/ILKUlYAS2y4/mqdefault.jpg" group-title="Tejidos Lauser",Both Tutorials Together and Summarized! Bag with plastic mesh. Diamond stitch and assembly.
+https://www.youtube.com/watch?v=ILKUlYAS2y4
+#EXTINF:1044 tvg-logo="https://i.ytimg.com/vi/WHypClW54Jo/mqdefault.jpg" group-title="Tejidos Lauser",How Fat! How to Make a Bag with Plastic Mesh and Chenille / Handmade Bag
+https://www.youtube.com/watch?v=WHypClW54Jo
+#EXTINF:1769 tvg-logo="https://i.ytimg.com/vi/omxIlof_MAo/mqdefault.jpg" group-title="Tejidos Lauser",MAKE THE BAG FROM SCRATCH! How to Knit with Mesh and Raffia and How to Assemble It / Plastic Canv...
+https://www.youtube.com/watch?v=omxIlof_MAo
+#EXTINF:1233 tvg-logo="https://i.ytimg.com/vi/0WYwSShC2mU/mqdefault.jpg" group-title="Tejidos Lauser",Como hacer una BOLSA con MALLA DE PLÁSTICO Y RAFIA estilo TALAVERA Mexicana / Plastic Canvas Bag
+https://www.youtube.com/watch?v=0WYwSShC2mU
+#EXTINF:1799 tvg-logo="https://i.ytimg.com/vi/mie-dzX_lq0/mqdefault.jpg" group-title="Tejidos Lauser",Como hacer DISEÑO con MALLA DE PLASTICO Y RAFIA estilo TALAVERA mexicana / flor / Plastic Canvas
+https://www.youtube.com/watch?v=mie-dzX_lq0
+#EXTINF:1017 tvg-logo="https://i.ytimg.com/vi/50rdxVMDvTY/mqdefault.jpg" group-title="Tejidos Lauser",A todas les GUSTARÁ !! Como hacer Cartera o BOLSA DE MALLA DE PLÁSTICO / Plastic Canvas
+https://www.youtube.com/watch?v=50rdxVMDvTY
+#EXTINF:1193 tvg-logo="https://i.ytimg.com/vi/EW78sqrHR-8/mqdefault.jpg" group-title="Tejidos Lauser", tejida en MALLA PLÁSTICA / punto plaid en plastic canvas
+https://www.youtube.com/watch?v=EW78sqrHR-8
+#EXTINF:812 tvg-logo="https://i.ytimg.com/vi/07HKlKzDT9A/mqdefault.jpg" group-title="Tejidos Lauser",Como hacer CARTERA o billetera TEJIDA con MALLA PLASTICA y divisiones a CROCHET / plastic canvas bag
+https://www.youtube.com/watch?v=07HKlKzDT9A
+#EXTINF:930 tvg-logo="https://i.ytimg.com/vi/9xN2UdPXwqw/mqdefault.jpg" group-title="Tejidos Lauser",¡ENAMÓRATE! Como HACER una MINI BOLSA tejida con MALLA DE PLÁSTICO Y RAFIA / plastic canvas
+https://www.youtube.com/watch?v=9xN2UdPXwqw
+#EXTINF:639 tvg-logo="https://i.ytimg.com/vi/msiMBqdiBTU/mqdefault.jpg" group-title="Tejidos Lauser",¡CHIC y LLAMATIVA! Como HACER una BOLSA tejida en MALLA D PLÁSTICO / pata de gallo / plastic canvas
+https://www.youtube.com/watch?v=msiMBqdiBTU
+#EXTINF:1730 tvg-logo="https://i.ytimg.com/vi/UXNu-OPTJ4M/mqdefault.jpg" group-title="Tejidos Lauser",Como HACER esta CARTERA o billetera CON COMPARTIMENTOS tejida en MALLA DE PLÁSTICO / plastic canvas
+https://www.youtube.com/watch?v=UXNu-OPTJ4M
+#EXTINF:985 tvg-logo="https://i.ytimg.com/vi/7KWneXgOgtg/mqdefault.jpg" group-title="Tejidos Lauser",Cómo hacer la BOLSA tejida EN MALLA DE PLÁSTICO más tierna y CUTE / plastic canvas
+https://www.youtube.com/watch?v=7KWneXgOgtg
+#EXTINF:1270 tvg-logo="https://i.ytimg.com/vi/OSPCqeD4LAU/mqdefault.jpg" group-title="Tejidos Lauser",Everyone loves it // How to make the most charming woven plastic mesh bag
+https://www.youtube.com/watch?v=OSPCqeD4LAU
+#EXTINF:785 tvg-logo="https://i.ytimg.com/vi/ZdX6-z6ilMc/mqdefault.jpg" group-title="Tejidos Lauser",Perdí la cuenta de las veces que la chulearon // como bordar o tejer una bolsa usando malla plástica
+https://www.youtube.com/watch?v=ZdX6-z6ilMc
+#EXTINF:1754 tvg-logo="https://i.ytimg.com/vi/ZDFy7ncA43Q/mqdefault.jpg" group-title="Tejidos Lauser",Both parts together! Plastic mesh cell phone bag. Houndstooth stitching and assembly.
+https://www.youtube.com/watch?v=ZDFy7ncA43Q
+#EXTINF:3212 tvg-logo="https://i.ytimg.com/vi/Ks8gwH8RDJo/mqdefault.jpg" group-title="Вязание с Ольгой Дывинец!!!",How to Make a Stylish Canvas Bag Yourself
+https://www.youtube.com/watch?v=Ks8gwH8RDJo
+#EXTINF:1231 tvg-logo="https://i.ytimg.com/vi/d78-a-I5vb0/mqdefault.jpg" group-title="Вязание с Ольгой Дывинец!!!",Super simple and fast! Bag on plastic canvas made of polyester cord
+https://www.youtube.com/watch?v=d78-a-I5vb0
+#EXTINF:719 tvg-logo="https://i.ytimg.com/vi/9Opom1PU-Kk/mqdefault.jpg" group-title="انتصار البيك",Stitch Library How to make a beautiful stitch on plastic as a canvas
+https://www.youtube.com/watch?v=9Opom1PU-Kk
+#EXTINF:653 tvg-logo="https://i.ytimg.com/vi/qFhwp_obC-c/mqdefault.jpg" group-title="Luxo Bag Brasil",Passo a passo da Bag Fé uma bolsa de crochê estruturada com acabamento de luxo
+https://www.youtube.com/watch?v=qFhwp_obC-c
+#EXTINF:2097 tvg-logo="https://i.ytimg.com/vi/PoowLJCXUKs/mqdefault.jpg" group-title="Luxo Bag Brasil",LESSON 2 BAG CONTAINERS
+https://www.youtube.com/watch?v=PoowLJCXUKs
+#EXTINF:215 tvg-logo="https://i.ytimg.com/vi/bsN2Kp-6wek/mqdefault.jpg" group-title="Violetas Handmade",A simple but very beautiful bag made of plastic canvas.
+https://www.youtube.com/watch?v=bsN2Kp-6wek
+#EXTINF:1461 tvg-logo="https://i.ytimg.com/vi/owXeuav0_yU/mqdefault.jpg" group-title="Mo7a semsem",شنطة شبك كنفاه بغرزة الحلزون (السينابون)الجزء التاني بطريقة سهلة وبسيطه plastic canva bag #trending 
+https://www.youtube.com/watch?v=owXeuav0_yU
+#EXTINF:2057 tvg-logo="https://i.ytimg.com/vi/glv3N2t9VJs/mqdefault.jpg" group-title="Mo7a semsem",طريقة عمل شنطة شبك كنفا شنطة العيد غرزة جديده للمبتدئين الجزء الأولplastic canvas #trending #explore
+https://www.youtube.com/watch?v=glv3N2t9VJs
+#EXTINF:1846 tvg-logo="https://i.ytimg.com/vi/H2LQzj-fEdw/mqdefault.jpg" group-title="Mo7a semsem",بناء على طلب الجماهير شنطه شبك كنفا بغرزة السينابون 🤭 بطريقة سهلة للمبتدئين#trend#explore #handmade
+https://www.youtube.com/watch?v=H2LQzj-fEdw
+#EXTINF:968 tvg-logo="https://i.ytimg.com/vi/1Sh8aj5Y888/mqdefault.jpg" group-title="Mo7a semsem",طريقة عمل شنطه شبك كنفا بغرزة جديدة وتصميم مميز شنطة العيد plastic canvas bag شرح مبسط للمبتدئين
+https://www.youtube.com/watch?v=1Sh8aj5Y888
+#EXTINF:2410 tvg-logo="https://i.ytimg.com/vi/J63L61sZl9A/mqdefault.jpg" group-title="Mo7a semsem",طريقة عمل شنطه شبك كنفا بغرزة الشعلة باأسهل طريقة للمبتدئين plasticcanvasbag#trend#اكسبلور #handmade
+https://www.youtube.com/watch?v=J63L61sZl9A
+#EXTINF:2255 tvg-logo="https://i.ytimg.com/vi/F5uR5BQAPno/mqdefault.jpg" group-title="Mo7a semsem",طريقة عمل شنطة شبك كنفاه بغرزة 3D مميزة ومختلفه ب اسهل طريقه للمبتدئين plastic canvas bag #trending
+https://www.youtube.com/watch?v=F5uR5BQAPno
+#EXTINF:4108 tvg-logo="https://i.ytimg.com/vi/XOgSX-g6NjA/mqdefault.jpg" group-title="Mo7a semsem",طريقة عمل شنطة شبك كنفا بخيط السلسلةاسهل طريقه للمبتدئين plastic canvas bag stitch#اكسبلور #trending
+https://www.youtube.com/watch?v=XOgSX-g6NjA
+#EXTINF:1465 tvg-logo="https://i.ytimg.com/vi/faLb1Aqzttc/mqdefault.jpg" group-title="Mo7a semsem",طريقة عمل شنطة شبك كنفا ب اسهل طريقه للمبتدئين 😍 بغرزة الزجزاج  plastic canvas bag stitch #اكسبلور
+https://www.youtube.com/watch?v=faLb1Aqzttc
+#EXTINF:1893 tvg-logo="https://i.ytimg.com/vi/W6DQWGcqF3A/mqdefault.jpg" group-title="Mo7a semsem",طريقة عمل شنطه شبك كنفاه بغرزة جديدة باسهل طريقةللمبتدئين new stitch plastic canvas#اكسبلور#handmade
+https://www.youtube.com/watch?v=W6DQWGcqF3A
+#EXTINF:1611 tvg-logo="https://i.ytimg.com/vi/k-1uJ1f7sX4/mqdefault.jpg" group-title="Mo7a semsem",طريقة عمل شنطه شبك كنفاه سواريه بغرزة الاسهم الهرميه plastic canvas stitch باسهل طريقه للمبتدئين
+https://www.youtube.com/watch?v=k-1uJ1f7sX4
+#EXTINF:693 tvg-logo="https://i.ytimg.com/vi/1bvCkvWtPZA/mqdefault.jpg" group-title="Mo7a semsem",طريقة عمل شنطة شبك كنفاه كانفا بغرزة جديدة اسهل غرزة للمبتدئين😍الجزء الأول plastic canvas bag stitch
+https://www.youtube.com/watch?v=1bvCkvWtPZA
+#EXTINF:1780 tvg-logo="https://i.ytimg.com/vi/f3kKWH3c27Q/mqdefault.jpg" group-title="Mo7a semsem",طريقة عمل شنطه كنفاه بغرزة الخطوط المايله زجزاج ب اسهل طريقة للمبتدئين 😍 يوم واحد شغل ومشروع مربح♥️👛
+https://www.youtube.com/watch?v=f3kKWH3c27Q
+#EXTINF:899 tvg-logo="https://i.ytimg.com/vi/mrcoPcy0-3I/mqdefault.jpg" group-title="Mo7a semsem",💥The Most Epic 2026 Handmade Bag Workshop🔥Start with a stitch... and dazzle everyone with luxurio...
+https://www.youtube.com/watch?v=mrcoPcy0-3I
+#EXTINF:836 tvg-logo="https://i.ytimg.com/vi/Wuy9UKGeLS8/mqdefault.jpg" group-title="Mo7a semsem",🚨🔥 The most important lesson in the workshop | The secret to a professional bag look from the fir...
+https://www.youtube.com/watch?v=Wuy9UKGeLS8
+#EXTINF:1092 tvg-logo="https://i.ytimg.com/vi/VGpuHPP-ZdQ/mqdefault.jpg" group-title="Mo7a semsem",❌ NEVER make bag sides this way! The results will be 180 degrees different 😍🔥 Free Workshop Lesso...
+https://www.youtube.com/watch?v=VGpuHPP-ZdQ
+#EXTINF:1474 tvg-logo="https://i.ytimg.com/vi/X4QHXaO2ppY/mqdefault.jpg" group-title="Mo7a semsem",🏆 أخيرًا خلصنا الشنطة! التبطين والتقفيل الاحترافي +إعلان المسابقة وجوائز للمشتركين plastic canva bag
+https://www.youtube.com/watch?v=X4QHXaO2ppY
+#EXTINF:5689 tvg-logo="https://i.ytimg.com/vi/qYPy1LeKt18/mqdefault.jpg" group-title="Mo7a semsem",🔥 إعلان المسابقة الكبرى أخيرًا! مفاجآت وجوائز محدش متوقعها 🎁🔥
+https://www.youtube.com/watch?v=qYPy1LeKt18
+#EXTINF:1431 tvg-logo="https://i.ytimg.com/vi/a3na0BW09Ls/mqdefault.jpg" group-title="Mo7a semsem",طريقه عمل شنطه شبك كنفاه بغرزة جديده بطريقه سهله للمبتدئين plastic canva bag #handmade #اكسبلور 
+https://www.youtube.com/watch?v=a3na0BW09Ls
+#EXTINF:1434 tvg-logo="https://i.ytimg.com/vi/LcXvhg9kbHM/mqdefault.jpg" group-title="Mo7a semsem",طريقة عمل شنطه شبك كنفاه بغرزة تدريج اللون الاخضر الزمردي اكتبولي رائيكم في 😍 #handmade #اكسبلور
+https://www.youtube.com/watch?v=LcXvhg9kbHM
+#EXTINF:2722 tvg-logo="https://i.ytimg.com/vi/xcKcoU8X7jM/mqdefault.jpg" group-title="Mo7a semsem",شنطه شبك كنفاه بغرزة جديده باللون الابيض والاسود كامله plastic canva bag #اكسبلور #handmade #explore
+https://www.youtube.com/watch?v=xcKcoU8X7jM
+#EXTINF:710 tvg-logo="https://i.ytimg.com/vi/LSkW595ng6w/mqdefault.jpg" group-title="Mo7a semsem",طريقةعمل شنطه شبك كنفاه بغرزةجديده بطريقه سهله للمبتدئين#اكسبلور #jumbobag#crochet #handmad#explore 
+https://www.youtube.com/watch?v=LSkW595ng6w
+#EXTINF:1569 tvg-logo="https://i.ytimg.com/vi/iGa_BJ097dY/mqdefault.jpg" group-title="Mo7a semsem",طريقة عمل شنطه شبك كنفاه بطريقة سهلة الجزء التاني #handmade #اكسبلور #explore plastic canva bag 
+https://www.youtube.com/watch?v=iGa_BJ097dY
+#EXTINF:1743 tvg-logo="https://i.ytimg.com/vi/R8GjSqyvM_0/mqdefault.jpg" group-title="Mo7a semsem",شنطه شبك كنفاه بغرزة 3D بفريم معدن الجزء الثالث بطريقه سهله للمبتدئين #اكسبلور #explore #handmade 
+https://www.youtube.com/watch?v=R8GjSqyvM_0
+#EXTINF:1116 tvg-logo="https://i.ytimg.com/vi/2X882kKxe88/mqdefault.jpg" group-title="Mo7a semsem",شنطه شبك كنفاه بفريم معدن الجزء الاخير تقفيل الشنطه وتركيب الفريم على الشبك بطريقه سهله للمبتدئين 
+https://www.youtube.com/watch?v=2X882kKxe88
+#EXTINF:1116 tvg-logo="https://i.ytimg.com/vi/bq9e-3kpRNk/mqdefault.jpg" group-title="Mo7a semsem",How to Make a Canvas Mesh Bag with a Metal Frame - Part 2: Easy Method for Beginners #explore #ex...
+https://www.youtube.com/watch?v=bq9e-3kpRNk
+#EXTINF:2374 tvg-logo="https://i.ytimg.com/vi/m9JLdWtCkOA/mqdefault.jpg" group-title="Mo7a semsem",طريقة عمل شنطة قطيفة شبك كنفا كانفا بأسهل طريقه للمبتدئين 😍plastic canvas bag velvet #trending
+https://www.youtube.com/watch?v=m9JLdWtCkOA
+#EXTINF:1425 tvg-logo="https://i.ytimg.com/vi/1nApYYMoIVM/mqdefault.jpg" group-title="Mo7a semsem",طريقة عمل شنطه كنفاه سواريه من شرايط الاورجانزا  ااسهل طريقه للمبتدئين 😍👍 #handmade  plastic canvas
+https://www.youtube.com/watch?v=1nApYYMoIVM
+#EXTINF:3443 tvg-logo="https://i.ytimg.com/vi/IXsDicCY088/mqdefault.jpg" group-title="Fios Thata",UNVEILING THE SECRET OF THE EASY BAG TO MAKE WITHOUT CROCHET!
+https://www.youtube.com/watch?v=IXsDicCY088
+#EXTINF:2622 tvg-logo="https://i.ytimg.com/vi/m8RMq8f59G8/mqdefault.jpg" group-title="ابرة وفتلة مع ايه",وأخيرا طريقة بوك او محفظة صغيرة من شبك الكانفا بطريقة سهلة وبسيطة للمبتدئات
+https://www.youtube.com/watch?v=m8RMq8f59G8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3f6171c551bfebb0226b4f7d526a8e6f.webp" group-title="TV | CANAIS | RELIGIOSOS", TV Gideões
 https://tv01.zas.media:1936/gideoes/gideoes/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aoq9CGU.png" group-title="TV | CANAIS | RELIGIOSOS", Gospel Cartoon (360p)
@@ -761,3 +883,623 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_f61dea77-770b-444c-8f61-88b3f8666b3f.m3u8
 #EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/60ddb652a9fbc_d19ecce6131ee18d0d846a16aae7ed6e.png" group-title="TV | CANAIS | RELIGIOSOS", Vivas Tv
 https://stmv1.liveplushd.com.br/tvvivam/tvvivam/chunklist_w252085201.m3u8
+#EXTINF:1493 tvg-logo="https://i.ytimg.com/vi/9_JvJsfXzSE/mqdefault.jpg" group-title="Ateliê Joana Fernandes Crochê Moderno",Step-by-step instructions for making a bag out of plastic mesh.
+https://www.youtube.com/watch?v=9_JvJsfXzSE
+#EXTINF:347 tvg-logo="https://i.ytimg.com/vi/kg-eB5zYtt8/mqdefault.jpg" group-title="Ateliê Joana Fernandes Crochê Moderno",EASY DIY PACKAGING FOR HANDICRAFTS
+https://www.youtube.com/watch?v=kg-eB5zYtt8
+#EXTINF:3124 tvg-logo="https://i.ytimg.com/vi/XwwliQ1gCXg/mqdefault.jpg" group-title="Ateliê Joana Fernandes Crochê Moderno",HOW TO MAKE AN EASY CANVAS BAG WITHOUT CROCHET
+https://www.youtube.com/watch?v=XwwliQ1gCXg
+#EXTINF:2404 tvg-logo="https://i.ytimg.com/vi/5bOW1wEz03E/mqdefault.jpg" group-title="Ateliê Joana Fernandes Crochê Moderno",BOLSA DE TELA PLÁSTICA #plasticcanvasbag
+https://www.youtube.com/watch?v=5bOW1wEz03E
+#EXTINF:2553 tvg-logo="https://i.ytimg.com/vi/Zb6qSa0YUC8/mqdefault.jpg" group-title="Ateliê Joana Fernandes Crochê Moderno",COMO FAZER BOLSA NA TELA PLÁSTICA EM FIO DE MALHA COM CORAÇÃO
+https://www.youtube.com/watch?v=Zb6qSa0YUC8
+#EXTINF:131 tvg-logo="https://i.ytimg.com/vi/X9gClF9kLa0/mqdefault.jpg" group-title="Ateliê Joana Fernandes Crochê Moderno",Bag strap made with nautical rope.
+https://www.youtube.com/watch?v=X9gClF9kLa0
+#EXTINF:2590 tvg-logo="https://i.ytimg.com/vi/jHt9aKSVguc/mqdefault.jpg" group-title="Ateliê Joana Fernandes Crochê Moderno",SCREEN BAG - NO CROCHET KNOWLEDGE REQUIRED
+https://www.youtube.com/watch?v=jHt9aKSVguc
+#EXTINF:2629 tvg-logo="https://i.ytimg.com/vi/fJkCBlA8Q_w/mqdefault.jpg" group-title="Ateliê Joana Fernandes Crochê Moderno",BOLSA NA TELA PLÁSTICA PASSO A PASSO SEM CROCHÊ!
+https://www.youtube.com/watch?v=fJkCBlA8Q_w
+#EXTINF:1402 tvg-logo="https://i.ytimg.com/vi/09RSISeoCl0/mqdefault.jpg" group-title="Ateliê Joana Fernandes Crochê Moderno",PLASTIC CANVAS   COIN AND CARD WALLET   PLASTIC CANVAS BAG TUTORIAL
+https://www.youtube.com/watch?v=09RSISeoCl0
+#EXTINF:1493 tvg-logo="https://i.ytimg.com/vi/9_JvJsfXzSE/mqdefault.jpg" group-title="Ateliê Joana Fernandes Crochê Moderno",Step-by-step instructions for making a bag out of plastic mesh.
+https://www.youtube.com/watch?v=9_JvJsfXzSE
+#EXTINF:1493 tvg-logo="https://i.ytimg.com/vi/9_JvJsfXzSE/mqdefault.jpg" group-title="Ateliê Joana Fernandes Crochê Moderno",Step-by-step instructions for making a bag out of plastic mesh.
+https://www.youtube.com/watch?v=9_JvJsfXzSE
+#EXTINF:347 tvg-logo="https://i.ytimg.com/vi/kg-eB5zYtt8/mqdefault.jpg" group-title="Ateliê Joana Fernandes Crochê Moderno",EASY DIY PACKAGING FOR HANDICRAFTS
+https://www.youtube.com/watch?v=kg-eB5zYtt8
+#EXTINF:3124 tvg-logo="https://i.ytimg.com/vi/XwwliQ1gCXg/mqdefault.jpg" group-title="Ateliê Joana Fernandes Crochê Moderno",HOW TO MAKE AN EASY CANVAS BAG WITHOUT CROCHET
+https://www.youtube.com/watch?v=XwwliQ1gCXg
+#EXTINF:2404 tvg-logo="https://i.ytimg.com/vi/5bOW1wEz03E/mqdefault.jpg" group-title="Ateliê Joana Fernandes Crochê Moderno",BOLSA DE TELA PLÁSTICA #plasticcanvasbag
+https://www.youtube.com/watch?v=5bOW1wEz03E
+#EXTINF:2553 tvg-logo="https://i.ytimg.com/vi/Zb6qSa0YUC8/mqdefault.jpg" group-title="Ateliê Joana Fernandes Crochê Moderno",COMO FAZER BOLSA NA TELA PLÁSTICA EM FIO DE MALHA COM CORAÇÃO
+https://www.youtube.com/watch?v=Zb6qSa0YUC8
+#EXTINF:131 tvg-logo="https://i.ytimg.com/vi/X9gClF9kLa0/mqdefault.jpg" group-title="Ateliê Joana Fernandes Crochê Moderno",Bag strap made with nautical rope.
+https://www.youtube.com/watch?v=X9gClF9kLa0
+#EXTINF:2590 tvg-logo="https://i.ytimg.com/vi/jHt9aKSVguc/mqdefault.jpg" group-title="Ateliê Joana Fernandes Crochê Moderno",SCREEN BAG - NO CROCHET KNOWLEDGE REQUIRED
+https://www.youtube.com/watch?v=jHt9aKSVguc
+#EXTINF:2629 tvg-logo="https://i.ytimg.com/vi/fJkCBlA8Q_w/mqdefault.jpg" group-title="Ateliê Joana Fernandes Crochê Moderno",BOLSA NA TELA PLÁSTICA PASSO A PASSO SEM CROCHÊ!
+https://www.youtube.com/watch?v=fJkCBlA8Q_w
+#EXTINF:1402 tvg-logo="https://i.ytimg.com/vi/09RSISeoCl0/mqdefault.jpg" group-title="Ateliê Joana Fernandes Crochê Moderno",PLASTIC CANVAS   COIN AND CARD WALLET   PLASTIC CANVAS BAG TUTORIAL
+https://www.youtube.com/watch?v=09RSISeoCl0
+#EXTINF:719 tvg-logo="https://i.ytimg.com/vi/ev6RZVJqayg/mqdefault.jpg" group-title="Permita-se Conectar",Passo a Passo ponto Bolsa de Tela Júlia - Parte 1
+https://www.youtube.com/watch?v=ev6RZVJqayg
+#EXTINF:500 tvg-logo="https://i.ytimg.com/vi/MRIXyMphsWo/mqdefault.jpg" group-title="Permita-se Conectar",Saiba as PRINCIPAIS FERRAMENTAS para quem quer INICIAR no artesanato | Bolsas em Crochê ou em Tela
+https://www.youtube.com/watch?v=MRIXyMphsWo
+#EXTINF:719 tvg-logo="https://i.ytimg.com/vi/ev6RZVJqayg/mqdefault.jpg" group-title="Permita-se Conectar",Passo a Passo ponto Bolsa de Tela Júlia - Parte 1
+https://www.youtube.com/watch?v=ev6RZVJqayg
+#EXTINF:500 tvg-logo="https://i.ytimg.com/vi/MRIXyMphsWo/mqdefault.jpg" group-title="Permita-se Conectar",Saiba as PRINCIPAIS FERRAMENTAS para quem quer INICIAR no artesanato | Bolsas em Crochê ou em Tela
+https://www.youtube.com/watch?v=MRIXyMphsWo
+#EXTINF:251 tvg-logo="https://i.ytimg.com/vi/-4BbjcXRDik/mqdefault.jpg" group-title="EL's Ateliê ",🚨 7 Materiais Essenciais Para Fazer Bolsas na Malha Plástica (Não Compre Antes de Ver Isso!)
+https://www.youtube.com/watch?v=-4BbjcXRDik
+#EXTINF:276 tvg-logo="https://i.ytimg.com/vi/2IASbrdqstU/mqdefault.jpg" group-title="EL's Ateliê ",✨ DO FIO À BOLSA PRONTA! Veja a Transformação Completa Passo a Passo
+https://www.youtube.com/watch?v=2IASbrdqstU
+#EXTINF:251 tvg-logo="https://i.ytimg.com/vi/-4BbjcXRDik/mqdefault.jpg" group-title="EL's Ateliê ",🚨 7 Materiais Essenciais Para Fazer Bolsas na Malha Plástica (Não Compre Antes de Ver Isso!)
+https://www.youtube.com/watch?v=-4BbjcXRDik
+#EXTINF:276 tvg-logo="https://i.ytimg.com/vi/2IASbrdqstU/mqdefault.jpg" group-title="EL's Ateliê ",✨ DO FIO À BOLSA PRONTA! Veja a Transformação Completa Passo a Passo
+https://www.youtube.com/watch?v=2IASbrdqstU
+#EXTINF:495 tvg-logo="https://i.ytimg.com/vi/bN5VKpdy0vg/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",The secret to cutting the fabric correctly | FREE PATTERN in the description! #shorts
+https://www.youtube.com/watch?v=bN5VKpdy0vg
+#EXTINF:2641 tvg-logo="https://i.ytimg.com/vi/kFMrUjngJpY/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",✨ Bolsa na Tela Plastic Canvas | Tutorial do Ponto Tijolinho Inclinado + Bolsa Artesanal #diy
+https://www.youtube.com/watch?v=kFMrUjngJpY
+#EXTINF:3699 tvg-logo="https://i.ytimg.com/vi/BNBUEOItzz8/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela", Técnica secreta para Acabamento  bonito! #diy #plastic 
+https://www.youtube.com/watch?v=BNBUEOItzz8
+#EXTINF:841 tvg-logo="https://i.ytimg.com/vi/f85BjJiLauk/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",How to price your handbag (and other lessons from the luxury market) #fyp
+https://www.youtube.com/watch?v=f85BjJiLauk
+#EXTINF:952 tvg-logo="https://i.ytimg.com/vi/PnKEVWLOtFA/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",Vamos fazer a alca Jessy? você faz vai amar!!✅️
+https://www.youtube.com/watch?v=PnKEVWLOtFA
+#EXTINF:2918 tvg-logo="https://i.ytimg.com/vi/tvgK5ElBaJo/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela", step by step ‪@ruteprestes-bolsasnatela
+https://www.youtube.com/watch?v=tvgK5ElBaJo
+#EXTINF:3844 tvg-logo="https://i.ytimg.com/vi/yB_rmikCNaE/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",SECRET TRICK! How to make a bag on the screen✔️❎
+https://www.youtube.com/watch?v=yB_rmikCNaE
+#EXTINF:3246 tvg-logo="https://i.ytimg.com/vi/DCJ_BBulARw/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",Raquel Baguette Bag with Mesh Base
+https://www.youtube.com/watch?v=DCJ_BBulARw
+#EXTINF:2918 tvg-logo="https://i.ytimg.com/vi/tvgK5ElBaJo/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela", step by step ‪@ruteprestes-bolsasnatela
+https://www.youtube.com/watch?v=tvgK5ElBaJo
+#EXTINF:2259 tvg-logo="https://i.ytimg.com/vi/a8UwJ3AyRHU/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",Learn how to make an Amanda bag on screen #screen
+https://www.youtube.com/watch?v=a8UwJ3AyRHU
+#EXTINF:74 tvg-logo="https://i.ytimg.com/vi/kgxwjhS1vAc/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",Tutorial como colocar o fecho na bolsa! #plasticcanvas #crochet
+https://www.youtube.com/watch?v=kgxwjhS1vAc
+#EXTINF:39 tvg-logo="https://i.ytimg.com/vi/aQcTR-2Uhkg/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",😱🟢como fazer esse chaverinho na tela!#artesanato
+https://www.youtube.com/watch?v=aQcTR-2Uhkg
+#EXTINF:2802 tvg-logo="https://i.ytimg.com/vi/Fqu7878hBC0/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",💰GASTEI Pouco e Fiz Essa Bolsa CHIQUE de Fita de CETIM NA TELA  (Vende Muito)🟢BOLSA VIVI!
+https://www.youtube.com/watch?v=Fqu7878hBC0
+#EXTINF:3607 tvg-logo="https://i.ytimg.com/vi/w-PwYppnduc/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",Book cover on screen
+https://www.youtube.com/watch?v=w-PwYppnduc
+#EXTINF:3246 tvg-logo="https://i.ytimg.com/vi/DCJ_BBulARw/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",Raquel Baguette Bag with Mesh Base
+https://www.youtube.com/watch?v=DCJ_BBulARw
+#EXTINF:3349 tvg-logo="https://i.ytimg.com/vi/n8ToeZ80I4A/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",👉 I Discovered the SECRET of Mesh Crochet (And I’m Going to Show You!)
+https://www.youtube.com/watch?v=n8ToeZ80I4A
+#EXTINF:3427 tvg-logo="https://i.ytimg.com/vi/vF3br4QozQY/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",Easy Needle-Free Canvas Pouch: Complete Tutorial
+https://www.youtube.com/watch?v=vF3br4QozQY
+#EXTINF:1650 tvg-logo="https://i.ytimg.com/vi/hIsOlV38THI/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",Neco Vase Holder! ON SCREEN #YouTube
+https://www.youtube.com/watch?v=hIsOlV38THI
+#EXTINF:3200 tvg-logo="https://i.ytimg.com/vi/hO7NhKEP1-g/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",Floral Bag with Canvas + Crochet | Make and Sell #fourpage
+https://www.youtube.com/watch?v=hO7NhKEP1-g
+#EXTINF:2686 tvg-logo="https://i.ytimg.com/vi/zJnu7x5rUqY/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",🟢Lays Bag on FABRIC! It's not CROCHET #fyp#fabric
+https://www.youtube.com/watch?v=zJnu7x5rUqY
+#EXTINF:3847 tvg-logo="https://i.ytimg.com/vi/Qdc5Yd7hi_Y/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",DESVENDANDO O SEGREDO DA BOLSA FÁCIL DE FAZER SEM CROCHÊ!✅
+https://www.youtube.com/watch?v=Qdc5Yd7hi_Y
+#EXTINF:3844 tvg-logo="https://i.ytimg.com/vi/yB_rmikCNaE/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",SECRET TRICK! How to make a bag on the screen✔️❎
+https://www.youtube.com/watch?v=yB_rmikCNaE
+#EXTINF:3795 tvg-logo="https://i.ytimg.com/vi/wJXH0ttsjvM/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",✅[2023] BOLSA MARA NA TELA - ( Bordado a mão) Fácil !
+https://www.youtube.com/watch?v=wJXH0ttsjvM
+#EXTINF:3081 tvg-logo="https://i.ytimg.com/vi/frHr_H9wqCw/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",O Segredo da bolsa de crochê na tela! #tela#crochet#croche
+https://www.youtube.com/watch?v=frHr_H9wqCw
+#EXTINF:3621 tvg-logo="https://i.ytimg.com/vi/EtL7P1OiIB8/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",COMO FAZER BOLSA DIRETO NA TELA RAPIDO / FACÍL  #crochet #croche
+https://www.youtube.com/watch?v=EtL7P1OiIB8
+#EXTINF:1880 tvg-logo="https://i.ytimg.com/vi/3IlHe41x2WE/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",Descubra este ARTESANATO Incrível que NÃO É CROCHÊ! #crochet
+https://www.youtube.com/watch?v=3IlHe41x2WE
+#EXTINF:3144 tvg-logo="https://i.ytimg.com/vi/i-_DTGEqbH8/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",Discover this incredible CRAFT that is NOT CROCHET! #crochet
+https://www.youtube.com/watch?v=i-_DTGEqbH8
+#EXTINF:3643 tvg-logo="https://i.ytimg.com/vi/Xrp4KSj5L2g/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",Descubra este ARTESANATO Incrível que NÃO É CROCHÊ! #crochet
+https://www.youtube.com/watch?v=Xrp4KSj5L2g
+#EXTINF:2641 tvg-logo="https://i.ytimg.com/vi/kFMrUjngJpY/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",✨ Bolsa na Tela Plastic Canvas | Tutorial do Ponto Tijolinho Inclinado + Bolsa Artesanal #diy
+https://www.youtube.com/watch?v=kFMrUjngJpY
+#EXTINF:495 tvg-logo="https://i.ytimg.com/vi/bN5VKpdy0vg/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",The secret to cutting the fabric correctly | FREE PATTERN in the description! #shorts
+https://www.youtube.com/watch?v=bN5VKpdy0vg
+#EXTINF:2641 tvg-logo="https://i.ytimg.com/vi/kFMrUjngJpY/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",✨ Bolsa na Tela Plastic Canvas | Tutorial do Ponto Tijolinho Inclinado + Bolsa Artesanal #diy
+https://www.youtube.com/watch?v=kFMrUjngJpY
+#EXTINF:3699 tvg-logo="https://i.ytimg.com/vi/BNBUEOItzz8/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela", Técnica secreta para Acabamento  bonito! #diy #plastic 
+https://www.youtube.com/watch?v=BNBUEOItzz8
+#EXTINF:841 tvg-logo="https://i.ytimg.com/vi/f85BjJiLauk/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",How to price your handbag (and other lessons from the luxury market) #fyp
+https://www.youtube.com/watch?v=f85BjJiLauk
+#EXTINF:952 tvg-logo="https://i.ytimg.com/vi/PnKEVWLOtFA/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",Vamos fazer a alca Jessy? você faz vai amar!!✅️
+https://www.youtube.com/watch?v=PnKEVWLOtFA
+#EXTINF:2918 tvg-logo="https://i.ytimg.com/vi/tvgK5ElBaJo/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela", step by step ‪@ruteprestes-bolsasnatela
+https://www.youtube.com/watch?v=tvgK5ElBaJo
+#EXTINF:3844 tvg-logo="https://i.ytimg.com/vi/yB_rmikCNaE/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",SECRET TRICK! How to make a bag on the screen✔️❎
+https://www.youtube.com/watch?v=yB_rmikCNaE
+#EXTINF:3246 tvg-logo="https://i.ytimg.com/vi/DCJ_BBulARw/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",Raquel Baguette Bag with Mesh Base
+https://www.youtube.com/watch?v=DCJ_BBulARw
+#EXTINF:1250 tvg-logo="https://i.ytimg.com/vi/daKNYHyYXug/mqdefault.jpg" group-title="Entrelinhas artesanato criativo ", pricing and materials
+https://www.youtube.com/watch?v=daKNYHyYXug
+#EXTINF:623 tvg-logo="https://i.ytimg.com/vi/yII457VMIAQ/mqdefault.jpg" group-title="Entrelinhas artesanato criativo ",Bags made from plastic mesh and what materials to use in their manufacture.
+https://www.youtube.com/watch?v=yII457VMIAQ
+#EXTINF:717 tvg-logo="https://i.ytimg.com/vi/YNln3awufvw/mqdefault.jpg" group-title="Entrelinhas artesanato criativo ",Screens and their measurements
+https://www.youtube.com/watch?v=YNln3awufvw
+#EXTINF:357 tvg-logo="https://i.ytimg.com/vi/cqNcOtgx58M/mqdefault.jpg" group-title="Entrelinhas artesanato criativo ", starting
+https://www.youtube.com/watch?v=cqNcOtgx58M
+#EXTINF:838 tvg-logo="https://i.ytimg.com/vi/DkmeQbT0MNk/mqdefault.jpg" group-title="Entrelinhas artesanato criativo ", starting. Part 2
+https://www.youtube.com/watch?v=DkmeQbT0MNk
+#EXTINF:878 tvg-logo="https://i.ytimg.com/vi/5y9Eat8sxqE/mqdefault.jpg" group-title="Entrelinhas artesanato criativo ",Basic zigzag stitch for canvas bags.
+https://www.youtube.com/watch?v=5y9Eat8sxqE
+#EXTINF:878 tvg-logo="https://i.ytimg.com/vi/fh7q9wN69yQ/mqdefault.jpg" group-title="Entrelinhas artesanato criativo ", basic for canvas bags.
+https://www.youtube.com/watch?v=fh7q9wN69yQ
+#EXTINF:1865 tvg-logo="https://i.ytimg.com/vi/r0VITGN1CeI/mqdefault.jpg" group-title="Entrelinhas artesanato criativo ",Plastic canvas bag. Easy plastic canvas bag. Plastic canvas bag Part 3
+https://www.youtube.com/watch?v=r0VITGN1CeI
+#EXTINF:1657 tvg-logo="https://i.ytimg.com/vi/6Gvb8WY7Bhc/mqdefault.jpg" group-title="Entrelinhas artesanato criativo ",Bolsa na tela plástica.Easy plastic Canvas Part 4 
+https://www.youtube.com/watch?v=6Gvb8WY7Bhc
+#EXTINF:1229 tvg-logo="https://i.ytimg.com/vi/Oa0zGAmPSP8/mqdefault.jpg" group-title="Entrelinhas artesanato criativo ",Bag made of plastic canvas. Easy plastic canvas.
+https://www.youtube.com/watch?v=Oa0zGAmPSP8
+#EXTINF:1194 tvg-logo="https://i.ytimg.com/vi/7PxSpDhk9Nc/mqdefault.jpg" group-title="Entrelinhas artesanato criativo ",Plastic mesh bag with knitted yarn.
+https://www.youtube.com/watch?v=7PxSpDhk9Nc
+#EXTINF:2330 tvg-logo="https://i.ytimg.com/vi/uDkciPIBIw0/mqdefault.jpg" group-title="Entrelinhas artesanato criativo ",Morgana bag in plastic mesh. Step-by-step part 1
+https://www.youtube.com/watch?v=uDkciPIBIw0
+#EXTINF:1820 tvg-logo="https://i.ytimg.com/vi/7vgoWLrA4So/mqdefault.jpg" group-title="Entrelinhas artesanato criativo ",Mesh bag made with yarn. Lesson 1
+https://www.youtube.com/watch?v=7vgoWLrA4So
+#EXTINF:1250 tvg-logo="https://i.ytimg.com/vi/daKNYHyYXug/mqdefault.jpg" group-title="Entrelinhas artesanato criativo ", pricing and materials
+https://www.youtube.com/watch?v=daKNYHyYXug
+#EXTINF:623 tvg-logo="https://i.ytimg.com/vi/yII457VMIAQ/mqdefault.jpg" group-title="Entrelinhas artesanato criativo ",Bags made from plastic mesh and what materials to use in their manufacture.
+https://www.youtube.com/watch?v=yII457VMIAQ
+#EXTINF:717 tvg-logo="https://i.ytimg.com/vi/YNln3awufvw/mqdefault.jpg" group-title="Entrelinhas artesanato criativo ",Screens and their measurements
+https://www.youtube.com/watch?v=YNln3awufvw
+#EXTINF:357 tvg-logo="https://i.ytimg.com/vi/cqNcOtgx58M/mqdefault.jpg" group-title="Entrelinhas artesanato criativo ", starting
+https://www.youtube.com/watch?v=cqNcOtgx58M
+#EXTINF:838 tvg-logo="https://i.ytimg.com/vi/DkmeQbT0MNk/mqdefault.jpg" group-title="Entrelinhas artesanato criativo ", starting. Part 2
+https://www.youtube.com/watch?v=DkmeQbT0MNk
+#EXTINF:878 tvg-logo="https://i.ytimg.com/vi/5y9Eat8sxqE/mqdefault.jpg" group-title="Entrelinhas artesanato criativo ",Basic zigzag stitch for canvas bags.
+https://www.youtube.com/watch?v=5y9Eat8sxqE
+#EXTINF:878 tvg-logo="https://i.ytimg.com/vi/fh7q9wN69yQ/mqdefault.jpg" group-title="Entrelinhas artesanato criativo ", basic for canvas bags.
+https://www.youtube.com/watch?v=fh7q9wN69yQ
+#EXTINF:1865 tvg-logo="https://i.ytimg.com/vi/r0VITGN1CeI/mqdefault.jpg" group-title="Entrelinhas artesanato criativo ",Plastic canvas bag. Easy plastic canvas bag. Plastic canvas bag Part 3
+https://www.youtube.com/watch?v=r0VITGN1CeI
+#EXTINF:1657 tvg-logo="https://i.ytimg.com/vi/6Gvb8WY7Bhc/mqdefault.jpg" group-title="Entrelinhas artesanato criativo ",Bolsa na tela plástica.Easy plastic Canvas Part 4 
+https://www.youtube.com/watch?v=6Gvb8WY7Bhc
+#EXTINF:1229 tvg-logo="https://i.ytimg.com/vi/Oa0zGAmPSP8/mqdefault.jpg" group-title="Entrelinhas artesanato criativo ",Bag made of plastic canvas. Easy plastic canvas.
+https://www.youtube.com/watch?v=Oa0zGAmPSP8
+#EXTINF:1194 tvg-logo="https://i.ytimg.com/vi/7PxSpDhk9Nc/mqdefault.jpg" group-title="Entrelinhas artesanato criativo ",Plastic mesh bag with knitted yarn.
+https://www.youtube.com/watch?v=7PxSpDhk9Nc
+#EXTINF:2330 tvg-logo="https://i.ytimg.com/vi/uDkciPIBIw0/mqdefault.jpg" group-title="Entrelinhas artesanato criativo ",Morgana bag in plastic mesh. Step-by-step part 1
+https://www.youtube.com/watch?v=uDkciPIBIw0
+#EXTINF:1820 tvg-logo="https://i.ytimg.com/vi/7vgoWLrA4So/mqdefault.jpg" group-title="Entrelinhas artesanato criativo ",Mesh bag made with yarn. Lesson 1
+https://www.youtube.com/watch?v=7vgoWLrA4So
+#EXTINF:1140 tvg-logo="https://i.ytimg.com/vi/QK6MsMuAVFI/mqdefault.jpg" group-title="Silvia Costura Criativa & Upcycling de Jeans",Como eu faço minhas próprias ETIQUETAS de forma profissional - AULA passo a passo
+https://www.youtube.com/watch?v=QK6MsMuAVFI
+#EXTINF:1140 tvg-logo="https://i.ytimg.com/vi/QK6MsMuAVFI/mqdefault.jpg" group-title="Silvia Costura Criativa & Upcycling de Jeans",Como eu faço minhas próprias ETIQUETAS de forma profissional - AULA passo a passo
+https://www.youtube.com/watch?v=QK6MsMuAVFI
+#EXTINF:1240 tvg-logo="https://i.ytimg.com/vi/gygeKMgT4vE/mqdefault.jpg" group-title="Aprenda Nó de Crochê",HOW TO CUT PLASTIC MESH FOR A BAG OUTSIDE THE STANDARD SIZE THE RIGHT WAY AND WITHOUT WASTE!
+https://www.youtube.com/watch?v=gygeKMgT4vE
+#EXTINF:2217 tvg-logo="https://i.ytimg.com/vi/fy2hgjfkq5o/mqdefault.jpg" group-title="Aprenda Nó de Crochê",COMPLETE TUTORIAL: CREATING AN ELEGANT PLASTIC MESH BAG THE AFFORDABLE WAY.
+https://www.youtube.com/watch?v=fy2hgjfkq5o
+#EXTINF:5858 tvg-logo="https://i.ytimg.com/vi/DQBi8esPGY8/mqdefault.jpg" group-title="Aprenda Nó de Crochê",Aprenda fazer essa Bolsa  incrível e sofisticada usando Tela Plástica – Fácil e Econômica!
+https://www.youtube.com/watch?v=DQBi8esPGY8
+#EXTINF:1240 tvg-logo="https://i.ytimg.com/vi/gygeKMgT4vE/mqdefault.jpg" group-title="Aprenda Nó de Crochê",HOW TO CUT PLASTIC MESH FOR A BAG OUTSIDE THE STANDARD SIZE THE RIGHT WAY AND WITHOUT WASTE!
+https://www.youtube.com/watch?v=gygeKMgT4vE
+#EXTINF:2217 tvg-logo="https://i.ytimg.com/vi/fy2hgjfkq5o/mqdefault.jpg" group-title="Aprenda Nó de Crochê",COMPLETE TUTORIAL: CREATING AN ELEGANT PLASTIC MESH BAG THE AFFORDABLE WAY.
+https://www.youtube.com/watch?v=fy2hgjfkq5o
+#EXTINF:5858 tvg-logo="https://i.ytimg.com/vi/DQBi8esPGY8/mqdefault.jpg" group-title="Aprenda Nó de Crochê",Aprenda fazer essa Bolsa  incrível e sofisticada usando Tela Plástica – Fácil e Econômica!
+https://www.youtube.com/watch?v=DQBi8esPGY8
+#EXTINF:695 tvg-logo="https://i.ytimg.com/vi/l4zraPJbcPw/mqdefault.jpg" group-title="Sebrae PR",Como DEFINIR PREÇO DE VENDA? 🤑 PASSO A PASSO pra PRECIFICAR seu PRODUTO ou SERVIÇO [PLANILHA GRÁTIS]
+https://www.youtube.com/watch?v=l4zraPJbcPw
+#EXTINF:695 tvg-logo="https://i.ytimg.com/vi/l4zraPJbcPw/mqdefault.jpg" group-title="Sebrae PR",Como DEFINIR PREÇO DE VENDA? 🤑 PASSO A PASSO pra PRECIFICAR seu PRODUTO ou SERVIÇO [PLANILHA GRÁTIS]
+https://www.youtube.com/watch?v=l4zraPJbcPw
+#EXTINF:1493 tvg-logo="https://i.ytimg.com/vi/q1hHB5ARog4/mqdefault.jpg" group-title="Arte na Tela Plástica por Joana Fernandes",Step-by-step tutorial for a bag made from plastic mesh using a herringbone stitch.
+https://www.youtube.com/watch?v=q1hHB5ARog4
+#EXTINF:2443 tvg-logo="https://i.ytimg.com/vi/yWl_wqrKEos/mqdefault.jpg" group-title="Arte na Tela Plástica por Joana Fernandes",Step-by-Step Tutorial for the Viral Bag! Luxury Plastic Canvas Bag
+https://www.youtube.com/watch?v=yWl_wqrKEos
+#EXTINF:407 tvg-logo="https://i.ytimg.com/vi/OOBWRMcO-dY/mqdefault.jpg" group-title="Arte na Tela Plástica por Joana Fernandes",How to Apply Snap Closures to Plastic Mesh Bags
+https://www.youtube.com/watch?v=OOBWRMcO-dY
+#EXTINF:1702 tvg-logo="https://i.ytimg.com/vi/Zn-CSD0umEw/mqdefault.jpg" group-title="Arte na Tela Plástica por Joana Fernandes",The SECRET to a Luxury Plastic Canvas Bag (Step-by-Step)
+https://www.youtube.com/watch?v=Zn-CSD0umEw
+#EXTINF:2148 tvg-logo="https://i.ytimg.com/vi/-rX5-pqsGnc/mqdefault.jpg" group-title="Arte na Tela Plástica por Joana Fernandes",No crochet skills required! VIRAL BAG made of plastic mesh.
+https://www.youtube.com/watch?v=-rX5-pqsGnc
+#EXTINF:2117 tvg-logo="https://i.ytimg.com/vi/oQDcxHoAxWM/mqdefault.jpg" group-title="Arte na Tela Plástica por Joana Fernandes",Plastic Mesh Bag for Beginners
+https://www.youtube.com/watch?v=oQDcxHoAxWM
+#EXTINF:2806 tvg-logo="https://i.ytimg.com/vi/wwu66sujDPQ/mqdefault.jpg" group-title="Arte na Tela Plástica por Joana Fernandes",Step-by-Step Guide to Online Purse Instructions
+https://www.youtube.com/watch?v=wwu66sujDPQ
+#EXTINF:2233 tvg-logo="https://i.ytimg.com/vi/b14_uo1VWbo/mqdefault.jpg" group-title="Arte na Tela Plástica por Joana Fernandes",NO CROCHET KNOWLEDGE REQUIRED - BAG MADE OF PLASTIC MESH
+https://www.youtube.com/watch?v=b14_uo1VWbo
+#EXTINF:581 tvg-logo="https://i.ytimg.com/vi/yUd9SdM_qwc/mqdefault.jpg" group-title="Arte na Tela Plástica por Joana Fernandes",Keychain made with PLASTIC MESH
+https://www.youtube.com/watch?v=yUd9SdM_qwc
+#EXTINF:1493 tvg-logo="https://i.ytimg.com/vi/q1hHB5ARog4/mqdefault.jpg" group-title="Arte na Tela Plástica por Joana Fernandes",Step-by-step tutorial for a bag made from plastic mesh using a herringbone stitch.
+https://www.youtube.com/watch?v=q1hHB5ARog4
+#EXTINF:2443 tvg-logo="https://i.ytimg.com/vi/yWl_wqrKEos/mqdefault.jpg" group-title="Arte na Tela Plástica por Joana Fernandes",Step-by-Step Tutorial for the Viral Bag! Luxury Plastic Canvas Bag
+https://www.youtube.com/watch?v=yWl_wqrKEos
+#EXTINF:407 tvg-logo="https://i.ytimg.com/vi/OOBWRMcO-dY/mqdefault.jpg" group-title="Arte na Tela Plástica por Joana Fernandes",How to Apply Snap Closures to Plastic Mesh Bags
+https://www.youtube.com/watch?v=OOBWRMcO-dY
+#EXTINF:1702 tvg-logo="https://i.ytimg.com/vi/Zn-CSD0umEw/mqdefault.jpg" group-title="Arte na Tela Plástica por Joana Fernandes",The SECRET to a Luxury Plastic Canvas Bag (Step-by-Step)
+https://www.youtube.com/watch?v=Zn-CSD0umEw
+#EXTINF:2148 tvg-logo="https://i.ytimg.com/vi/-rX5-pqsGnc/mqdefault.jpg" group-title="Arte na Tela Plástica por Joana Fernandes",No crochet skills required! VIRAL BAG made of plastic mesh.
+https://www.youtube.com/watch?v=-rX5-pqsGnc
+#EXTINF:2117 tvg-logo="https://i.ytimg.com/vi/oQDcxHoAxWM/mqdefault.jpg" group-title="Arte na Tela Plástica por Joana Fernandes",Plastic Mesh Bag for Beginners
+https://www.youtube.com/watch?v=oQDcxHoAxWM
+#EXTINF:2806 tvg-logo="https://i.ytimg.com/vi/wwu66sujDPQ/mqdefault.jpg" group-title="Arte na Tela Plástica por Joana Fernandes",Step-by-Step Guide to Online Purse Instructions
+https://www.youtube.com/watch?v=wwu66sujDPQ
+#EXTINF:2233 tvg-logo="https://i.ytimg.com/vi/b14_uo1VWbo/mqdefault.jpg" group-title="Arte na Tela Plástica por Joana Fernandes",NO CROCHET KNOWLEDGE REQUIRED - BAG MADE OF PLASTIC MESH
+https://www.youtube.com/watch?v=b14_uo1VWbo
+#EXTINF:581 tvg-logo="https://i.ytimg.com/vi/yUd9SdM_qwc/mqdefault.jpg" group-title="Arte na Tela Plástica por Joana Fernandes",Keychain made with PLASTIC MESH
+https://www.youtube.com/watch?v=yUd9SdM_qwc
+#EXTINF:1656 tvg-logo="https://i.ytimg.com/vi/erGbeK-psPQ/mqdefault.jpg" group-title="Núbia Maia",MESH BAG | WHAT MATERIALS ARE NEEDED TO PRODUCE IT?
+https://www.youtube.com/watch?v=erGbeK-psPQ
+#EXTINF:661 tvg-logo="https://i.ytimg.com/vi/fYAe88UCcq0/mqdefault.jpg" group-title="Núbia Maia",HOW TO PLACE A MAGNETIC CLOSURE ON A BAG
+https://www.youtube.com/watch?v=fYAe88UCcq0
+#EXTINF:1811 tvg-logo="https://i.ytimg.com/vi/BaWur27gGqg/mqdefault.jpg" group-title="Núbia Maia",HOW TO MAKE A CANVAS BAG || LESSON 3 - LINING AND ASSEMBLY
+https://www.youtube.com/watch?v=BaWur27gGqg
+#EXTINF:2856 tvg-logo="https://i.ytimg.com/vi/1EFFra1bkLg/mqdefault.jpg" group-title="Núbia Maia",COMO FAZER BOLSA NA TELA || AULA 1 - TECENDO NA TELA
+https://www.youtube.com/watch?v=1EFFra1bkLg
+#EXTINF:1822 tvg-logo="https://i.ytimg.com/vi/khcH-5IwguE/mqdefault.jpg" group-title="Núbia Maia",HOW TO MAKE A CANVAS BAG || LESSON 2 - ATTACHING THE CLOSURE
+https://www.youtube.com/watch?v=khcH-5IwguE
+#EXTINF:2450 tvg-logo="https://i.ytimg.com/vi/cCe1UW6pzR8/mqdefault.jpg" group-title="Núbia Maia",Earrings made with canvas and nautical rope.
+https://www.youtube.com/watch?v=cCe1UW6pzR8
+#EXTINF:2257 tvg-logo="https://i.ytimg.com/vi/TLGz5LzO2_4/mqdefault.jpg" group-title="Núbia Maia",FIRST VIDEO OF 2026 || HOW TO MAKE EARRINGS WITH BEAD LINKS
+https://www.youtube.com/watch?v=TLGz5LzO2_4
+#EXTINF:2076 tvg-logo="https://i.ytimg.com/vi/XZtf2AqK1Tc/mqdefault.jpg" group-title="Núbia Maia",AULA 1 - BOLSA DE CRISTAIS / CRIAÇÃO USANDO A TECNICA DO ENTRELAÇADO
+https://www.youtube.com/watch?v=XZtf2AqK1Tc
+#EXTINF:2414 tvg-logo="https://i.ytimg.com/vi/KFIOuo8pcmI/mqdefault.jpg" group-title="Núbia Maia",CLASS 2 - CRYSTAL BAG - INSTALLING THE LINING AND FINISHING
+https://www.youtube.com/watch?v=KFIOuo8pcmI
+#EXTINF:2618 tvg-logo="https://i.ytimg.com/vi/sKeGFpnQ3Kg/mqdefault.jpg" group-title="Núbia Maia",PEARL JEWELLERY BOX / CLASS 1 / How to make the base and lid
+https://www.youtube.com/watch?v=sKeGFpnQ3Kg
+#EXTINF:1656 tvg-logo="https://i.ytimg.com/vi/erGbeK-psPQ/mqdefault.jpg" group-title="Núbia Maia",MESH BAG | WHAT MATERIALS ARE NEEDED TO PRODUCE IT?
+https://www.youtube.com/watch?v=erGbeK-psPQ
+#EXTINF:661 tvg-logo="https://i.ytimg.com/vi/fYAe88UCcq0/mqdefault.jpg" group-title="Núbia Maia",HOW TO PLACE A MAGNETIC CLOSURE ON A BAG
+https://www.youtube.com/watch?v=fYAe88UCcq0
+#EXTINF:1811 tvg-logo="https://i.ytimg.com/vi/BaWur27gGqg/mqdefault.jpg" group-title="Núbia Maia",HOW TO MAKE A CANVAS BAG || LESSON 3 - LINING AND ASSEMBLY
+https://www.youtube.com/watch?v=BaWur27gGqg
+#EXTINF:2856 tvg-logo="https://i.ytimg.com/vi/1EFFra1bkLg/mqdefault.jpg" group-title="Núbia Maia",COMO FAZER BOLSA NA TELA || AULA 1 - TECENDO NA TELA
+https://www.youtube.com/watch?v=1EFFra1bkLg
+#EXTINF:1822 tvg-logo="https://i.ytimg.com/vi/khcH-5IwguE/mqdefault.jpg" group-title="Núbia Maia",HOW TO MAKE A CANVAS BAG || LESSON 2 - ATTACHING THE CLOSURE
+https://www.youtube.com/watch?v=khcH-5IwguE
+#EXTINF:2450 tvg-logo="https://i.ytimg.com/vi/cCe1UW6pzR8/mqdefault.jpg" group-title="Núbia Maia",Earrings made with canvas and nautical rope.
+https://www.youtube.com/watch?v=cCe1UW6pzR8
+#EXTINF:2257 tvg-logo="https://i.ytimg.com/vi/TLGz5LzO2_4/mqdefault.jpg" group-title="Núbia Maia",FIRST VIDEO OF 2026 || HOW TO MAKE EARRINGS WITH BEAD LINKS
+https://www.youtube.com/watch?v=TLGz5LzO2_4
+#EXTINF:2076 tvg-logo="https://i.ytimg.com/vi/XZtf2AqK1Tc/mqdefault.jpg" group-title="Núbia Maia",AULA 1 - BOLSA DE CRISTAIS / CRIAÇÃO USANDO A TECNICA DO ENTRELAÇADO
+https://www.youtube.com/watch?v=XZtf2AqK1Tc
+#EXTINF:2414 tvg-logo="https://i.ytimg.com/vi/KFIOuo8pcmI/mqdefault.jpg" group-title="Núbia Maia",CLASS 2 - CRYSTAL BAG - INSTALLING THE LINING AND FINISHING
+https://www.youtube.com/watch?v=KFIOuo8pcmI
+#EXTINF:2618 tvg-logo="https://i.ytimg.com/vi/sKeGFpnQ3Kg/mqdefault.jpg" group-title="Núbia Maia",PEARL JEWELLERY BOX / CLASS 1 / How to make the base and lid
+https://www.youtube.com/watch?v=sKeGFpnQ3Kg
+#EXTINF:428 tvg-logo="https://i.ytimg.com/vi/d6wTnH8Mck0/mqdefault.jpg" group-title="Urian Carneiro",Como aplicar Fecho Torniquete em bolsas de crochê
+https://www.youtube.com/watch?v=d6wTnH8Mck0
+#EXTINF:428 tvg-logo="https://i.ytimg.com/vi/d6wTnH8Mck0/mqdefault.jpg" group-title="Urian Carneiro",Como aplicar Fecho Torniquete em bolsas de crochê
+https://www.youtube.com/watch?v=d6wTnH8Mck0
+#EXTINF:1798 tvg-logo="https://i.ytimg.com/vi/5yqI5pDG-fU/mqdefault.jpg" group-title="Handmade by Angelin",Timeless Luxury Handbag Icon
+https://www.youtube.com/watch?v=5yqI5pDG-fU
+#EXTINF:1798 tvg-logo="https://i.ytimg.com/vi/5yqI5pDG-fU/mqdefault.jpg" group-title="Handmade by Angelin",Timeless Luxury Handbag Icon
+https://www.youtube.com/watch?v=5yqI5pDG-fU
+#EXTINF:811 tvg-logo="https://i.ytimg.com/vi/aEIj6NwbB6k/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",Nunca Mais Erre o Preço da Sua Bolsa! Aprenda a Calcular Certinho 💰🧶 Bolsa na tela. 
+https://www.youtube.com/watch?v=aEIj6NwbB6k
+#EXTINF:8318 tvg-logo="https://i.ytimg.com/vi/H3Djda2G3bA/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",Como Fazer a Bolsa na Tela Sofia: Crochê de Alto Padrão Passo a Passo
+https://www.youtube.com/watch?v=H3Djda2G3bA
+#EXTINF:9008 tvg-logo="https://i.ytimg.com/vi/uPc9cs5zaVk/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",BOLSA RAFAELA NA TELA: Passo a Passo completo #plasticcanvas #crochemoderno 
+https://www.youtube.com/watch?v=uPc9cs5zaVk
+#EXTINF:7559 tvg-logo="https://i.ytimg.com/vi/naaLUhYNOXA/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",Bolsa Paula na Tela: Como Fazer essa Peça de Luxo Passo a Passo! ✨
+https://www.youtube.com/watch?v=naaLUhYNOXA
+#EXTINF:5767 tvg-logo="https://i.ytimg.com/vi/6dVMdtOeCaU/mqdefault.jpg" group-title="Keu Crochê 🧶🧶", handmad
+https://www.youtube.com/watch?v=6dVMdtOeCaU
+#EXTINF:1428 tvg-logo="https://i.ytimg.com/vi/tBC7ywgCz0s/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",Pouch closure on the screen. 👜
+https://www.youtube.com/watch?v=tBC7ywgCz0s
+#EXTINF:8778 tvg-logo="https://i.ytimg.com/vi/4Hu85Dtc1dA/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",A Bolsa que minhas clientes mais pedem! Segredo revelado 🧶 Hande made- passo a passo- plastic canva
+https://www.youtube.com/watch?v=4Hu85Dtc1dA
+#EXTINF:6036 tvg-logo="https://i.ytimg.com/vi/02dSJMPlc9I/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",Bolsa de Crochê na Tela: O jeito mais FÁCIL de fazer bolsas estruturadas - Passo a passo
+https://www.youtube.com/watch?v=02dSJMPlc9I
+#EXTINF:2548 tvg-logo="https://i.ytimg.com/vi/UWvj7-OOcN8/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",BOLSA LUÍZA: passo a passo completo | Bolsa estruturada na tela  | Fácil e elegante! Para Iniciantes
+https://www.youtube.com/watch?v=UWvj7-OOcN8
+#EXTINF:5934 tvg-logo="https://i.ytimg.com/vi/_Idj8WwePtM/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",✨ Bolsa Joana na Tela – Elegante e  Moderna Passo a Passo Completo - Plastic Canva 
+https://www.youtube.com/watch?v=_Idj8WwePtM
+#EXTINF:6951 tvg-logo="https://i.ytimg.com/vi/cWNO01AboSk/mqdefault.jpg" group-title="Keu Crochê 🧶🧶", and Easy to Make | Complete Step-by-Step Tutorial - Plast...
+https://www.youtube.com/watch?v=cWNO01AboSk
+#EXTINF:6507 tvg-logo="https://i.ytimg.com/vi/l2QSC7kSMGM/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",Bolsa na Tela  Helena 👜✨ Passo a Passo -Para Iniciantes - Canva Plastic. 
+https://www.youtube.com/watch?v=l2QSC7kSMGM
+#EXTINF:7199 tvg-logo="https://i.ytimg.com/vi/QyflaNSXcuc/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",✨ Bolsa Gisele – Aprenda o passo a passo super fácil para iniciantes! 💖 Plastic Canva
+https://www.youtube.com/watch?v=QyflaNSXcuc
+#EXTINF:6521 tvg-logo="https://i.ytimg.com/vi/1jtYTLvA8RY/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",👉 Children's Bag on Mesh | Easy and Charming Step-by-Step Tutorial ✨ | Keu Croche
+https://www.youtube.com/watch?v=1jtYTLvA8RY
+#EXTINF:8367 tvg-logo="https://i.ytimg.com/vi/76OfNmfgyKc/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",Bolsa na Tela Francisca/Passo a passo - Para Iniciantes - Canva Plastic
+https://www.youtube.com/watch?v=76OfNmfgyKc
+#EXTINF:6018 tvg-logo="https://i.ytimg.com/vi/ubzn-kdSf2Q/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",👉 Bolsa Edna na Tela | Passo a Passo Fácil –Para Iniciantes
+https://www.youtube.com/watch?v=ubzn-kdSf2Q
+#EXTINF:7400 tvg-logo="https://i.ytimg.com/vi/yAhM_je7buE/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",Bolsa Damiana na Tela | Passo a Passo Completo | Para Iniciantes 
+https://www.youtube.com/watch?v=yAhM_je7buE
+#EXTINF:431 tvg-logo="https://i.ytimg.com/vi/qvm52mBExr0/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",“Poliéster x Polipropileno: Qual a melhor linha para bolsas estruturadas e na tela?"
+https://www.youtube.com/watch?v=qvm52mBExr0
+#EXTINF:4647 tvg-logo="https://i.ytimg.com/vi/Mdz95xh8OjA/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",Bolsa na Tela Passo a Passo - Vende Sozinha! Aprenda a Fazer e Lucre
+https://www.youtube.com/watch?v=Mdz95xh8OjA
+#EXTINF:2910 tvg-logo="https://i.ytimg.com/vi/nFieNE0hPls/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",Bolsa na Tela Passo a Passo | Fácil para Iniciantes
+https://www.youtube.com/watch?v=nFieNE0hPls
+#EXTINF:811 tvg-logo="https://i.ytimg.com/vi/aEIj6NwbB6k/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",Nunca Mais Erre o Preço da Sua Bolsa! Aprenda a Calcular Certinho 💰🧶 Bolsa na tela. 
+https://www.youtube.com/watch?v=aEIj6NwbB6k
+#EXTINF:8318 tvg-logo="https://i.ytimg.com/vi/H3Djda2G3bA/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",Como Fazer a Bolsa na Tela Sofia: Crochê de Alto Padrão Passo a Passo
+https://www.youtube.com/watch?v=H3Djda2G3bA
+#EXTINF:9008 tvg-logo="https://i.ytimg.com/vi/uPc9cs5zaVk/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",BOLSA RAFAELA NA TELA: Passo a Passo completo #plasticcanvas #crochemoderno 
+https://www.youtube.com/watch?v=uPc9cs5zaVk
+#EXTINF:7559 tvg-logo="https://i.ytimg.com/vi/naaLUhYNOXA/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",Bolsa Paula na Tela: Como Fazer essa Peça de Luxo Passo a Passo! ✨
+https://www.youtube.com/watch?v=naaLUhYNOXA
+#EXTINF:5767 tvg-logo="https://i.ytimg.com/vi/6dVMdtOeCaU/mqdefault.jpg" group-title="Keu Crochê 🧶🧶", handmad
+https://www.youtube.com/watch?v=6dVMdtOeCaU
+#EXTINF:1428 tvg-logo="https://i.ytimg.com/vi/tBC7ywgCz0s/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",Pouch closure on the screen. 👜
+https://www.youtube.com/watch?v=tBC7ywgCz0s
+#EXTINF:8778 tvg-logo="https://i.ytimg.com/vi/4Hu85Dtc1dA/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",A Bolsa que minhas clientes mais pedem! Segredo revelado 🧶 Hande made- passo a passo- plastic canva
+https://www.youtube.com/watch?v=4Hu85Dtc1dA
+#EXTINF:6036 tvg-logo="https://i.ytimg.com/vi/02dSJMPlc9I/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",Bolsa de Crochê na Tela: O jeito mais FÁCIL de fazer bolsas estruturadas - Passo a passo
+https://www.youtube.com/watch?v=02dSJMPlc9I
+#EXTINF:2548 tvg-logo="https://i.ytimg.com/vi/UWvj7-OOcN8/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",BOLSA LUÍZA: passo a passo completo | Bolsa estruturada na tela  | Fácil e elegante! Para Iniciantes
+https://www.youtube.com/watch?v=UWvj7-OOcN8
+#EXTINF:5934 tvg-logo="https://i.ytimg.com/vi/_Idj8WwePtM/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",✨ Bolsa Joana na Tela – Elegante e  Moderna Passo a Passo Completo - Plastic Canva 
+https://www.youtube.com/watch?v=_Idj8WwePtM
+#EXTINF:6951 tvg-logo="https://i.ytimg.com/vi/cWNO01AboSk/mqdefault.jpg" group-title="Keu Crochê 🧶🧶", and Easy to Make | Complete Step-by-Step Tutorial - Plast...
+https://www.youtube.com/watch?v=cWNO01AboSk
+#EXTINF:6507 tvg-logo="https://i.ytimg.com/vi/l2QSC7kSMGM/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",Bolsa na Tela  Helena 👜✨ Passo a Passo -Para Iniciantes - Canva Plastic. 
+https://www.youtube.com/watch?v=l2QSC7kSMGM
+#EXTINF:7199 tvg-logo="https://i.ytimg.com/vi/QyflaNSXcuc/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",✨ Bolsa Gisele – Aprenda o passo a passo super fácil para iniciantes! 💖 Plastic Canva
+https://www.youtube.com/watch?v=QyflaNSXcuc
+#EXTINF:6521 tvg-logo="https://i.ytimg.com/vi/1jtYTLvA8RY/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",👉 Children's Bag on Mesh | Easy and Charming Step-by-Step Tutorial ✨ | Keu Croche
+https://www.youtube.com/watch?v=1jtYTLvA8RY
+#EXTINF:8367 tvg-logo="https://i.ytimg.com/vi/76OfNmfgyKc/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",Bolsa na Tela Francisca/Passo a passo - Para Iniciantes - Canva Plastic
+https://www.youtube.com/watch?v=76OfNmfgyKc
+#EXTINF:6018 tvg-logo="https://i.ytimg.com/vi/ubzn-kdSf2Q/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",👉 Bolsa Edna na Tela | Passo a Passo Fácil –Para Iniciantes
+https://www.youtube.com/watch?v=ubzn-kdSf2Q
+#EXTINF:7400 tvg-logo="https://i.ytimg.com/vi/yAhM_je7buE/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",Bolsa Damiana na Tela | Passo a Passo Completo | Para Iniciantes 
+https://www.youtube.com/watch?v=yAhM_je7buE
+#EXTINF:431 tvg-logo="https://i.ytimg.com/vi/qvm52mBExr0/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",“Poliéster x Polipropileno: Qual a melhor linha para bolsas estruturadas e na tela?"
+https://www.youtube.com/watch?v=qvm52mBExr0
+#EXTINF:4647 tvg-logo="https://i.ytimg.com/vi/Mdz95xh8OjA/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",Bolsa na Tela Passo a Passo - Vende Sozinha! Aprenda a Fazer e Lucre
+https://www.youtube.com/watch?v=Mdz95xh8OjA
+#EXTINF:2910 tvg-logo="https://i.ytimg.com/vi/nFieNE0hPls/mqdefault.jpg" group-title="Keu Crochê 🧶🧶",Bolsa na Tela Passo a Passo | Fácil para Iniciantes
+https://www.youtube.com/watch?v=nFieNE0hPls
+#EXTINF:270 tvg-logo="https://i.ytimg.com/vi/YWBM8EijSE8/mqdefault.jpg" group-title="Ana Anjos Atelier",Dica: opções de tecidos para forro de bolsa - por Ana Anjos
+https://www.youtube.com/watch?v=YWBM8EijSE8
+#EXTINF:270 tvg-logo="https://i.ytimg.com/vi/YWBM8EijSE8/mqdefault.jpg" group-title="Ana Anjos Atelier",Dica: opções de tecidos para forro de bolsa - por Ana Anjos
+https://www.youtube.com/watch?v=YWBM8EijSE8
+#EXTINF:1115 tvg-logo="https://i.ytimg.com/vi/w6ELyeE1XLs/mqdefault.jpg" group-title="TV Aparecida",Bolsa Bordada em Tela Efeito 3D | Faça Você Mesmo
+https://www.youtube.com/watch?v=w6ELyeE1XLs
+#EXTINF:1115 tvg-logo="https://i.ytimg.com/vi/w6ELyeE1XLs/mqdefault.jpg" group-title="TV Aparecida",Bolsa Bordada em Tela Efeito 3D | Faça Você Mesmo
+https://www.youtube.com/watch?v=w6ELyeE1XLs
+#EXTINF:428 tvg-logo="https://i.ytimg.com/vi/p2HA1XYuYso/mqdefault.jpg" group-title="The Dark Hill",Fio náutico ou poliéster? Qual deles escolher?
+https://www.youtube.com/watch?v=p2HA1XYuYso
+#EXTINF:428 tvg-logo="https://i.ytimg.com/vi/p2HA1XYuYso/mqdefault.jpg" group-title="The Dark Hill",Fio náutico ou poliéster? Qual deles escolher?
+https://www.youtube.com/watch?v=p2HA1XYuYso
+#EXTINF:384 tvg-logo="https://i.ytimg.com/vi/ZTD76Ie7mks/mqdefault.jpg" group-title="Luciana Fressato",NÁUTICO X POLIÉSTER - Características e benefícios
+https://www.youtube.com/watch?v=ZTD76Ie7mks
+#EXTINF:384 tvg-logo="https://i.ytimg.com/vi/ZTD76Ie7mks/mqdefault.jpg" group-title="Luciana Fressato",NÁUTICO X POLIÉSTER - Características e benefícios
+https://www.youtube.com/watch?v=ZTD76Ie7mks
+#EXTINF:1123 tvg-logo="https://i.ytimg.com/vi/5o5igTU6eQw/mqdefault.jpg" group-title="Eliane kell",NÃO COMPRE FIO NÁUTICO ANES DE VER ESTE VÍDEO
+https://www.youtube.com/watch?v=5o5igTU6eQw
+#EXTINF:1123 tvg-logo="https://i.ytimg.com/vi/5o5igTU6eQw/mqdefault.jpg" group-title="Eliane kell",NÃO COMPRE FIO NÁUTICO ANES DE VER ESTE VÍDEO
+https://www.youtube.com/watch?v=5o5igTU6eQw
+#EXTINF:118 tvg-logo="https://i.ytimg.com/vi/QuEyfqw62Do/mqdefault.jpg" group-title="Fran Macramê Moderno",Fio Náutico: Um Segredinho que Ninguém te Conta - Dicas de Macramê
+https://www.youtube.com/watch?v=QuEyfqw62Do
+#EXTINF:118 tvg-logo="https://i.ytimg.com/vi/QuEyfqw62Do/mqdefault.jpg" group-title="Fran Macramê Moderno",Fio Náutico: Um Segredinho que Ninguém te Conta - Dicas de Macramê
+https://www.youtube.com/watch?v=QuEyfqw62Do
+#EXTINF:408 tvg-logo="https://i.ytimg.com/vi/icKRJlvaI14/mqdefault.jpg" group-title="O Dedal Armarinhos",Pra que serve o Fio Náutico da Circulo?
+https://www.youtube.com/watch?v=icKRJlvaI14
+#EXTINF:408 tvg-logo="https://i.ytimg.com/vi/icKRJlvaI14/mqdefault.jpg" group-title="O Dedal Armarinhos",Pra que serve o Fio Náutico da Circulo?
+https://www.youtube.com/watch?v=icKRJlvaI14
+#EXTINF:2340 tvg-logo="https://i.ytimg.com/vi/W7k-di0P7iE/mqdefault.jpg" group-title="Escola de Crochê Dagabi ",Fio Náutico x Fio Poliéster
+https://www.youtube.com/watch?v=W7k-di0P7iE
+#EXTINF:687 tvg-logo="https://i.ytimg.com/vi/C-zTNWQli4E/mqdefault.jpg" group-title="Escola de Crochê Dagabi ",What is the best thread?
+https://www.youtube.com/watch?v=C-zTNWQli4E
+#EXTINF:2340 tvg-logo="https://i.ytimg.com/vi/W7k-di0P7iE/mqdefault.jpg" group-title="Escola de Crochê Dagabi ",Fio Náutico x Fio Poliéster
+https://www.youtube.com/watch?v=W7k-di0P7iE
+#EXTINF:687 tvg-logo="https://i.ytimg.com/vi/C-zTNWQli4E/mqdefault.jpg" group-title="Escola de Crochê Dagabi ",What is the best thread?
+https://www.youtube.com/watch?v=C-zTNWQli4E
+#EXTINF:558 tvg-logo="https://i.ytimg.com/vi/zQ0r8IZbY9E/mqdefault.jpg" group-title="Vanessa Silva ",How to make a synthetic bag strap with a buckle!!
+https://www.youtube.com/watch?v=zQ0r8IZbY9E
+#EXTINF:558 tvg-logo="https://i.ytimg.com/vi/zQ0r8IZbY9E/mqdefault.jpg" group-title="Vanessa Silva ",How to make a synthetic bag strap with a buckle!!
+https://www.youtube.com/watch?v=zQ0r8IZbY9E
+#EXTINF:368 tvg-logo="https://i.ytimg.com/vi/LxVYbkasGfc/mqdefault.jpg" group-title="Tofu Studio",How to make a super easy synthetic handle without painting the edge.
+https://www.youtube.com/watch?v=LxVYbkasGfc
+#EXTINF:368 tvg-logo="https://i.ytimg.com/vi/LxVYbkasGfc/mqdefault.jpg" group-title="Tofu Studio",How to make a super easy synthetic handle without painting the edge.
+https://www.youtube.com/watch?v=LxVYbkasGfc
+#EXTINF:240 tvg-logo="https://i.ytimg.com/vi/IwIHA4g265I/mqdefault.jpg" group-title="Dicas da Ana Serpa",Dica Útil Como Fazer Alça para Bolsa de Tecido Fácil e estilosa
+https://www.youtube.com/watch?v=IwIHA4g265I
+#EXTINF:240 tvg-logo="https://i.ytimg.com/vi/IwIHA4g265I/mqdefault.jpg" group-title="Dicas da Ana Serpa",Dica Útil Como Fazer Alça para Bolsa de Tecido Fácil e estilosa
+https://www.youtube.com/watch?v=IwIHA4g265I
+#EXTINF:3496 tvg-logo="https://i.ytimg.com/vi/xolxWGY9J-M/mqdefault.jpg" group-title="Gleizi Crochê",Plastic Mesh Bag | Mesh Bag Step by Step | Bag Step by Step
+https://www.youtube.com/watch?v=xolxWGY9J-M
+#EXTINF:3470 tvg-logo="https://i.ytimg.com/vi/956p-s4UD28/mqdefault.jpg" group-title="Gleizi Crochê",Backpack Style Canvas Bag | Canvas Bag | Step by Step
+https://www.youtube.com/watch?v=956p-s4UD28
+#EXTINF:2590 tvg-logo="https://i.ytimg.com/vi/LYtZHBWwbHU/mqdefault.jpg" group-title="Gleizi Crochê",How to Make a Bag in Solid Canvas | Canvas Bag | Step by Step
+https://www.youtube.com/watch?v=LYtZHBWwbHU
+#EXTINF:4097 tvg-logo="https://i.ytimg.com/vi/5AA4WKIWb4U/mqdefault.jpg" group-title="Gleizi Crochê",Bolsa Baú na Tela com zíper|Bolsa na Tela|Passo a passo
+https://www.youtube.com/watch?v=5AA4WKIWb4U
+#EXTINF:3544 tvg-logo="https://i.ytimg.com/vi/lG8BCrIqjVI/mqdefault.jpg" group-title="Gleizi Crochê",How to make a Canvas Bag | Luxury Bag | step by step
+https://www.youtube.com/watch?v=lG8BCrIqjVI
+#EXTINF:3544 tvg-logo="https://i.ytimg.com/vi/lG8BCrIqjVI/mqdefault.jpg" group-title="Gleizi Crochê",How to make a Canvas Bag | Luxury Bag | step by step
+https://www.youtube.com/watch?v=lG8BCrIqjVI
+#EXTINF:3494 tvg-logo="https://i.ytimg.com/vi/LdJLjAKmDaE/mqdefault.jpg" group-title="Gleizi Crochê",Easy Bag on Screen | Luxury Bag Step-by-Step
+https://www.youtube.com/watch?v=LdJLjAKmDaE
+#EXTINF:2236 tvg-logo="https://i.ytimg.com/vi/xjM9t14e9Sg/mqdefault.jpg" group-title="Gleizi Crochê",Canvas Bag | Everyday Bag | Step-by-Step
+https://www.youtube.com/watch?v=xjM9t14e9Sg
+#EXTINF:3470 tvg-logo="https://i.ytimg.com/vi/956p-s4UD28/mqdefault.jpg" group-title="Gleizi Crochê",Backpack Style Canvas Bag | Canvas Bag | Step by Step
+https://www.youtube.com/watch?v=956p-s4UD28
+#EXTINF:4097 tvg-logo="https://i.ytimg.com/vi/5AA4WKIWb4U/mqdefault.jpg" group-title="Gleizi Crochê",Bolsa Baú na Tela com zíper|Bolsa na Tela|Passo a passo
+https://www.youtube.com/watch?v=5AA4WKIWb4U
+#EXTINF:3496 tvg-logo="https://i.ytimg.com/vi/xolxWGY9J-M/mqdefault.jpg" group-title="Gleizi Crochê",Plastic Mesh Bag | Mesh Bag Step by Step | Bag Step by Step
+https://www.youtube.com/watch?v=xolxWGY9J-M
+#EXTINF:2590 tvg-logo="https://i.ytimg.com/vi/LYtZHBWwbHU/mqdefault.jpg" group-title="Gleizi Crochê",How to Make a Bag in Solid Canvas | Canvas Bag | Step by Step
+https://www.youtube.com/watch?v=LYtZHBWwbHU
+#EXTINF:3496 tvg-logo="https://i.ytimg.com/vi/xolxWGY9J-M/mqdefault.jpg" group-title="Gleizi Crochê",Plastic Mesh Bag | Mesh Bag Step by Step | Bag Step by Step
+https://www.youtube.com/watch?v=xolxWGY9J-M
+#EXTINF:3470 tvg-logo="https://i.ytimg.com/vi/956p-s4UD28/mqdefault.jpg" group-title="Gleizi Crochê",Backpack Style Canvas Bag | Canvas Bag | Step by Step
+https://www.youtube.com/watch?v=956p-s4UD28
+#EXTINF:2590 tvg-logo="https://i.ytimg.com/vi/LYtZHBWwbHU/mqdefault.jpg" group-title="Gleizi Crochê",How to Make a Bag in Solid Canvas | Canvas Bag | Step by Step
+https://www.youtube.com/watch?v=LYtZHBWwbHU
+#EXTINF:4097 tvg-logo="https://i.ytimg.com/vi/5AA4WKIWb4U/mqdefault.jpg" group-title="Gleizi Crochê",Bolsa Baú na Tela com zíper|Bolsa na Tela|Passo a passo
+https://www.youtube.com/watch?v=5AA4WKIWb4U
+#EXTINF:3544 tvg-logo="https://i.ytimg.com/vi/lG8BCrIqjVI/mqdefault.jpg" group-title="Gleizi Crochê",How to make a Canvas Bag | Luxury Bag | step by step
+https://www.youtube.com/watch?v=lG8BCrIqjVI
+#EXTINF:1231 tvg-logo="https://i.ytimg.com/vi/tqtzEXD506M/mqdefault.jpg" group-title="Loja Pavani",APRENDA COMO FAZER BOLSA NA TELA PLÁSTICA LP😍
+https://www.youtube.com/watch?v=tqtzEXD506M
+#EXTINF:1016 tvg-logo="https://i.ytimg.com/vi/tJLaKfi8xpw/mqdefault.jpg" group-title="Loja Pavani",COMO FAZER BOLSA NA TELA COM CAIXINHA DE LEITE 💙💛 Lp
+https://www.youtube.com/watch?v=tJLaKfi8xpw
+#EXTINF:1231 tvg-logo="https://i.ytimg.com/vi/tqtzEXD506M/mqdefault.jpg" group-title="Loja Pavani",APRENDA COMO FAZER BOLSA NA TELA PLÁSTICA LP😍
+https://www.youtube.com/watch?v=tqtzEXD506M
+#EXTINF:1016 tvg-logo="https://i.ytimg.com/vi/tJLaKfi8xpw/mqdefault.jpg" group-title="Loja Pavani",COMO FAZER BOLSA NA TELA COM CAIXINHA DE LEITE 💙💛 Lp
+https://www.youtube.com/watch?v=tJLaKfi8xpw
+#EXTINF:3068 tvg-logo="https://i.ytimg.com/vi/_QVWu7_C1_Q/mqdefault.jpg" group-title="Tutorial crochê por Adri",CANHOTO/ Bolsa BORDADA NA TELA PLÁSTICA / O segredo da Bolsa na tela sem crochê - Clutch Amaya
+https://www.youtube.com/watch?v=_QVWu7_C1_Q
+#EXTINF:3068 tvg-logo="https://i.ytimg.com/vi/_QVWu7_C1_Q/mqdefault.jpg" group-title="Tutorial crochê por Adri",CANHOTO/ Bolsa BORDADA NA TELA PLÁSTICA / O segredo da Bolsa na tela sem crochê - Clutch Amaya
+https://www.youtube.com/watch?v=_QVWu7_C1_Q
+#EXTINF:1232 tvg-logo="https://i.ytimg.com/vi/kAPRmgT9tys/mqdefault.jpg" group-title="Hanoure Art",DIY LUXURY PEARL BAG USING PLASTIC CANVAS - PART 1
+https://www.youtube.com/watch?v=kAPRmgT9tys
+#EXTINF:1553 tvg-logo="https://i.ytimg.com/vi/w9A8fXzEqgc/mqdefault.jpg" group-title="Hanoure Art",EASY PLSTIC CANVAS BAG FOR BEGINNERS / SEWING  A ZIPPER IN CANVA PLASTIC TOTE BAG - PART 2
+https://www.youtube.com/watch?v=w9A8fXzEqgc
+#EXTINF:1361 tvg-logo="https://i.ytimg.com/vi/6z1QcyVcYss/mqdefault.jpg" group-title="Hanoure Art",3D stitch on plastic canvas - PART 1 - DIY PURSE BAG TUTORIAl
+https://www.youtube.com/watch?v=6z1QcyVcYss
+#EXTINF:1303 tvg-logo="https://i.ytimg.com/vi/PvbIxv7Uov0/mqdefault.jpg" group-title="Hanoure Art",3D stitch on plastic canvas - PART 2 - DIY PURSE BAG TUTORIAl
+https://www.youtube.com/watch?v=PvbIxv7Uov0
+#EXTINF:2651 tvg-logo="https://i.ytimg.com/vi/WotUWQeD0qQ/mqdefault.jpg" group-title="Hanoure Art",DIY New stitch on plastic canvas bag / New plastic canvas bag design / full tutorial
+https://www.youtube.com/watch?v=WotUWQeD0qQ
+#EXTINF:3185 tvg-logo="https://i.ytimg.com/vi/vHgXx63h35Y/mqdefault.jpg" group-title="Hanoure Art",DIY SIMPLE TOTE BAG WITH PLASTIC CANVAS AND POLYESTER MACRAME
+https://www.youtube.com/watch?v=vHgXx63h35Y
+#EXTINF:3587 tvg-logo="https://i.ytimg.com/vi/OHrE8fz8r-c/mqdefault.jpg" group-title="Hanoure Art",⬛  DIY New plastic canvas  bag design /plastic canvas bag full tutorial #diy  #plasticcanvas
+https://www.youtube.com/watch?v=OHrE8fz8r-c
+#EXTINF:6285 tvg-logo="https://i.ytimg.com/vi/7d5NzTjreh8/mqdefault.jpg" group-title="Hanoure Art",HOW TO MAKE HANDMADE PLASTIC CANVAS BAG TUTORIAL / NEW PLASTIC CANVAS SITITCHES TUTORIAL
+https://www.youtube.com/watch?v=7d5NzTjreh8
+#EXTINF:4240 tvg-logo="https://i.ytimg.com/vi/8fcO06fHBtQ/mqdefault.jpg" group-title="Hanoure Art",Diy New bag style - Diy plastic canvas purse full tutorial/  How to make pyramid stitch   #diy
+https://www.youtube.com/watch?v=8fcO06fHBtQ
+#EXTINF:3315 tvg-logo="https://i.ytimg.com/vi/nM4eQ2wt1zQ/mqdefault.jpg" group-title="Hanoure Art",plastic canvas bag full tutorial for beginners / High - quality luxury bag
+https://www.youtube.com/watch?v=nM4eQ2wt1zQ
+#EXTINF:3335 tvg-logo="https://i.ytimg.com/vi/hc-OGPkfW84/mqdefault.jpg" group-title="Hanoure Art",Handmade bag with plastic canvas /diy plastic canvas purse /New design bag- full tutorial
+https://www.youtube.com/watch?v=hc-OGPkfW84
+#EXTINF:3457 tvg-logo="https://i.ytimg.com/vi/vzc2eW2hpI4/mqdefault.jpg" group-title="Hanoure Art",plastic canvas bag DIY |  canvasDIY PURSE BAG TUTORIAl ||Everyone can make it -How to make a purse
+https://www.youtube.com/watch?v=vzc2eW2hpI4
+#EXTINF:957 tvg-logo="https://i.ytimg.com/vi/kFLTaIaX-VQ/mqdefault.jpg" group-title="Hanoure Art",DIY PURSE BAG TUTORIAl ||Everyone can make it - Plastic Canvas Bag DIY . How to make a handmade bag
+https://www.youtube.com/watch?v=kFLTaIaX-VQ
+#EXTINF:1198 tvg-logo="https://i.ytimg.com/vi/YylKuSxQ_0o/mqdefault.jpg" group-title="Hanoure Art",DIY PURSE BAG TUTORIAl ||Everyone can make it - Plastic Canvas Bag DIY . How to make a handmade bag
+https://www.youtube.com/watch?v=YylKuSxQ_0o
+#EXTINF:1420 tvg-logo="https://i.ytimg.com/vi/tNRMCmjTrcU/mqdefault.jpg" group-title="Hanoure Art",plastic canvas bag DIY |  canvas DIY  PURSE BAG TUTORIAl || New Cross Stitch on plastic canvas
+https://www.youtube.com/watch?v=tNRMCmjTrcU
+#EXTINF:1453 tvg-logo="https://i.ytimg.com/vi/x8nssQn4wD0/mqdefault.jpg" group-title="Hanoure Art",DIY PURSE tutorial with plastic canvas | How to make a handmade women bag with plastic canvas #DIY
+https://www.youtube.com/watch?v=x8nssQn4wD0
+#EXTINF:1136 tvg-logo="https://i.ytimg.com/vi/Er4voVqGw8w/mqdefault.jpg" group-title="Hanoure Art",Beautiful handmade bag with plastic canvas / plastic canvas purse tutorial /Diy bag
+https://www.youtube.com/watch?v=Er4voVqGw8w
+#EXTINF:938 tvg-logo="https://i.ytimg.com/vi/YtoUlZRtSFk/mqdefault.jpg" group-title="Hanoure Art",DIY PURSE BAG TUTORIAl - Plastic Canvas Bag DIY . How to Crochet a bag / Easy plastic Canvas
+https://www.youtube.com/watch?v=YtoUlZRtSFk
+#EXTINF:2651 tvg-logo="https://i.ytimg.com/vi/WotUWQeD0qQ/mqdefault.jpg" group-title="Hanoure Art",DIY New stitch on plastic canvas bag / New plastic canvas bag design / full tutorial
+https://www.youtube.com/watch?v=WotUWQeD0qQ
+#EXTINF:2967 tvg-logo="https://i.ytimg.com/vi/iPzQi6fNWfs/mqdefault.jpg" group-title="Hanoure Art",Diy Luxury bag with plastic canvas and leather metallic thread - full tutorial- New bag design
+https://www.youtube.com/watch?v=iPzQi6fNWfs
+#EXTINF:3565 tvg-logo="https://i.ytimg.com/vi/iM9DZlYLDeI/mqdefault.jpg" group-title="Hanoure Art",DIY PLASTIC CANVAS BAG / EASY PLASTIC CANVAS BAG TUTORIAL FOR BEGINNERS
+https://www.youtube.com/watch?v=iM9DZlYLDeI
+#EXTINF:1659 tvg-logo="https://i.ytimg.com/vi/OwNWa-o1Ssg/mqdefault.jpg" group-title="Hanoure Art",PlASTIC CANVAS BAG DIY FOR BEGINNERS / HOW TO MAKE HANDMADE WOMEN BAG / LEATHER BAG
+https://www.youtube.com/watch?v=OwNWa-o1Ssg
+#EXTINF:3367 tvg-logo="https://i.ytimg.com/vi/SrJoSs2NXaE/mqdefault.jpg" group-title="Hanoure Art",EASY PLASTIC CANVAS BAG TUTORIAL FOR BEGINNERS / NEW DESIGN
+https://www.youtube.com/watch?v=SrJoSs2NXaE
+#EXTINF:3876 tvg-logo="https://i.ytimg.com/vi/5MlLXOBO-2s/mqdefault.jpg" group-title="Hanoure Art",DIY LUXURY LEATHER BAG TUTORIAL /PLASTIC CANVAS BAG NEW DESIGN
+https://www.youtube.com/watch?v=5MlLXOBO-2s
+#EXTINF:5198 tvg-logo="https://i.ytimg.com/vi/fxpBjlmCS60/mqdefault.jpg" group-title="Hanoure Art",شنطه لامعه و أنيقه بالكانفا البلاستيك و خيط الميتاليك  EASY PLASTIC CANVAS BAG TUTORIAL
+https://www.youtube.com/watch?v=fxpBjlmCS60
+#EXTINF:4295 tvg-logo="https://i.ytimg.com/vi/VzPebOpDX-k/mqdefault.jpg" group-title="Hanoure Art",DIY NEW PLASTIC CANVAS ROUND BAG DESIGN / PLASTIC CANVAS BAG TUTORIAL
+https://www.youtube.com/watch?v=VzPebOpDX-k
+#EXTINF:6959 tvg-logo="https://i.ytimg.com/vi/cOaeENvtzM0/mqdefault.jpg" group-title="Hanoure Art",ELEGANT PLACTIS CANVAS BAG TUTORIAL - DIY PLASTIC CANVAS BAG كيف تقص شبك الكانفا و تصنع شنطه أنيقه
+https://www.youtube.com/watch?v=cOaeENvtzM0
+#EXTINF:2863 tvg-logo="https://i.ytimg.com/vi/VkHWyYXoKxs/mqdefault.jpg" group-title="Hanoure Art",DIY PURSE BAG TUTORIAl ||Everyone can make it - Plastic Canvas Bag DIY . How to make a handmade bag
+https://www.youtube.com/watch?v=VkHWyYXoKxs
+#EXTINF:3751 tvg-logo="https://i.ytimg.com/vi/Cwe_EpMYR7Q/mqdefault.jpg" group-title="Hanoure Art",LUXURY PURSE WITH PLASTIC CANVAS  / DIY PLASTIC CANVAS WALLET #handmade
+https://www.youtube.com/watch?v=Cwe_EpMYR7Q
+#EXTINF:2373 tvg-logo="https://i.ytimg.com/vi/_qRVWwmjvOg/mqdefault.jpg" group-title="Hanoure Art",TRENDY PLASTIC CANVAS BAG DIY | PLASTIC CANVAS SITITCHES TUTORIAL | HOW TO MAKE HANDMADE BAG
+https://www.youtube.com/watch?v=_qRVWwmjvOg
+#EXTINF:4005 tvg-logo="https://i.ytimg.com/vi/HLiAuMlEAmY/mqdefault.jpg" group-title="Hanoure Art",EASY PLASTIC CANVAS BAG FOR BEGINNERS / DIY PLASTIC CANVAS PURSE WITH GLITTER COTTON THREAD
+https://www.youtube.com/watch?v=HLiAuMlEAmY
+#EXTINF:969 tvg-logo="https://i.ytimg.com/vi/FB53M_s2OxA/mqdefault.jpg" group-title="Hanoure Art",New plastic canvas bag design-part 1 /diy plastic canvas purse /plastic canvas tutorial
+https://www.youtube.com/watch?v=FB53M_s2OxA
+#EXTINF:1244 tvg-logo="https://i.ytimg.com/vi/QBzJEw8ewF8/mqdefault.jpg" group-title="Hanoure Art",plastic mesh canvas bag / How to cut plastic canvas / making bag tutorial - PART 2- #diy
+https://www.youtube.com/watch?v=QBzJEw8ewF8
+#EXTINF:697 tvg-logo="https://i.ytimg.com/vi/F33t4e7DxSk/mqdefault.jpg" group-title="Hanoure Art",Diy purse bag tutorial / part 3 - plastic canvas bag - How to make a handmade women bag -  #diy
+https://www.youtube.com/watch?v=F33t4e7DxSk
+#EXTINF:722 tvg-logo="https://i.ytimg.com/vi/WNQKNcdzSW0/mqdefault.jpg" group-title="Hanoure Art",part 4 _How to sew zipper on plastic canvas bag DIY plastic canvas bag/ bag  tutorial #diy #Hanoure
+https://www.youtube.com/watch?v=WNQKNcdzSW0
+#EXTINF:1232 tvg-logo="https://i.ytimg.com/vi/kAPRmgT9tys/mqdefault.jpg" group-title="Hanoure Art",DIY LUXURY PEARL BAG USING PLASTIC CANVAS - PART 1
+https://www.youtube.com/watch?v=kAPRmgT9tys
+#EXTINF:1553 tvg-logo="https://i.ytimg.com/vi/w9A8fXzEqgc/mqdefault.jpg" group-title="Hanoure Art",EASY PLSTIC CANVAS BAG FOR BEGINNERS / SEWING  A ZIPPER IN CANVA PLASTIC TOTE BAG - PART 2
+https://www.youtube.com/watch?v=w9A8fXzEqgc
+#EXTINF:1361 tvg-logo="https://i.ytimg.com/vi/6z1QcyVcYss/mqdefault.jpg" group-title="Hanoure Art",3D stitch on plastic canvas - PART 1 - DIY PURSE BAG TUTORIAl
+https://www.youtube.com/watch?v=6z1QcyVcYss
+#EXTINF:1303 tvg-logo="https://i.ytimg.com/vi/PvbIxv7Uov0/mqdefault.jpg" group-title="Hanoure Art",3D stitch on plastic canvas - PART 2 - DIY PURSE BAG TUTORIAl
+https://www.youtube.com/watch?v=PvbIxv7Uov0
+#EXTINF:2651 tvg-logo="https://i.ytimg.com/vi/WotUWQeD0qQ/mqdefault.jpg" group-title="Hanoure Art",DIY New stitch on plastic canvas bag / New plastic canvas bag design / full tutorial
+https://www.youtube.com/watch?v=WotUWQeD0qQ
+#EXTINF:612 tvg-logo="https://i.ytimg.com/vi/2xHmfQubzkw/mqdefault.jpg" group-title=" Fio Moderno Crochê ",HOW TO PRICE CROCHET BAGS - HOW MUCH DO I SELL CROCHET BAGS FOR?
+https://www.youtube.com/watch?v=2xHmfQubzkw
+#EXTINF:612 tvg-logo="https://i.ytimg.com/vi/2xHmfQubzkw/mqdefault.jpg" group-title=" Fio Moderno Crochê ",HOW TO PRICE CROCHET BAGS - HOW MUCH DO I SELL CROCHET BAGS FOR?
+https://www.youtube.com/watch?v=2xHmfQubzkw
+#EXTINF:558 tvg-logo="https://i.ytimg.com/vi/UJr-Ggs3vbE/mqdefault.jpg" group-title="Canal da Anny ",APRENDA CALCULAR O PREÇO DA SUA PEÇA DE CROCHÊ/ QUANTO COBRAR?
+https://www.youtube.com/watch?v=UJr-Ggs3vbE
+#EXTINF:558 tvg-logo="https://i.ytimg.com/vi/UJr-Ggs3vbE/mqdefault.jpg" group-title="Canal da Anny ",APRENDA CALCULAR O PREÇO DA SUA PEÇA DE CROCHÊ/ QUANTO COBRAR?
+https://www.youtube.com/watch?v=UJr-Ggs3vbE
+#EXTINF:2891 tvg-logo="https://i.ytimg.com/vi/z6WXDEcRjiA/mqdefault.jpg" group-title="Htá crochê ",APRENDA A FAZER BOLSA NA TELA/ PASSO A PASSO 
+https://www.youtube.com/watch?v=z6WXDEcRjiA
+#EXTINF:2891 tvg-logo="https://i.ytimg.com/vi/z6WXDEcRjiA/mqdefault.jpg" group-title="Htá crochê ",APRENDA A FAZER BOLSA NA TELA/ PASSO A PASSO 
+https://www.youtube.com/watch?v=z6WXDEcRjiA
+#EXTINF:5472 tvg-logo="https://i.ytimg.com/vi/ghw2M768al4/mqdefault.jpg" group-title="Ramonita crochê ponto a ponto",Passo-a-passo Bolsa em tela feito com fio nautico (parte 1)
+https://www.youtube.com/watch?v=ghw2M768al4
+#EXTINF:5472 tvg-logo="https://i.ytimg.com/vi/ghw2M768al4/mqdefault.jpg" group-title="Ramonita crochê ponto a ponto",Passo-a-passo Bolsa em tela feito com fio nautico (parte 1)
+https://www.youtube.com/watch?v=ghw2M768al4
+#EXTINF:2683 tvg-logo="https://i.ytimg.com/vi/AAgfOcLXdWg/mqdefault.jpg" group-title="Lele Bags - Bolsas e Acessórios",Como Fazer uma Carteira Clutch Elegante do Zero | Tutorial Parte 1
+https://www.youtube.com/watch?v=AAgfOcLXdWg
+#EXTINF:2519 tvg-logo="https://i.ytimg.com/vi/fKWA5oTmCFc/mqdefault.jpg" group-title="Lele Bags - Bolsas e Acessórios",Como Fazer uma Carteira Clutch Elegante do Zero | Tutorial Parte 2
+https://www.youtube.com/watch?v=fKWA5oTmCFc
+#EXTINF:2683 tvg-logo="https://i.ytimg.com/vi/AAgfOcLXdWg/mqdefault.jpg" group-title="Lele Bags - Bolsas e Acessórios",Como Fazer uma Carteira Clutch Elegante do Zero | Tutorial Parte 1
+https://www.youtube.com/watch?v=AAgfOcLXdWg
+#EXTINF:2519 tvg-logo="https://i.ytimg.com/vi/fKWA5oTmCFc/mqdefault.jpg" group-title="Lele Bags - Bolsas e Acessórios",Como Fazer uma Carteira Clutch Elegante do Zero | Tutorial Parte 2
+https://www.youtube.com/watch?v=fKWA5oTmCFc
+#EXTINF:1655 tvg-logo="https://i.ytimg.com/vi/U-djlw9NJLk/mqdefault.jpg" group-title="Ella Marc Handmade",How To Make Plastic Canvas Bag For Party
+https://www.youtube.com/watch?v=U-djlw9NJLk
+#EXTINF:1655 tvg-logo="https://i.ytimg.com/vi/U-djlw9NJLk/mqdefault.jpg" group-title="Ella Marc Handmade",How To Make Plastic Canvas Bag For Party
+https://www.youtube.com/watch?v=U-djlw9NJLk
+#EXTINF:1772 tvg-logo="https://i.ytimg.com/vi/tIW65-OI75M/mqdefault.jpg" group-title="Santa Costura Armarinho",Bolsa em Tela Treliça com Bolso Interno e Zíper para fechar
+https://www.youtube.com/watch?v=tIW65-OI75M
+#EXTINF:1772 tvg-logo="https://i.ytimg.com/vi/tIW65-OI75M/mqdefault.jpg" group-title="Santa Costura Armarinho",Bolsa em Tela Treliça com Bolso Interno e Zíper para fechar
+https://www.youtube.com/watch?v=tIW65-OI75M
+#EXTINF:5553 tvg-logo="https://i.ytimg.com/vi/RDF6JVcFHFw/mqdefault.jpg" group-title="Nah Stein Crochê",Passo a Passo - Bolsa na Tela - Sem Crochê - Fio de Malha - Nah Stein Crochê 
+https://www.youtube.com/watch?v=RDF6JVcFHFw
+#EXTINF:5553 tvg-logo="https://i.ytimg.com/vi/RDF6JVcFHFw/mqdefault.jpg" group-title="Nah Stein Crochê",Passo a Passo - Bolsa na Tela - Sem Crochê - Fio de Malha - Nah Stein Crochê 
+https://www.youtube.com/watch?v=RDF6JVcFHFw
+#EXTINF:2321 tvg-logo="https://i.ytimg.com/vi/359EB3Byzw0/mqdefault.jpg" group-title="Clissia Castricini",MESH BAG. COME SEW WITH ME! | AMAZING FINISH 💪❤️
+https://www.youtube.com/watch?v=359EB3Byzw0
+#EXTINF:2321 tvg-logo="https://i.ytimg.com/vi/359EB3Byzw0/mqdefault.jpg" group-title="Clissia Castricini",MESH BAG. COME SEW WITH ME! | AMAZING FINISH 💪❤️
+https://www.youtube.com/watch?v=359EB3Byzw0
+#EXTINF:1971 tvg-logo="https://i.ytimg.com/vi/_JkV6P1XyEA/mqdefault.jpg" group-title="Danysska",Plastic Canvas Mesh Bag | Everyone can make it! | Easy DIY Plastic Canvas Mesh Bag Tutorial
+https://www.youtube.com/watch?v=_JkV6P1XyEA
+#EXTINF:1971 tvg-logo="https://i.ytimg.com/vi/_JkV6P1XyEA/mqdefault.jpg" group-title="Danysska",Plastic Canvas Mesh Bag | Everyone can make it! | Easy DIY Plastic Canvas Mesh Bag Tutorial
+https://www.youtube.com/watch?v=_JkV6P1XyEA
+#EXTINF:1731 tvg-logo="https://i.ytimg.com/vi/JsPyL_1jTrw/mqdefault.jpg" group-title="Danysska",I Made a Designer-Looking Bag from Plastic Canvas! Easy DIY Tutorial
+https://www.youtube.com/watch?v=JsPyL_1jTrw
+#EXTINF:2058 tvg-logo="https://i.ytimg.com/vi/S25D6Qqegjo/mqdefault.jpg" group-title="Danysska",Canvas Mesh Bag DIY | This Bag Always Gets Compliments!
+https://www.youtube.com/watch?v=S25D6Qqegjo
+#EXTINF:1971 tvg-logo="https://i.ytimg.com/vi/_JkV6P1XyEA/mqdefault.jpg" group-title="Danysska",Plastic Canvas Mesh Bag | Everyone can make it! | Easy DIY Plastic Canvas Mesh Bag Tutorial
+https://www.youtube.com/watch?v=_JkV6P1XyEA
+#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="TV | CANAIS | ABERTOS", RECORD 2
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="TV | CANAIS | ABERTOS", RECORD 2
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="TV | CANAIS | ABERTOS", REDE TV
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="TV | CANAIS | ABERTOS", SBT TV Guajará (PA)
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="TV | CANAIS | ABERTOS", RecordTV MT
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png" group-title="TV | CANAIS | ABERTOS", SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="TV | CANAIS | ABERTOS", BAND Pará - RBA TV
+https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="TV | CANAIS | ABERTOS", GLOBO SP
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="TV | CANAIS | ABERTOS", SBT
+https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="TV | CANAIS | ABERTOS", SBT TV Thathi (SP)
+https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="TV | CANAIS | ABERTOS", RecordTV MT 2
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="TV | CANAIS | ABERTOS", RecordTV MT 2
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanalredetv.png" group-title="TV | CANAIS | ABERTOS", RedeTV! TV Pantanal (MT)
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG-1599153408949.png" group-title="TV | CANAIS | PLUTO TV: ANIMES", Pluto TV Anime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&devi ceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_do main=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="TV | CANAIS | PLUTO TV: ANIMES", Pluto TV Anime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="TV | CANAIS | PLUTO TV: ANIMES", Pluto TV Anime AÃ§Ã£o
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
