@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 22/07/2026 16:25hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 22/07/2026 16:30hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO  0 - BOAS VINDAS",Aula 1 - Bem-vindo ao Curso
 https://www.youtube.com/watch?v=B6MdFl1PIDA
@@ -693,26 +693,26 @@ https://www.youtube.com/watch?v=l3xcAn3vL8k
 https://www.youtube.com/watch?v=_JkV6P1XyEA
 #EXTINF:6507 tvg-logo="https://i.ytimg.com/vi/l2QSC7kSMGM/mqdefault.jpg" group-title="MÓDULO 25 - Keu Crochê",Bolsa na Tela  Helena (Passo a Passo -Para Iniciantes - Canva Plastic)
 https://www.youtube.com/watch?v=l2QSC7kSMGM
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="TV | CANAIS | ABERTOS", BAND Pará - RBA TV
-https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="TV | CANAIS | ABERTOS", GLOBO SP
-http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="TV | CANAIS | ABERTOS", RECORD 2
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png" group-title="TV | CANAIS | ABERTOS", SIC
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="TV | CANAIS | ABERTOS", RECORD 2
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="TV | CANAIS | ABERTOS", REDE TV
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="TV | CANAIS | ABERTOS", SBT
-https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="TV | CANAIS | ABERTOS", SBT TV Guajará (PA)
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="TV | CANAIS | ABERTOS", SBT TV Thathi (SP)
-https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="TV | CANAIS | ABERTOS", RecordTV MT
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png" group-title="TV | CANAIS | ABERTOS", SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="TV | CANAIS | ABERTOS", BAND Pará - RBA TV
+https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="TV | CANAIS | ABERTOS", GLOBO SP
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="TV | CANAIS | ABERTOS", SBT
+https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="TV | CANAIS | ABERTOS", SBT TV Thathi (SP)
+https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="TV | CANAIS | ABERTOS", RecordTV MT 2
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="TV | CANAIS | ABERTOS", RecordTV MT 2
@@ -727,8 +727,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3f6171c551bfebb0226b4f7d526a8e6f.webp" group-title="TV | CANAIS | RELIGIOSOS", TV Gideões
 https://tv01.zas.media:1936/gideoes/gideoes/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4lnSlOZ.png" group-title="TV | CANAIS | RELIGIOSOS", Fonte TV
-http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aoq9CGU.png" group-title="TV | CANAIS | RELIGIOSOS", Gospel Cartoon (360p)
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospel.jpg" group-title="TV | CANAIS | RELIGIOSOS", Gospel Movie TV
