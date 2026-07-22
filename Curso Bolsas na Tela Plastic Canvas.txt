@@ -1,20 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR", Isso foi feita à mão.  (ATUALIZADO EM: 22/07/2026 00:05hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR", Isso foi feita à mão.  (ATUALIZADO EM: 22/07/2026 00:10hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
-
-#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1NYRVdgXArRMFHa4X1XDtCFIA99a9s929/view?usp=drive_link" group-title="MÓDULO  0 - BOAS VINDAS",Aula 1 - Bem-vindo ao Curso
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO  0 - BOAS VINDAS",Aula 1 - Bem-vindo ao Curso
 https://ia600406.us.archive.org/24/items/tela-em-breve-aguarde/TELA_EM_BREVE%20-%20AGUARDE.mp4
 
 https://ia600406.us.archive.org/24/items/tela-em-breve-aguarde/TELA_EM_BREVE%20-%20AGUARDE.mp4
-#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1NYRVdgXArRMFHa4X1XDtCFIA99a9s929/view?usp=drive_link" group-title="MÓDULO  0 - BOAS VINDAS",Aula 2 - Como utilizar o aplicativo
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO  0 - BOAS VINDAS",Aula 2 - Como utilizar o aplicativo
 https://ia600406.us.archive.org/24/items/tela-em-breve-aguarde/TELA_EM_BREVE%20-%20AGUARDE.mp4
-#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1NYRVdgXArRMFHa4X1XDtCFIA99a9s929/view?usp=drive_link" group-title="MÓDULO  0 - BOAS VINDAS",Aula 3 - Materiais necessários
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO  0 - BOAS VINDAS",Aula 3 - Materiais necessários
 https://ia600406.us.archive.org/24/items/tela-em-breve-aguarde/TELA_EM_BREVE%20-%20AGUARDE.mp4
-#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1NYRVdgXArRMFHa4X1XDtCFIA99a9s929/view?usp=drive_link" group-title="MÓDULO  0 - BOAS VINDAS",Aula 4 - Conhecendo a Tela Plástica
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO  0 - BOAS VINDAS",Aula 4 - Conhecendo a Tela Plástica
 https://ia600406.us.archive.org/24/items/tela-em-breve-aguarde/TELA_EM_BREVE%20-%20AGUARDE.mp4
-#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1NYRVdgXArRMFHa4X1XDtCFIA99a9s929/view?usp=drive_link" group-title="MÓDULO  0 - BOAS VINDAS",Aula 5 - Tipos de Bolsas que iremos produzir
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO  0 - BOAS VINDAS",Aula 5 - Tipos de Bolsas que iremos produzir
 https://ia600406.us.archive.org/24/items/tela-em-breve-aguarde/TELA_EM_BREVE%20-%20AGUARDE.mp4
-#EXTINF:-1 tvg-logo="https://drive.google.com/file/d/1NYRVdgXArRMFHa4X1XDtCFIA99a9s929/view?usp=drive_link" group-title="MÓDULO  0 - BOAS VINDAS",Aula 6 - Como organizar seu espaço de trabalho
+#EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO  0 - BOAS VINDAS",Aula 6 - Como organizar seu espaço de trabalho
 https://ia600406.us.archive.org/24/items/tela-em-breve-aguarde/TELA_EM_BREVE%20-%20AGUARDE.mp4
 #EXTINF:1971 tvg-logo="https://i.ytimg.com/vi/_JkV6P1XyEA/mqdefault.jpg" group-title="MÓDULO  1 - INICIANTES",Bolsa de Tela de Plástico | Qualquer um pode fazer! | Tutorial Fácil de Bolsa de Tela de Plástico (Faça Você Mesmo)
 https://www.youtube.com/watch?v=_JkV6P1XyEA
