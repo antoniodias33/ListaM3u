@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 22/07/2026 16:15hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 22/07/2026 16:20hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO  0 - BOAS VINDAS",Aula 1 - Bem-vindo ao Curso
 https://www.youtube.com/watch?v=B6MdFl1PIDA
@@ -633,15 +633,15 @@ https://www.youtube.com/watch?v=HLiAuMlEAmY
 https://www.youtube.com/watch?v=5gVKTmM7UiQ
 #EXTINF:306 tvg-logo="https://i.ytimg.com/vi/WpPLgeLb78k/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",NEW STITCH ON  PLASTIC CANVAS GRID TO MAKE AN ELEGANT AND LUXURIOUS BAG
 https://www.youtube.com/watch?v=WpPLgeLb78k
-#EXTINF:2080 tvg-logo="https://i.ytimg.com/vi/NqK4NchscyA/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela",CROCHÊ DIFERENTE ✅ #croche #tela #crochet
+#EXTINF:2080 tvg-logo="https://i.ytimg.com/vi/NqK4NchscyA/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela",CROCHÊ DIFERENTE #croche #tela #crochet
 https://www.youtube.com/watch?v=NqK4NchscyA
-#EXTINF:3844 tvg-logo="https://i.ytimg.com/vi/yB_rmikCNaE/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela",SECRET TRICK! How to make a bag on the screen✔️❎
+#EXTINF:3844 tvg-logo="https://i.ytimg.com/vi/yB_rmikCNaE/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela",SECRET TRICK! How to make a bag on the screen
 https://www.youtube.com/watch?v=yB_rmikCNaE
-#EXTINF:3709 tvg-logo="https://i.ytimg.com/vi/7hCshaKVpdE/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela",Nina bag: on canvas 👜  #BolsaNina
+#EXTINF:3709 tvg-logo="https://i.ytimg.com/vi/7hCshaKVpdE/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela",Nina bag: on canvas #BolsaNina
 https://www.youtube.com/watch?v=7hCshaKVpdE
-#EXTINF:2952 tvg-logo="https://i.ytimg.com/vi/egWqD2_VGrQ/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela",BOLSA BAGUETE ISA! 👜 CHARME EM CROCHÊ NA TELA #crochet
+#EXTINF:2952 tvg-logo="https://i.ytimg.com/vi/egWqD2_VGrQ/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela",BOLSA BAGUETE ISA! CHARME EM CROCHÊ NA TELA #crochet
 https://www.youtube.com/watch?v=egWqD2_VGrQ
-#EXTINF:2918 tvg-logo="https://i.ytimg.com/vi/tvgK5ElBaJo/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela", step by step ‪@ruteprestes-bolsasnatela
+#EXTINF:2918 tvg-logo="https://i.ytimg.com/vi/tvgK5ElBaJo/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela", step by step @ruteprestes-bolsasnatela
 https://www.youtube.com/watch?v=tvgK5ElBaJo
 #EXTINF:3621 tvg-logo="https://i.ytimg.com/vi/EtL7P1OiIB8/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela",COMO FAZER BOLSA DIRETO NA TELA RAPIDO / FACÍL  #crochet #croche
 https://www.youtube.com/watch?v=EtL7P1OiIB8
@@ -659,7 +659,7 @@ https://www.youtube.com/watch?v=OWtXxLljU_U
 https://www.youtube.com/watch?v=nM4eQ2wt1zQ
 #EXTINF:1198 tvg-logo="https://i.ytimg.com/vi/YylKuSxQ_0o/mqdefault.jpg" group-title="MÓDULO 25 - Hanoure Art",DIY PURSE BAG TUTORIAl ||Everyone can make it - Plastic Canvas Bag DIY . How to make a handmade bag
 https://www.youtube.com/watch?v=YylKuSxQ_0o
-#EXTINF:3587 tvg-logo="https://i.ytimg.com/vi/OHrE8fz8r-c/mqdefault.jpg" group-title="MÓDULO 25 - Hanoure Art",⬛  DIY New plastic canvas  bag design /plastic canvas bag full tutorial #diy  #plasticcanvas
+#EXTINF:3587 tvg-logo="https://i.ytimg.com/vi/OHrE8fz8r-c/mqdefault.jpg" group-title="MÓDULO 25 - Hanoure Art",DIY New plastic canvas  bag design /plastic canvas bag full tutorial #diy  #plasticcanvas
 https://www.youtube.com/watch?v=OHrE8fz8r-c
 #EXTINF:6146 tvg-logo="https://i.ytimg.com/vi/EWCsmatydHE/mqdefault.jpg" group-title="MÓDULO 25 - Hanoure Art",Luxury handmade bag with plastic canvas - full tutorial- pyramid stitch 4 /DIY plastic canvas purse
 https://www.youtube.com/watch?v=EWCsmatydHE
@@ -691,7 +691,7 @@ https://www.youtube.com/watch?v=XxE0FVT8wEk
 https://www.youtube.com/watch?v=l3xcAn3vL8k
 #EXTINF:1971 tvg-logo="https://i.ytimg.com/vi/_JkV6P1XyEA/mqdefault.jpg" group-title="MÓDULO 25 - Danysska",Plastic Canvas Mesh Bag | Everyone can make it! | Easy DIY Plastic Canvas Mesh Bag Tutorial
 https://www.youtube.com/watch?v=_JkV6P1XyEA
-#EXTINF:6507 tvg-logo="https://i.ytimg.com/vi/l2QSC7kSMGM/mqdefault.jpg" group-title="MÓDULO 25 - Keu Crochê",Bolsa na Tela  Helena 👜✨ Passo a Passo -Para Iniciantes - Canva Plastic. 
+#EXTINF:6507 tvg-logo="https://i.ytimg.com/vi/l2QSC7kSMGM/mqdefault.jpg" group-title="MÓDULO 25 - Keu Crochê",Bolsa na Tela  Helena (Passo a Passo -Para Iniciantes - Canva Plastic)
 https://www.youtube.com/watch?v=l2QSC7kSMGM
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="TV | CANAIS | ABERTOS", BAND Pará - RBA TV
 https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
