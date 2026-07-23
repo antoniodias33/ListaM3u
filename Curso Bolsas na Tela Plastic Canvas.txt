@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 23/07/2026 11:00hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 23/07/2026 11:15hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO  0 - BOAS VINDAS",Aula 1 - Bem-vindo ao Curso
 https://www.youtube.com/watch?v=B6MdFl1PIDA
@@ -49,14 +49,22 @@ https://www.youtube.com/watch?v=9_JvJsfXzSE?autoplay=1&modestbranding=1&rel=0&fs
 #EXTINF:-1,Aula 3 - Teste EMBED
 https://www.youtube.com/embed/9_JvJsfXzSE?autoplay=1&modestbranding=1&rel=0&fs=0&controls=1&showinfo=1&iv_load_policy=3&playsinline=1&autoplay=1
 
-#EXTINF:-1,Aula 4 - Teste
+#EXTINF:-1,Aula 4 - Teste LINK
+https://www.youtube.com/watch?v=MRIXyMphsWo
+
+#EXTINF:-1,Aula 4 - Teste EMBED
 https://www.youtube.com/embed/MRIXyMphsWo?autoplay=1&modestbranding=1&rel=0&fs=0&controls=1&showinfo=0&iv_load_policy=3&playsinline=1&autoplay=1
 
 #EXTINF:-1,Aula 4 - Teste WATCH
 https://www.youtube.com/watch?v=MRIXyMphsWo?autoplay=1&modestbranding=1&rel=0&fs=0&controls=1&showinfo=0&iv_load_policy=3&playsinline=1&autoplay=1
 
+#EXTINF:-1,Aula 5 - Teste LINK
+https://www.youtube.com/watch?v=1EFFra1bkLg
 
-#EXTINF:-1,Aula 5 - Teste
+#EXTINF:-1,Aula 5 - Teste WATCH
+https://www.youtube.com/watch?v=1EFFra1bkLg?autoplay=1&modestbranding=1&rel=0&fs=0&controls=1&showinfo=0&iv_load_policy=3&playsinline=1&autoplay=1
+
+#EXTINF:-1,Aula 5 - Teste EMBED
 https://www.youtube.com/embed/1EFFra1bkLg?autoplay=1&modestbranding=1&rel=0&fs=0&controls=1&showinfo=0&iv_load_policy=3&playsinline=1&autoplay=1
 
 #EXTINF:-1,Aula 6 - Teste
