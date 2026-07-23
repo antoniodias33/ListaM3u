@@ -14,8 +14,6 @@ https://www.youtube.com/watch?v=B6MdFl1PIDA
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO  0 - BOAS VINDAS",Aula 6 - Como organizar seu espaço de trabalho
 https://www.youtube.com/watch?v=B6MdFl1PIDA
 
-##################
-
 #EXTINF:-1,Aula 1 - Teste
 https://www.youtube.com/embed/9_JvJsfXzSE?autoplay=1&modestbranding=1&rel=0&fs=0&controls=1&showinfo=0&iv_load_policy=3&playsinline=1
 
