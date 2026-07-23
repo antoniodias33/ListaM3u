@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 22/07/2026 23:55hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 22/07/2026 23:58hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
 
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159372747-43dbeed85f419b4a82cb27abf7b90bc9a732e1ac548215100fc9942af9d75d22-d?f=webp&region=us" group-title="TREINAMENTO SOUSPLAT",CROCHÊ DO ZERO - AULAS 1
@@ -651,7 +651,6 @@ https://www.youtube.com/watch?v=yB_rmikCNaE
 https://www.youtube.com/watch?v=7hCshaKVpdE
 #EXTINF:2952 tvg-logo="https://i.ytimg.com/vi/egWqD2_VGrQ/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela",BOLSA BAGUETE ISA! CHARME EM CROCHÊ NA TELA #crochet
 https://www.youtube.com/watch?v=egWqD2_VGrQ
-#EXTINF:2918 tvg-logo="https://i.ytimg.com/vi/tvgK5ElBaJo/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela", step by step @ruteprestes-bolsasnatela
 
 #EXTINF:3621 tvg-logo="https://i.ytimg.com/vi/EtL7P1OiIB8/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela",COMO FAZER BOLSA DIRETO NA TELA RAPIDO / FACÍL  #crochet #croche
 https://www.youtube.com/watch?v=EtL7P1OiIB8
@@ -957,8 +956,6 @@ https://www.youtube.com/watch?v=BNBUEOItzz8
 https://www.youtube.com/watch?v=f85BjJiLauk
 #EXTINF:952 tvg-logo="https://i.ytimg.com/vi/PnKEVWLOtFA/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",Vamos fazer a alca Jessy? você faz vai amar!!
 https://www.youtube.com/watch?v=PnKEVWLOtFA
-#EXTINF:2918 tvg-logo="https://i.ytimg.com/vi/tvgK5ElBaJo/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela", step by step @ruteprestes-bolsasnatela
-https://www.youtube.com/watch?v=tvgK5ElBaJo
 #EXTINF:3844 tvg-logo="https://i.ytimg.com/vi/yB_rmikCNaE/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",SECRET TRICK! How to make a bag on the screen
 https://www.youtube.com/watch?v=yB_rmikCNaE
 #EXTINF:3246 tvg-logo="https://i.ytimg.com/vi/DCJ_BBulARw/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",Raquel Baguette Bag with Mesh Base
@@ -1013,8 +1010,6 @@ https://www.youtube.com/watch?v=BNBUEOItzz8
 https://www.youtube.com/watch?v=f85BjJiLauk
 #EXTINF:952 tvg-logo="https://i.ytimg.com/vi/PnKEVWLOtFA/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",Vamos fazer a alca Jessy? você faz vai amar!!
 https://www.youtube.com/watch?v=PnKEVWLOtFA
-#EXTINF:2918 tvg-logo="https://i.ytimg.com/vi/tvgK5ElBaJo/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela", step by step ‪@ruteprestes-bolsasnatela
-https://www.youtube.com/watch?v=tvgK5ElBaJo
 #EXTINF:3844 tvg-logo="https://i.ytimg.com/vi/yB_rmikCNaE/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",SECRET TRICK! How to make a bag on the screen
 https://www.youtube.com/watch?v=yB_rmikCNaE
 #EXTINF:3246 tvg-logo="https://i.ytimg.com/vi/DCJ_BBulARw/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",Raquel Baguette Bag with Mesh Base
