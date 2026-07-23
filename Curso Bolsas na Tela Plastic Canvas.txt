@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 23/07/2026 10:45hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 23/07/2026 11:00hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO  0 - BOAS VINDAS",Aula 1 - Bem-vindo ao Curso
 https://www.youtube.com/watch?v=B6MdFl1PIDA
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=erGbeK-psPQ
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/an_webp/erGbeK-psPQ/mqdefault_6s.webp?du=3000&sqp=CLCng9MG&rs=AOn4CLDpx6qeLrqZRLZizmXK7kBv8KOamQ" group-title="MÓDULO  0 - BOAS VINDAS",Aula 3 - Materiais necessários
 https://www.youtube.com/watch?v=erGbeK-psPQ
 
-https://www.youtube.com/watch?v=9_JvJsfXzSE?autoplay=1&modestbranding=1&rel=0&fs=0&controls=1&showinfo=0&iv_load_policy=3&playsinline=1
+https://www.youtube.com/watch?v=9_JvJsfXzSE?autoplay=1&modestbranding=1&rel=0&fs=0&controls=1&showinfo=0&iv_load_policy=3&playsinline=1&autoplay=1
 
 
 
@@ -27,44 +27,43 @@ https://www.youtube.com/watch?v=B6MdFl1PIDA
 
 ##################
 
-#EXTINF:-1,Aula 1 - Teste
-https://www.youtube.com/embed/9_JvJsfXzSE?autoplay=1&modestbranding=1&rel=0&fs=0&controls=1&showinfo=0&iv_load_policy=3&playsinline=1
-
-
 #EXTINF:-1,Aula 2 - Teste
-https://www.youtube.com/embed/kg-eB5zYtt8?autoplay=1&modestbranding=1&rel=0&fs=0&controls=1&showinfo=0&iv_load_policy=3&playsinline=1
+https://www.youtube.com/watch?v=kg-eB5zYtt8
 
-#EXTINF:-1,Aula 2 - Teste2
-https://www.youtube.com/watch?v=kg-eB5zYtt8?autoplay=1&modestbranding=1&rel=0&fs=0&controls=1&showinfo=0&iv_load_policy=3&playsinline=1
+#EXTINF:-1,Aula 2 - Teste EMBED
+https://www.youtube.com/embed/kg-eB5zYtt8?autoplay=1&modestbranding=1&rel=0&fs=0&controls=1&showinfo=0&iv_load_policy=3&playsinline=1&autoplay=1
 
+#EXTINF:-1,Aula 2 - Teste2 WATCH
+https://www.youtube.com/watch?v=kg-eB5zYtt8?autoplay=1&modestbranding=1&rel=0&fs=0&controls=1&showinfo=0&iv_load_policy=3&playsinline=1&autoplay=1
 
-#EXTINF:-1,Aula 3 - Materiais necessários 2
-https://www.youtube.com/watch?v=erGbeK-psPQ?autoplay=1&modestbranding=1&rel=0&fs=0&controls=1&showinfo=0&iv_load_policy=3&playsinline=1
-
-
-#EXTINF:-1,Aula 3 - Materiais necessários 3
-https://www.youtube.com/embed/v=erGbeK-psPQ?autoplay=1&modestbranding=1&rel=0&fs=0&controls=1&showinfo=0&iv_load_policy=3&playsinline=1
+#EXTINF:-1,Aula 3 - Materiais necessários WATCH
+https://www.youtube.com/watch?v=erGbeK-psPQ?autoplay=1&modestbranding=1&rel=0&fs=0&controls=1&showinfo=0&iv_load_policy=3&playsinline=1&autoplay=1
 
 
+#EXTINF:-1,Aula 3 - Materiais necessários EMBED
+https://www.youtube.com/embed/v=erGbeK-psPQ?autoplay=1&modestbranding=1&rel=0&fs=0&controls=1&showinfo=0&iv_load_policy=3&playsinline=1&autoplay=1
 
+#EXTINF:-1,Aula 3 - Teste WATCH
+https://www.youtube.com/watch?v=9_JvJsfXzSE?autoplay=1&modestbranding=1&rel=0&fs=0&controls=1&showinfo=0&iv_load_policy=3&playsinline=1&autoplay=1
 
-#EXTINF:-1,Aula 3 - Teste
-https://www.youtube.com/embed/9_JvJsfXzSE?autoplay=1&modestbranding=1&rel=0&fs=0&controls=1&showinfo=0&iv_load_policy=3&playsinline=1
-
-#EXTINF:-1,Aula 3 - Teste2
-https://www.youtube.com/watch?autoplay=1&modestbranding=1&rel=0&fs=0&controls=1&showinfo=0&iv_load_policy=3&playsinline=1
+#EXTINF:-1,Aula 3 - Teste EMBED
+https://www.youtube.com/embed/9_JvJsfXzSE?autoplay=1&modestbranding=1&rel=0&fs=0&controls=1&showinfo=1&iv_load_policy=3&playsinline=1&autoplay=1
 
 #EXTINF:-1,Aula 4 - Teste
-https://www.youtube.com/embed/MRIXyMphsWo?autoplay=1&modestbranding=1&rel=0&fs=0&controls=1&showinfo=0&iv_load_policy=3&playsinline=1
+https://www.youtube.com/embed/MRIXyMphsWo?autoplay=1&modestbranding=1&rel=0&fs=0&controls=1&showinfo=0&iv_load_policy=3&playsinline=1&autoplay=1
+
+#EXTINF:-1,Aula 4 - Teste WATCH
+https://www.youtube.com/watch?v=MRIXyMphsWo?autoplay=1&modestbranding=1&rel=0&fs=0&controls=1&showinfo=0&iv_load_policy=3&playsinline=1&autoplay=1
+
 
 #EXTINF:-1,Aula 5 - Teste
-https://www.youtube.com/embed/1EFFra1bkLg?autoplay=1&modestbranding=1&rel=0&fs=0&controls=1&showinfo=0&iv_load_policy=3&playsinline=1
+https://www.youtube.com/embed/1EFFra1bkLg?autoplay=1&modestbranding=1&rel=0&fs=0&controls=1&showinfo=0&iv_load_policy=3&playsinline=1&autoplay=1
 
 #EXTINF:-1,Aula 6 - Teste
-https://www.youtube.com/embed/khcH-5IwguE?autoplay=1&modestbranding=1&rel=0&fs=0&controls=1&showinfo=0&iv_load_policy=3&playsinline=1
+https://www.youtube.com/embed/khcH-5IwguE?autoplay=1&modestbranding=1&rel=0&fs=0&controls=1&showinfo=0&iv_load_policy=3&playsinline=1&autoplay=1
 
 #EXTINF:-1,Aula 7 - Teste
-https://www.youtube.com/embed/BaWur27gGqg?autoplay=1&modestbranding=1&rel=0&fs=0&controls=1&showinfo=0&iv_load_policy=3&playsinline=1
+https://www.youtube.com/embed/BaWur27gGqg?autoplay=1&modestbranding=1&rel=0&fs=0&controls=1&showinfo=0&iv_load_policy=3&playsinline=1&autoplay=1
 
 
 ###################################
