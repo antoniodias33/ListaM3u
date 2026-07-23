@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 22/07/2026 23:58hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 23/07/2026 00:30hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
-
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159372747-43dbeed85f419b4a82cb27abf7b90bc9a732e1ac548215100fc9942af9d75d22-d?f=webp&region=us" group-title="TREINAMENTO SOUSPLAT",CROCHÊ DO ZERO - AULAS 1
-https://player.vimeo.com/video/1202796487
-
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2173418723-a70dfd17ec7dc2377eb6b4c7a77c4208d5a4023477008ae0692c4e4f057d7ce9-d?f=webp&region=us" group-title="TREINAMENTO SOUSPLAT",TAPETE EM CROCHÊ FACIL - AULAS 2
-https://player.vimeo.com/video/1202796487
-
-
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO  0 - BOAS VINDAS",Aula 1 - Bem-vindo ao Curso
 https://www.youtube.com/watch?v=B6MdFl1PIDA
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO  0 - BOAS VINDAS",Aula 2 - Como utilizar o aplicativo
@@ -21,6 +13,20 @@ https://www.youtube.com/watch?v=B6MdFl1PIDA
 https://www.youtube.com/watch?v=B6MdFl1PIDA
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO  0 - BOAS VINDAS",Aula 6 - Como organizar seu espaço de trabalho
 https://www.youtube.com/watch?v=B6MdFl1PIDA
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159372747-43dbeed85f419b4a82cb27abf7b90bc9a732e1ac548215100fc9942af9d75d22-d?f=webp&region=us" group-title="TREINAMENTO SOUSPLAT",CROCHÊ DO ZERO - AULAS 1 https_treinamentosousplat_lovable
+https://player.vimeo.com/video/1202796487
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2173418723-a70dfd17ec7dc2377eb6b4c7a77c4208d5a4023477008ae0692c4e4f057d7ce9-d?f=webp&region=us" group-title="TREINAMENTO SOUSPLAT",TAPETE EM CROCHÊ FACIL - AULAS 2 https_treinamentosousplat_lovable
+https://player.vimeo.com/video/1202796225
+#EXTINF:-1 group-title="TREINAMENTO SOUSPLAT",SOUSPLAT FEITO EM 1 HORA AULA 3 -  https_treinamentosousplat_lovable 
+https://player.vimeo.com/video/1202800282
+#EXTINF:-1 group-title="TREINAMENTO SOUSPLAT",CROCHÊ SOUSPLAT CIRCULAR - AULA 4 - https_treinamentosousplat_lovable 
+https://player.vimeo.com/video/1202796224
+#EXTINF:-1 group-title="TREINAMENTO SOUSPLAT",CENTRO DE MESA RAPIDO AULA 5 - https_treinamentosousplat_lovable 
+https://player.vimeo.com/video/1202798139
+#EXTINF:-1 group-title="TREINAMENTO SOUSPLAT",SOUSPLAT LOVELY PASSO A PASSO AULA 6 -
+https://player.vimeo.com/video/1202798136
+#EXTINF:-1 group-title="TREINAMENTO SOUSPLAT",CROCHÊ SOUSPLAT CIRCULAR - AULA X https_treinamentosousplat_lovable
+https://player.vimeo.com/video/1202796226
 #EXTINF:1971 tvg-logo="https://i.ytimg.com/vi/_JkV6P1XyEA/mqdefault.jpg" group-title="MÓDULO  1 - INICIANTES",Bolsa de Tela de Plástico | Qualquer um pode fazer! | Tutorial Fácil de Bolsa de Tela de Plástico (Faça Você Mesmo)
 https://www.youtube.com/watch?v=_JkV6P1XyEA
 #EXTINF:1615 tvg-logo="https://i.ytimg.com/vi/c_gku3rI1V0/mqdefault.jpg" group-title="MÓDULO  1 - INICIANTES",Como cortar sua tela para montar sua bolsa
@@ -51,8 +57,6 @@ https://www.youtube.com/watch?v=iovaspFBv7A
 https://www.youtube.com/watch?v=g1p-b5llm6I
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159366254-d25c1fb421980e01c88038cb3889fae9c7ad5b2e8b0612136d15f8fdcc57513e-d_360x203?&r=pad&region=us" group-title="MÓDULO  3 - AULAS PRÁTICAS",Bolsa Edna - Fio Poliester 5mm 53.5x50cm - Sofisticada com detalhes metálicos
 https://player.vimeo.com/video/1193802601
-
-
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159364749-6da03870109452ee088f8d0297b769067b6a881431409fb52b61d1ce12d36213-d_360x203?&r=pad&region=us" group-title="MÓDULO  3 - AULAS PRÁTICAS",Bolsa Ester - Versátil com possibilidade de personalizações
 https://player.vimeo.com/video/1193802600
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159363961-960480accadb7c66fc57ce523dec93aca5a0f5e7e4fe2974fff460f0d3edd620-d_360x203?&r=pad&region=us" group-title="MÓDULO  3 - AULAS PRÁTICAS",Bolsa Luxo com visual sofisticado e marcante (Polipropileno)
@@ -651,7 +655,6 @@ https://www.youtube.com/watch?v=yB_rmikCNaE
 https://www.youtube.com/watch?v=7hCshaKVpdE
 #EXTINF:2952 tvg-logo="https://i.ytimg.com/vi/egWqD2_VGrQ/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela",BOLSA BAGUETE ISA! CHARME EM CROCHÊ NA TELA #crochet
 https://www.youtube.com/watch?v=egWqD2_VGrQ
-
 #EXTINF:3621 tvg-logo="https://i.ytimg.com/vi/EtL7P1OiIB8/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela",COMO FAZER BOLSA DIRETO NA TELA RAPIDO / FACÍL  #crochet #croche
 https://www.youtube.com/watch?v=EtL7P1OiIB8
 #EXTINF:634 tvg-logo="https://i.ytimg.com/vi/LINnnWBMlKE/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela",Different CROCHET on the FABRIC #tutorial #easy
@@ -1506,5 +1509,3 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="TV | CANAIS | PLUTO TV: ANIMES", Pluto TV Anime AÃ§Ã£o
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-
-
