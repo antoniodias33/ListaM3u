@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 24/07/2026 15:55hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 24/07/2026 16:00hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS",Aula 1 - Bem-vindo ao Curso
@@ -28,10 +28,14 @@ https://drive.google.com/uc?export=download&id=1Un2o9qPrkn-87wk1NIqwi4YWaFGgXbqA
 https://drive.google.com/uc?export=download&id=  1Un2o9qPrkn-87wk1NIqwi4YWaFGgXbqA
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wLBh1S3.jpeg" group-title="Módulo 02 - Fundamentos",Aula 2 - Qual Fio Usar
-https://drive.google.com/uc?export=download&id=1qQWTaKkPX0wj5zlQ97-APHh0dS9bsqQz
+https://drive.google.com/file/d/1qQWTaKkPX0wj5zlQ97-APHh0dS9bsqQz/preview
+
+### https://drive.google.com/uc?export=download&id=1qQWTaKkPX0wj5zlQ97-APHh0dS9bsqQz
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lKnEBpP.jpeg" group-title="Módulo 02 - Fundamentos",Aula 3 - Pontos Básicos
-https://drive.google.com/uc?export=download&id=18X6kaaw7Mk9rCFHIN5WVZMLmyuiWRpz3
+https://drive.google.com/file/d/18X6kaaw7Mk9rCFHIN5WVZMLmyuiWRpz3/preview
+
+#### https://drive.google.com/uc?export=download&id=18X6kaaw7Mk9rCFHIN5WVZMLmyuiWRpz3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0zuYn6H.jpeg" group-title="Módulo 02 - Fundamentos",Aula 4 - Como cortar a tela
 https://www.youtube.com/watch?v=gygeKMgT4vE
