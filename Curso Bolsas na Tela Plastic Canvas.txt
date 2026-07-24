@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 24/07/2026 15:40hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 24/07/2026 15:55hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS",Aula 1 - Bem-vindo ao Curso
@@ -23,13 +23,15 @@ https://www.youtube.com/watch?v=B6MdFl1PIDA
 https://drive.google.com/drive/folders/1WoNfA0cAbHkAdP7MQligE0WRGrSj63wh
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDkUSK0.jpeg" group-title="Módulo 02 - Fundamentos",Aula 1 - Materiais para bolsas em tela
-https://drive.google.com/file/d/1Un2o9qPrkn-87wk1NIqwi4YWaFGgXbqA/preview
+https://drive.google.com/uc?export=download&id=1Un2o9qPrkn-87wk1NIqwi4YWaFGgXbqA
+
+https://drive.google.com/uc?export=download&id=  1Un2o9qPrkn-87wk1NIqwi4YWaFGgXbqA
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wLBh1S3.jpeg" group-title="Módulo 02 - Fundamentos",Aula 2 - Qual Fio Usar
-https://drive.google.com/file/d/1qQWTaKkPX0wj5zlQ97-APHh0dS9bsqQz/preview
+https://drive.google.com/uc?export=download&id=1qQWTaKkPX0wj5zlQ97-APHh0dS9bsqQz
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lKnEBpP.jpeg" group-title="Módulo 02 - Fundamentos",Aula 3 - Pontos Básicos
-https://drive.google.com/file/d/18X6kaaw7Mk9rCFHIN5WVZMLmyuiWRpz3/preview
+https://drive.google.com/uc?export=download&id=18X6kaaw7Mk9rCFHIN5WVZMLmyuiWRpz3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0zuYn6H.jpeg" group-title="Módulo 02 - Fundamentos",Aula 4 - Como cortar a tela
 https://www.youtube.com/watch?v=gygeKMgT4vE
@@ -38,16 +40,16 @@ https://www.youtube.com/watch?v=gygeKMgT4vE
 https://www.youtube.com/watch?v=pyZh6ZICkM4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0zuYn6H.jpeg" group-title="Módulo 02 - Técnicas Essenciais",O que fazer quando o fio acabar
-https://drive.google.com/file/d/14Qii5i4nPFgoo7ftUVsMHh11WUU3uJoQ/preview
+https://drive.google.com/uc?export=download&id=14Qii5i4nPFgoo7ftUVsMHh11WUU3uJoQ
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lc52xmO.jpeg" group-title="MÓDULO 00 - BOAS VINDAS",Aula 4 Colocando o Forro
-https://drive.google.com/file/d/1AVcRFbzIiBSJ1z3HThu3FIxyLHcHqugq/preview
+https://drive.google.com/uc?export=download&id=1AVcRFbzIiBSJ1z3HThu3FIxyLHcHqugq
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zaVq1hC.jpeg" group-title="MÓDULO 00 - BOAS VINDAS",Aula 5 Colocando o Fecho e Alça (Passo a Passo)
-https://drive.google.com/file/d/1jk5CXSmBJ8iATy09NcD_B4c2uBHoJrsk/preview
+https://drive.google.com/uc?export=download&id=1jk5CXSmBJ8iATy09NcD_B4c2uBHoJrsk
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fHqFEmu.jpeg" group-title="MÓDULO 00 - BOAS VINDAS", Aula 5 - Acabamento e Montagem
-https://drive.google.com/file/d/1rRRLbIlgh2Y8ri8RRrbq2EmfJ6--ZYKB/preview
+https://drive.google.com/uc?export=download&id=1rRRLbIlgh2Y8ri8RRrbq2EmfJ6--ZYKB
 
 #EXTINF:-1 tvg-logo="" group-title="MÓDULO  0 - BOAS VINDAS",Aula X - Bolsa na tela plástica Passo a Passo
 https://www.youtube.com/watch?v=9_JvJsfXzSE?autoplay=1&modestbranding=1&rel=0&fs=0&controls=1&showinfo=0&iv_load_policy=3&playsinline=1&autoplay=1
