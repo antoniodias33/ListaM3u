@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 24/07/2026 12:25hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 24/07/2026 15:40hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
-
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS",Aula 1 - Bem-vindo ao Curso
 https://www.youtube.com/watch?v=B6MdFl1PIDA
@@ -9,13 +8,8 @@ https://www.youtube.com/watch?v=B6MdFl1PIDA
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS",Aula 2 - Como utilizar o aplicativo
 https://www.youtube.com/watch?v=B6MdFl1PIDA
 
-
-#EXTINF:1279 tvg-logo="https://i.ytimg.com/vi/N2bpVTVf640/mqdefault.jpg" group-title="MÓDULO 00 - BOAS VINDAS",Aula 3 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N2bpVTVf640/mqdefault.jpg" group-title="MÓDULO 00 - BOAS VINDAS",Aula 3 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
 https://www.youtube.com/watch?v=N2bpVTVf640
-
-
-#EXTINF:-1 tvg-logo="" group-title="MÓDULO  0 - BOAS VINDAS",Aula X - Bolsa na tela plástica Passo a Passo
-https://www.youtube.com/watch?v=9_JvJsfXzSE?autoplay=1&modestbranding=1&rel=0&fs=0&controls=1&showinfo=0&iv_load_policy=3&playsinline=1&autoplay=1
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS",Aula 4 - Conhecendo a Tela Plástica
 https://www.youtube.com/watch?v=B6MdFl1PIDA
@@ -23,6 +17,42 @@ https://www.youtube.com/watch?v=B6MdFl1PIDA
 https://www.youtube.com/watch?v=B6MdFl1PIDA
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS",Aula 6 - Como organizar seu espaço de trabalho
 https://www.youtube.com/watch?v=B6MdFl1PIDA
+
+
+#EXTINF:3021 tvg-logo="https://i.ytimg.com/vi/OUCVUs9DPz8/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS",Módulo 1 - PRECIFICAÇÃO PASSO A PASSO
+https://drive.google.com/drive/folders/1WoNfA0cAbHkAdP7MQligE0WRGrSj63wh
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XDkUSK0.jpeg" group-title="Módulo 02 - Fundamentos",Aula 1 - Materiais para bolsas em tela
+https://drive.google.com/file/d/1Un2o9qPrkn-87wk1NIqwi4YWaFGgXbqA/preview
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wLBh1S3.jpeg" group-title="Módulo 02 - Fundamentos",Aula 2 - Qual Fio Usar
+https://drive.google.com/file/d/1qQWTaKkPX0wj5zlQ97-APHh0dS9bsqQz/preview
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lKnEBpP.jpeg" group-title="Módulo 02 - Fundamentos",Aula 3 - Pontos Básicos
+https://drive.google.com/file/d/18X6kaaw7Mk9rCFHIN5WVZMLmyuiWRpz3/preview
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0zuYn6H.jpeg" group-title="Módulo 02 - Fundamentos",Aula 4 - Como cortar a tela
+https://www.youtube.com/watch?v=gygeKMgT4vE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1sH0lys.jpeg" group-title="Módulo 05 - Fundamentos",Aula 5 - Como fazer alça de Crochê para Bolsa
+https://www.youtube.com/watch?v=pyZh6ZICkM4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0zuYn6H.jpeg" group-title="Módulo 02 - Técnicas Essenciais",O que fazer quando o fio acabar
+https://drive.google.com/file/d/14Qii5i4nPFgoo7ftUVsMHh11WUU3uJoQ/preview
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lc52xmO.jpeg" group-title="MÓDULO 00 - BOAS VINDAS",Aula 4 Colocando o Forro
+https://drive.google.com/file/d/1AVcRFbzIiBSJ1z3HThu3FIxyLHcHqugq/preview
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zaVq1hC.jpeg" group-title="MÓDULO 00 - BOAS VINDAS",Aula 5 Colocando o Fecho e Alça (Passo a Passo)
+https://drive.google.com/file/d/1jk5CXSmBJ8iATy09NcD_B4c2uBHoJrsk/preview
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fHqFEmu.jpeg" group-title="MÓDULO 00 - BOAS VINDAS", Aula 5 - Acabamento e Montagem
+https://drive.google.com/file/d/1rRRLbIlgh2Y8ri8RRrbq2EmfJ6--ZYKB/preview
+
+#EXTINF:-1 tvg-logo="" group-title="MÓDULO  0 - BOAS VINDAS",Aula X - Bolsa na tela plástica Passo a Passo
+https://www.youtube.com/watch?v=9_JvJsfXzSE?autoplay=1&modestbranding=1&rel=0&fs=0&controls=1&showinfo=0&iv_load_policy=3&playsinline=1&autoplay=1
+
+
 
 ##################
 
@@ -125,8 +155,11 @@ https://www.youtube.com/watch?v=kg-eB5zYtt8
 https://www.youtube.com/watch?v=5TNmdxJ5Zxo
 #EXTINF:2590 tvg-logo="https://i.ytimg.com/vi/jHt9aKSVguc/mqdefault.jpg" group-title="MÓDULO  1 - INICIANTES",Bolsa na tela – Não é necessário saber fazer crochê
 https://www.youtube.com/watch?v=jHt9aKSVguc
-#EXTINF:3021 tvg-logo="https://i.ytimg.com/vi/OUCVUs9DPz8/mqdefault.jpg" group-title="MÓDULO  1 - INICIANTES",BOLSA NA TELA COM FIO DE MALHA E PRECIFICAÇÃO PASSO A PASSO  #plasticcanvas
+#EXTINF:3021 tvg-logo="https://i.ytimg.com/vi/OUCVUs9DPz8/mqdefault.jpg" group-title="MÓDULO  1 - INICIANTES",BOLSA NA TELA COM FIO DE MALHA E PRECIFICAÇÃO PASSO A PASSO
 https://www.youtube.com/watch?v=OUCVUs9DPz8
+
+
+
 #EXTINF:719 tvg-logo="https://i.ytimg.com/vi/9Opom1PU-Kk/mqdefault.jpg" group-title="MÓDULO  2 - AULAS AVANÇADAS",Biblioteca de Pontos: Como fazer um ponto bonito usando plástico como tela
 https://www.youtube.com/watch?v=9Opom1PU-Kk
 #EXTINF:2058 tvg-logo="https://i.ytimg.com/vi/S25D6Qqegjo/mqdefault.jpg" group-title="MÓDULO  2 - AULAS AVANÇADAS",Bolsa de Lona e Tela (DIY) | Essa bolsa sempre recebe elogios!
