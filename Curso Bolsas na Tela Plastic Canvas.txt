@@ -1,12 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 24/07/2026 03:50hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 24/07/2026 11:35hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO  0 - BOAS VINDAS",Aula 1 - Bem-vindo ao Curso
 https://www.youtube.com/watch?v=B6MdFl1PIDA
 #EXTINF:-1 tvg-logo="https://blackprintgrafica.com.br/wp-content/uploads/2022/05/em-breve_aguarde_sm.png" group-title="MÓDULO  0 - BOAS VINDAS",Aula 2 - Como utilizar o aplicativo
 https://www.youtube.com/watch?v=B6MdFl1PIDA
 
-#EXTINF:-1 tvg-logo="https://i9.ytimg.com/vi_webp/N2bpVTVf640/mqdefault.webp?v=6a630b5a&sqp=CJiWjNMG&rs=AOn4CLAHoCg2CsLqI-MhaCIDWabaK7Z6Wg" group-title="MÓDULO 00 - BOAS VINDAS",Aula 3 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
+
+#EXTINF:-1 tvg-logo="https://i9.ytimg.com/vi_webp/N2bpVTVf640/mqdefault.webp?v=6a630b5a&sqp=COjtjdMG&rs=AOn4CLDplP7_yol6j3cExIVaAmJvBTjrHw" group-title="MÓDULO 00 - BOAS VINDAS",Aula 3 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
 https://www.youtube.com/watch?v=N2bpVTVf640
 
 #EXTINF:-1 tvg-logo="" group-title="MÓDULO  0 - BOAS VINDAS",Aula X - Bolsa na tela plástica Passo a Passo
