@@ -1,15 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 22:05hs)" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 24/07/2026 22:05hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 22:20hs)" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 24/07/2026 22:20hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 22:05hs)",Aula 1 - Bem-vindo ao Curso
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 22:20hs)",Aula 1 - Bem-vindo ao Curso
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 22:05hs)",Aula 2 - Como utilizar o aplicativo
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 22:20hs)",Aula 2 - Como utilizar o aplicativo
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N2bpVTVf640/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 22:05hs)",Aula 3 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N2bpVTVf640/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 22:20hs)",Aula 3 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
 https://www.youtube.com/watch?v=N2bpVTVf640
-#EXTINF:723 tvg-logo="https://i.ytimg.com/vi/XGs_DmcrX7o/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 22:05hs)",Aula 4 - TELA PLÁSTICA  QUAL MELHOR FIO  Telas com furos de 3mm
-https://www.youtube.com/watch?v=XGs_DmcrX7o
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 22:05hs)",Aula 5 - Como organizar seu espaço de trabalho
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 22:20hs)",Aula 5 - Como organizar seu espaço de trabalho
 https://www.youtube.com/watch?v=B6MdFl1PIDA
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 01 - Telas: tamanhos e espessuras
 https://www.youtube.com/watch?v=B6MdFl1PIDA
@@ -43,6 +41,8 @@ https://drive.google.com/uc?export=download&id=1Un2o9qPrkn-87wk1NIqwi4YWaFGgXbqA
 https://www.youtube.com/watch?v=-4BbjcXRDik
 #EXTINF:3021 tvg-logo="https://i.ytimg.com/vi/OUCVUs9DPz8/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 15 - Materiais Básicos Iniciantes
 https://drive.google.com/uc?export=download&id=1Un2o9qPrkn-87wk1NIqwi4YWaFGgXbqA
+#EXTINF:723 tvg-logo="https://i.ytimg.com/vi/XGs_DmcrX7o/mqdefault.jpg" group-title="MÓDULO 02 - Fundamentos",Aula 1 - TELA PLÁSTICA  QUAL MELHOR FIO  Telas com furos de 3mm
+https://www.youtube.com/watch?v=XGs_DmcrX7o
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wLBh1S3.jpeg" group-title="MÓDULO 02 - Fundamentos",Aula 2 - Qual Fio Usar
 https://drive.google.com/uc?export=download&id=1qQWTaKkPX0wj5zlQ97-APHh0dS9bsqQz
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lKnEBpP.jpeg" group-title="MÓDULO 02 - Fundamentos",Aula 3 - Pontos Básicos
@@ -51,18 +51,6 @@ https://drive.google.com/uc?export=download&id=18X6kaaw7Mk9rCFHIN5WVZMLmyuiWRpz3
 https://www.youtube.com/watch?v=gygeKMgT4vE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1sH0lys.jpeg" group-title="MÓDULO 02 - Fundamentos",Aula 5 - Como fazer alça de Crochê para Bolsa
 https://www.youtube.com/watch?v=pyZh6ZICkM4
-#EXTINF:1814 tvg-logo="https://i.ytimg.com/vi/UFT27JUPyi0/mqdefault.jpg" group-title="MÓDULO 02 - Fundamentos",COMO FAZER BOLSA BORDADA EM TELA AULA 1
-https://www.youtube.com/watch?v=UFT27JUPyi0
-#EXTINF:1937 tvg-logo="https://i.ytimg.com/vi/Jre1lbPjetI/mqdefault.jpg" group-title="MÓDULO 02 - Fundamentos",COMO FAZER BOLSA BORDADA EM TELA AULA 2
-https://www.youtube.com/watch?v=Jre1lbPjetI
-#EXTINF:1830 tvg-logo="https://i.ytimg.com/vi/2_ZEH8DvRjk/mqdefault.jpg" group-title="MÓDULO 02 - Fundamentos",COMO FAZER BOLSA BORDADA EM TELA AULA 3
-https://www.youtube.com/watch?v=2_ZEH8DvRjk
-#EXTINF:1938 tvg-logo="https://i.ytimg.com/vi/YbgJ3x9QZiA/mqdefault.jpg" group-title="MÓDULO 02 - Fundamentos",COMO FAZER BOLSA BORDADA EM TELA AULA FINAL
-https://www.youtube.com/watch?v=YbgJ3x9QZiA
-#EXTINF:1244 tvg-logo="https://i.ytimg.com/vi/6KdqGQMbb1s/mqdefault.jpg" group-title="MÓDULO 02 - Fundamentos",Como marcar sua tela para montar sua bolsa 1
-https://www.youtube.com/watch?v=6KdqGQMbb1s
-#EXTINF:1343 tvg-logo="https://i.ytimg.com/vi/UyrMSJr4po4/mqdefault.jpg" group-title="MÓDULO 02 - Fundamentos",Como marcar sua tela para montar sua bolsa 2
-https://www.youtube.com/watch?v=UyrMSJr4po4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0zuYn6H.jpeg" group-title="MÓDULO 03 - Técnicas Essenciais",Aula 1 - O que fazer quando o fio acabar
 https://drive.google.com/uc?export=download&id=14Qii5i4nPFgoo7ftUVsMHh11WUU3uJoQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lc52xmO.jpeg" group-title="MÓDULO 03 - Técnicas Essenciais",Aula 2 - Como colocar o Forro
@@ -101,6 +89,18 @@ https://www.youtube.com/watch?v=w6ELyeE1XLs
 https://www.youtube.com/watch?v=w6ELyeE1XLs
 #EXTINF:967 tvg-logo="https://i.ytimg.com/vi/v43DnZIpkSI/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Bolsa em plastic canvas com bordado de fio náutico | LOOK ESTILOSO
 https://www.youtube.com/watch?v=v43DnZIpkSI
+#EXTINF:1244 tvg-logo="https://i.ytimg.com/vi/6KdqGQMbb1s/mqdefault.jpg" group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",Como marcar sua tela para montar sua bolsa 1
+https://www.youtube.com/watch?v=6KdqGQMbb1s
+#EXTINF:1343 tvg-logo="https://i.ytimg.com/vi/UyrMSJr4po4/mqdefault.jpg" group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",Como marcar sua tela para montar sua bolsa 2
+https://www.youtube.com/watch?v=UyrMSJr4po4
+#EXTINF:1814 tvg-logo="https://i.ytimg.com/vi/UFT27JUPyi0/mqdefault.jpg" group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",COMO FAZER BOLSA BORDADA EM TELA AULA 1
+https://www.youtube.com/watch?v=UFT27JUPyi0
+#EXTINF:1937 tvg-logo="https://i.ytimg.com/vi/Jre1lbPjetI/mqdefault.jpg" group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",COMO FAZER BOLSA BORDADA EM TELA AULA 2
+https://www.youtube.com/watch?v=Jre1lbPjetI
+#EXTINF:1830 tvg-logo="https://i.ytimg.com/vi/2_ZEH8DvRjk/mqdefault.jpg" group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",COMO FAZER BOLSA BORDADA EM TELA AULA 3
+https://www.youtube.com/watch?v=2_ZEH8DvRjk
+#EXTINF:1938 tvg-logo="https://i.ytimg.com/vi/YbgJ3x9QZiA/mqdefault.jpg" group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",COMO FAZER BOLSA BORDADA EM TELA AULA FINAL
+https://www.youtube.com/watch?v=YbgJ3x9QZiA
 #EXTINF:-1 group-title="TESTE",Aula 3 - Teste
 https://www.youtube.com/watch?v=9_JvJsfXzSE
 #EXTINF:-1 group-title="TESTE",Aula 4 - Teste
