@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 22:45hs)" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 24/07/2026 22:45hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 23:00hs)" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 24/07/2026 23:00hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 22:45hs)",Aula 1 - Bem-vindo ao Curso
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 23:00hs)",Aula 1 - Bem-vindo ao Curso
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 22:45hs)",Aula 2 - Como utilizar o aplicativo
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 23:00hs)",Aula 2 - Como utilizar o aplicativo
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N2bpVTVf640/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 22:45hs)",Aula 3 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N2bpVTVf640/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 23:00hs)",Aula 3 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
 https://www.youtube.com/watch?v=N2bpVTVf640
-#EXTINF:500 tvg-logo="https://i.ytimg.com/vi/MRIXyMphsWo/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 22:45hs)",Aula 4 - Saiba as PRINCIPAIS FERRAMENTAS para quem quer INICIAR em Bolsas em Tela
+#EXTINF:500 tvg-logo="https://i.ytimg.com/vi/MRIXyMphsWo/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 23:00hs)",Aula 4 - Saiba as PRINCIPAIS FERRAMENTAS para quem quer INICIAR em Bolsas em Tela
 https://www.youtube.com/watch?v=MRIXyMphsWo
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 22:45hs)",Aula 5 - Como organizar seu espaço de trabalho
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 23:00hs)",Aula 5 - Como organizar seu espaço de trabalho
 https://www.youtube.com/watch?v=B6MdFl1PIDA
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 01 - Telas: tamanhos e espessuras
 https://www.youtube.com/watch?v=B6MdFl1PIDA
@@ -53,6 +53,8 @@ https://drive.google.com/uc?export=download&id=18X6kaaw7Mk9rCFHIN5WVZMLmyuiWRpz3
 https://www.youtube.com/watch?v=gygeKMgT4vE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1sH0lys.jpeg" group-title="MÓDULO 02 - Fundamentos",Aula 5 - Como fazer alça de Crochê para Bolsa
 https://www.youtube.com/watch?v=pyZh6ZICkM4
+#EXTINF:589 tvg-logo="https://i.ytimg.com/vi/0fumEXDlPOs/mqdefault.jpg" group-title="MÓDULO 02 - Fundamentos",Aula 6 - Alça de bolsa em fio de malha crochê ou tricô
+https://www.youtube.com/watch?v=0fumEXDlPOs
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0zuYn6H.jpeg" group-title="MÓDULO 03 - Técnicas Essenciais",Aula 1 - O que fazer quando o fio acabar
 https://drive.google.com/uc?export=download&id=14Qii5i4nPFgoo7ftUVsMHh11WUU3uJoQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lc52xmO.jpeg" group-title="MÓDULO 03 - Técnicas Essenciais",Aula 2 - Como colocar o Forro
@@ -63,32 +65,30 @@ https://drive.google.com/uc?export=download&id=1rRRLbIlgh2Y8ri8RRrbq2EmfJ6--ZYKB
 https://drive.google.com/uc?export=download&id=1jk5CXSmBJ8iATy09NcD_B4c2uBHoJrsk
 #EXTINF:1615 tvg-logo="https://i.ytimg.com/vi/c_gku3rI1V0/mqdefault.jpg" group-title="MÓDULO 03 - Técnicas Essenciais",Como cortar sua tela para montar sua bolsa
 https://www.youtube.com/watch?v=c_gku3rI1V0
+#EXTINF:347 tvg-logo="https://i.ytimg.com/vi/kg-eB5zYtt8/mqdefault.jpg" group-title="MÓDULO 03 - Técnicas Essenciais",Embalagens para Artesanato fáceis de fazer
+https://www.youtube.com/watch?v=kg-eB5zYtt8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9_JvJsfXzSE/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Aula 1 - Bolsa na tela plástica Passo a Passo
 https://www.youtube.com/watch?v=9_JvJsfXzSE
-#EXTINF:2058 tvg-logo="https://i.ytimg.com/vi/S25D6Qqegjo/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Bolsa de Tela (DIY) | Essa bolsa sempre recebe elogios!
-https://www.youtube.com/watch?v=S25D6Qqegjo
-#EXTINF:1142 tvg-logo="https://i.ytimg.com/vi/5TNmdxJ5Zxo/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",BOLSA DE TELA PLÁSTICA
+#EXTINF:1142 tvg-logo="https://i.ytimg.com/vi/5TNmdxJ5Zxo/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Aula 2 - BOLSA DE TELA PLÁSTICA
 https://www.youtube.com/watch?v=5TNmdxJ5Zxo
-#EXTINF:3021 tvg-logo="https://i.ytimg.com/vi/OUCVUs9DPz8/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",BOLSA NA TELA COM FIO DE MALHA E PRECIFICAÇÃO PASSO A PASSO
+#EXTINF:3021 tvg-logo="https://i.ytimg.com/vi/OUCVUs9DPz8/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Aula 3 - BOLSA NA TELA COM FIO DE MALHA E PRECIFICAÇÃO PASSO A PASSO
 https://www.youtube.com/watch?v=OUCVUs9DPz8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fJkCBlA8Q_w/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",BOLSA NA TELA PLÁSTICA PASSO A PASSO
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fJkCBlA8Q_w/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Aula 4 - BOLSA NA TELA PLÁSTICA PASSO A PASSO
 https://www.youtube.com/watch?v=fJkCBlA8Q_w
-#EXTINF:2590 tvg-logo="https://i.ytimg.com/vi/jHt9aKSVguc/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Bolsa na tela – Não é necessário saber fazer crochê
+#EXTINF:967 tvg-logo="https://i.ytimg.com/vi/v43DnZIpkSI/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Aula 5 - Bolsa em plastic canvas com bordado de fio náutico | LOOK ESTILOSO
+https://www.youtube.com/watch?v=v43DnZIpkSI
+#EXTINF:2590 tvg-logo="https://i.ytimg.com/vi/jHt9aKSVguc/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Aula 6 - Bolsa na tela – Não é necessário saber fazer crochê
 https://www.youtube.com/watch?v=jHt9aKSVguc
-#EXTINF:347 tvg-logo="https://i.ytimg.com/vi/kg-eB5zYtt8/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Embalagens para Artesanato fáceis de fazer
-https://www.youtube.com/watch?v=kg-eB5zYtt8
-#EXTINF:547 tvg-logo="https://i.ytimg.com/vi/iYfgvAtLbVg/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Esta ideia vai te ajudar muito nas férias deste verão! É tão caro!
-https://www.youtube.com/watch?v=iYfgvAtLbVg
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9_JvJsfXzSE/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Passo a passo para fazer uma bolsa na tela plástica
-https://www.youtube.com/watch?v=9_JvJsfXzSE
-#EXTINF:1920 tvg-logo="https://i.ytimg.com/vi/_JkV6P1XyEA/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Bolsa na Tela | Qualquer um pode fazer! | Tutorial Passo a Passo (Faça Você Mesmo) OK (Dublado)
-https://www.youtube.com/watch?v=_JkV6P1XyEA
-#EXTINF:635 tvg-logo="https://i.ytimg.com/vi/LTE67pknJrQ/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Qualquer um consegue fazer – Bolsa de Tela Plástica (DIY)
-https://www.youtube.com/watch?v=LTE67pknJrQ
 #EXTINF:1115 tvg-logo="https://i.ytimg.com/vi/w6ELyeE1XLs/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Bolsa Bordada em Tela Efeito 3D | Faça Você Mesmo
 https://www.youtube.com/watch?v=w6ELyeE1XLs
-#EXTINF:967 tvg-logo="https://i.ytimg.com/vi/v43DnZIpkSI/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Bolsa em plastic canvas com bordado de fio náutico | LOOK ESTILOSO
-https://www.youtube.com/watch?v=v43DnZIpkSI
+#EXTINF:2058 tvg-logo="https://i.ytimg.com/vi/S25D6Qqegjo/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Bolsa de Tela (DIY) | Essa bolsa sempre recebe elogios!
+https://www.youtube.com/watch?v=S25D6Qqegjo
+#EXTINF:1920 tvg-logo="https://i.ytimg.com/vi/_JkV6P1XyEA/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Bolsa na Tela | Qualquer um pode fazer! | Tutorial Passo a Passo (Faça Você Mesmo) OK (Dublado)
+https://www.youtube.com/watch?v=_JkV6P1XyEA
+#EXTINF:547 tvg-logo="https://i.ytimg.com/vi/iYfgvAtLbVg/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Esta ideia vai te ajudar muito nas férias deste verão! É tão caro!
+https://www.youtube.com/watch?v=iYfgvAtLbVg
+#EXTINF:635 tvg-logo="https://i.ytimg.com/vi/LTE67pknJrQ/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Qualquer um consegue fazer – Bolsa de Tela Plástica (DIY)
+https://www.youtube.com/watch?v=LTE67pknJrQ
 #EXTINF:1244 tvg-logo="https://i.ytimg.com/vi/6KdqGQMbb1s/mqdefault.jpg" group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",Como marcar sua tela para montar sua bolsa 1
 https://www.youtube.com/watch?v=6KdqGQMbb1s
 #EXTINF:1343 tvg-logo="https://i.ytimg.com/vi/UyrMSJr4po4/mqdefault.jpg" group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",Como marcar sua tela para montar sua bolsa 2
@@ -101,6 +101,8 @@ https://www.youtube.com/watch?v=Jre1lbPjetI
 https://www.youtube.com/watch?v=2_ZEH8DvRjk
 #EXTINF:1938 tvg-logo="https://i.ytimg.com/vi/YbgJ3x9QZiA/mqdefault.jpg" group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",COMO FAZER BOLSA BORDADA EM TELA AULA FINAL
 https://www.youtube.com/watch?v=YbgJ3x9QZiA
+#EXTINF:3621 tvg-logo="https://i.ytimg.com/vi/EtL7P1OiIB8/mqdefault.jpg" group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",COMO FAZER BOLSA DIRETO NA TELA RAPIDO / FACÍL  #crochet #croche
+https://www.youtube.com/watch?v=EtL7P1OiIB8
 #EXTINF:-1 group-title="TESTE",Aula 3 - Teste
 https://www.youtube.com/watch?v=9_JvJsfXzSE
 #EXTINF:-1 group-title="TESTE",Aula 5 - Teste
@@ -135,8 +137,6 @@ https://player.vimeo.com/video/1193802600
 https://player.vimeo.com/video/1193802598
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159363961-960480accadb7c66fc57ce523dec93aca5a0f5e7e4fe2974fff460f0d3edd620-d_360x203?&r=pad&region=us" group-title="MÓDULO  3 - AULAS PRÁTICAS",Bolsa Íris - Delicado e versátil.
 https://player.vimeo.com/video/1193803746
-#EXTINF:589 tvg-logo="https://i.ytimg.com/vi/0fumEXDlPOs/mqdefault.jpg" group-title="MÓDULO  3 - AULAS PRÁTICAS",Alça de bolsa em fio de malha crochê ou tricô
-https://www.youtube.com/watch?v=0fumEXDlPOs
 #EXTINF:2103 tvg-logo="https://i.ytimg.com/vi/eYGlI7o4Je4/mqdefault.jpg" group-title="MÓDULO  5 - AULAS Suely Art's", BOLSA PRAIANA PARTE 1
 https://www.youtube.com/watch?v=eYGlI7o4Je4
 #EXTINF:1529 tvg-logo="https://i.ytimg.com/vi/9hPMVlU_26I/mqdefault.jpg" group-title="MÓDULO  5 - AULAS Suely Art's", BOLSA PRAIANA PARTE 2
@@ -693,14 +693,12 @@ https://www.youtube.com/watch?v=5gVKTmM7UiQ
 https://www.youtube.com/watch?v=WpPLgeLb78k
 #EXTINF:2080 tvg-logo="https://i.ytimg.com/vi/NqK4NchscyA/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela",CROCHÊ DIFERENTE
 https://www.youtube.com/watch?v=NqK4NchscyA
-#EXTINF:3844 tvg-logo="https://i.ytimg.com/vi/yB_rmikCNaE/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela",SECRET TRICK! How to make a bag on the screen
+#EXTINF:3844 tvg-logo="https://i.ytimg.com/vi/yB_rmikCNaE/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela",TRUQUE SECRETO! Como fazer bolsa na tela (Bolsa Tita)
 https://www.youtube.com/watch?v=yB_rmikCNaE
 #EXTINF:3709 tvg-logo="https://i.ytimg.com/vi/7hCshaKVpdE/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela",Nina bag: on canvas #BolsaNina
 https://www.youtube.com/watch?v=7hCshaKVpdE
 #EXTINF:2952 tvg-logo="https://i.ytimg.com/vi/egWqD2_VGrQ/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela",BOLSA BAGUETE ISA! CHARME EM CROCHÊ NA TELA #crochet
 https://www.youtube.com/watch?v=egWqD2_VGrQ
-#EXTINF:3621 tvg-logo="https://i.ytimg.com/vi/EtL7P1OiIB8/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela",COMO FAZER BOLSA DIRETO NA TELA RAPIDO / FACÍL  #crochet #croche
-https://www.youtube.com/watch?v=EtL7P1OiIB8
 #EXTINF:634 tvg-logo="https://i.ytimg.com/vi/LINnnWBMlKE/mqdefault.jpg" group-title="MÓDULO 25 - Rute Prestes-Bolsas na tela",Different CROCHET on the FABRIC #tutorial #easy
 https://www.youtube.com/watch?v=LINnnWBMlKE
 #EXTINF:3865 tvg-logo="https://i.ytimg.com/vi/7ihZmPrUuOQ/mqdefault.jpg" group-title="MÓDULO 25 -  Paula Gama Ateliê",Clutch Elegance - Crochê na Tela com amigurumi pelúcia.
@@ -955,8 +953,6 @@ https://www.youtube.com/watch?v=BNBUEOItzz8
 https://www.youtube.com/watch?v=f85BjJiLauk
 #EXTINF:952 tvg-logo="https://i.ytimg.com/vi/PnKEVWLOtFA/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",Vamos fazer a alca Jessy? você faz vai amar!!
 https://www.youtube.com/watch?v=PnKEVWLOtFA
-#EXTINF:3844 tvg-logo="https://i.ytimg.com/vi/yB_rmikCNaE/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",SECRET TRICK! How to make a bag on the screen
-https://www.youtube.com/watch?v=yB_rmikCNaE
 #EXTINF:3246 tvg-logo="https://i.ytimg.com/vi/DCJ_BBulARw/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",Raquel Baguette Bag with Mesh Base
 https://www.youtube.com/watch?v=DCJ_BBulARw
 #EXTINF:2259 tvg-logo="https://i.ytimg.com/vi/a8UwJ3AyRHU/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",Learn how to make an Amanda bag on screen #screen
@@ -983,8 +979,6 @@ https://www.youtube.com/watch?v=hO7NhKEP1-g
 https://www.youtube.com/watch?v=zJnu7x5rUqY
 #EXTINF:3847 tvg-logo="https://i.ytimg.com/vi/Qdc5Yd7hi_Y/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",DESVENDANDO O SEGREDO DA BOLSA FÁCIL DE FAZER SEM CROCHÊ!
 https://www.youtube.com/watch?v=Qdc5Yd7hi_Y
-#EXTINF:3844 tvg-logo="https://i.ytimg.com/vi/yB_rmikCNaE/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",SECRET TRICK! How to make a bag on the screen
-https://www.youtube.com/watch?v=yB_rmikCNaE
 #EXTINF:3795 tvg-logo="https://i.ytimg.com/vi/wJXH0ttsjvM/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",[2023] BOLSA MARA NA TELA - ( Bordado a mão) Fácil !
 https://www.youtube.com/watch?v=wJXH0ttsjvM
 #EXTINF:3081 tvg-logo="https://i.ytimg.com/vi/frHr_H9wqCw/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",O Segredo da bolsa de crochê na tela! #tela#crochet#croche
@@ -1009,8 +1003,6 @@ https://www.youtube.com/watch?v=BNBUEOItzz8
 https://www.youtube.com/watch?v=f85BjJiLauk
 #EXTINF:952 tvg-logo="https://i.ytimg.com/vi/PnKEVWLOtFA/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",Vamos fazer a alca Jessy? você faz vai amar!!
 https://www.youtube.com/watch?v=PnKEVWLOtFA
-#EXTINF:3844 tvg-logo="https://i.ytimg.com/vi/yB_rmikCNaE/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",SECRET TRICK! How to make a bag on the screen
-https://www.youtube.com/watch?v=yB_rmikCNaE
 #EXTINF:3246 tvg-logo="https://i.ytimg.com/vi/DCJ_BBulARw/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",Raquel Baguette Bag with Mesh Base
 https://www.youtube.com/watch?v=DCJ_BBulARw
 #EXTINF:1250 tvg-logo="https://i.ytimg.com/vi/daKNYHyYXug/mqdefault.jpg" group-title="Entrelinhas artesanato criativo ", pricing and materials
