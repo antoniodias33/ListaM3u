@@ -1,16 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (25/07/2026 00:30hs)" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: (25/07/2026 00:30HS)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (25/07/2026 00:55hs)" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: (25/07/2026 00:55HS)
 https://www.youtube.com/watch?v=QuQFg7QUTnE
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (25/07/2026 00:30hs)",Aula 1 - Bem-vindo ao Curso
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (25/07/2026 00:55hs)",Aula 1 - Bem-vindo ao Curso
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (25/07/2026 00:30hs)",Aula 2 - Como utilizar o aplicativo
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (25/07/2026 00:55hs)",Aula 2 - Como utilizar o aplicativo
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N2bpVTVf640/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (25/07/2026 00:30hs)",Aula 3 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N2bpVTVf640/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (25/07/2026 00:55hs)",Aula 3 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
 https://www.youtube.com/watch?v=N2bpVTVf640
-#EXTINF:500 tvg-logo="https://i.ytimg.com/vi/MRIXyMphsWo/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (25/07/2026 00:30hs)",Aula 4 - Saiba as PRINCIPAIS FERRAMENTAS para quem quer INICIAR em Bolsas em Tela
+#EXTINF:500 tvg-logo="https://i.ytimg.com/vi/MRIXyMphsWo/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (25/07/2026 00:55hs)",Aula 4 - Saiba as PRINCIPAIS FERRAMENTAS para quem quer INICIAR em Bolsas em Tela
 https://www.youtube.com/watch?v=MRIXyMphsWo
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (25/07/2026 00:30hs)",Aula 5 - Como organizar seu espaço de trabalho
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (25/07/2026 00:55hs)",Aula 5 - Como organizar seu espaço de trabalho
 https://www.youtube.com/watch?v=B6MdFl1PIDA
+#EXTINF:215 tvg-logo="https://i.ytimg.com/vi/bsN2Kp-6wek/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (25/07/2026 00:55hs)",A simple but very beautiful bag made of plastic canvas.
+https://www.youtube.com/watch?v=bsN2Kp-6wek
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 01 - Telas: tamanhos e espessuras
 https://www.youtube.com/watch?v=B6MdFl1PIDA
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159366254-d25c1fb421980e01c88038cb3889fae9c7ad5b2e8b0612136d15f8fdcc57513e-d_360x203?&r=pad&region=us" group-title="MÓDULO 01 - Materiais Básicos",Aula 03 - Diferença entre tela 3 mm e 4 mm e outras (Bolsa Edna aos 37Minutos)
@@ -91,6 +93,8 @@ https://www.youtube.com/watch?v=_JkV6P1XyEA
 https://www.youtube.com/watch?v=iYfgvAtLbVg
 #EXTINF:635 tvg-logo="https://i.ytimg.com/vi/LTE67pknJrQ/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Qualquer um consegue fazer – Bolsa de Tela Plástica (DIY)
 https://www.youtube.com/watch?v=LTE67pknJrQ
+#EXTINF:3443 tvg-logo="https://i.ytimg.com/vi/IXsDicCY088/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",DESVENDANDO O SEGREDO DA BOLSA FÁCIL DE FAZER SEM CROCHÊ!
+https://www.youtube.com/watch?v=IXsDicCY088
 #EXTINF:1244 tvg-logo="https://i.ytimg.com/vi/6KdqGQMbb1s/mqdefault.jpg" group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",Como marcar sua tela para montar sua bolsa 1
 https://www.youtube.com/watch?v=6KdqGQMbb1s
 #EXTINF:1343 tvg-logo="https://i.ytimg.com/vi/UyrMSJr4po4/mqdefault.jpg" group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",Como marcar sua tela para montar sua bolsa 2
@@ -753,6 +757,10 @@ https://www.youtube.com/watch?v=l3xcAn3vL8k
 https://www.youtube.com/watch?v=_JkV6P1XyEA
 #EXTINF:6507 tvg-logo="https://i.ytimg.com/vi/l2QSC7kSMGM/mqdefault.jpg" group-title="MÓDULO 25 - Keu Crochê",Bolsa na Tela  Helena (Passo a Passo -Para Iniciantes - Canva Plastic)
 https://www.youtube.com/watch?v=l2QSC7kSMGM
+#EXTINF:653 tvg-logo="https://i.ytimg.com/vi/qFhwp_obC-c/mqdefault.jpg" group-title="AULAS DE CROCHÊ",Passo a passo da Bag Fé uma bolsa de crochê estruturada com acabamento de luxo
+https://www.youtube.com/watch?v=qFhwp_obC-c
+#EXTINF:2097 tvg-logo="https://i.ytimg.com/vi/PoowLJCXUKs/mqdefault.jpg" group-title="AULAS DE CROCHÊ",LESSON 2 BAG CONTAINERS
+https://www.youtube.com/watch?v=PoowLJCXUKs
 #EXTINF:635 tvg-logo="https://i.ytimg.com/vi/LTE67pknJrQ/mqdefault.jpg" group-title="Learn with Yufi",Everyone can make it - Plastic Canvas  Bag DIY
 https://www.youtube.com/watch?v=LTE67pknJrQ
 #EXTINF:547 tvg-logo="https://i.ytimg.com/vi/iYfgvAtLbVg/mqdefault.jpg" group-title="SULTANIN OYUNCAK ATÖLYESİ",This Idea Will Help You A Lot On Vacation This Summer! It's So Expensive!
@@ -841,12 +849,6 @@ https://www.youtube.com/watch?v=Ks8gwH8RDJo
 https://www.youtube.com/watch?v=d78-a-I5vb0
 #EXTINF:719 tvg-logo="https://i.ytimg.com/vi/9Opom1PU-Kk/mqdefault.jpg" group-title="انتصار البيك",Stitch Library How to make a beautiful stitch on plastic as a canvas
 https://www.youtube.com/watch?v=9Opom1PU-Kk
-#EXTINF:653 tvg-logo="https://i.ytimg.com/vi/qFhwp_obC-c/mqdefault.jpg" group-title="Luxo Bag Brasil",Passo a passo da Bag Fé uma bolsa de crochê estruturada com acabamento de luxo
-https://www.youtube.com/watch?v=qFhwp_obC-c
-#EXTINF:2097 tvg-logo="https://i.ytimg.com/vi/PoowLJCXUKs/mqdefault.jpg" group-title="Luxo Bag Brasil",LESSON 2 BAG CONTAINERS
-https://www.youtube.com/watch?v=PoowLJCXUKs
-#EXTINF:215 tvg-logo="https://i.ytimg.com/vi/bsN2Kp-6wek/mqdefault.jpg" group-title="Violetas Handmade",A simple but very beautiful bag made of plastic canvas.
-https://www.youtube.com/watch?v=bsN2Kp-6wek
 #EXTINF:1461 tvg-logo="https://i.ytimg.com/vi/owXeuav0_yU/mqdefault.jpg" group-title="Mo7a semsem",شنطة شبك كنفاه بغرزة الحلزون (السينابون)الجزء التاني بطريقة سهلة وبسيطه plastic canva bag #trending 
 https://www.youtube.com/watch?v=owXeuav0_yU
 #EXTINF:2057 tvg-logo="https://i.ytimg.com/vi/glv3N2t9VJs/mqdefault.jpg" group-title="Mo7a semsem",طريقة عمل شنطة شبك كنفا شنطة العيد غرزة جديده للمبتدئين الجزء الأولplastic canvas #trending #explore
@@ -901,8 +903,6 @@ https://www.youtube.com/watch?v=bq9e-3kpRNk
 https://www.youtube.com/watch?v=m9JLdWtCkOA
 #EXTINF:1425 tvg-logo="https://i.ytimg.com/vi/1nApYYMoIVM/mqdefault.jpg" group-title="Mo7a semsem",طريقة عمل شنطه كنفاه سواريه من شرايط الاورجانزا  ااسهل طريقه للمبتدئين 😍👍 #handmade  plastic canvas
 https://www.youtube.com/watch?v=1nApYYMoIVM
-#EXTINF:3443 tvg-logo="https://i.ytimg.com/vi/IXsDicCY088/mqdefault.jpg" group-title="Fios Thata",UNVEILING THE SECRET OF THE EASY BAG TO MAKE WITHOUT CROCHET!
-https://www.youtube.com/watch?v=IXsDicCY088
 #EXTINF:2622 tvg-logo="https://i.ytimg.com/vi/m8RMq8f59G8/mqdefault.jpg" group-title="ابرة وفتلة مع ايه",وأخيرا طريقة بوك او محفظة صغيرة من شبك الكانفا بطريقة سهلة وبسيطة للمبتدئات
 https://www.youtube.com/watch?v=m8RMq8f59G8
 #EXTINF:1493 tvg-logo="https://i.ytimg.com/vi/9_JvJsfXzSE/mqdefault.jpg" group-title="Ateliê Joana Fernandes Crochê Moderno",Step-by-step instructions for making a bag out of plastic mesh.
