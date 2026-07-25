@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 22:20hs)" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 24/07/2026 22:20hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 22:25hs)" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 24/07/2026 22:25hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 22:20hs)",Aula 1 - Bem-vindo ao Curso
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 22:25hs)",Aula 1 - Bem-vindo ao Curso
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 22:20hs)",Aula 2 - Como utilizar o aplicativo
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 22:25hs)",Aula 2 - Como utilizar o aplicativo
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N2bpVTVf640/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 22:20hs)",Aula 3 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N2bpVTVf640/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 22:25hs)",Aula 3 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
 https://www.youtube.com/watch?v=N2bpVTVf640
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 22:20hs)",Aula 5 - Como organizar seu espaço de trabalho
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 22:25hs)",Aula 5 - Como organizar seu espaço de trabalho
 https://www.youtube.com/watch?v=B6MdFl1PIDA
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 01 - Telas: tamanhos e espessuras
 https://www.youtube.com/watch?v=B6MdFl1PIDA
@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=B6MdFl1PIDA
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/an_webp/fKWA5oTmCFc/mqdefault_6s.webp?du=3000&sqp=CJvqg9MG&rs=AOn4CLCxLXSGNC_zAhhjsRL5dQIMJaBVNw" group-title="MÓDULO 01 - Materiais Básicos",Aula 10 - Zíperes - Carteira Clutch Elegante | Tutorial Parte 2
 https://www.youtube.com/watch?v=fKWA5oTmCFc
-#EXTINF:-1 tvg-logo="sqp=CJPYg9MG&rs=AOn4CLA0aJ6bDboJdfw4cD8YMs_ELJyUOw" group-title="MÓDULO 01 - Materiais Básicos",Aula 11 - Zíperes - Como costurar um zíper em uma bolsa de tela plástica – Parte 2
+#EXTINF:-1 group-title="MÓDULO 01 - Materiais Básicos",Aula 11 - Zíperes - Como costurar um zíper em uma bolsa de tela plástica – Parte 2
 https://www.youtube.com/watch?v=w9A8fXzEqgc
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 12 - Onde comprar materiais
 https://www.youtube.com/watch?v=B6MdFl1PIDA
