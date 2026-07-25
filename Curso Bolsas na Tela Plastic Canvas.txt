@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 23:00hs)" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 24/07/2026 23:00hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 23:25hs)" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 24/07/2026 23:25hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 23:00hs)",Aula 1 - Bem-vindo ao Curso
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 23:25hs)",Aula 1 - Bem-vindo ao Curso
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 23:00hs)",Aula 2 - Como utilizar o aplicativo
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 23:25hs)",Aula 2 - Como utilizar o aplicativo
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N2bpVTVf640/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 23:00hs)",Aula 3 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N2bpVTVf640/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 23:25hs)",Aula 3 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
 https://www.youtube.com/watch?v=N2bpVTVf640
-#EXTINF:500 tvg-logo="https://i.ytimg.com/vi/MRIXyMphsWo/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 23:00hs)",Aula 4 - Saiba as PRINCIPAIS FERRAMENTAS para quem quer INICIAR em Bolsas em Tela
+#EXTINF:500 tvg-logo="https://i.ytimg.com/vi/MRIXyMphsWo/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 23:25hs)",Aula 4 - Saiba as PRINCIPAIS FERRAMENTAS para quem quer INICIAR em Bolsas em Tela
 https://www.youtube.com/watch?v=MRIXyMphsWo
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 23:00hs)",Aula 5 - Como organizar seu espaço de trabalho
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 23:25hs)",Aula 5 - Como organizar seu espaço de trabalho
 https://www.youtube.com/watch?v=B6MdFl1PIDA
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 01 - Telas: tamanhos e espessuras
 https://www.youtube.com/watch?v=B6MdFl1PIDA
@@ -67,6 +67,8 @@ https://drive.google.com/uc?export=download&id=1jk5CXSmBJ8iATy09NcD_B4c2uBHoJrsk
 https://www.youtube.com/watch?v=c_gku3rI1V0
 #EXTINF:347 tvg-logo="https://i.ytimg.com/vi/kg-eB5zYtt8/mqdefault.jpg" group-title="MÓDULO 03 - Técnicas Essenciais",Embalagens para Artesanato fáceis de fazer
 https://www.youtube.com/watch?v=kg-eB5zYtt8
+#EXTINF:719 tvg-logo="https://i.ytimg.com/vi/ev6RZVJqayg/mqdefault.jpg" group-title="MÓDULO 03 - Técnicas Essenciais",Passo a Passo ponto Bolsa de Tela Júlia - Parte 1
+https://www.youtube.com/watch?v=ev6RZVJqayg
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9_JvJsfXzSE/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Aula 1 - Bolsa na tela plástica Passo a Passo
 https://www.youtube.com/watch?v=9_JvJsfXzSE
 #EXTINF:1142 tvg-logo="https://i.ytimg.com/vi/5TNmdxJ5Zxo/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Aula 2 - BOLSA DE TELA PLÁSTICA
@@ -121,6 +123,8 @@ https://www.youtube.com/embed/1EFFra1bkLg
 https://www.youtube.com/embed/khcH-5IwguE
 #EXTINF:-1 group-title="TESTE",Aula 7 - Teste
 https://www.youtube.com/embed/BaWur27gGqg
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/an_webp/rouBKsH-B7I/mqdefault_6s.webp?du=3000&sqp=CIqwkNMG&rs=AOn4CLCYUCyglThoYj-sLpQS65KeJsU-7w" group-title="MASTER CLASS",BOLSAS CROCHÊ E TELAS
+https://www.youtube.com/watch?v=rouBKsH-B7I
 #EXTINF:719 tvg-logo="https://i.ytimg.com/vi/9Opom1PU-Kk/mqdefault.jpg" group-title="MÓDULO 10 - AULAS EXTRAS",Biblioteca de Pontos: Como fazer um ponto bonito usando plástico como tela
 https://www.youtube.com/watch?v=9Opom1PU-Kk
 #EXTINF:1486 tvg-logo="https://i.ytimg.com/vi/XQVSHRm__Bw/mqdefault.jpg" group-title="MÓDULO  2 - AULAS AVANÇADAS",Como fazer uma bolsa elegante feita à mão usando tela plástica e fita / Tutorial de bolsa de tela plástica (ESPANHOL)
@@ -931,10 +935,6 @@ https://www.youtube.com/watch?v=jHt9aKSVguc
 https://www.youtube.com/watch?v=fJkCBlA8Q_w
 #EXTINF:1402 tvg-logo="https://i.ytimg.com/vi/09RSISeoCl0/mqdefault.jpg" group-title="Ateliê Joana Fernandes Crochê Moderno",PLASTIC CANVAS   COIN AND CARD WALLET   PLASTIC CANVAS BAG TUTORIAL
 https://www.youtube.com/watch?v=09RSISeoCl0
-#EXTINF:719 tvg-logo="https://i.ytimg.com/vi/ev6RZVJqayg/mqdefault.jpg" group-title="Permita-se Conectar",Passo a Passo ponto Bolsa de Tela Júlia - Parte 1
-https://www.youtube.com/watch?v=ev6RZVJqayg
-#EXTINF:719 tvg-logo="https://i.ytimg.com/vi/ev6RZVJqayg/mqdefault.jpg" group-title="Permita-se Conectar",Passo a Passo ponto Bolsa de Tela Júlia - Parte 1
-https://www.youtube.com/watch?v=ev6RZVJqayg
 #EXTINF:251 tvg-logo="https://i.ytimg.com/vi/-4BbjcXRDik/mqdefault.jpg" group-title="EL's Ateliê ", 7 Materiais Essenciais Para Fazer Bolsas na Malha Plástica (Não Compre Antes de Ver Isso!)
 https://www.youtube.com/watch?v=-4BbjcXRDik
 #EXTINF:276 tvg-logo="https://i.ytimg.com/vi/2IASbrdqstU/mqdefault.jpg" group-title="EL's Ateliê ", DO FIO À BOLSA PRONTA! Veja a Transformação Completa Passo a Passo
