@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - BOAS VINDAS (22:00hs)" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 24/07/2026 22:00hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 22:05hs)" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 24/07/2026 22:05hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - BOAS VINDAS (22:00hs)",Aula 1 - Bem-vindo ao Curso
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 22:05hs)",Aula 1 - Bem-vindo ao Curso
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - BOAS VINDAS (22:00hs)",Aula 2 - Como utilizar o aplicativo
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 22:05hs)",Aula 2 - Como utilizar o aplicativo
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N2bpVTVf640/mqdefault.jpg" group-title="MÓDULO 00 - BOAS VINDAS (22:00hs)",Aula 3 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N2bpVTVf640/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 22:05hs)",Aula 3 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
 https://www.youtube.com/watch?v=N2bpVTVf640
-#EXTINF:723 tvg-logo="https://i.ytimg.com/vi/XGs_DmcrX7o/mqdefault.jpg" group-title="MÓDULO 00 - BOAS VINDAS (22:00hs)",Aula 4 - TELA PLÁSTICA  QUAL MELHOR FIO  Telas com furos de 3mm
+#EXTINF:723 tvg-logo="https://i.ytimg.com/vi/XGs_DmcrX7o/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 22:05hs)",Aula 4 - TELA PLÁSTICA  QUAL MELHOR FIO  Telas com furos de 3mm
 https://www.youtube.com/watch?v=XGs_DmcrX7o
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - BOAS VINDAS (22:00hs)",Aula 5 - Como organizar seu espaço de trabalho
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (24/07/2026 22:05hs)",Aula 5 - Como organizar seu espaço de trabalho
 https://www.youtube.com/watch?v=B6MdFl1PIDA
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 01 - Telas: tamanhos e espessuras
 https://www.youtube.com/watch?v=B6MdFl1PIDA
@@ -73,33 +73,33 @@ https://drive.google.com/uc?export=download&id=1rRRLbIlgh2Y8ri8RRrbq2EmfJ6--ZYKB
 https://drive.google.com/uc?export=download&id=1jk5CXSmBJ8iATy09NcD_B4c2uBHoJrsk
 #EXTINF:1615 tvg-logo="https://i.ytimg.com/vi/c_gku3rI1V0/mqdefault.jpg" group-title="MÓDULO 03 - Técnicas Essenciais",Como cortar sua tela para montar sua bolsa
 https://www.youtube.com/watch?v=c_gku3rI1V0
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9_JvJsfXzSE/mqdefault.jpg" group-title="MÓDULO 04 - PASSO A PASSO",Aula 1 - Bolsa na tela plástica Passo a Passo
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9_JvJsfXzSE/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Aula 1 - Bolsa na tela plástica Passo a Passo
 https://www.youtube.com/watch?v=9_JvJsfXzSE
-#EXTINF:2058 tvg-logo="https://i.ytimg.com/vi/S25D6Qqegjo/mqdefault.jpg" group-title="MÓDULO 04 - PASSO A PASSO",Bolsa de Tela (DIY) | Essa bolsa sempre recebe elogios!
+#EXTINF:2058 tvg-logo="https://i.ytimg.com/vi/S25D6Qqegjo/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Bolsa de Tela (DIY) | Essa bolsa sempre recebe elogios!
 https://www.youtube.com/watch?v=S25D6Qqegjo
-#EXTINF:1142 tvg-logo="https://i.ytimg.com/vi/5TNmdxJ5Zxo/mqdefault.jpg" group-title="MÓDULO 04 - PASSO A PASSO",BOLSA DE TELA PLÁSTICA
+#EXTINF:1142 tvg-logo="https://i.ytimg.com/vi/5TNmdxJ5Zxo/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",BOLSA DE TELA PLÁSTICA
 https://www.youtube.com/watch?v=5TNmdxJ5Zxo
-#EXTINF:3021 tvg-logo="https://i.ytimg.com/vi/OUCVUs9DPz8/mqdefault.jpg" group-title="MÓDULO 04 - PASSO A PASSO",BOLSA NA TELA COM FIO DE MALHA E PRECIFICAÇÃO PASSO A PASSO
+#EXTINF:3021 tvg-logo="https://i.ytimg.com/vi/OUCVUs9DPz8/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",BOLSA NA TELA COM FIO DE MALHA E PRECIFICAÇÃO PASSO A PASSO
 https://www.youtube.com/watch?v=OUCVUs9DPz8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fJkCBlA8Q_w/mqdefault.jpg" group-title="MÓDULO 04 - PASSO A PASSO",BOLSA NA TELA PLÁSTICA PASSO A PASSO
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fJkCBlA8Q_w/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",BOLSA NA TELA PLÁSTICA PASSO A PASSO
 https://www.youtube.com/watch?v=fJkCBlA8Q_w
-#EXTINF:2590 tvg-logo="https://i.ytimg.com/vi/jHt9aKSVguc/mqdefault.jpg" group-title="MÓDULO 04 - PASSO A PASSO",Bolsa na tela – Não é necessário saber fazer crochê
+#EXTINF:2590 tvg-logo="https://i.ytimg.com/vi/jHt9aKSVguc/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Bolsa na tela – Não é necessário saber fazer crochê
 https://www.youtube.com/watch?v=jHt9aKSVguc
-#EXTINF:347 tvg-logo="https://i.ytimg.com/vi/kg-eB5zYtt8/mqdefault.jpg" group-title="MÓDULO 04 - PASSO A PASSO",Embalagens para Artesanato fáceis de fazer
+#EXTINF:347 tvg-logo="https://i.ytimg.com/vi/kg-eB5zYtt8/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Embalagens para Artesanato fáceis de fazer
 https://www.youtube.com/watch?v=kg-eB5zYtt8
-#EXTINF:547 tvg-logo="https://i.ytimg.com/vi/iYfgvAtLbVg/mqdefault.jpg" group-title="MÓDULO 04 - PASSO A PASSO",Esta ideia vai te ajudar muito nas férias deste verão! É tão caro!
+#EXTINF:547 tvg-logo="https://i.ytimg.com/vi/iYfgvAtLbVg/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Esta ideia vai te ajudar muito nas férias deste verão! É tão caro!
 https://www.youtube.com/watch?v=iYfgvAtLbVg
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9_JvJsfXzSE/mqdefault.jpg" group-title="MÓDULO 04 - PASSO A PASSO",Passo a passo para fazer uma bolsa na tela plástica
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9_JvJsfXzSE/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Passo a passo para fazer uma bolsa na tela plástica
 https://www.youtube.com/watch?v=9_JvJsfXzSE
-#EXTINF:1920 tvg-logo="https://i.ytimg.com/vi/_JkV6P1XyEA/mqdefault.jpg" group-title="MÓDULO 04 - PASSO A PASSO",Bolsa na Tela | Qualquer um pode fazer! | Tutorial Passo a Passo (Faça Você Mesmo) OK (Dublado)
+#EXTINF:1920 tvg-logo="https://i.ytimg.com/vi/_JkV6P1XyEA/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Bolsa na Tela | Qualquer um pode fazer! | Tutorial Passo a Passo (Faça Você Mesmo) OK (Dublado)
 https://www.youtube.com/watch?v=_JkV6P1XyEA
-#EXTINF:635 tvg-logo="https://i.ytimg.com/vi/LTE67pknJrQ/mqdefault.jpg" group-title="MÓDULO 04 - PASSO A PASSO",Qualquer um consegue fazer – Bolsa de Tela Plástica (DIY)
+#EXTINF:635 tvg-logo="https://i.ytimg.com/vi/LTE67pknJrQ/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Qualquer um consegue fazer – Bolsa de Tela Plástica (DIY)
 https://www.youtube.com/watch?v=LTE67pknJrQ
-#EXTINF:1115 tvg-logo="https://i.ytimg.com/vi/w6ELyeE1XLs/mqdefault.jpg" group-title="MÓDULO 04 - PASSO A PASSO",Bolsa Bordada em Tela Efeito 3D | Faça Você Mesmo
+#EXTINF:1115 tvg-logo="https://i.ytimg.com/vi/w6ELyeE1XLs/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Bolsa Bordada em Tela Efeito 3D | Faça Você Mesmo
 https://www.youtube.com/watch?v=w6ELyeE1XLs
-#EXTINF:1115 tvg-logo="https://i.ytimg.com/vi/w6ELyeE1XLs/mqdefault.jpg" group-title="MÓDULO 04 - PASSO A PASSO",Bolsa Bordada em Tela Efeito 3D | Faça Você Mesmo
+#EXTINF:1115 tvg-logo="https://i.ytimg.com/vi/w6ELyeE1XLs/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Bolsa Bordada em Tela Efeito 3D | Faça Você Mesmo
 https://www.youtube.com/watch?v=w6ELyeE1XLs
-#EXTINF:967 tvg-logo="https://i.ytimg.com/vi/v43DnZIpkSI/mqdefault.jpg" group-title="MÓDULO 04 - PASSO A PASSO",Bolsa em plastic canvas com bordado de fio náutico | LOOK ESTILOSO
+#EXTINF:967 tvg-logo="https://i.ytimg.com/vi/v43DnZIpkSI/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Bolsa em plastic canvas com bordado de fio náutico | LOOK ESTILOSO
 https://www.youtube.com/watch?v=v43DnZIpkSI
 #EXTINF:-1 group-title="TESTE",Aula 3 - Teste
 https://www.youtube.com/watch?v=9_JvJsfXzSE
