@@ -1,22 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - BOAS VINDAS" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 24/07/2026 21:55hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - BOAS VINDAS (22:00hs)" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 24/07/2026 22:00hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - BOAS VINDAS",Aula 1 - Bem-vindo ao Curso
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - BOAS VINDAS (22:00hs)",Aula 1 - Bem-vindo ao Curso
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - BOAS VINDAS",Aula 2 - Como utilizar o aplicativo
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - BOAS VINDAS (22:00hs)",Aula 2 - Como utilizar o aplicativo
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N2bpVTVf640/mqdefault.jpg" group-title="MÓDULO 00 - BOAS VINDAS",Aula 3 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N2bpVTVf640/mqdefault.jpg" group-title="MÓDULO 00 - BOAS VINDAS (22:00hs)",Aula 3 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
 https://www.youtube.com/watch?v=N2bpVTVf640
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - BOAS VINDAS",Aula 4 - Conhecendo a Tela Plástica
-https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - BOAS VINDAS",Aula 5 - Tipos de Bolsas que iremos produzir
-https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - BOAS VINDAS",Aula 6 - Como organizar seu espaço de trabalho
+#EXTINF:723 tvg-logo="https://i.ytimg.com/vi/XGs_DmcrX7o/mqdefault.jpg" group-title="MÓDULO 00 - BOAS VINDAS (22:00hs)",Aula 4 - TELA PLÁSTICA  QUAL MELHOR FIO  Telas com furos de 3mm
+https://www.youtube.com/watch?v=XGs_DmcrX7o
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - BOAS VINDAS (22:00hs)",Aula 5 - Como organizar seu espaço de trabalho
 https://www.youtube.com/watch?v=B6MdFl1PIDA
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 01 - Telas: tamanhos e espessuras
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:723 tvg-logo="https://i.ytimg.com/vi/XGs_DmcrX7o/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 02 - TELA PLÁSTICA  QUAL MELHOR FIO  Telas com furos de 3mm
-https://www.youtube.com/watch?v=XGs_DmcrX7o
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159366254-d25c1fb421980e01c88038cb3889fae9c7ad5b2e8b0612136d15f8fdcc57513e-d_360x203?&r=pad&region=us" group-title="MÓDULO 01 - Materiais Básicos",Aula 03 - Diferença entre tela 3 mm e 4 mm e outras (Bolsa Edna aos 37Minutos)
 https://player.vimeo.com/video/1193802601?fl=pl&fe=sh#t=37m38s&end=39m35s
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 03 - Linhas indicadas
