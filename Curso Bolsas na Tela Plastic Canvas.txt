@@ -1,139 +1,134 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 24/07/2026 21:30hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - BOAS VINDAS" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 24/07/2026 21:55hs
 https://www.youtube.com/watch?v=QuQFg7QUTnE
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS",Aula 1 - Bem-vindo ao Curso
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - BOAS VINDAS",Aula 1 - Bem-vindo ao Curso
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS",Aula 2 - Como utilizar o aplicativo
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - BOAS VINDAS",Aula 2 - Como utilizar o aplicativo
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N2bpVTVf640/mqdefault.jpg" group-title="MÓDULO 00 - BOAS VINDAS",Aula 3 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
 https://www.youtube.com/watch?v=N2bpVTVf640
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - BOAS VINDAS",Aula 4 - Conhecendo a Tela Plástica
+https://www.youtube.com/watch?v=B6MdFl1PIDA
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - BOAS VINDAS",Aula 5 - Tipos de Bolsas que iremos produzir
+https://www.youtube.com/watch?v=B6MdFl1PIDA
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - BOAS VINDAS",Aula 6 - Como organizar seu espaço de trabalho
+https://www.youtube.com/watch?v=B6MdFl1PIDA
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 01 - Telas: tamanhos e espessuras
+https://www.youtube.com/watch?v=B6MdFl1PIDA
+#EXTINF:723 tvg-logo="https://i.ytimg.com/vi/XGs_DmcrX7o/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 02 - TELA PLÁSTICA  QUAL MELHOR FIO  Telas com furos de 3mm
+https://www.youtube.com/watch?v=XGs_DmcrX7o
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159366254-d25c1fb421980e01c88038cb3889fae9c7ad5b2e8b0612136d15f8fdcc57513e-d_360x203?&r=pad&region=us" group-title="MÓDULO 01 - Materiais Básicos",Aula 03 - Diferença entre tela 3 mm e 4 mm e outras (Bolsa Edna aos 37Minutos)
+https://player.vimeo.com/video/1193802601?fl=pl&fe=sh#t=37m38s&end=39m35s
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 03 - Linhas indicadas
+https://www.youtube.com/watch?v=B6MdFl1PIDA
+#EXTINF:2865 tvg-logo="https://i.ytimg.com/vi/l3xcAn3vL8k/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 03 - Minha 1ª Bolsa na tela plástica (Materiais)
+https://www.youtube.com/watch?v=l3xcAn3vL8k
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 04 - Agulhas
+https://www.youtube.com/watch?v=B6MdFl1PIDA
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 05 - Tesouras
+https://www.youtube.com/watch?v=B6MdFl1PIDA
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 06 - Alças
+https://www.youtube.com/watch?v=B6MdFl1PIDA
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 07 - Fechos
+https://www.youtube.com/watch?v=B6MdFl1PIDA
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 08 - Ferragens
+https://www.youtube.com/watch?v=B6MdFl1PIDA
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rppJjiCaO2g/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAYhEoWPZW2CKCf3d8t0g2ZWTGKYA" group-title="MÓDULO 01 - Materiais Básicos",Aula 09 - Zíperes - Passo a passo Bolsa Baú na Tela com zíper
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS",Aula 4 - Conhecendo a Tela Plástica
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/an_webp/fKWA5oTmCFc/mqdefault_6s.webp?du=3000&sqp=CJvqg9MG&rs=AOn4CLCxLXSGNC_zAhhjsRL5dQIMJaBVNw" group-title="MÓDULO 01 - Materiais Básicos",Aula 10 - Zíperes - Carteira Clutch Elegante | Tutorial Parte 2
+https://www.youtube.com/watch?v=fKWA5oTmCFc
+#EXTINF:-1 tvg-logo="sqp=CJPYg9MG&rs=AOn4CLA0aJ6bDboJdfw4cD8YMs_ELJyUOw" group-title="MÓDULO 01 - Materiais Básicos",Aula 11 - Zíperes - Como costurar um zíper em uma bolsa de tela plástica – Parte 2
+https://www.youtube.com/watch?v=w9A8fXzEqgc
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 12 - Onde comprar materiais
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS",Aula 5 - Tipos de Bolsas que iremos produzir
-https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS",Aula 6 - Como organizar seu espaço de trabalho
-https://www.youtube.com/watch?v=B6MdFl1PIDA
-
-#EXTINF:3021 tvg-logo="https://i.ytimg.com/vi/OUCVUs9DPz8/mqdefault.jpg" group-title="MÓDULO  0 - BOAS VINDAS",Materiais Básicos Iniciantes
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XDkUSK0.jpeg" group-title="MÓDULO 01 - Materiais Básicos",Aula 13 - Materiais Básicos para bolsas em tela
 https://drive.google.com/uc?export=download&id=1Un2o9qPrkn-87wk1NIqwi4YWaFGgXbqA
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XDkUSK0.jpeg" group-title="Módulo 01 - Materiais Básicos",Aula 1 - Materiais Básicos para bolsas em tela
-https://drive.google.com/uc?export=download&id=1Un2o9qPrkn-87wk1NIqwi4YWaFGgXbqA
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-4BbjcXRDik/mqdefault.jpg" group-title="Módulo 01 - Materiais Básicos",Aula 2 - Materiais Essenciais Para Bolsas na Malha Plástica (Não Compre Antes de Ver Isso!)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-4BbjcXRDik/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 14 - Materiais Essenciais Para Bolsas na Malha Plástica (Não Compre Antes de Ver Isso!)
 https://www.youtube.com/watch?v=-4BbjcXRDik
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wLBh1S3.jpeg" group-title="Módulo 02 - Fundamentos",Aula 2 - Qual Fio Usar
+#EXTINF:3021 tvg-logo="https://i.ytimg.com/vi/OUCVUs9DPz8/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 15 - Materiais Básicos Iniciantes
+https://drive.google.com/uc?export=download&id=1Un2o9qPrkn-87wk1NIqwi4YWaFGgXbqA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wLBh1S3.jpeg" group-title="MÓDULO 02 - Fundamentos",Aula 2 - Qual Fio Usar
 https://drive.google.com/uc?export=download&id=1qQWTaKkPX0wj5zlQ97-APHh0dS9bsqQz
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lKnEBpP.jpeg" group-title="Módulo 02 - Fundamentos",Aula 3 - Pontos Básicos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lKnEBpP.jpeg" group-title="MÓDULO 02 - Fundamentos",Aula 3 - Pontos Básicos
 https://drive.google.com/uc?export=download&id=18X6kaaw7Mk9rCFHIN5WVZMLmyuiWRpz3
-
-#EXTINF:-1 tvg-logo="" group-title="Módulo 02 - Fundamentos",Aula 4 - Como cortar a tela
+#EXTINF:-1 group-title="MÓDULO 02 - Fundamentos",Aula 4 - Como cortar a tela
 https://www.youtube.com/watch?v=gygeKMgT4vE
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1sH0lys.jpeg" group-title="Módulo 02 - Fundamentos",Aula 5 - Como fazer alça de Crochê para Bolsa
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1sH0lys.jpeg" group-title="MÓDULO 02 - Fundamentos",Aula 5 - Como fazer alça de Crochê para Bolsa
 https://www.youtube.com/watch?v=pyZh6ZICkM4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0zuYn6H.jpeg" group-title="Módulo 03 - Técnicas Essenciais",Aula 1 - O que fazer quando o fio acabar
+#EXTINF:1814 tvg-logo="https://i.ytimg.com/vi/UFT27JUPyi0/mqdefault.jpg" group-title="MÓDULO 02 - Fundamentos",COMO FAZER BOLSA BORDADA EM TELA AULA 1
+https://www.youtube.com/watch?v=UFT27JUPyi0
+#EXTINF:1937 tvg-logo="https://i.ytimg.com/vi/Jre1lbPjetI/mqdefault.jpg" group-title="MÓDULO 02 - Fundamentos",COMO FAZER BOLSA BORDADA EM TELA AULA 2
+https://www.youtube.com/watch?v=Jre1lbPjetI
+#EXTINF:1830 tvg-logo="https://i.ytimg.com/vi/2_ZEH8DvRjk/mqdefault.jpg" group-title="MÓDULO 02 - Fundamentos",COMO FAZER BOLSA BORDADA EM TELA AULA 3
+https://www.youtube.com/watch?v=2_ZEH8DvRjk
+#EXTINF:1938 tvg-logo="https://i.ytimg.com/vi/YbgJ3x9QZiA/mqdefault.jpg" group-title="MÓDULO 02 - Fundamentos",COMO FAZER BOLSA BORDADA EM TELA AULA FINAL
+https://www.youtube.com/watch?v=YbgJ3x9QZiA
+#EXTINF:1244 tvg-logo="https://i.ytimg.com/vi/6KdqGQMbb1s/mqdefault.jpg" group-title="MÓDULO 02 - Fundamentos",Como marcar sua tela para montar sua bolsa 1
+https://www.youtube.com/watch?v=6KdqGQMbb1s
+#EXTINF:1343 tvg-logo="https://i.ytimg.com/vi/UyrMSJr4po4/mqdefault.jpg" group-title="MÓDULO 02 - Fundamentos",Como marcar sua tela para montar sua bolsa 2
+https://www.youtube.com/watch?v=UyrMSJr4po4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0zuYn6H.jpeg" group-title="MÓDULO 03 - Técnicas Essenciais",Aula 1 - O que fazer quando o fio acabar
 https://drive.google.com/uc?export=download&id=14Qii5i4nPFgoo7ftUVsMHh11WUU3uJoQ
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lc52xmO.jpeg" group-title="Módulo 03 - Técnicas Essenciais",Aula 2 - Como colocar o Forro
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lc52xmO.jpeg" group-title="MÓDULO 03 - Técnicas Essenciais",Aula 2 - Como colocar o Forro
 https://drive.google.com/uc?export=download&id=1AVcRFbzIiBSJ1z3HThu3FIxyLHcHqugq
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fHqFEmu.jpeg" group-title="Módulo 03 - Técnicas Essenciais", Aula 3 - Acabamento e Montagem
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fHqFEmu.jpeg" group-title="MÓDULO 03 - Técnicas Essenciais",Aula 3 - Acabamento e Montagem
 https://drive.google.com/uc?export=download&id=1rRRLbIlgh2Y8ri8RRrbq2EmfJ6--ZYKB
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zaVq1hC.jpeg" group-title="Módulo 03 - Técnicas Essenciais",Aula 4 Colocando o Fecho e Alça (Passo a Passo)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zaVq1hC.jpeg" group-title="MÓDULO 03 - Técnicas Essenciais",Aula 4 Colocando o Fecho e Alça (Passo a Passo)
 https://drive.google.com/uc?export=download&id=1jk5CXSmBJ8iATy09NcD_B4c2uBHoJrsk
-
+#EXTINF:1615 tvg-logo="https://i.ytimg.com/vi/c_gku3rI1V0/mqdefault.jpg" group-title="MÓDULO 03 - Técnicas Essenciais",Como cortar sua tela para montar sua bolsa
+https://www.youtube.com/watch?v=c_gku3rI1V0
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9_JvJsfXzSE/mqdefault.jpg" group-title="MÓDULO 04 - PASSO A PASSO",Aula 1 - Bolsa na tela plástica Passo a Passo
 https://www.youtube.com/watch?v=9_JvJsfXzSE
-
-#EXTINF:-1,Aula 3 - Teste
-https://www.youtube.com/watch?v=9_JvJsfXzSE
-
-#EXTINF:-1,Aula 4 - Teste
-https://www.youtube.com/watch?v=MRIXyMphsWo
-
-#EXTINF:-1,Aula 5 - Teste
-https://www.youtube.com/watch?v=1EFFra1bkLg
-
-#EXTINF:-1,Aula 6 - Teste
-https://www.youtube.com/watch?v=khcH-5IwguE
-
-#EXTINF:-1,Aula 7 - Teste
-https://www.youtube.com/watch?v=BaWur27gGqg
-
-
-#EXTINF:-1,Aula 3 - Materiais necessários EMBED
-https://www.youtube.com/embed/v=erGbeK-psPQ
-
-#EXTINF:-1,Aula 3 - Teste EMBED
-https://www.youtube.com/embed/9_JvJsfXzSE
-
-#EXTINF:-1,Aula 4 - Teste EMBED
-https://www.youtube.com/embed/MRIXyMphsWo
-
-#EXTINF:-1,Aula 5 - Teste EMBED
-https://www.youtube.com/embed/1EFFra1bkLg
-
-#EXTINF:-1,Aula 6 - Teste
-https://www.youtube.com/embed/khcH-5IwguE
-
-#EXTINF:-1,Aula 7 - Teste
-https://www.youtube.com/embed/BaWur27gGqg
-
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159372747-43dbeed85f419b4a82cb27abf7b90bc9a732e1ac548215100fc9942af9d75d22-d?f=webp&region=us" group-title="TREINAMENTO SOUSPLAT",CROCHÊ DO ZERO - AULAS 1 https_treinamentosousplat_lovable
-https://player.vimeo.com/video/1202796487
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2173418723-a70dfd17ec7dc2377eb6b4c7a77c4208d5a4023477008ae0692c4e4f057d7ce9-d?f=webp&region=us" group-title="TREINAMENTO SOUSPLAT",TAPETE EM CROCHÊ FACIL - AULAS 2 https_treinamentosousplat_lovable
-https://player.vimeo.com/video/1202796225
-#EXTINF:-1 group-title="TREINAMENTO SOUSPLAT",SOUSPLAT FEITO EM 1 HORA AULA 3 -  https_treinamentosousplat_lovable 
-https://player.vimeo.com/video/1202800282
-#EXTINF:-1 group-title="TREINAMENTO SOUSPLAT",CROCHÊ SOUSPLAT CIRCULAR - AULA 4 - https_treinamentosousplat_lovable 
-https://player.vimeo.com/video/1202796224
-#EXTINF:-1 group-title="TREINAMENTO SOUSPLAT",CENTRO DE MESA RAPIDO AULA 5 - https_treinamentosousplat_lovable 
-https://player.vimeo.com/video/1202798139
-#EXTINF:-1 group-title="TREINAMENTO SOUSPLAT",SOUSPLAT LOVELY PASSO A PASSO AULA 6 -
-https://player.vimeo.com/video/1202798136
-#EXTINF:-1 group-title="TREINAMENTO SOUSPLAT",CROCHÊ SOUSPLAT CIRCULAR - AULA X https_treinamentosousplat_lovable
-https://player.vimeo.com/video/1202796226
-#EXTINF:1920 tvg-logo="https://i.ytimg.com/vi/_JkV6P1XyEA/mqdefault.jpg" group-title="MÓDULO  1 - INICIANTES",Bolsa na Tela | Qualquer um pode fazer! | Tutorial Passo a Passo (Faça Você Mesmo) OK (Dublado)
-https://www.youtube.com/watch?v=_JkV6P1XyEA
-#EXTINF:1615 tvg-logo="https://i.ytimg.com/vi/c_gku3rI1V0/mqdefault.jpg" group-title="MÓDULO  1 - INICIANTES",Como cortar sua tela para montar sua bolsa
-https://www.youtube.com/watch?v=c_gku3rI1V0
-#EXTINF:547 tvg-logo="https://i.ytimg.com/vi/iYfgvAtLbVg/mqdefault.jpg" group-title="MÓDULO  1 - INICIANTES",Esta ideia vai te ajudar muito nas férias deste verão! É tão caro!
-https://www.youtube.com/watch?v=iYfgvAtLbVg
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fJkCBlA8Q_w/mqdefault.jpg" group-title="Módulo 4 - PASSO A PASSO",BOLSA NA TELA PLÁSTICA PASSO A PASSO
-https://www.youtube.com/watch?v=fJkCBlA8Q_w
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9_JvJsfXzSE/mqdefault.jpg" group-title="Módulo 4 - PASSO A PASSO",Passo a passo para fazer uma bolsa na tela plástica
-https://www.youtube.com/watch?v=9_JvJsfXzSE
-
-#EXTINF:347 tvg-logo="https://i.ytimg.com/vi/kg-eB5zYtt8/mqdefault.jpg" group-title="Módulo 4 - PASSO A PASSO",Embalagens para Artesanato fáceis de fazer
-https://www.youtube.com/watch?v=kg-eB5zYtt8
-#EXTINF:1142 tvg-logo="https://i.ytimg.com/vi/5TNmdxJ5Zxo/mqdefault.jpg" group-title="Módulo 4 - PASSO A PASSO",BOLSA DE TELA PLÁSTICA
-https://www.youtube.com/watch?v=5TNmdxJ5Zxo
-#EXTINF:2590 tvg-logo="https://i.ytimg.com/vi/jHt9aKSVguc/mqdefault.jpg" group-title="Módulo 4 - PASSO A PASSO",Bolsa na tela – Não é necessário saber fazer crochê
-https://www.youtube.com/watch?v=jHt9aKSVguc
-#EXTINF:3021 tvg-logo="https://i.ytimg.com/vi/OUCVUs9DPz8/mqdefault.jpg" group-title="Módulo 4 - PASSO A PASSO",BOLSA NA TELA COM FIO DE MALHA E PRECIFICAÇÃO PASSO A PASSO
-https://www.youtube.com/watch?v=OUCVUs9DPz8
-
-#EXTINF:2058 tvg-logo="https://i.ytimg.com/vi/S25D6Qqegjo/mqdefault.jpg" group-title="Módulo 4 - PASSO A PASSO",Bolsa de Tela (DIY) | Essa bolsa sempre recebe elogios!
+#EXTINF:2058 tvg-logo="https://i.ytimg.com/vi/S25D6Qqegjo/mqdefault.jpg" group-title="MÓDULO 04 - PASSO A PASSO",Bolsa de Tela (DIY) | Essa bolsa sempre recebe elogios!
 https://www.youtube.com/watch?v=S25D6Qqegjo
-
-
+#EXTINF:1142 tvg-logo="https://i.ytimg.com/vi/5TNmdxJ5Zxo/mqdefault.jpg" group-title="MÓDULO 04 - PASSO A PASSO",BOLSA DE TELA PLÁSTICA
+https://www.youtube.com/watch?v=5TNmdxJ5Zxo
+#EXTINF:3021 tvg-logo="https://i.ytimg.com/vi/OUCVUs9DPz8/mqdefault.jpg" group-title="MÓDULO 04 - PASSO A PASSO",BOLSA NA TELA COM FIO DE MALHA E PRECIFICAÇÃO PASSO A PASSO
+https://www.youtube.com/watch?v=OUCVUs9DPz8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fJkCBlA8Q_w/mqdefault.jpg" group-title="MÓDULO 04 - PASSO A PASSO",BOLSA NA TELA PLÁSTICA PASSO A PASSO
+https://www.youtube.com/watch?v=fJkCBlA8Q_w
+#EXTINF:2590 tvg-logo="https://i.ytimg.com/vi/jHt9aKSVguc/mqdefault.jpg" group-title="MÓDULO 04 - PASSO A PASSO",Bolsa na tela – Não é necessário saber fazer crochê
+https://www.youtube.com/watch?v=jHt9aKSVguc
+#EXTINF:347 tvg-logo="https://i.ytimg.com/vi/kg-eB5zYtt8/mqdefault.jpg" group-title="MÓDULO 04 - PASSO A PASSO",Embalagens para Artesanato fáceis de fazer
+https://www.youtube.com/watch?v=kg-eB5zYtt8
+#EXTINF:547 tvg-logo="https://i.ytimg.com/vi/iYfgvAtLbVg/mqdefault.jpg" group-title="MÓDULO 04 - PASSO A PASSO",Esta ideia vai te ajudar muito nas férias deste verão! É tão caro!
+https://www.youtube.com/watch?v=iYfgvAtLbVg
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9_JvJsfXzSE/mqdefault.jpg" group-title="MÓDULO 04 - PASSO A PASSO",Passo a passo para fazer uma bolsa na tela plástica
+https://www.youtube.com/watch?v=9_JvJsfXzSE
+#EXTINF:1920 tvg-logo="https://i.ytimg.com/vi/_JkV6P1XyEA/mqdefault.jpg" group-title="MÓDULO 04 - PASSO A PASSO",Bolsa na Tela | Qualquer um pode fazer! | Tutorial Passo a Passo (Faça Você Mesmo) OK (Dublado)
+https://www.youtube.com/watch?v=_JkV6P1XyEA
+#EXTINF:635 tvg-logo="https://i.ytimg.com/vi/LTE67pknJrQ/mqdefault.jpg" group-title="MÓDULO 04 - PASSO A PASSO",Qualquer um consegue fazer – Bolsa de Tela Plástica (DIY)
+https://www.youtube.com/watch?v=LTE67pknJrQ
+#EXTINF:1115 tvg-logo="https://i.ytimg.com/vi/w6ELyeE1XLs/mqdefault.jpg" group-title="MÓDULO 04 - PASSO A PASSO",Bolsa Bordada em Tela Efeito 3D | Faça Você Mesmo
+https://www.youtube.com/watch?v=w6ELyeE1XLs
+#EXTINF:1115 tvg-logo="https://i.ytimg.com/vi/w6ELyeE1XLs/mqdefault.jpg" group-title="MÓDULO 04 - PASSO A PASSO",Bolsa Bordada em Tela Efeito 3D | Faça Você Mesmo
+https://www.youtube.com/watch?v=w6ELyeE1XLs
+#EXTINF:967 tvg-logo="https://i.ytimg.com/vi/v43DnZIpkSI/mqdefault.jpg" group-title="MÓDULO 04 - PASSO A PASSO",Bolsa em plastic canvas com bordado de fio náutico | LOOK ESTILOSO
+https://www.youtube.com/watch?v=v43DnZIpkSI
+#EXTINF:-1 group-title="TESTE",Aula 3 - Teste
+https://www.youtube.com/watch?v=9_JvJsfXzSE
+#EXTINF:-1 group-title="TESTE",Aula 4 - Teste
+https://www.youtube.com/watch?v=MRIXyMphsWo
+#EXTINF:-1 group-title="TESTE",Aula 5 - Teste
+https://www.youtube.com/watch?v=1EFFra1bkLg
+#EXTINF:-1 group-title="TESTE",Aula 6 - Teste
+https://www.youtube.com/watch?v=khcH-5IwguE
+#EXTINF:-1 group-title="TESTE",Aula 7 - Teste
+https://www.youtube.com/watch?v=BaWur27gGqg
+#EXTINF:-1 group-title="TESTE",Aula 3 - Materiais necessários EMBED
+https://www.youtube.com/embed/v=erGbeK-psPQ
+#EXTINF:-1 group-title="TESTE",Aula 3 - Teste EMBED
+https://www.youtube.com/embed/9_JvJsfXzSE
+#EXTINF:-1 group-title="TESTE",Aula 4 - Teste EMBED
+https://www.youtube.com/embed/MRIXyMphsWo
+#EXTINF:-1 group-title="TESTE",Aula 5 - Teste EMBED
+https://www.youtube.com/embed/1EFFra1bkLg
+#EXTINF:-1 group-title="TESTE",Aula 6 - Teste
+https://www.youtube.com/embed/khcH-5IwguE
+#EXTINF:-1 group-title="TESTE",Aula 7 - Teste
+https://www.youtube.com/embed/BaWur27gGqg
 #EXTINF:719 tvg-logo="https://i.ytimg.com/vi/9Opom1PU-Kk/mqdefault.jpg" group-title="MÓDULO 10 - AULAS EXTRAS",Biblioteca de Pontos: Como fazer um ponto bonito usando plástico como tela
 https://www.youtube.com/watch?v=9Opom1PU-Kk
-
-
-
-
-
 #EXTINF:1486 tvg-logo="https://i.ytimg.com/vi/XQVSHRm__Bw/mqdefault.jpg" group-title="MÓDULO  2 - AULAS AVANÇADAS",Como fazer uma bolsa elegante feita à mão usando tela plástica e fita / Tutorial de bolsa de tela plástica (ESPANHOL)
 https://www.youtube.com/watch?v=XQVSHRm__Bw
 #EXTINF:1169 tvg-logo="https://i.ytimg.com/vi/iovaspFBv7A/mqdefault.jpg" group-title="MÓDULO  2 - AULAS AVANÇADAS",Esta BOLSA de MALLA de PLÁSTICO y trapillo será de las favoritas en tu NEGOCIO
@@ -150,18 +145,6 @@ https://player.vimeo.com/video/1193802598
 https://player.vimeo.com/video/1193803746
 #EXTINF:589 tvg-logo="https://i.ytimg.com/vi/0fumEXDlPOs/mqdefault.jpg" group-title="MÓDULO  3 - AULAS PRÁTICAS",Alça de bolsa em fio de malha crochê ou tricô
 https://www.youtube.com/watch?v=0fumEXDlPOs
-#EXTINF:1244 tvg-logo="https://i.ytimg.com/vi/6KdqGQMbb1s/mqdefault.jpg" group-title="MÓDULO  4 - AULAS MARCAÇÃO",Como marcar sua tela para montar sua bolsa 1
-https://www.youtube.com/watch?v=6KdqGQMbb1s
-#EXTINF:1937 tvg-logo="https://i.ytimg.com/vi/Jre1lbPjetI/mqdefault.jpg" group-title="MÓDULO  4 - AULAS MARCAÇÃO",COMO FAZER BOLSA BORDADA EM TELA AULA 2
-https://www.youtube.com/watch?v=Jre1lbPjetI
-#EXTINF:1814 tvg-logo="https://i.ytimg.com/vi/UFT27JUPyi0/mqdefault.jpg" group-title="MÓDULO  4 - AULAS MARCAÇÃO",COMO FAZER BOLSA BORDADA EM TELA AULA 1
-https://www.youtube.com/watch?v=UFT27JUPyi0
-#EXTINF:1343 tvg-logo="https://i.ytimg.com/vi/UyrMSJr4po4/mqdefault.jpg" group-title="MÓDULO  4 - AULAS MARCAÇÃO",Como marcar sua tela para montar sua bolsa 2
-https://www.youtube.com/watch?v=UyrMSJr4po4
-#EXTINF:1830 tvg-logo="https://i.ytimg.com/vi/2_ZEH8DvRjk/mqdefault.jpg" group-title="MÓDULO  4 - AULAS MARCAÇÃO",COMO FAZER BOLSA BORDADA EM TELA AULA 3
-https://www.youtube.com/watch?v=2_ZEH8DvRjk
-#EXTINF:1938 tvg-logo="https://i.ytimg.com/vi/YbgJ3x9QZiA/mqdefault.jpg" group-title="MÓDULO  4 - AULAS MARCAÇÃO",COMO FAZER BOLSA BORDADA EM TELA AULA FINAL
-https://www.youtube.com/watch?v=YbgJ3x9QZiA
 #EXTINF:2103 tvg-logo="https://i.ytimg.com/vi/eYGlI7o4Je4/mqdefault.jpg" group-title="MÓDULO  5 - AULAS Suely Art's", BOLSA PRAIANA PARTE 1
 https://www.youtube.com/watch?v=eYGlI7o4Je4
 #EXTINF:1529 tvg-logo="https://i.ytimg.com/vi/9hPMVlU_26I/mqdefault.jpg" group-title="MÓDULO  5 - AULAS Suely Art's", BOLSA PRAIANA PARTE 2
@@ -320,8 +303,6 @@ https://www.youtube.com/watch?v=vzc2eW2hpI4
 https://www.youtube.com/watch?v=nM4eQ2wt1zQ
 #EXTINF:3496 tvg-logo="https://i.ytimg.com/vi/xolxWGY9J-M/mqdefault.jpg" group-title="MÓDULO  6 - CURSO BOLSAS NA TELA",Plastic Mesh Bag | Mesh Bag Step by Step | Bag Step by Step
 https://www.youtube.com/watch?v=xolxWGY9J-M
-#EXTINF:635 tvg-logo="https://i.ytimg.com/vi/LTE67pknJrQ/mqdefault.jpg" group-title="MÓDULO  6 - CURSO BOLSAS NA TELA",Qualquer um consegue fazer – Bolsa de Tela Plástica (DIY)
-https://www.youtube.com/watch?v=LTE67pknJrQ
 #EXTINF:1328 tvg-logo="https://i.ytimg.com/vi/vDS4kRIB8Xc/mqdefault.jpg" group-title="MÓDULO  6 - CURSO BOLSAS NA TELA",Stitch and Assembly Summary! How to Make a Bag with Plastic Mesh and Raffia (CHANEL TWEED inspira...
 https://www.youtube.com/watch?v=vDS4kRIB8Xc
 #EXTINF:828 tvg-logo="https://i.ytimg.com/vi/k4Oe-xtc_1Q/mqdefault.jpg" group-title="MÓDULO  6 - CURSO BOLSAS NA TELA",SUPER TRICK! How to MAKE a PLASTIC MESH BAG and HIDE the CLASP / Elegant Envelope-Style Wallet
@@ -386,34 +367,6 @@ https://www.youtube.com/watch?v=mrcoPcy0-3I
 https://www.youtube.com/watch?v=qYPy1LeKt18
 #EXTINF:823 tvg-logo="https://i.ytimg.com/vi/5P-iLqDEkKE/mqdefault.jpg" group-title="MÓDULO  7 - AULAS EM INGLÊS",Plastic Canvas Bag Tutorial | Bolsa de tela plástica (faça você mesmo) #bolsadetela #telaplástica #bolsadetelaplástica
 https://www.youtube.com/watch?v=5P-iLqDEkKE
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 02 – MATERIAIS",Aula 01 - Telas: tamanhos e espessuras
-https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:723 tvg-logo="https://i.ytimg.com/vi/XGs_DmcrX7o/mqdefault.jpg" group-title="MÓDULO 02 – MATERIAIS",Aula 02 - TELA PLÁSTICA  QUAL MELHOR FIO  Telas com furos de 3mm
-https://www.youtube.com/watch?v=XGs_DmcrX7o
-#EXTINF:2865 tvg-logo="https://i.ytimg.com/vi/l3xcAn3vL8k/mqdefault.jpg" group-title="MÓDULO 02 – MATERIAIS",Aula 03 Minha 1ª Bolsa na tela plástica (Materiais)
-https://www.youtube.com/watch?v=l3xcAn3vL8k
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159366254-d25c1fb421980e01c88038cb3889fae9c7ad5b2e8b0612136d15f8fdcc57513e-d_360x203?&r=pad&region=us" group-title="MÓDULO 02 – MATERIAIS",Aula 03 - Diferença entre tela 3 mm e 4 mm e outras (Bolsa Edna aos 37Minutos)
-https://player.vimeo.com/video/1193802601?fl=pl&fe=sh#t=37m38s&end=39m35s
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 02 – MATERIAIS",Aula 03 - Linhas indicadas
-https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 02 – MATERIAIS",Aula 04 - Agulhas
-https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 02 – MATERIAIS",Aula 05 - Tesouras
-https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 02 – MATERIAIS",Aula 06 - Alças
-https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 02 – MATERIAIS",Aula 07 - Fechos
-https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 02 – MATERIAIS",Aula 08 - Ferragens
-https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rppJjiCaO2g/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAYhEoWPZW2CKCf3d8t0g2ZWTGKYA" group-title="MÓDULO 02 – MATERIAIS",Aula 09 - Zíperes - Passo a passo Bolsa Baú na Tela com zíper
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/an_webp/fKWA5oTmCFc/mqdefault_6s.webp?du=3000&sqp=CJvqg9MG&rs=AOn4CLCxLXSGNC_zAhhjsRL5dQIMJaBVNw" group-title="MÓDULO 02 – MATERIAIS",Aula 10 - Zíperes - Carteira Clutch Elegante | Tutorial Parte 2
-https://www.youtube.com/watch?v=fKWA5oTmCFc
-#EXTINF:-1 tvg-logo="sqp=CJPYg9MG&rs=AOn4CLA0aJ6bDboJdfw4cD8YMs_ELJyUOw" group-title="MÓDULO 02 – MATERIAIS",Aula 11 - Zíperes - Como costurar um zíper em uma bolsa de tela plástica – Parte 2
-https://www.youtube.com/watch?v=w9A8fXzEqgc
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 02 – MATERIAIS",Aula 12 - Onde comprar materiais
-https://www.youtube.com/watch?v=B6MdFl1PIDA
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 03 – Técnicas Básicas",Como iniciar a costura
 https://www.youtube.com/watch?v=B6MdFl1PIDA
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 03 – Técnicas Básicas",Como esconder a ponta da linha
@@ -628,6 +581,20 @@ https://www.youtube.com/watch?v=OxrNJBeK4tk
 https://www.youtube.com/watch?v=YT7AeynFlPA
 #EXTINF:1819 tvg-logo="https://i.ytimg.com/vi/qzl9w5Vi85A/mqdefault.jpg" group-title="MÓDULO 22 - EXTRAS (CROCHÊ)",Base oval de crochê com fio náutico | Técnica moderna e fácil
 https://www.youtube.com/watch?v=qzl9w5Vi85A
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159372747-43dbeed85f419b4a82cb27abf7b90bc9a732e1ac548215100fc9942af9d75d22-d?f=webp&region=us" group-title="Módulo 23 - TREINAMENTO SOUSPLAT",CROCHÊ DO ZERO - AULAS 1 https_treinamentosousplat_lovable
+https://player.vimeo.com/video/1202796487
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2173418723-a70dfd17ec7dc2377eb6b4c7a77c4208d5a4023477008ae0692c4e4f057d7ce9-d?f=webp&region=us" group-title="Módulo 23 - TREINAMENTO SOUSPLAT",TAPETE EM CROCHÊ FACIL - AULAS 2 https_treinamentosousplat_lovable
+https://player.vimeo.com/video/1202796225
+#EXTINF:-1 group-title="Módulo 23 - TREINAMENTO SOUSPLAT",SOUSPLAT FEITO EM 1 HORA AULA 3 -  https_treinamentosousplat_lovable 
+https://player.vimeo.com/video/1202800282
+#EXTINF:-1 group-title="Módulo 23 - TREINAMENTO SOUSPLAT",CROCHÊ SOUSPLAT CIRCULAR - AULA 4 - https_treinamentosousplat_lovable 
+https://player.vimeo.com/video/1202796224
+#EXTINF:-1 group-title="Módulo 23 - TREINAMENTO SOUSPLAT",CENTRO DE MESA RAPIDO AULA 5 - https_treinamentosousplat_lovable 
+https://player.vimeo.com/video/1202798139
+#EXTINF:-1 group-title="Módulo 23 - TREINAMENTO SOUSPLAT",SOUSPLAT LOVELY PASSO A PASSO AULA 6 -
+https://player.vimeo.com/video/1202798136
+#EXTINF:-1 group-title="Módulo 23 - TREINAMENTO SOUSPLAT",CROCHÊ SOUSPLAT CIRCULAR - AULA X https_treinamentosousplat_lovable
+https://player.vimeo.com/video/1202796226
 #EXTINF:3587 tvg-logo="https://i.ytimg.com/vi/OHrE8fz8r-c/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",DIY New plastic canvas  bag design /plastic canvas bag full tutorial #diy  #plasticcanvas
 https://www.youtube.com/watch?v=OHrE8fz8r-c
 #EXTINF:6285 tvg-logo="https://i.ytimg.com/vi/7d5NzTjreh8/mqdefault.jpg" group-title="MÓDULO 23 - Hanoure Art",HOW TO MAKE HANDMADE PLASTIC CANVAS BAG TUTORIAL / NEW PLASTIC CANVAS SITITCHES TUTORIAL
@@ -776,8 +743,6 @@ https://www.youtube.com/watch?v=kbbk54YpwpI
 https://www.youtube.com/watch?v=bCXvPIc8m8w
 #EXTINF:1185 tvg-logo="https://i.ytimg.com/vi/71vJBNMA3wk/mqdefault.jpg" group-title="MÓDULO 25 - DIY Simple Crafts ",Easy Ribbon Bag Making With Plastic Canvas | Make A Cute Crossbody Bag | Plastic Canvas Bag DIY
 https://www.youtube.com/watch?v=71vJBNMA3wk
-#EXTINF:967 tvg-logo="https://i.ytimg.com/vi/v43DnZIpkSI/mqdefault.jpg" group-title="MÓDULO 25 - TV Aparecida",Bolsa em plastic canvas com bordado de fio náutico | LOOK ESTILOSO
-https://www.youtube.com/watch?v=v43DnZIpkSI
 #EXTINF:1169 tvg-logo="https://i.ytimg.com/vi/VKbfxis_g4I/mqdefault.jpg" group-title="MÓDULO 25 - Jelory Collection",How To Make An Organza Ribbon Bag | Plastic Canvas Bag Tutorial 2021 | Membuat Tas Dari Pita Organdi
 https://www.youtube.com/watch?v=VKbfxis_g4I
 #EXTINF:522 tvg-logo="https://i.ytimg.com/vi/lBlEkAnwI6I/mqdefault.jpg" group-title="MÓDULO 25 - OV LEE",Video 1 - Plastic Canvas  / Needlework Tote Bag - Shoulder Bag DIY
@@ -942,42 +907,6 @@ https://www.youtube.com/watch?v=1nApYYMoIVM
 https://www.youtube.com/watch?v=IXsDicCY088
 #EXTINF:2622 tvg-logo="https://i.ytimg.com/vi/m8RMq8f59G8/mqdefault.jpg" group-title="ابرة وفتلة مع ايه",وأخيرا طريقة بوك او محفظة صغيرة من شبك الكانفا بطريقة سهلة وبسيطة للمبتدئات
 https://www.youtube.com/watch?v=m8RMq8f59G8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3f6171c551bfebb0226b4f7d526a8e6f.webp" group-title="TV | CANAIS | RELIGIOSOS", TV Gideões
-https://tv01.zas.media:1936/gideoes/gideoes/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aoq9CGU.png" group-title="TV | CANAIS | RELIGIOSOS", Gospel Cartoon (360p)
-https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospel.jpg" group-title="TV | CANAIS | RELIGIOSOS", Gospel Movie TV
-https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ipgo.xyz/tv/gmovies/imagens/logo_gospelf_site.png" group-title="TV | CANAIS | RELIGIOSOS", Gospel Movie TV
-https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png" group-title="TV | CANAIS | RELIGIOSOS", IURD TV (Assine nossa Lista Premium para mais canais de TV. Chame no WhatsApp(47)99626-5594)
-https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png" group-title="TV | CANAIS | RELIGIOSOS", IURD TV 
-https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/izkxzj9.png" group-title="TV | CANAIS | RELIGIOSOS", Novo Tempo
-https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/exdDHml.png" group-title="TV | CANAIS | RELIGIOSOS", Novo Tempo
-https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/9pZox0Z.png" group-title="TV | CANAIS | RELIGIOSOS", PLENA TV
-https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yvxG9m5.png" group-title="TV | CANAIS | RELIGIOSOS", Rede Gospel
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="TV | CANAIS | RELIGIOSOS", TV Aparecida
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/fk2mNc4.png" group-title="TV | CANAIS | RELIGIOSOS", TV Aparecida
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/egU0jsZ.png" group-title="TV | CANAIS | RELIGIOSOS", TV APARECIDA
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zBtvnD5.png" group-title="TV | CANAIS | RELIGIOSOS", TV Maná Brazil (1080p)
-https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y7b29VG.png" group-title="TV | CANAIS | RELIGIOSOS", TV Padre Cicero
-https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://wfnet.net.br/wp-content/uploads/2023/05/Rede_Gospel_sp.png" group-title="TV | CANAIS | RELIGIOSOS", TV Rede Gospel
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/iurd-logo.png" group-title="TV | CANAIS | RELIGIOSOS", TV UNIVERSAL
-https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_f61dea77-770b-444c-8f61-88b3f8666b3f.m3u8
-#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/60ddb652a9fbc_d19ecce6131ee18d0d846a16aae7ed6e.png" group-title="TV | CANAIS | RELIGIOSOS", Vivas Tv
-https://stmv1.liveplushd.com.br/tvvivam/tvvivam/chunklist_w252085201.m3u8
 #EXTINF:1493 tvg-logo="https://i.ytimg.com/vi/9_JvJsfXzSE/mqdefault.jpg" group-title="Ateliê Joana Fernandes Crochê Moderno",Step-by-step instructions for making a bag out of plastic mesh.
 https://www.youtube.com/watch?v=9_JvJsfXzSE
 #EXTINF:3124 tvg-logo="https://i.ytimg.com/vi/XwwliQ1gCXg/mqdefault.jpg" group-title="Ateliê Joana Fernandes Crochê Moderno",HOW TO MAKE AN EASY CANVAS BAG WITHOUT CROCHET
@@ -1336,10 +1265,6 @@ https://www.youtube.com/watch?v=nFieNE0hPls
 https://www.youtube.com/watch?v=YWBM8EijSE8
 #EXTINF:270 tvg-logo="https://i.ytimg.com/vi/YWBM8EijSE8/mqdefault.jpg" group-title="Ana Anjos Atelier",Dica: opções de tecidos para forro de bolsa - por Ana Anjos
 https://www.youtube.com/watch?v=YWBM8EijSE8
-#EXTINF:1115 tvg-logo="https://i.ytimg.com/vi/w6ELyeE1XLs/mqdefault.jpg" group-title="TV Aparecida",Bolsa Bordada em Tela Efeito 3D | Faça Você Mesmo
-https://www.youtube.com/watch?v=w6ELyeE1XLs
-#EXTINF:1115 tvg-logo="https://i.ytimg.com/vi/w6ELyeE1XLs/mqdefault.jpg" group-title="TV Aparecida",Bolsa Bordada em Tela Efeito 3D | Faça Você Mesmo
-https://www.youtube.com/watch?v=w6ELyeE1XLs
 #EXTINF:428 tvg-logo="https://i.ytimg.com/vi/p2HA1XYuYso/mqdefault.jpg" group-title="The Dark Hill",Fio náutico ou poliéster? Qual deles escolher?
 https://www.youtube.com/watch?v=p2HA1XYuYso
 #EXTINF:428 tvg-logo="https://i.ytimg.com/vi/p2HA1XYuYso/mqdefault.jpg" group-title="The Dark Hill",Fio náutico ou poliéster? Qual deles escolher?
@@ -1580,6 +1505,42 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanalredetv.png" group-title="TV | CANAIS | ABERTOS", RedeTV! TV Pantanal (MT)
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3f6171c551bfebb0226b4f7d526a8e6f.webp" group-title="TV | CANAIS | RELIGIOSOS", TV Gideões
+https://tv01.zas.media:1936/gideoes/gideoes/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aoq9CGU.png" group-title="TV | CANAIS | RELIGIOSOS", Gospel Cartoon (360p)
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospel.jpg" group-title="TV | CANAIS | RELIGIOSOS", Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ipgo.xyz/tv/gmovies/imagens/logo_gospelf_site.png" group-title="TV | CANAIS | RELIGIOSOS", Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png" group-title="TV | CANAIS | RELIGIOSOS", IURD TV (Assine nossa Lista Premium para mais canais de TV. Chame no WhatsApp(47)99626-5594)
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png" group-title="TV | CANAIS | RELIGIOSOS", IURD TV 
+https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/izkxzj9.png" group-title="TV | CANAIS | RELIGIOSOS", Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/exdDHml.png" group-title="TV | CANAIS | RELIGIOSOS", Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9pZox0Z.png" group-title="TV | CANAIS | RELIGIOSOS", PLENA TV
+https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yvxG9m5.png" group-title="TV | CANAIS | RELIGIOSOS", Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="TV | CANAIS | RELIGIOSOS", TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fk2mNc4.png" group-title="TV | CANAIS | RELIGIOSOS", TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/egU0jsZ.png" group-title="TV | CANAIS | RELIGIOSOS", TV APARECIDA
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zBtvnD5.png" group-title="TV | CANAIS | RELIGIOSOS", TV Maná Brazil (1080p)
+https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y7b29VG.png" group-title="TV | CANAIS | RELIGIOSOS", TV Padre Cicero
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://wfnet.net.br/wp-content/uploads/2023/05/Rede_Gospel_sp.png" group-title="TV | CANAIS | RELIGIOSOS", TV Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/iurd-logo.png" group-title="TV | CANAIS | RELIGIOSOS", TV UNIVERSAL
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_f61dea77-770b-444c-8f61-88b3f8666b3f.m3u8
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/60ddb652a9fbc_d19ecce6131ee18d0d846a16aae7ed6e.png" group-title="TV | CANAIS | RELIGIOSOS", Vivas Tv
+https://stmv1.liveplushd.com.br/tvvivam/tvvivam/chunklist_w252085201.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG-1599153408949.png" group-title="TV | CANAIS | PLUTO TV: ANIMES", Pluto TV Anime
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&devi ceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_do main=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="TV | CANAIS | PLUTO TV: ANIMES", Pluto TV Anime
