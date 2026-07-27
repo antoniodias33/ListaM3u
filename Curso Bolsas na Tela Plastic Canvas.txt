@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (27/07 12:25hs)" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: (27/07/2026 12:25hs)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (27/07 13:05hs)" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: (27/07/2026 13:05hs)
 https://www.youtube.com/watch?v=QuQFg7QUTnE
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (27/07 12:25hs)",Aula 1 - Bem-vindo ao Curso
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (27/07 13:05hs)",Aula 1 - Bem-vindo ao Curso
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (27/07 12:25hs)",Aula 2 - Como utilizar o aplicativo
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (27/07 13:05hs)",Aula 2 - Como utilizar o aplicativo
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N2bpVTVf640/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (27/07 12:25hs)",Aula 3 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N2bpVTVf640/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (27/07 13:05hs)",Aula 3 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
 https://www.youtube.com/watch?v=N2bpVTVf640
-#EXTINF:500 tvg-logo="https://i.ytimg.com/vi/MRIXyMphsWo/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (27/07 12:25hs)",Aula 4 - Saiba as PRINCIPAIS FERRAMENTAS para quem quer INICIAR em Bolsas em Tela
+#EXTINF:500 tvg-logo="https://i.ytimg.com/vi/MRIXyMphsWo/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (27/07 13:05hs)",Aula 4 - Saiba as PRINCIPAIS FERRAMENTAS para quem quer INICIAR em Bolsas em Tela
 https://www.youtube.com/watch?v=MRIXyMphsWo
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (27/07 12:25hs)",Aula 5 - Como organizar seu espaço de trabalho
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (27/07 13:05hs)",Aula 5 - Como organizar seu espaço de trabalho
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:215 tvg-logo="https://i.ytimg.com/vi/bsN2Kp-6wek/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (27/07 12:25hs)",A simple but very beautiful bag made of plastic canvas.
+#EXTINF:215 tvg-logo="https://i.ytimg.com/vi/bsN2Kp-6wek/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (27/07 13:05hs)",A simple but very beautiful bag made of plastic canvas.
 https://www.youtube.com/watch?v=bsN2Kp-6wek
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 01 - Telas: tamanhos e espessuras
 https://www.youtube.com/watch?v=B6MdFl1PIDA
@@ -45,6 +45,24 @@ https://www.youtube.com/watch?v=B6MdFl1PIDA
 https://drive.google.com/uc?export=download&id=1Un2o9qPrkn-87wk1NIqwi4YWaFGgXbqA
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-4BbjcXRDik/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 15 - Materiais Essenciais Para Bolsas na Malha Plástica (Não Compre Antes de Ver Isso!)
 https://www.youtube.com/watch?v=-4BbjcXRDik
+#EXTINF:-1 group-title="TESTE",Aula 3 - Teste
+https://www.youtube.com/watch?v=9_JvJsfXzSE
+#EXTINF:-1 group-title="TESTE",Aula 5 - Teste
+https://www.youtube.com/watch?v=1EFFra1bkLg
+#EXTINF:-1 group-title="TESTE",Aula 6 - Teste
+https://www.youtube.com/watch?v=khcH-5IwguE
+#EXTINF:-1 group-title="TESTE",Aula 7 - Teste
+https://www.youtube.com/watch?v=BaWur27gGqg
+#EXTINF:-1 group-title="TESTE",Aula 3 - Materiais necessários EMBED
+https://www.youtube.com/embed/v=erGbeK-psPQ
+#EXTINF:-1 group-title="TESTE",Aula 3 - Teste EMBED
+https://www.youtube.com/embed/9_JvJsfXzSE
+#EXTINF:-1 group-title="TESTE",Aula 5 - Teste EMBED
+https://www.youtube.com/embed/1EFFra1bkLg
+#EXTINF:-1 group-title="TESTE",Aula 6 - Teste
+https://www.youtube.com/embed/khcH-5IwguE
+#EXTINF:-1 group-title="TESTE",Aula 7 - Teste
+https://www.youtube.com/embed/BaWur27gGqg
 #EXTINF:723 tvg-logo="https://i.ytimg.com/vi/XGs_DmcrX7o/mqdefault.jpg" group-title="MÓDULO 02 - Fundamentos",Aula 1 - TELA PLÁSTICA  QUAL MELHOR FIO  Telas com furos de 3mm
 https://www.youtube.com/watch?v=XGs_DmcrX7o
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wLBh1S3.jpeg" group-title="MÓDULO 02 - Fundamentos",Aula 2 - Qual Fio Usar
@@ -65,12 +83,12 @@ https://drive.google.com/uc?export=download&id=1AVcRFbzIiBSJ1z3HThu3FIxyLHcHqugq
 https://drive.google.com/uc?export=download&id=1rRRLbIlgh2Y8ri8RRrbq2EmfJ6--ZYKB
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zaVq1hC.jpeg" group-title="MÓDULO 03 - Técnicas Essenciais",Aula 4 Colocando o Fecho e Alça (Passo a Passo)
 https://drive.google.com/uc?export=download&id=1jk5CXSmBJ8iATy09NcD_B4c2uBHoJrsk
-#EXTINF:1615 tvg-logo="https://i.ytimg.com/vi/c_gku3rI1V0/mqdefault.jpg" group-title="MÓDULO 03 - Técnicas Essenciais",Como cortar sua tela para montar sua bolsa
+#EXTINF:1615 tvg-logo="https://i.ytimg.com/vi/c_gku3rI1V0/mqdefault.jpg" group-title="MÓDULO 03 - Técnicas Essenciais",Aula 5 - Como cortar sua tela para montar sua bolsa
 https://www.youtube.com/watch?v=c_gku3rI1V0
-#EXTINF:347 tvg-logo="https://i.ytimg.com/vi/kg-eB5zYtt8/mqdefault.jpg" group-title="MÓDULO 03 - Técnicas Essenciais",Embalagens para Artesanato fáceis de fazer
+#EXTINF:347 tvg-logo="https://i.ytimg.com/vi/kg-eB5zYtt8/mqdefault.jpg" group-title="MÓDULO 03 - Técnicas Essenciais",Aula 6 - Embalagens para Artesanato fáceis de fazer
 https://www.youtube.com/watch?v=kg-eB5zYtt8
-#EXTINF:719 tvg-logo="https://i.ytimg.com/vi/ev6RZVJqayg/mqdefault.jpg" group-title="MÓDULO 03 - Técnicas Essenciais",Passo a Passo ponto Bolsa de Tela Júlia - Parte 1
-https://www.youtube.com/watch?v=ev6RZVJqayg
+#EXTINF:952 tvg-logo="https://i.ytimg.com/vi/PnKEVWLOtFA/mqdefault.jpg" group-title="MÓDULO 03 - Técnicas Essenciais",Aula 7 - Vamos fazer a alca Jessy? você faz vai amar!!
+https://www.youtube.com/watch?v=PnKEVWLOtFA
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9_JvJsfXzSE/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Aula 1 - Bolsa na tela plástica Passo a Passo
 https://www.youtube.com/watch?v=9_JvJsfXzSE
 #EXTINF:1142 tvg-logo="https://i.ytimg.com/vi/5TNmdxJ5Zxo/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Aula 2 - BOLSA DE TELA PLÁSTICA
@@ -109,24 +127,8 @@ https://www.youtube.com/watch?v=2_ZEH8DvRjk
 https://www.youtube.com/watch?v=YbgJ3x9QZiA
 #EXTINF:3621 tvg-logo="https://i.ytimg.com/vi/EtL7P1OiIB8/mqdefault.jpg" group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",COMO FAZER BOLSA DIRETO NA TELA RAPIDO / FACÍL  #crochet #croche
 https://www.youtube.com/watch?v=EtL7P1OiIB8
-#EXTINF:-1 group-title="TESTE",Aula 3 - Teste
-https://www.youtube.com/watch?v=9_JvJsfXzSE
-#EXTINF:-1 group-title="TESTE",Aula 5 - Teste
-https://www.youtube.com/watch?v=1EFFra1bkLg
-#EXTINF:-1 group-title="TESTE",Aula 6 - Teste
-https://www.youtube.com/watch?v=khcH-5IwguE
-#EXTINF:-1 group-title="TESTE",Aula 7 - Teste
-https://www.youtube.com/watch?v=BaWur27gGqg
-#EXTINF:-1 group-title="TESTE",Aula 3 - Materiais necessários EMBED
-https://www.youtube.com/embed/v=erGbeK-psPQ
-#EXTINF:-1 group-title="TESTE",Aula 3 - Teste EMBED
-https://www.youtube.com/embed/9_JvJsfXzSE
-#EXTINF:-1 group-title="TESTE",Aula 5 - Teste EMBED
-https://www.youtube.com/embed/1EFFra1bkLg
-#EXTINF:-1 group-title="TESTE",Aula 6 - Teste
-https://www.youtube.com/embed/khcH-5IwguE
-#EXTINF:-1 group-title="TESTE",Aula 7 - Teste
-https://www.youtube.com/embed/BaWur27gGqg
+#EXTINF:719 tvg-logo="https://i.ytimg.com/vi/ev6RZVJqayg/mqdefault.jpg" group-title="MÓDULO 06 - PONTOS (PASSO A PASSO)",Passo a Passo ponto Bolsa de Tela Júlia - Parte 1
+https://www.youtube.com/watch?v=ev6RZVJqayg
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/an_webp/rouBKsH-B7I/mqdefault_6s.webp?du=3000&sqp=CIqwkNMG&rs=AOn4CLCYUCyglThoYj-sLpQS65KeJsU-7w" group-title="MASTER CLASS",BOLSAS CROCHÊ E TELAS
 https://www.youtube.com/watch?v=rouBKsH-B7I
 #EXTINF:719 tvg-logo="https://i.ytimg.com/vi/9Opom1PU-Kk/mqdefault.jpg" group-title="MÓDULO 10 - AULAS EXTRAS",Biblioteca de Pontos: Como fazer um ponto bonito usando plástico como tela
@@ -955,8 +957,6 @@ https://www.youtube.com/watch?v=kFMrUjngJpY
 https://www.youtube.com/watch?v=BNBUEOItzz8
 #EXTINF:841 tvg-logo="https://i.ytimg.com/vi/f85BjJiLauk/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",How to price your handbag (and other lessons from the luxury market) #fyp
 https://www.youtube.com/watch?v=f85BjJiLauk
-#EXTINF:952 tvg-logo="https://i.ytimg.com/vi/PnKEVWLOtFA/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",Vamos fazer a alca Jessy? você faz vai amar!!
-https://www.youtube.com/watch?v=PnKEVWLOtFA
 #EXTINF:3246 tvg-logo="https://i.ytimg.com/vi/DCJ_BBulARw/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",Raquel Baguette Bag with Mesh Base
 https://www.youtube.com/watch?v=DCJ_BBulARw
 #EXTINF:2259 tvg-logo="https://i.ytimg.com/vi/a8UwJ3AyRHU/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",Learn how to make an Amanda bag on screen #screen
@@ -1005,8 +1005,6 @@ https://www.youtube.com/watch?v=kFMrUjngJpY
 https://www.youtube.com/watch?v=BNBUEOItzz8
 #EXTINF:841 tvg-logo="https://i.ytimg.com/vi/f85BjJiLauk/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",How to price your handbag (and other lessons from the luxury market) #fyp
 https://www.youtube.com/watch?v=f85BjJiLauk
-#EXTINF:952 tvg-logo="https://i.ytimg.com/vi/PnKEVWLOtFA/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",Vamos fazer a alca Jessy? você faz vai amar!!
-https://www.youtube.com/watch?v=PnKEVWLOtFA
 #EXTINF:3246 tvg-logo="https://i.ytimg.com/vi/DCJ_BBulARw/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",Raquel Baguette Bag with Mesh Base
 https://www.youtube.com/watch?v=DCJ_BBulARw
 #EXTINF:1250 tvg-logo="https://i.ytimg.com/vi/daKNYHyYXug/mqdefault.jpg" group-title="Entrelinhas artesanato criativo ", pricing and materials
