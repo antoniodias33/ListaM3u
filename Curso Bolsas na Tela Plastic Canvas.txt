@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (29/07 12:30hs)" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: (29/07/2026 12:30hs)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (29/07 17:43hs)" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: (29/07/2026 12:43hs)
 https://www.youtube.com/watch?v=QuQFg7QUTnE
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (29/07 12:30hs)",Aula 1 - Bem-vindo ao Curso
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (29/07 17:43hs)",Aula 1 - Bem-vindo ao Curso
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (29/07 12:30hs)",Aula 2 - Como utilizar o aplicativo
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (29/07 17:43hs)",Aula 2 - Como utilizar o aplicativo
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N2bpVTVf640/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (29/07 12:30hs)",Aula 3 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N2bpVTVf640/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (29/07 17:43hs)",Aula 3 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
 https://www.youtube.com/watch?v=N2bpVTVf640
-#EXTINF:500 tvg-logo="https://i.ytimg.com/vi/MRIXyMphsWo/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (29/07 12:30hs)",Aula 4 - Saiba as PRINCIPAIS FERRAMENTAS para quem quer INICIAR em Bolsas em Tela
+#EXTINF:500 tvg-logo="https://i.ytimg.com/vi/MRIXyMphsWo/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (29/07 17:43hs)",Aula 4 - Saiba as PRINCIPAIS FERRAMENTAS para quem quer INICIAR em Bolsas em Tela
 https://www.youtube.com/watch?v=MRIXyMphsWo
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (29/07 12:30hs)",Aula 5 - Como organizar seu espaço de trabalho
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (29/07 17:43hs)",Aula 5 - Como organizar seu espaço de trabalho
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:215 tvg-logo="https://i.ytimg.com/vi/bsN2Kp-6wek/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (29/07 12:30hs)",A simple but very beautiful bag made of plastic canvas.
+#EXTINF:215 tvg-logo="https://i.ytimg.com/vi/bsN2Kp-6wek/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (29/07 17:43hs)",A simple but very beautiful bag made of plastic canvas.
 https://www.youtube.com/watch?v=bsN2Kp-6wek
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 01 - Telas: tamanhos e espessuras
 https://www.youtube.com/watch?v=B6MdFl1PIDA
@@ -113,6 +113,8 @@ https://www.youtube.com/watch?v=iYfgvAtLbVg
 https://www.youtube.com/watch?v=LTE67pknJrQ
 #EXTINF:3443 tvg-logo="https://i.ytimg.com/vi/IXsDicCY088/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",DESVENDANDO O SEGREDO DA BOLSA FÁCIL DE FAZER SEM CROCHÊ!
 https://www.youtube.com/watch?v=IXsDicCY088
+#EXTINF:-1 group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Passo a passo bolsa na tela para iniciantes PARTE 1
+https://www.youtube.com/watch?v=UwQi-gocOqU
 #EXTINF:1244 tvg-logo="https://i.ytimg.com/vi/6KdqGQMbb1s/mqdefault.jpg" group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",Como marcar sua tela para montar sua bolsa 1
 https://www.youtube.com/watch?v=6KdqGQMbb1s
 #EXTINF:1343 tvg-logo="https://i.ytimg.com/vi/UyrMSJr4po4/mqdefault.jpg" group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",Como marcar sua tela para montar sua bolsa 2
