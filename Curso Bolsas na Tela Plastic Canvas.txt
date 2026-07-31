@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (31/07 15:40hs)" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: (31/07/2026 15:40hs)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (31/07 16:15hs)" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: (31/07/2026 16:15hs)
 https://www.youtube.com/watch?v=QuQFg7QUTnE
-#EXTINF:215 tvg-logo="https://i.ytimg.com/vi/bsN2Kp-6wek/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (31/07 15:40hs)",A simple but very beautiful bag made of plastic canvas.
+#EXTINF:215 tvg-logo="https://i.ytimg.com/vi/bsN2Kp-6wek/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (31/07 16:15hs)",A simple but very beautiful bag made of plastic canvas.
 https://www.youtube.com/watch?v=bsN2Kp-6wek
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (31/07 15:40hs)",Aula 1 - Bem-vindo ao Curso
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (31/07 16:15hs)",Aula 1 - Bem-vindo ao Curso
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (31/07 15:40hs)",Aula 2 - Como utilizar o aplicativo
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (31/07 16:15hs)",Aula 2 - Como utilizar o aplicativo
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N2bpVTVf640/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (31/07 15:40hs)",Aula 3 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N2bpVTVf640/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (31/07 16:15hs)",Aula 3 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
 https://www.youtube.com/watch?v=N2bpVTVf640
-#EXTINF:500 tvg-logo="https://i.ytimg.com/vi/MRIXyMphsWo/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (31/07 15:40hs)",Aula 4 - Saiba as PRINCIPAIS FERRAMENTAS para quem quer INICIAR em Bolsas em Tela
+#EXTINF:500 tvg-logo="https://i.ytimg.com/vi/MRIXyMphsWo/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (31/07 16:15hs)",Aula 4 - Saiba as PRINCIPAIS FERRAMENTAS para quem quer INICIAR em Bolsas em Tela
 https://www.youtube.com/watch?v=MRIXyMphsWo
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (31/07 15:40hs)",Aula 5 - Como organizar seu espaço de trabalho
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (31/07 16:15hs)",Aula 5 - Como organizar seu espaço de trabalho
 https://www.youtube.com/watch?v=B6MdFl1PIDA
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 01 - Telas: tamanhos e espessuras
 https://www.youtube.com/watch?v=B6MdFl1PIDA
@@ -1959,3 +1959,413 @@ https://player.vimeo.com/video/1193802701
 https://player.vimeo.com/video/1193802702
 #EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2703
 https://player.vimeo.com/video/1193802703
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6224
+https://player.vimeo.com/video/1202796224
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6225
+https://player.vimeo.com/video/1193806225
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6226
+https://player.vimeo.com/video/1193806226
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6227
+https://player.vimeo.com/video/1193806227
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6228
+https://player.vimeo.com/video/1193806228
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6229
+https://player.vimeo.com/video/1193806229
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6230
+https://player.vimeo.com/video/1193806230
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6231
+https://player.vimeo.com/video/1193806231
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6232
+https://player.vimeo.com/video/1193806232
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6233
+https://player.vimeo.com/video/1193806233
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6234
+https://player.vimeo.com/video/1193806234
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6235
+https://player.vimeo.com/video/1193806235
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6236
+https://player.vimeo.com/video/1193806236
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6237
+https://player.vimeo.com/video/1193806237
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6238
+https://player.vimeo.com/video/1193806238
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6239
+https://player.vimeo.com/video/1193806239
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6240
+https://player.vimeo.com/video/1193806240
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6241
+https://player.vimeo.com/video/1193806241
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6242
+https://player.vimeo.com/video/1193806242
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6243
+https://player.vimeo.com/video/1193806243
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6244
+https://player.vimeo.com/video/1193806244
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6245
+https://player.vimeo.com/video/1193806245
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6246
+https://player.vimeo.com/video/1193806246
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6247
+https://player.vimeo.com/video/1193806247
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6248
+https://player.vimeo.com/video/1193806248
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6249
+https://player.vimeo.com/video/1193806249
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6250
+https://player.vimeo.com/video/1193806250
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6251
+https://player.vimeo.com/video/1193806251
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6252
+https://player.vimeo.com/video/1193806252
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6253
+https://player.vimeo.com/video/1193806253
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6254
+https://player.vimeo.com/video/1193806254
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6255
+https://player.vimeo.com/video/1193806255
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6256
+https://player.vimeo.com/video/1193806256
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6257
+https://player.vimeo.com/video/1193806257
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6258
+https://player.vimeo.com/video/1193806258
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6259
+https://player.vimeo.com/video/1193806259
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6260
+https://player.vimeo.com/video/1193806260
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6261
+https://player.vimeo.com/video/1193806261
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6262
+https://player.vimeo.com/video/1193806262
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6263
+https://player.vimeo.com/video/1193806263
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6264
+https://player.vimeo.com/video/1193806264
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6265
+https://player.vimeo.com/video/1193806265
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6266
+https://player.vimeo.com/video/1193806266
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6267
+https://player.vimeo.com/video/1193806267
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6268
+https://player.vimeo.com/video/1193806268
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6269
+https://player.vimeo.com/video/1193806269
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6270
+https://player.vimeo.com/video/1193806270
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6271
+https://player.vimeo.com/video/1193806271
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6272
+https://player.vimeo.com/video/1193806272
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6273
+https://player.vimeo.com/video/1193806273
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6274
+https://player.vimeo.com/video/1193806274
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6275
+https://player.vimeo.com/video/1193806275
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6276
+https://player.vimeo.com/video/1193806276
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6277
+https://player.vimeo.com/video/1193806277
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6278
+https://player.vimeo.com/video/1193806278
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6279
+https://player.vimeo.com/video/1193806279
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6280
+https://player.vimeo.com/video/1193806280
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6281
+https://player.vimeo.com/video/1193806281
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6282
+https://player.vimeo.com/video/1193806282
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6283
+https://player.vimeo.com/video/1193806283
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6284
+https://player.vimeo.com/video/1193806284
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6285
+https://player.vimeo.com/video/1193806285
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6286
+https://player.vimeo.com/video/1193806286
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6287
+https://player.vimeo.com/video/1193806287
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6288
+https://player.vimeo.com/video/1193806288
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6289
+https://player.vimeo.com/video/1193806289
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6290
+https://player.vimeo.com/video/1193806290
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6291
+https://player.vimeo.com/video/1193806291
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6292
+https://player.vimeo.com/video/1193806292
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6293
+https://player.vimeo.com/video/1193806293
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6294
+https://player.vimeo.com/video/1193806294
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6295
+https://player.vimeo.com/video/1193806295
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6296
+https://player.vimeo.com/video/1193806296
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6297
+https://player.vimeo.com/video/1193806297
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6298
+https://player.vimeo.com/video/1193806298
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6299
+https://player.vimeo.com/video/1193806299
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6300
+https://player.vimeo.com/video/1193806300
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6301
+https://player.vimeo.com/video/1193806301
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6302
+https://player.vimeo.com/video/1193806302
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6303
+https://player.vimeo.com/video/1193806303
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6304
+https://player.vimeo.com/video/1193806304
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6305
+https://player.vimeo.com/video/1193806305
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6306
+https://player.vimeo.com/video/1193806306
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6307
+https://player.vimeo.com/video/1193806307
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6308
+https://player.vimeo.com/video/1193806308
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6309
+https://player.vimeo.com/video/1193806309
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6310
+https://player.vimeo.com/video/1193806310
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6311
+https://player.vimeo.com/video/1193806311
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6312
+https://player.vimeo.com/video/1193806312
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6313
+https://player.vimeo.com/video/1193806313
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6314
+https://player.vimeo.com/video/1193806314
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6315
+https://player.vimeo.com/video/1193806315
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6316
+https://player.vimeo.com/video/1193806316
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6317
+https://player.vimeo.com/video/1193806317
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6318
+https://player.vimeo.com/video/1193806318
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6319
+https://player.vimeo.com/video/1193806319
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6320
+https://player.vimeo.com/video/1193806320
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6321
+https://player.vimeo.com/video/1193806321
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6322
+https://player.vimeo.com/video/1193806322
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6323
+https://player.vimeo.com/video/1193806323
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6324
+https://player.vimeo.com/video/1193806324
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6325
+https://player.vimeo.com/video/1193806325
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6326
+https://player.vimeo.com/video/1193806326
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6327
+https://player.vimeo.com/video/1193806327
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6328
+https://player.vimeo.com/video/1193806328
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6329
+https://player.vimeo.com/video/1193806329
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6330
+https://player.vimeo.com/video/1193806330
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6331
+https://player.vimeo.com/video/1193806331
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6332
+https://player.vimeo.com/video/1193806332
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6333
+https://player.vimeo.com/video/1193806333
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6334
+https://player.vimeo.com/video/1193806334
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6335
+https://player.vimeo.com/video/1193806335
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6336
+https://player.vimeo.com/video/1193806336
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6337
+https://player.vimeo.com/video/1193806337
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6338
+https://player.vimeo.com/video/1193806338
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6339
+https://player.vimeo.com/video/1193806339
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6340
+https://player.vimeo.com/video/1193806340
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6341
+https://player.vimeo.com/video/1193806341
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6342
+https://player.vimeo.com/video/1193806342
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6343
+https://player.vimeo.com/video/1193806343
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6344
+https://player.vimeo.com/video/1193806344
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6345
+https://player.vimeo.com/video/1193806345
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6346
+https://player.vimeo.com/video/1193806346
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6347
+https://player.vimeo.com/video/1193806347
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6348
+https://player.vimeo.com/video/1193806348
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6349
+https://player.vimeo.com/video/1193806349
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6350
+https://player.vimeo.com/video/1193806350
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6351
+https://player.vimeo.com/video/1193806351
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6352
+https://player.vimeo.com/video/1193806352
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6353
+https://player.vimeo.com/video/1193806353
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6354
+https://player.vimeo.com/video/1193806354
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6355
+https://player.vimeo.com/video/1193806355
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6356
+https://player.vimeo.com/video/1193806356
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6357
+https://player.vimeo.com/video/1193806357
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6358
+https://player.vimeo.com/video/1193806358
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6359
+https://player.vimeo.com/video/1193806359
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6360
+https://player.vimeo.com/video/1193806360
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6361
+https://player.vimeo.com/video/1193806361
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6362
+https://player.vimeo.com/video/1193806362
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6363
+https://player.vimeo.com/video/1193806363
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6364
+https://player.vimeo.com/video/1193806364
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6365
+https://player.vimeo.com/video/1193806365
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6366
+https://player.vimeo.com/video/1193806366
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6367
+https://player.vimeo.com/video/1193806367
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6368
+https://player.vimeo.com/video/1193806368
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6369
+https://player.vimeo.com/video/1193806369
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6370
+https://player.vimeo.com/video/1193806370
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6371
+https://player.vimeo.com/video/1193806371
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6372
+https://player.vimeo.com/video/1193806372
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6373
+https://player.vimeo.com/video/1193806373
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6374
+https://player.vimeo.com/video/1193806374
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6375
+https://player.vimeo.com/video/1193806375
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6376
+https://player.vimeo.com/video/1193806376
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6377
+https://player.vimeo.com/video/1193806377
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6378
+https://player.vimeo.com/video/1193806378
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6379
+https://player.vimeo.com/video/1193806379
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6380
+https://player.vimeo.com/video/1193806380
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6381
+https://player.vimeo.com/video/1193806381
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6382
+https://player.vimeo.com/video/1193806382
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6383
+https://player.vimeo.com/video/1193806383
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6384
+https://player.vimeo.com/video/1193806384
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6385
+https://player.vimeo.com/video/1193806385
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6386
+https://player.vimeo.com/video/1193806386
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6387
+https://player.vimeo.com/video/1193806387
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6388
+https://player.vimeo.com/video/1193806388
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6389
+https://player.vimeo.com/video/1193806389
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6390
+https://player.vimeo.com/video/1193806390
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6391
+https://player.vimeo.com/video/1193806391
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6392
+https://player.vimeo.com/video/1193806392
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6393
+https://player.vimeo.com/video/1193806393
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6394
+https://player.vimeo.com/video/1193806394
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6395
+https://player.vimeo.com/video/1193806395
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6396
+https://player.vimeo.com/video/1193806396
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6397
+https://player.vimeo.com/video/1193806397
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6398
+https://player.vimeo.com/video/1193806398
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6399
+https://player.vimeo.com/video/1193806399
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6400
+https://player.vimeo.com/video/1193806400
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6401
+https://player.vimeo.com/video/1193806401
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6402
+https://player.vimeo.com/video/1193806402
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6403
+https://player.vimeo.com/video/1193806403
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6404
+https://player.vimeo.com/video/1193806404
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6405
+https://player.vimeo.com/video/1193806405
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6406
+https://player.vimeo.com/video/1193806406
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6407
+https://player.vimeo.com/video/1193806407
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6408
+https://player.vimeo.com/video/1193806408
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6409
+https://player.vimeo.com/video/1193806409
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6410
+https://player.vimeo.com/video/1193806410
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6411
+https://player.vimeo.com/video/1193806411
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6412
+https://player.vimeo.com/video/1193806412
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6413
+https://player.vimeo.com/video/1193806413
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6414
+https://player.vimeo.com/video/1193806414
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6415
+https://player.vimeo.com/video/1193806415
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6416
+https://player.vimeo.com/video/1193806416
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6417
+https://player.vimeo.com/video/1193806417
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6418
+https://player.vimeo.com/video/1193806418
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6419
+https://player.vimeo.com/video/1193806419
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6420
+https://player.vimeo.com/video/1193806420
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6421
+https://player.vimeo.com/video/1193806421
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6422
+https://player.vimeo.com/video/1193806422
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6423
+https://player.vimeo.com/video/1193806423
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6424
+https://player.vimeo.com/video/1193806424
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6425
+https://player.vimeo.com/video/1193806425
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6426
+https://player.vimeo.com/video/1193806426
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6427
+https://player.vimeo.com/video/1193806427
+#EXTINF:-1 group-title="TV | CANAIS | VIMEO",CANAL 6428
+https://player.vimeo.com/video/1193806428
