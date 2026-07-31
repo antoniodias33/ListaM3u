@@ -1,18 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (30/07 15:00hs)" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: (30/07/2026 15:00hs)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (31/07 15:40hs)" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: (31/07/2026 15:40hs)
 https://www.youtube.com/watch?v=QuQFg7QUTnE
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (30/07 15:00hs)",Aula 1 - Bem-vindo ao Curso
-https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (30/07 15:00hs)",Aula 2 - Como utilizar o aplicativo
-https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N2bpVTVf640/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (30/07 15:00hs)",Aula 3 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
-https://www.youtube.com/watch?v=N2bpVTVf640
-#EXTINF:500 tvg-logo="https://i.ytimg.com/vi/MRIXyMphsWo/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (30/07 15:00hs)",Aula 4 - Saiba as PRINCIPAIS FERRAMENTAS para quem quer INICIAR em Bolsas em Tela
-https://www.youtube.com/watch?v=MRIXyMphsWo
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (30/07 15:00hs)",Aula 5 - Como organizar seu espaço de trabalho
-https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:215 tvg-logo="https://i.ytimg.com/vi/bsN2Kp-6wek/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (30/07 15:00hs)",A simple but very beautiful bag made of plastic canvas.
+#EXTINF:215 tvg-logo="https://i.ytimg.com/vi/bsN2Kp-6wek/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (31/07 15:40hs)",A simple but very beautiful bag made of plastic canvas.
 https://www.youtube.com/watch?v=bsN2Kp-6wek
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (31/07 15:40hs)",Aula 1 - Bem-vindo ao Curso
+https://www.youtube.com/watch?v=B6MdFl1PIDA
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (31/07 15:40hs)",Aula 2 - Como utilizar o aplicativo
+https://www.youtube.com/watch?v=B6MdFl1PIDA
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N2bpVTVf640/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (31/07 15:40hs)",Aula 3 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
+https://www.youtube.com/watch?v=N2bpVTVf640
+#EXTINF:500 tvg-logo="https://i.ytimg.com/vi/MRIXyMphsWo/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (31/07 15:40hs)",Aula 4 - Saiba as PRINCIPAIS FERRAMENTAS para quem quer INICIAR em Bolsas em Tela
+https://www.youtube.com/watch?v=MRIXyMphsWo
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (31/07 15:40hs)",Aula 5 - Como organizar seu espaço de trabalho
+https://www.youtube.com/watch?v=B6MdFl1PIDA
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 01 - Telas: tamanhos e espessuras
 https://www.youtube.com/watch?v=B6MdFl1PIDA
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159366254-d25c1fb421980e01c88038cb3889fae9c7ad5b2e8b0612136d15f8fdcc57513e-d_360x203?&r=pad&region=us" group-title="MÓDULO 01 - Materiais Básicos",Aula 03 - Diferença entre tela 3 mm e 4 mm e outras (Bolsa Edna aos 37Minutos)
@@ -109,56 +109,56 @@ https://www.youtube.com/watch?v=w6ELyeE1XLs
 https://www.youtube.com/watch?v=S25D6Qqegjo
 #EXTINF:1920 tvg-logo="https://i.ytimg.com/vi/_JkV6P1XyEA/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Bolsa na Tela | Qualquer um pode fazer! | Tutorial Passo a Passo (Faça Você Mesmo) OK (Dublado)
 https://www.youtube.com/watch?v=_JkV6P1XyEA
-#EXTINF:547 tvg-logo="https://i.ytimg.com/vi/iYfgvAtLbVg/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Esta ideia vai te ajudar muito nas férias deste verão! É tão caro!
-https://www.youtube.com/watch?v=iYfgvAtLbVg
-#EXTINF:635 tvg-logo="https://i.ytimg.com/vi/LTE67pknJrQ/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Qualquer um consegue fazer – Bolsa de Tela Plástica (DIY)
-https://www.youtube.com/watch?v=LTE67pknJrQ
 #EXTINF:3443 tvg-logo="https://i.ytimg.com/vi/IXsDicCY088/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",DESVENDANDO O SEGREDO DA BOLSA FÁCIL DE FAZER SEM CROCHÊ!
 https://www.youtube.com/watch?v=IXsDicCY088
+#EXTINF:547 tvg-logo="https://i.ytimg.com/vi/iYfgvAtLbVg/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Esta ideia vai te ajudar muito nas férias deste verão! É tão caro!
+https://www.youtube.com/watch?v=iYfgvAtLbVg
 #EXTINF:-1 group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Passo a passo bolsa na tela para iniciantes PARTE 1
 https://www.youtube.com/watch?v=UwQi-gocOqU
+#EXTINF:635 tvg-logo="https://i.ytimg.com/vi/LTE67pknJrQ/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Qualquer um consegue fazer – Bolsa de Tela Plástica (DIY)
+https://www.youtube.com/watch?v=LTE67pknJrQ
+#EXTINF:1830 tvg-logo="https://i.ytimg.com/vi/2_ZEH8DvRjk/mqdefault.jpg" group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",COMO FAZER BOLSA BORDADA EM TELA AULA 3
+https://www.youtube.com/watch?v=2_ZEH8DvRjk
+#EXTINF:1244 tvg-logo="https://i.ytimg.com/vi/6KdqGQMbb1s/mqdefault.jpg" group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",Como marcar sua tela para montar sua bolsa 1
+https://www.youtube.com/watch?v=6KdqGQMbb1s
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/d77hC1sZjNk/mqdefault.jpg" group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",Uma bolsa de malha feita com fio de corrente (fácil para iniciantes)
+https://www.youtube.com/watch?v=d77hC1sZjNk
+#EXTINF:3621 tvg-logo="https://i.ytimg.com/vi/EtL7P1OiIB8/mqdefault.jpg" group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",COMO FAZER BOLSA DIRETO NA TELA RAPIDO / FACÍL  #crochet #croche
+https://www.youtube.com/watch?v=EtL7P1OiIB8
+#EXTINF:1937 tvg-logo="https://i.ytimg.com/vi/Jre1lbPjetI/mqdefault.jpg" group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",COMO FAZER BOLSA BORDADA EM TELA AULA 2
+https://www.youtube.com/watch?v=Jre1lbPjetI
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mFjySoh1PMU/mqdefault.jpg" group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",Bolsa de malha com ponto folha (Fácil para iniciantes) Parte 1
 https://www.youtube.com/watch?v=mFjySoh1PMU
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tBXsCNIDjH4/mqdefault.jpg" group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",Bolsa de malha com ponto corrente e ponto folha (Parte 2)
 https://www.youtube.com/watch?v=tBXsCNIDjH4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/d77hC1sZjNk/mqdefault.jpg" group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",Bolsa de malha feita com Ponto corrente, fácil para iniciantes
-https://www.youtube.com/watch?v=d77hC1sZjNk
-#EXTINF:-1 group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",Bolsa de malha fácil de usar para iniciantes
-https://www.youtube.com/watch?v=w0aLyFBagOU
-#EXTINF:1814 tvg-logo="https://i.ytimg.com/vi/UFT27JUPyi0/mqdefault.jpg" group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",COMO FAZER BOLSA BORDADA EM TELA AULA 1
-https://www.youtube.com/watch?v=UFT27JUPyi0
-#EXTINF:1937 tvg-logo="https://i.ytimg.com/vi/Jre1lbPjetI/mqdefault.jpg" group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",COMO FAZER BOLSA BORDADA EM TELA AULA 2
-https://www.youtube.com/watch?v=Jre1lbPjetI
-#EXTINF:1830 tvg-logo="https://i.ytimg.com/vi/2_ZEH8DvRjk/mqdefault.jpg" group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",COMO FAZER BOLSA BORDADA EM TELA AULA 3
-https://www.youtube.com/watch?v=2_ZEH8DvRjk
-#EXTINF:1938 tvg-logo="https://i.ytimg.com/vi/YbgJ3x9QZiA/mqdefault.jpg" group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",COMO FAZER BOLSA BORDADA EM TELA AULA FINAL
-https://www.youtube.com/watch?v=YbgJ3x9QZiA
-#EXTINF:3621 tvg-logo="https://i.ytimg.com/vi/EtL7P1OiIB8/mqdefault.jpg" group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",COMO FAZER BOLSA DIRETO NA TELA RAPIDO / FACÍL  #crochet #croche
-https://www.youtube.com/watch?v=EtL7P1OiIB8
 #EXTINF:-1 group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",Como fazer o ponto leque em tela plástica: biblioteca de pontos de tela plástica
 https://www.youtube.com/watch?v=tlp-xGenWHI
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/z7RD7pbi5Qw/mqdefault.jpg" group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",Como fazer uma bolsa de malha usando o ponto ziguezague
-https://www.youtube.com/watch?v=z7RD7pbi5Qw
-#EXTINF:1244 tvg-logo="https://i.ytimg.com/vi/6KdqGQMbb1s/mqdefault.jpg" group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",Como marcar sua tela para montar sua bolsa 1
-https://www.youtube.com/watch?v=6KdqGQMbb1s
+#EXTINF:1814 tvg-logo="https://i.ytimg.com/vi/UFT27JUPyi0/mqdefault.jpg" group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",COMO FAZER BOLSA BORDADA EM TELA AULA 1
+https://www.youtube.com/watch?v=UFT27JUPyi0
 #EXTINF:1343 tvg-logo="https://i.ytimg.com/vi/UyrMSJr4po4/mqdefault.jpg" group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",Como marcar sua tela para montar sua bolsa 2
 https://www.youtube.com/watch?v=UyrMSJr4po4
+#EXTINF:-1 group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",Bolsa de malha fácil de usar para iniciantes
+https://www.youtube.com/watch?v=w0aLyFBagOU
+#EXTINF:1938 tvg-logo="https://i.ytimg.com/vi/YbgJ3x9QZiA/mqdefault.jpg" group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",COMO FAZER BOLSA BORDADA EM TELA AULA FINAL
+https://www.youtube.com/watch?v=YbgJ3x9QZiA
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/z7RD7pbi5Qw/mqdefault.jpg" group-title="MÓDULO 05 - PASSO A PASSO AVANÇADOS",Como fazer uma bolsa de malha usando o ponto ziguezague
+https://www.youtube.com/watch?v=z7RD7pbi5Qw
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/HWg-dlQL_Ds/mqdefault.jpg" group-title="MÓDULO 06 - PONTOS (PASSO A PASSO)",Bolsa BORDADA NA TELA PLÁSTICA / O segredo da Bolsa na tela sem crochê - Clutch Amaya
 https://www.youtube.com/watch?v=HWg-dlQL_Ds
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B_dUsdh0PCs/mqdefault.jpg" group-title="MÓDULO 06 - PONTOS (PASSO A PASSO)",O segredo da Bolsa bordada na tela / Bolsa na tela com fio de poliéster
 https://www.youtube.com/watch?v=B_dUsdh0PCs
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lYiW910fPdY/mqdefault.jpg" group-title="MÓDULO 06 - PONTOS (PASSO A PASSO)",Ponto baixíssimo na tela / Bolsa Lolla em crochê na tela plástica
-https://www.youtube.com/watch?v=lYiW910fPdY
 #EXTINF:719 tvg-logo="https://i.ytimg.com/vi/ev6RZVJqayg/mqdefault.jpg" group-title="MÓDULO 06 - PONTOS (PASSO A PASSO)",Passo a Passo ponto Bolsa de Tela Júlia - Parte 1
 https://www.youtube.com/watch?v=ev6RZVJqayg
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lYiW910fPdY/mqdefault.jpg" group-title="MÓDULO 06 - PONTOS (PASSO A PASSO)",Ponto baixíssimo na tela / Bolsa Lolla em crochê na tela plástica
+https://www.youtube.com/watch?v=lYiW910fPdY
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fc6b8PZaLZI/oar2.jpg" group-title="MÓDULO 06 - PONTOS (PASSO A PASSO)",Ponto inclinado preenchido
 https://www.youtube.com/shorts/fc6b8PZaLZI
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aY6DeV-jxFY/oar2.jpg" group-title="MÓDULO 06 - PONTOS (PASSO A PASSO)",Ponto leque
+https://www.youtube.com/shorts/aY6DeV-jxFY
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/cIVaEmwOQdo/oar2.jpg" group-title="MÓDULO 06 - PONTOS (PASSO A PASSO)",Ponto pérola na tela
 https://www.youtube.com/shorts/cIVaEmwOQdo
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/TNo38w55vjU/oar2.jpg" group-title="MÓDULO 06 - PONTOS (PASSO A PASSO)",Ponto X (Rápido e bonito)
 https://www.youtube.com/shorts/TNo38w55vjU
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aY6DeV-jxFY/oar2.jpg" group-title="MÓDULO 06 - PONTOS (PASSO A PASSO)",Ponto leque
-https://www.youtube.com/shorts/aY6DeV-jxFY
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/an_webp/rouBKsH-B7I/mqdefault_6s.webp?du=3000&sqp=CIqwkNMG&rs=AOn4CLCYUCyglThoYj-sLpQS65KeJsU-7w" group-title="MASTER CLASS",BOLSAS CROCHÊ E TELAS
 https://www.youtube.com/watch?v=rouBKsH-B7I
 #EXTINF:719 tvg-logo="https://i.ytimg.com/vi/9Opom1PU-Kk/mqdefault.jpg" group-title="MÓDULO 10 - AULAS EXTRAS",Biblioteca de Pontos: Como fazer um ponto bonito usando plástico como tela
@@ -171,12 +171,12 @@ https://www.youtube.com/watch?v=XQVSHRm__Bw
 https://www.youtube.com/watch?v=iovaspFBv7A
 #EXTINF:759 tvg-logo="https://i.ytimg.com/vi/g1p-b5llm6I/mqdefault.jpg" group-title="MÓDULO  2 - AULAS AVANÇADAS",VOCÊ CONSEGUE FAZER COM TELA! Como fazer uma bolsa de cristal com tela plástica
 https://www.youtube.com/watch?v=g1p-b5llm6I
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159366254-d25c1fb421980e01c88038cb3889fae9c7ad5b2e8b0612136d15f8fdcc57513e-d_360x203?&r=pad&region=us" group-title="MÓDULO  3 - AULAS PRÁTICAS",Bolsa Edna - Fio Poliester 5mm 53.5x50cm - Sofisticada com detalhes metálicos
-https://player.vimeo.com/video/1193802601
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159364749-6da03870109452ee088f8d0297b769067b6a881431409fb52b61d1ce12d36213-d_360x203?&r=pad&region=us" group-title="MÓDULO  3 - AULAS PRÁTICAS",Bolsa Ester - Versátil com possibilidade de personalizações
-https://player.vimeo.com/video/1193802600
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159363961-960480accadb7c66fc57ce523dec93aca5a0f5e7e4fe2974fff460f0d3edd620-d_360x203?&r=pad&region=us" group-title="MÓDULO  3 - AULAS PRÁTICAS",Bolsa Luxo com visual sofisticado e marcante (Polipropileno)
 https://player.vimeo.com/video/1193802598
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159364749-6da03870109452ee088f8d0297b769067b6a881431409fb52b61d1ce12d36213-d_360x203?&r=pad&region=us" group-title="MÓDULO  3 - AULAS PRÁTICAS",Bolsa Ester - Versátil com possibilidade de personalizações
+https://player.vimeo.com/video/1193802600
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159366254-d25c1fb421980e01c88038cb3889fae9c7ad5b2e8b0612136d15f8fdcc57513e-d_360x203?&r=pad&region=us" group-title="MÓDULO  3 - AULAS PRÁTICAS",Bolsa Edna - Fio Poliester 5mm 53.5x50cm - Sofisticada com detalhes metálicos
+https://player.vimeo.com/video/1193802601
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159363961-960480accadb7c66fc57ce523dec93aca5a0f5e7e4fe2974fff460f0d3edd620-d_360x203?&r=pad&region=us" group-title="MÓDULO  3 - AULAS PRÁTICAS",Bolsa Íris - Delicado e versátil.
 https://player.vimeo.com/video/1193803746
 #EXTINF:2103 tvg-logo="https://i.ytimg.com/vi/eYGlI7o4Je4/mqdefault.jpg" group-title="MÓDULO  5 - AULAS Suely Art's", BOLSA PRAIANA PARTE 1
@@ -973,12 +973,8 @@ https://www.youtube.com/watch?v=jHt9aKSVguc
 https://www.youtube.com/watch?v=fJkCBlA8Q_w
 #EXTINF:1402 tvg-logo="https://i.ytimg.com/vi/09RSISeoCl0/mqdefault.jpg" group-title="Ateliê Joana Fernandes Crochê Moderno",PLASTIC CANVAS   COIN AND CARD WALLET   PLASTIC CANVAS BAG TUTORIAL
 https://www.youtube.com/watch?v=09RSISeoCl0
-#EXTINF:251 tvg-logo="https://i.ytimg.com/vi/-4BbjcXRDik/mqdefault.jpg" group-title="EL's Ateliê ", 7 Materiais Essenciais Para Fazer Bolsas na Malha Plástica (Não Compre Antes de Ver Isso!)
-https://www.youtube.com/watch?v=-4BbjcXRDik
 #EXTINF:276 tvg-logo="https://i.ytimg.com/vi/2IASbrdqstU/mqdefault.jpg" group-title="EL's Ateliê ", DO FIO À BOLSA PRONTA! Veja a Transformação Completa Passo a Passo
 https://www.youtube.com/watch?v=2IASbrdqstU
-#EXTINF:251 tvg-logo="https://i.ytimg.com/vi/-4BbjcXRDik/mqdefault.jpg" group-title="EL's Ateliê ", 7 Materiais Essenciais Para Fazer Bolsas na Malha Plástica (Não Compre Antes de Ver Isso!)
-https://www.youtube.com/watch?v=-4BbjcXRDik
 #EXTINF:276 tvg-logo="https://i.ytimg.com/vi/2IASbrdqstU/mqdefault.jpg" group-title="EL's Ateliê ", DO FIO À BOLSA PRONTA! Veja a Transformação Completa Passo a Passo
 https://www.youtube.com/watch?v=2IASbrdqstU
 #EXTINF:495 tvg-logo="https://i.ytimg.com/vi/bN5VKpdy0vg/mqdefault.jpg" group-title="Rute Prestes-Bolsas na tela",The secret to cutting the fabric correctly | FREE PATTERN in the description! #shorts
@@ -1147,46 +1143,46 @@ https://www.youtube.com/watch?v=wwu66sujDPQ
 https://www.youtube.com/watch?v=b14_uo1VWbo
 #EXTINF:581 tvg-logo="https://i.ytimg.com/vi/yUd9SdM_qwc/mqdefault.jpg" group-title="Arte na Tela Plástica por Joana Fernandes",Keychain made with PLASTIC MESH
 https://www.youtube.com/watch?v=yUd9SdM_qwc
+#EXTINF:2856 tvg-logo="https://i.ytimg.com/vi/1EFFra1bkLg/mqdefault.jpg" group-title="Núbia Maia",COMO FAZER BOLSA NA TELA || AULA 1 - TECENDO NA TELA
+https://www.youtube.com/watch?v=1EFFra1bkLg
+#EXTINF:2856 tvg-logo="https://i.ytimg.com/vi/1EFFra1bkLg/mqdefault.jpg" group-title="Núbia Maia",COMO FAZER BOLSA NA TELA || AULA 1 - TECENDO NA TELA
+https://www.youtube.com/watch?v=1EFFra1bkLg
+#EXTINF:1811 tvg-logo="https://i.ytimg.com/vi/BaWur27gGqg/mqdefault.jpg" group-title="Núbia Maia",HOW TO MAKE A CANVAS BAG || LESSON 3 - LINING AND ASSEMBLY
+https://www.youtube.com/watch?v=BaWur27gGqg
+#EXTINF:1811 tvg-logo="https://i.ytimg.com/vi/BaWur27gGqg/mqdefault.jpg" group-title="Núbia Maia",HOW TO MAKE A CANVAS BAG || LESSON 3 - LINING AND ASSEMBLY
+https://www.youtube.com/watch?v=BaWur27gGqg
+#EXTINF:2450 tvg-logo="https://i.ytimg.com/vi/cCe1UW6pzR8/mqdefault.jpg" group-title="Núbia Maia",Earrings made with canvas and nautical rope.
+https://www.youtube.com/watch?v=cCe1UW6pzR8
+#EXTINF:2450 tvg-logo="https://i.ytimg.com/vi/cCe1UW6pzR8/mqdefault.jpg" group-title="Núbia Maia",Earrings made with canvas and nautical rope.
+https://www.youtube.com/watch?v=cCe1UW6pzR8
+#EXTINF:1656 tvg-logo="https://i.ytimg.com/vi/erGbeK-psPQ/mqdefault.jpg" group-title="Núbia Maia",MESH BAG | WHAT MATERIALS ARE NEEDED TO PRODUCE IT?
+https://www.youtube.com/watch?v=erGbeK-psPQ
 #EXTINF:1656 tvg-logo="https://i.ytimg.com/vi/erGbeK-psPQ/mqdefault.jpg" group-title="Núbia Maia",MESH BAG | WHAT MATERIALS ARE NEEDED TO PRODUCE IT?
 https://www.youtube.com/watch?v=erGbeK-psPQ
 #EXTINF:661 tvg-logo="https://i.ytimg.com/vi/fYAe88UCcq0/mqdefault.jpg" group-title="Núbia Maia",HOW TO PLACE A MAGNETIC CLOSURE ON A BAG
 https://www.youtube.com/watch?v=fYAe88UCcq0
-#EXTINF:1811 tvg-logo="https://i.ytimg.com/vi/BaWur27gGqg/mqdefault.jpg" group-title="Núbia Maia",HOW TO MAKE A CANVAS BAG || LESSON 3 - LINING AND ASSEMBLY
-https://www.youtube.com/watch?v=BaWur27gGqg
-#EXTINF:2856 tvg-logo="https://i.ytimg.com/vi/1EFFra1bkLg/mqdefault.jpg" group-title="Núbia Maia",COMO FAZER BOLSA NA TELA || AULA 1 - TECENDO NA TELA
-https://www.youtube.com/watch?v=1EFFra1bkLg
-#EXTINF:1822 tvg-logo="https://i.ytimg.com/vi/khcH-5IwguE/mqdefault.jpg" group-title="Núbia Maia",HOW TO MAKE A CANVAS BAG || LESSON 2 - ATTACHING THE CLOSURE
-https://www.youtube.com/watch?v=khcH-5IwguE
-#EXTINF:2450 tvg-logo="https://i.ytimg.com/vi/cCe1UW6pzR8/mqdefault.jpg" group-title="Núbia Maia",Earrings made with canvas and nautical rope.
-https://www.youtube.com/watch?v=cCe1UW6pzR8
-#EXTINF:2257 tvg-logo="https://i.ytimg.com/vi/TLGz5LzO2_4/mqdefault.jpg" group-title="Núbia Maia",FIRST VIDEO OF 2026 || HOW TO MAKE EARRINGS WITH BEAD LINKS
-https://www.youtube.com/watch?v=TLGz5LzO2_4
-#EXTINF:2076 tvg-logo="https://i.ytimg.com/vi/XZtf2AqK1Tc/mqdefault.jpg" group-title="Núbia Maia",AULA 1 - BOLSA DE CRISTAIS / CRIAÇÃO USANDO A TECNICA DO ENTRELAÇADO
-https://www.youtube.com/watch?v=XZtf2AqK1Tc
-#EXTINF:2414 tvg-logo="https://i.ytimg.com/vi/KFIOuo8pcmI/mqdefault.jpg" group-title="Núbia Maia",CLASS 2 - CRYSTAL BAG - INSTALLING THE LINING AND FINISHING
-https://www.youtube.com/watch?v=KFIOuo8pcmI
-#EXTINF:2618 tvg-logo="https://i.ytimg.com/vi/sKeGFpnQ3Kg/mqdefault.jpg" group-title="Núbia Maia",PEARL JEWELLERY BOX / CLASS 1 / How to make the base and lid
-https://www.youtube.com/watch?v=sKeGFpnQ3Kg
-#EXTINF:1656 tvg-logo="https://i.ytimg.com/vi/erGbeK-psPQ/mqdefault.jpg" group-title="Núbia Maia",MESH BAG | WHAT MATERIALS ARE NEEDED TO PRODUCE IT?
-https://www.youtube.com/watch?v=erGbeK-psPQ
 #EXTINF:661 tvg-logo="https://i.ytimg.com/vi/fYAe88UCcq0/mqdefault.jpg" group-title="Núbia Maia",HOW TO PLACE A MAGNETIC CLOSURE ON A BAG
 https://www.youtube.com/watch?v=fYAe88UCcq0
-#EXTINF:1811 tvg-logo="https://i.ytimg.com/vi/BaWur27gGqg/mqdefault.jpg" group-title="Núbia Maia",HOW TO MAKE A CANVAS BAG || LESSON 3 - LINING AND ASSEMBLY
-https://www.youtube.com/watch?v=BaWur27gGqg
-#EXTINF:2856 tvg-logo="https://i.ytimg.com/vi/1EFFra1bkLg/mqdefault.jpg" group-title="Núbia Maia",COMO FAZER BOLSA NA TELA || AULA 1 - TECENDO NA TELA
-https://www.youtube.com/watch?v=1EFFra1bkLg
+#EXTINF:2414 tvg-logo="https://i.ytimg.com/vi/KFIOuo8pcmI/mqdefault.jpg" group-title="Núbia Maia",CLASS 2 - CRYSTAL BAG - INSTALLING THE LINING AND FINISHING
+https://www.youtube.com/watch?v=KFIOuo8pcmI
+#EXTINF:2414 tvg-logo="https://i.ytimg.com/vi/KFIOuo8pcmI/mqdefault.jpg" group-title="Núbia Maia",CLASS 2 - CRYSTAL BAG - INSTALLING THE LINING AND FINISHING
+https://www.youtube.com/watch?v=KFIOuo8pcmI
 #EXTINF:1822 tvg-logo="https://i.ytimg.com/vi/khcH-5IwguE/mqdefault.jpg" group-title="Núbia Maia",HOW TO MAKE A CANVAS BAG || LESSON 2 - ATTACHING THE CLOSURE
 https://www.youtube.com/watch?v=khcH-5IwguE
-#EXTINF:2450 tvg-logo="https://i.ytimg.com/vi/cCe1UW6pzR8/mqdefault.jpg" group-title="Núbia Maia",Earrings made with canvas and nautical rope.
-https://www.youtube.com/watch?v=cCe1UW6pzR8
+#EXTINF:1822 tvg-logo="https://i.ytimg.com/vi/khcH-5IwguE/mqdefault.jpg" group-title="Núbia Maia",HOW TO MAKE A CANVAS BAG || LESSON 2 - ATTACHING THE CLOSURE
+https://www.youtube.com/watch?v=khcH-5IwguE
+#EXTINF:2618 tvg-logo="https://i.ytimg.com/vi/sKeGFpnQ3Kg/mqdefault.jpg" group-title="Núbia Maia",PEARL JEWELLERY BOX / CLASS 1 / How to make the base and lid
+https://www.youtube.com/watch?v=sKeGFpnQ3Kg
+#EXTINF:2618 tvg-logo="https://i.ytimg.com/vi/sKeGFpnQ3Kg/mqdefault.jpg" group-title="Núbia Maia",PEARL JEWELLERY BOX / CLASS 1 / How to make the base and lid
+https://www.youtube.com/watch?v=sKeGFpnQ3Kg
+#EXTINF:2257 tvg-logo="https://i.ytimg.com/vi/TLGz5LzO2_4/mqdefault.jpg" group-title="Núbia Maia",FIRST VIDEO OF 2026 || HOW TO MAKE EARRINGS WITH BEAD LINKS
+https://www.youtube.com/watch?v=TLGz5LzO2_4
 #EXTINF:2257 tvg-logo="https://i.ytimg.com/vi/TLGz5LzO2_4/mqdefault.jpg" group-title="Núbia Maia",FIRST VIDEO OF 2026 || HOW TO MAKE EARRINGS WITH BEAD LINKS
 https://www.youtube.com/watch?v=TLGz5LzO2_4
 #EXTINF:2076 tvg-logo="https://i.ytimg.com/vi/XZtf2AqK1Tc/mqdefault.jpg" group-title="Núbia Maia",AULA 1 - BOLSA DE CRISTAIS / CRIAÇÃO USANDO A TECNICA DO ENTRELAÇADO
 https://www.youtube.com/watch?v=XZtf2AqK1Tc
-#EXTINF:2414 tvg-logo="https://i.ytimg.com/vi/KFIOuo8pcmI/mqdefault.jpg" group-title="Núbia Maia",CLASS 2 - CRYSTAL BAG - INSTALLING THE LINING AND FINISHING
-https://www.youtube.com/watch?v=KFIOuo8pcmI
-#EXTINF:2618 tvg-logo="https://i.ytimg.com/vi/sKeGFpnQ3Kg/mqdefault.jpg" group-title="Núbia Maia",PEARL JEWELLERY BOX / CLASS 1 / How to make the base and lid
-https://www.youtube.com/watch?v=sKeGFpnQ3Kg
+#EXTINF:2076 tvg-logo="https://i.ytimg.com/vi/XZtf2AqK1Tc/mqdefault.jpg" group-title="Núbia Maia",AULA 1 - BOLSA DE CRISTAIS / CRIAÇÃO USANDO A TECNICA DO ENTRELAÇADO
+https://www.youtube.com/watch?v=XZtf2AqK1Tc
 #EXTINF:428 tvg-logo="https://i.ytimg.com/vi/d6wTnH8Mck0/mqdefault.jpg" group-title="Urian Carneiro",Como aplicar Fecho Torniquete em bolsas de crochê
 https://www.youtube.com/watch?v=d6wTnH8Mck0
 #EXTINF:428 tvg-logo="https://i.ytimg.com/vi/d6wTnH8Mck0/mqdefault.jpg" group-title="Urian Carneiro",Como aplicar Fecho Torniquete em bolsas de crochê
@@ -1493,34 +1489,42 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="TV | CANAIS | ABERTOS", REDE TV
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="TV | CANAIS | ABERTOS", GLOBO SP
-http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-logo="https://igrejastv.com.br/wp-content/uploads/2015/10/logomarca-rittv.png" group-title="TV | CANAIS | ABERTOS", RIT TV
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="TV | CANAIS | ABERTOS", SBT TV Guajará (PA)
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fmGNohE.png" group-title="TV | CANAIS | ABERTOS", TV GALEGA
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png" group-title="TV | CANAIS | RELIGIOSOS", IURD TV (Assine nossa Lista Premium para mais canais de TV. Chame no WhatsApp(47)99626-5594)
-https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png" group-title="TV | CANAIS | RELIGIOSOS", IURD TV 
-https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="TV | CANAIS | ABERTOS", TV Globo Rio de Janeiro (720p)
+http://45.190.28.50/GLOBO_HD/index.m3u8
+#EXTINF:-1 group-title="TV | CANAIS | FILMES", A&E Latin America Brazil (720p)
+http://45.190.28.50/AE_HD/index.m3u8
+#EXTINF:-1 group-title="TV | CANAIS | FILMES", AXN (720p)
+http://45.190.28.50/AXN_HD/index.m3u8
+#EXTINF:-1 group-title="TV | CANAIS | DOCUMENTÁRIOS", History (720p)
+http://45.190.28.50/HISTORY_HD/index.m3u8
+#EXTINF:-1 group-title="TV | CANAIS | DOCUMENTÁRIOS", History 2 Latin America Brazil (720p)
+http://45.190.28.50/H2_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aoq9CGU.png" group-title="TV | CANAIS | RELIGIOSOS", Gospel Cartoon (360p)
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospel.jpg" group-title="TV | CANAIS | RELIGIOSOS", Gospel Movie TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ipgo.xyz/tv/gmovies/imagens/logo_gospelf_site.png" group-title="TV | CANAIS | RELIGIOSOS", Gospel Movie TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png" group-title="TV | CANAIS | RELIGIOSOS", IURD TV 
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png" group-title="TV | CANAIS | RELIGIOSOS", IURD TV (Assine nossa Lista Premium para mais canais de TV. Chame no WhatsApp(47)99626-5594)
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9pZox0Z.png" group-title="TV | CANAIS | RELIGIOSOS", PLENA TV
 https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yvxG9m5.png" group-title="TV | CANAIS | RELIGIOSOS", Rede Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="TV | CANAIS | RELIGIOSOS", TV Aparecida
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/fk2mNc4.png" group-title="TV | CANAIS | RELIGIOSOS", TV Aparecida
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/egU0jsZ.png" group-title="TV | CANAIS | RELIGIOSOS", TV APARECIDA
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fk2mNc4.png" group-title="TV | CANAIS | RELIGIOSOS", TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="TV | CANAIS | RELIGIOSOS", TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3f6171c551bfebb0226b4f7d526a8e6f.webp" group-title="TV | CANAIS | RELIGIOSOS", TV Gideões
 https://tv01.zas.media:1936/gideoes/gideoes/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zBtvnD5.png" group-title="TV | CANAIS | RELIGIOSOS", TV Maná Brazil (1080p)
@@ -1533,15 +1537,425 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_f61dea77-770b-444c-8f61-88b3f8666b3f.m3u8
 #EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/60ddb652a9fbc_d19ecce6131ee18d0d846a16aae7ed6e.png" group-title="TV | CANAIS | RELIGIOSOS", Vivas Tv
 https://stmv1.liveplushd.com.br/tvvivam/tvvivam/chunklist_w252085201.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/jetsons.png" group-title="TV | WebTV Gratis", Jetsons - Webtv (Peça um teste na nossa LISTA PREMIUM. WhatsApp(47)99626-5594)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/jetsons.png" group-title="TV | CANAIS | WebTV", Jetsons - Webtv (Peça um teste na nossa LISTA PREMIUM. WhatsApp(47)99626-5594)
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvgallo.png" group-title="TV | WebTV Gratis", TV Gallo Assine nossa Lista Premium para mais canais (47)99626-5594
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvgallo.png" group-title="TV | CANAIS | WebTV", TV Gallo Assine nossa Lista Premium para mais canais (47)99626-5594
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/riomadeira.png" group-title="TV | WebTV Gratis", TV Rio Madeira - WebTV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/riomadeira.png" group-title="TV | CANAIS | WebTV", TV Rio Madeira - WebTV
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvseries.png" group-title="TV | WebTV Gratis", TV Séries - WEBTV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvseries.png" group-title="TV | CANAIS | WebTV", TV Séries - WEBTV
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/morena.png" group-title="TV | WebTV Gratis", Via Morena
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/morena.png" group-title="TV | CANAIS | WebTV", Via Morena
 https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bitmaster.listen2myshow.com/assets/images/uploads/user_146577503/radio_193669591/logo_banner/1685088049.jpg" group-title="TV | WebTV Gratis", WebRADIO BITMASTER 24Hs Online
+#EXTINF:-1 tvg-logo="https://bitmaster.listen2myshow.com/assets/images/uploads/user_146577503/radio_193669591/logo_banner/1685088049.jpg" group-title="TV | CANAIS | WebTV", WebRADIO BITMASTER 24Hs Online
 https://Fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123&port=10077&type=s1
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2598
+https://player.vimeo.com/video/1193802598
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2500
+https://player.vimeo.com/video/1193802500
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2501
+https://player.vimeo.com/video/1193802501
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2502
+https://player.vimeo.com/video/1193802502
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2503
+https://player.vimeo.com/video/1193802503
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2504
+https://player.vimeo.com/video/1193802504
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2505
+https://player.vimeo.com/video/1193802505
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2506
+https://player.vimeo.com/video/1193802506
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2507
+https://player.vimeo.com/video/1193802507
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2508
+https://player.vimeo.com/video/1193802508
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2509
+https://player.vimeo.com/video/1193802509
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2510
+https://player.vimeo.com/video/1193802510
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2511
+https://player.vimeo.com/video/1193802511
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2512
+https://player.vimeo.com/video/1193802512
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2513
+https://player.vimeo.com/video/1193802513
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2514
+https://player.vimeo.com/video/1193802514
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2515
+https://player.vimeo.com/video/1193802515
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2516
+https://player.vimeo.com/video/1193802516
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2517
+https://player.vimeo.com/video/1193802517
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2518
+https://player.vimeo.com/video/1193802518
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2519
+https://player.vimeo.com/video/1193802519
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2520
+https://player.vimeo.com/video/1193802520
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2521
+https://player.vimeo.com/video/1193802521
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2522
+https://player.vimeo.com/video/1193802522
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2523
+https://player.vimeo.com/video/1193802523
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2524
+https://player.vimeo.com/video/1193802524
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2525
+https://player.vimeo.com/video/1193802525
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2526
+https://player.vimeo.com/video/1193802526
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2527
+https://player.vimeo.com/video/1193802527
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2528
+https://player.vimeo.com/video/1193802528
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2529
+https://player.vimeo.com/video/1193802529
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2530
+https://player.vimeo.com/video/1193802530
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2531
+https://player.vimeo.com/video/1193802531
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2532
+https://player.vimeo.com/video/1193802532
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2533
+https://player.vimeo.com/video/1193802533
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2534
+https://player.vimeo.com/video/1193802534
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2535
+https://player.vimeo.com/video/1193802535
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2536
+https://player.vimeo.com/video/1193802536
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2537
+https://player.vimeo.com/video/1193802537
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2538
+https://player.vimeo.com/video/1193802538
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2539
+https://player.vimeo.com/video/1193802539
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2540
+https://player.vimeo.com/video/1193802540
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2541
+https://player.vimeo.com/video/1193802541
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2542
+https://player.vimeo.com/video/1193802542
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2543
+https://player.vimeo.com/video/1193802543
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2544
+https://player.vimeo.com/video/1193802544
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2545
+https://player.vimeo.com/video/1193802545
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2546
+https://player.vimeo.com/video/1193802546
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2547
+https://player.vimeo.com/video/1193802547
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2548
+https://player.vimeo.com/video/1193802548
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2549
+https://player.vimeo.com/video/1193802549
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2550
+https://player.vimeo.com/video/1193802550
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2551
+https://player.vimeo.com/video/1193802551
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2552
+https://player.vimeo.com/video/1193802552
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2553
+https://player.vimeo.com/video/1193802553
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2554
+https://player.vimeo.com/video/1193802554
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2555
+https://player.vimeo.com/video/1193802555
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2556
+https://player.vimeo.com/video/1193802556
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2557
+https://player.vimeo.com/video/1193802557
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2558
+https://player.vimeo.com/video/1193802558
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2559
+https://player.vimeo.com/video/1193802559
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2560
+https://player.vimeo.com/video/1193802560
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2561
+https://player.vimeo.com/video/1193802561
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2562
+https://player.vimeo.com/video/1193802562
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2563
+https://player.vimeo.com/video/1193802563
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2564
+https://player.vimeo.com/video/1193802564
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2565
+https://player.vimeo.com/video/1193802565
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2566
+https://player.vimeo.com/video/1193802566
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2567
+https://player.vimeo.com/video/1193802567
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2568
+https://player.vimeo.com/video/1193802568
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2569
+https://player.vimeo.com/video/1193802569
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2570
+https://player.vimeo.com/video/1193802570
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2571
+https://player.vimeo.com/video/1193802571
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2572
+https://player.vimeo.com/video/1193802572
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2573
+https://player.vimeo.com/video/1193802573
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2574
+https://player.vimeo.com/video/1193802574
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2575
+https://player.vimeo.com/video/1193802575
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2576
+https://player.vimeo.com/video/1193802576
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2577
+https://player.vimeo.com/video/1193802577
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2578
+https://player.vimeo.com/video/1193802578
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2579
+https://player.vimeo.com/video/1193802579
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2580
+https://player.vimeo.com/video/1193802580
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2581
+https://player.vimeo.com/video/1193802581
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2582
+https://player.vimeo.com/video/1193802582
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2583
+https://player.vimeo.com/video/1193802583
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2584
+https://player.vimeo.com/video/1193802584
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2585
+https://player.vimeo.com/video/1193802585
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2586
+https://player.vimeo.com/video/1193802586
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2587
+https://player.vimeo.com/video/1193802587
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2588
+https://player.vimeo.com/video/1193802588
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2589
+https://player.vimeo.com/video/1193802589
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2590
+https://player.vimeo.com/video/1193802590
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2591
+https://player.vimeo.com/video/1193802591
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2592
+https://player.vimeo.com/video/1193802592
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2593
+https://player.vimeo.com/video/1193802593
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2594
+https://player.vimeo.com/video/1193802594
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2595
+https://player.vimeo.com/video/1193802595
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2596
+https://player.vimeo.com/video/1193802596
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2597
+https://player.vimeo.com/video/1193802597
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2598
+https://player.vimeo.com/video/1193802598
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2599
+https://player.vimeo.com/video/1193802599
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2600
+https://player.vimeo.com/video/1193802600
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2601
+https://player.vimeo.com/video/1193802601
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2602
+https://player.vimeo.com/video/1193802602
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2603
+https://player.vimeo.com/video/1193802603
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2604
+https://player.vimeo.com/video/1193802604
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2605
+https://player.vimeo.com/video/1193802605
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2606
+https://player.vimeo.com/video/1193802606
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2607
+https://player.vimeo.com/video/1193802607
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2608
+https://player.vimeo.com/video/1193802608
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2609
+https://player.vimeo.com/video/1193802609
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2610
+https://player.vimeo.com/video/1193802610
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2611
+https://player.vimeo.com/video/1193802611
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2612
+https://player.vimeo.com/video/1193802612
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2613
+https://player.vimeo.com/video/1193802613
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2614
+https://player.vimeo.com/video/1193802614
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2615
+https://player.vimeo.com/video/1193802615
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2616
+https://player.vimeo.com/video/1193802616
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2617
+https://player.vimeo.com/video/1193802617
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2618
+https://player.vimeo.com/video/1193802618
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2619
+https://player.vimeo.com/video/1193802619
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2620
+https://player.vimeo.com/video/1193802620
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2621
+https://player.vimeo.com/video/1193802621
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2622
+https://player.vimeo.com/video/1193802622
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2623
+https://player.vimeo.com/video/1193802623
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2624
+https://player.vimeo.com/video/1193802624
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2625
+https://player.vimeo.com/video/1193802625
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2626
+https://player.vimeo.com/video/1193802626
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2627
+https://player.vimeo.com/video/1193802627
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2628
+https://player.vimeo.com/video/1193802628
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2629
+https://player.vimeo.com/video/1193802629
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2630
+https://player.vimeo.com/video/1193802630
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2631
+https://player.vimeo.com/video/1193802631
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2632
+https://player.vimeo.com/video/1193802632
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2633
+https://player.vimeo.com/video/1193802633
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2634
+https://player.vimeo.com/video/1193802634
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2635
+https://player.vimeo.com/video/1193802635
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2636
+https://player.vimeo.com/video/1193802636
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2637
+https://player.vimeo.com/video/1193802637
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2638
+https://player.vimeo.com/video/1193802638
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2639
+https://player.vimeo.com/video/1193802639
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2640
+https://player.vimeo.com/video/1193802640
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2641
+https://player.vimeo.com/video/1193802641
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2642
+https://player.vimeo.com/video/1193802642
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2643
+https://player.vimeo.com/video/1193802643
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2644
+https://player.vimeo.com/video/1193802644
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2645
+https://player.vimeo.com/video/1193802645
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2646
+https://player.vimeo.com/video/1193802646
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2647
+https://player.vimeo.com/video/1193802647
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2648
+https://player.vimeo.com/video/1193802648
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2649
+https://player.vimeo.com/video/1193802649
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2650
+https://player.vimeo.com/video/1193802650
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2651
+https://player.vimeo.com/video/1193802651
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2652
+https://player.vimeo.com/video/1193802652
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2653
+https://player.vimeo.com/video/1193802653
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2654
+https://player.vimeo.com/video/1193802654
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2655
+https://player.vimeo.com/video/1193802655
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2656
+https://player.vimeo.com/video/1193802656
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2657
+https://player.vimeo.com/video/1193802657
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2658
+https://player.vimeo.com/video/1193802658
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2659
+https://player.vimeo.com/video/1193802659
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2660
+https://player.vimeo.com/video/1193802660
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2661
+https://player.vimeo.com/video/1193802661
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2662
+https://player.vimeo.com/video/1193802662
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2663
+https://player.vimeo.com/video/1193802663
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2664
+https://player.vimeo.com/video/1193802664
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2665
+https://player.vimeo.com/video/1193802665
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2666
+https://player.vimeo.com/video/1193802666
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2667
+https://player.vimeo.com/video/1193802667
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2668
+https://player.vimeo.com/video/1193802668
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2669
+https://player.vimeo.com/video/1193802669
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2670
+https://player.vimeo.com/video/1193802670
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2671
+https://player.vimeo.com/video/1193802671
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2672
+https://player.vimeo.com/video/1193802672
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2673
+https://player.vimeo.com/video/1193802673
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2674
+https://player.vimeo.com/video/1193802674
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2675
+https://player.vimeo.com/video/1193802675
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2676
+https://player.vimeo.com/video/1193802676
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2677
+https://player.vimeo.com/video/1193802677
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2678
+https://player.vimeo.com/video/1193802678
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2679
+https://player.vimeo.com/video/1193802679
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2680
+https://player.vimeo.com/video/1193802680
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2681
+https://player.vimeo.com/video/1193802681
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2682
+https://player.vimeo.com/video/1193802682
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2683
+https://player.vimeo.com/video/1193802683
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2684
+https://player.vimeo.com/video/1193802684
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2685
+https://player.vimeo.com/video/1193802685
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2686
+https://player.vimeo.com/video/1193802686
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2687
+https://player.vimeo.com/video/1193802687
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2688
+https://player.vimeo.com/video/1193802688
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2689
+https://player.vimeo.com/video/1193802689
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2690
+https://player.vimeo.com/video/1193802690
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2691
+https://player.vimeo.com/video/1193802691
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2692
+https://player.vimeo.com/video/1193802692
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2693
+https://player.vimeo.com/video/1193802693
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2694
+https://player.vimeo.com/video/1193802694
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2695
+https://player.vimeo.com/video/1193802695
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2696
+https://player.vimeo.com/video/1193802696
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2697
+https://player.vimeo.com/video/1193802697
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2698
+https://player.vimeo.com/video/1193802698
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2699
+https://player.vimeo.com/video/1193802699
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2700
+https://player.vimeo.com/video/1193802700
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2701
+https://player.vimeo.com/video/1193802701
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2702
+https://player.vimeo.com/video/1193802702
+#EXTINF:-1 group-title="TV | CANAIS | IPTV_ORG",CANAL 2703
+https://player.vimeo.com/video/1193802703
