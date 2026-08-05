@@ -18,8 +18,6 @@ https://www.youtube.com/watch?v=B6MdFl1PIDA
 https://www.youtube.com/embed/v=erGbeK-psPQ
 #EXTINF:-1 group-title="TESTE",Aula 3 - Teste EMBED
 https://www.youtube.com/embed/9_JvJsfXzSE
-#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="TESTE",CANAL RecordTV MT
-https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OUCVUs9DPz8/mqdefault.jpg" group-title="TESTE",GOOGLE Aula 14 - Materiais Básicos para bolsas em tela (Iniciantes)
 https://drive.google.com/uc?export=download&id=1Un2o9qPrkn-87wk1NIqwi4YWaFGgXbqA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wLBh1S3.jpeg" group-title="TESTE",GOOGLE Aula 2 - Qual Fio Usar
