@@ -1,0 +1,37 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (05/08/2026 21:50hs)" audio-track="pt-BR",Como Criar uma Página Web para Lançamento de Despesas na sua Planilha (Tutorial Apps Script)
+https://www.youtube.com/watch?v=J4FdeTm-4FA
+#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (05/08/2026 21:50hs)" audio-track="pt-BR",Como Transformar Planilhas em Sistemas em Minutos
+https://youtu.be/-XWKDfVsI6I?si=VOb-Ji0YIsxLPhuv
+#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (05/08/2026 21:50hs)" audio-track="pt-BR",CRIE SEU PRÓPRIO APP BÍBLICO HOJE (Sem Código!)
+https://www.youtube.com/watch?v=4_qBkqMtS-A
+#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (05/08/2026 21:50hs)" audio-track="pt-BR",O Google fez de novo: Crie e Publique Apps 100% GRÁTIS com o Google AI Studio
+https://www.youtube.com/watch?v=U4XNeOAsoq4
+#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (05/08/2026 21:50hs)" audio-track="pt-BR",Curso AppSheet Express Aula 1 | Criando seu primeiro App
+https://www.youtube.com/watch?v=OMAbzZRNLrI
+#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (05/08/2026 21:50hs)" audio-track="pt-BR",Curso AppSheet Express Aula 2 | Colunas fórmulas e Ref
+https://www.youtube.com/watch?v=QaR6L4-Tcc0
+#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (05/08/2026 21:50hs)" audio-track="pt-BR",Curso AppSheet Express Aula 3 | Views Slices e Muito Mais
+https://www.youtube.com/watch?v=_99f8iYMQTo
+#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (05/08/2026 21:50hs)" audio-track="pt-BR",Curso AppSheet Express Aula 4 | Actions e Colunas Virtuais
+https://www.youtube.com/watch?v=fxcxXk2Eqqo
+#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (05/08/2026 21:50hs)" audio-track="pt-BR",Curso AppSheet Express Aula 5 | Format Rules e UX/UI
+https://www.youtube.com/watch?v=AfXnSyEIysM
+#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (05/08/2026 21:50hs)" audio-track="pt-BR",Curso AppSheet Express Aula 6 | Gráficos e Dashboards Interativos
+https://www.youtube.com/watch?v=ithLMqwgvPE
+#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (05/08/2026 21:50hs)" audio-track="pt-BR",Curso AppSheet Express Aula 7 | Compartilhamento e Dicas
+https://www.youtube.com/watch?v=YQzYX0KMaaQ
+#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (05/08/2026 21:50hs)" audio-track="pt-BR",Sistema de Estoque COMPLETO com AppSheet | Grátis e sem programar
+https://www.youtube.com/watch?v=oX8LFXJ8Exc
+#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (05/08/2026 21:50hs)" audio-track="pt-BR",Assim que cria apps a partir de planilhas - JEITO CERTO
+https://www.youtube.com/watch?v=0KNE5XDffWE
+#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (05/08/2026 21:50hs)" audio-track="pt-BR",AGENTES DE IA: Como CRIAR e USAR para AUTOMATIZAR TUDO em 2026 | Tutorial Completo GRÁTIS
+https://www.youtube.com/watch?v=UiK9pl8tKao
+#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (05/08/2026 21:50hs)" audio-track="pt-BR",Como Transformar sua Planilha Excel em um APP Financeiro com IA em Minutos (100% Grátis)
+https://www.youtube.com/watch?v=fSEn_hk3Swo
+#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (05/08/2026 21:50hs)" audio-track="pt-BR",Transformei uma PLANILHA com abas em um APP COMPLETO em apenas 5 minutos
+https://www.youtube.com/watch?v=1LPoWFlEiOo
+#EXTINF:-1 group-title="MÓDULO 01 - AFILIADOS" audio-track="pt-BR",O MELHOR JEITO de GANHAR DINHEIRO como AFILIADO ou INFLUENCIADOR! Monetize seu conteúdo com IA!
+https://www.youtube.com/watch?v=hSP2deY86C0
+#EXTINF:-1 group-title="MÓDULO 01 - APPeBOOKS" audio-track="pt-BR",Transforme Seu Ebook em um APP interativo GRÁTIS
+https://www.youtube.com/watch?v=fXJAzjYMXI8
