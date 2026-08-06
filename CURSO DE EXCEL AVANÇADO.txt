@@ -1,37 +1,105 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="MÓDULO 00 - APPSHEETS (05/08/2026 21:58hs)" audio-track="pt-BR",Como Criar uma Página Web para Lançamento de Despesas na sua Planilha (Tutorial Apps Script)
+#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (06/08/2026 00:10hs)" audio-track="pt-BR",Como Criar uma Página Web para Lançamento de Despesas na sua Planilha (Tutorial Apps Script)
 https://www.youtube.com/watch?v=J4FdeTm-4FA
-#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (05/08/2026 21:58hs)" audio-track="pt-BR",Como Transformar Planilhas em Sistemas em Minutos
+#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (06/08/2026 00:10hs)" audio-track="pt-BR",Como Transformar Planilhas em Sistemas em Minutos
 https://youtu.be/-XWKDfVsI6I?si=VOb-Ji0YIsxLPhuv
-#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (05/08/2026 21:58hs)" audio-track="pt-BR",CRIE SEU PRÓPRIO APP BÍBLICO HOJE (Sem Código!)
+#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (06/08/2026 00:10hs)" audio-track="pt-BR",CRIE SEU PRÓPRIO APP BÍBLICO HOJE (Sem Código!)
 https://www.youtube.com/watch?v=4_qBkqMtS-A
-#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (05/08/2026 21:58hs)" audio-track="pt-BR",O Google fez de novo: Crie e Publique Apps 100% GRÁTIS com o Google AI Studio
+#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (06/08/2026 00:10hs)" audio-track="pt-BR",O Google fez de novo: Crie e Publique Apps 100% GRÁTIS com o Google AI Studio
 https://www.youtube.com/watch?v=U4XNeOAsoq4
-#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (05/08/2026 21:58hs)" audio-track="pt-BR",Curso AppSheet Express Aula 1 | Criando seu primeiro App
+#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (06/08/2026 00:10hs)" audio-track="pt-BR",Curso AppSheet Express Aula 1 | Criando seu primeiro App
 https://www.youtube.com/watch?v=OMAbzZRNLrI
-#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (05/08/2026 21:58hs)" audio-track="pt-BR",Curso AppSheet Express Aula 2 | Colunas fórmulas e Ref
+#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (06/08/2026 00:10hs)" audio-track="pt-BR",Curso AppSheet Express Aula 2 | Colunas fórmulas e Ref
 https://www.youtube.com/watch?v=QaR6L4-Tcc0
-#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (05/08/2026 21:58hs)" audio-track="pt-BR",Curso AppSheet Express Aula 3 | Views Slices e Muito Mais
+#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (06/08/2026 00:10hs)" audio-track="pt-BR",Curso AppSheet Express Aula 3 | Views Slices e Muito Mais
 https://www.youtube.com/watch?v=_99f8iYMQTo
-#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (05/08/2026 21:58hs)" audio-track="pt-BR",Curso AppSheet Express Aula 4 | Actions e Colunas Virtuais
+#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (06/08/2026 00:10hs)" audio-track="pt-BR",Curso AppSheet Express Aula 4 | Actions e Colunas Virtuais
 https://www.youtube.com/watch?v=fxcxXk2Eqqo
-#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (05/08/2026 21:58hs)" audio-track="pt-BR",Curso AppSheet Express Aula 5 | Format Rules e UX/UI
+#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (06/08/2026 00:10hs)" audio-track="pt-BR",Curso AppSheet Express Aula 5 | Format Rules e UX/UI
 https://www.youtube.com/watch?v=AfXnSyEIysM
-#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (05/08/2026 21:58hs)" audio-track="pt-BR",Curso AppSheet Express Aula 6 | Gráficos e Dashboards Interativos
+#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (06/08/2026 00:10hs)" audio-track="pt-BR",Curso AppSheet Express Aula 6 | Gráficos e Dashboards Interativos
 https://www.youtube.com/watch?v=ithLMqwgvPE
-#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (05/08/2026 21:58hs)" audio-track="pt-BR",Curso AppSheet Express Aula 7 | Compartilhamento e Dicas
+#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (06/08/2026 00:10hs)" audio-track="pt-BR",Curso AppSheet Express Aula 7 | Compartilhamento e Dicas
 https://www.youtube.com/watch?v=YQzYX0KMaaQ
-#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (05/08/2026 21:58hs)" audio-track="pt-BR",Sistema de Estoque COMPLETO com AppSheet | Grátis e sem programar
+#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (06/08/2026 00:10hs)" audio-track="pt-BR",Sistema de Estoque COMPLETO com AppSheet | Grátis e sem programar
 https://www.youtube.com/watch?v=oX8LFXJ8Exc
-#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (05/08/2026 21:58hs)" audio-track="pt-BR",Assim que cria apps a partir de planilhas - JEITO CERTO
+#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (06/08/2026 00:10hs)" audio-track="pt-BR",Assim que cria apps a partir de planilhas - JEITO CERTO
 https://www.youtube.com/watch?v=0KNE5XDffWE
-#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (05/08/2026 21:58hs)" audio-track="pt-BR",AGENTES DE IA: Como CRIAR e USAR para AUTOMATIZAR TUDO em 2026 | Tutorial Completo GRÁTIS
+#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (06/08/2026 00:10hs)" audio-track="pt-BR",AGENTES DE IA: Como CRIAR e USAR para AUTOMATIZAR TUDO em 2026 | Tutorial Completo GRÁTIS
 https://www.youtube.com/watch?v=UiK9pl8tKao
-#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (05/08/2026 21:58hs)" audio-track="pt-BR",Como Transformar sua Planilha Excel em um APP Financeiro com IA em Minutos (100% Grátis)
+#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (06/08/2026 00:10hs)" audio-track="pt-BR",Como Transformar sua Planilha Excel em um APP Financeiro com IA em Minutos (100% Grátis)
 https://www.youtube.com/watch?v=fSEn_hk3Swo
-#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (05/08/2026 21:58hs)" audio-track="pt-BR",Transformei uma PLANILHA com abas em um APP COMPLETO em apenas 5 minutos
+#EXTINF:-1 group-title="MÓDULO 00 - APPSHEETS (06/08/2026 00:10hs)" audio-track="pt-BR",Transformei uma PLANILHA com abas em um APP COMPLETO em apenas 5 minutos
 https://www.youtube.com/watch?v=1LPoWFlEiOo
-#EXTINF:-1 group-title="MÓDULO 01 - AFILIADOS" audio-track="pt-BR",O MELHOR JEITO de GANHAR DINHEIRO como AFILIADO ou INFLUENCIADOR! Monetize seu conteúdo com IA!
+#EXTINF:-1 group-title="MÓDULO 01 - AFILIADOS" audio-track="pt-BR",O MELHOR JEITO de GANHAR DINHEIRO como AFILIADO ou INFLUENCIADOR! Monetize seu conteúdo com IA 
 https://www.youtube.com/watch?v=hSP2deY86C0
-#EXTINF:-1 group-title="MÓDULO 01 - APPeBOOKS" audio-track="pt-BR",Transforme Seu Ebook em um APP interativo GRÁTIS
+#EXTINF:-1 group-title="MÓDULO 02 - APPs" audio-track="pt-BR",Crie um App de Histórias Infantis de R$ 1 MILHÃO (Passo a Passo)
+https://www.youtube.com/watch?v=0ksBTv-Ufpw
+#EXTINF:-1 group-title="MÓDULO 02 - APPs" audio-track="pt-BR",Copiei um App Fitness de R$ 6 MILHÕES (Passo a Passo)
+https://www.youtube.com/watch?v=eld2u7DlMF4
+#EXTINF:-1 group-title="MÓDULO 02 - APPs" audio-track="pt-BR",Como fazer Apps Idiotas de R$10K/mês em 18 minutos
+https://www.youtube.com/watch?v=QJZNpw9hGVQ
+#EXTINF:-1 group-title="MÓDULO 02 - APPs" audio-track="pt-BR",Criar Apps Finanças Nunca Foi Tão Fácil (IA Faz Tudo)
+https://www.youtube.com/watch?v=VUtqbBDfq4Q
+#EXTINF:-1 group-title="MÓDULO 02 - APPs" audio-track="pt-BR",Criei um App Fitness com IA e Ele Pode Render R$1.000 Dia
+https://www.youtube.com/watch?v=3MRlX3JK-ms
+#EXTINF:-1 group-title="MÓDULO 03 - WhastApp" audio-track="pt-BR",COMO CRIAR UM AGENTE DE IA PARA WHATSAPP EM 10 MINUTOS (Passo a Passo)
+https://www.youtube.com/watch?v=4LVALSXHDcg
+#EXTINF:-1 group-title="MÓDULO 03 - WhastApp" audio-track="pt-BR",CRM de WhatsApp GRÁTIS e Open Source (Instalação Passo a Passo)
+https://www.youtube.com/watch?v=ef69Z36ai9M
+#EXTINF:-1 group-title="MÓDULO 03 - WhastApp" audio-track="pt-BR",Crie sua Secretária IA | ela se instala sozinha WhatsApp Oficial + Código Aberto + IA Local [Grátis]
+https://www.youtube.com/watch?v=P7Dy1vdCVhw
+#EXTINF:-1 group-title="MÓDULO 04 - APPeBOOKS" audio-track="pt-BR",Transforme Seu Ebook em um APP interativo GRÁTIS
 https://www.youtube.com/watch?v=fXJAzjYMXI8
+#EXTINF:-1 group-title="MÓDULO 04 - APPeBOOKS" audio-track="pt-BR",Como TRANSFORMAR EBOOKS em APPS LUCRATIVOS com IA (Passo a Passo Completo!)
+https://www.youtube.com/watch?v=EI26JsFa9G8
+#EXTINF:-1 group-title="MÓDULO 04 - APPeBOOKS" audio-track="pt-BR",Como Criar e Vender EBOOKS Profissionais com Inteligência Artificial [APENAS UMA FERRAMENTA]
+https://www.youtube.com/watch?v=RHJ1cWZcYJQ
+#EXTINF:-1 group-title="MÓDULO 05 - Google AI Studio" audio-track="pt-BR",Crie Sites e Apps 100% GRÁTIS Google AI Studio | Pare de pagar pelo Lovable! 
+https://www.youtube.com/watch?v=nCYwti1H6lY
+#EXTINF:-1 group-title="MÓDULO 05 - Google AI Studio" audio-track="pt-BR",Google Ai Studio + Netlify: Sua Página de Vendas Com I.A e Domínio Personalizado - De Graça
+https://www.youtube.com/watch?v=Bf3Q2mpOQrM
+#EXTINF:-1 group-title="MÓDULO 05 - Google AI Studio" audio-track="pt-BR",CRIE E PUBLIQUE APPS 100% GRÁTIS COM O GOOGLE AI STUDIO
+https://www.youtube.com/watch?v=PiXEIsG2Vqg
+#EXTINF:-1 group-title="MÓDULO 06 - Hospedagem" audio-track="pt-BR",COMO HOSPEDAR PÁGINAS DO GOOGLE IA STUDIO DE GRAÇA (PASSO A PASSO)
+https://www.youtube.com/watch?v=WhcQz-epTow
+#EXTINF:-1 group-title="MÓDULO 06 - Hospedagem" audio-track="pt-BR",Hospedagem de site grátis que realmente funciona
+https://www.youtube.com/watch?v=YcVJI0UzAYA
+#EXTINF:-1 group-title="MÓDULO 06 - Hospedagem" audio-track="pt-BR",Crie e Publique seu Site com IA (Grátis + Banco de Dados)
+https://www.youtube.com/watch?v=R7fO8VQMDFI
+#EXTINF:-1 group-title="MÓDULO 07 - Agentes de IA" audio-track="pt-BR",Aula 01 - O que são AGENTES de IA: APRENDA do ZERO! (ATUALIZADO 2026)
+https://www.youtube.com/watch?v=7C0k8wsYeV0
+#EXTINF:-1 group-title="MÓDULO 07 - Agentes de IA" audio-track="pt-BR",Aula 02 - Agente de AI Grátis no WhatsApp Business Chegou | Guia Completo (ATUALIZAÇÃO)
+https://www.youtube.com/watch?v=4V5mOS-xL08
+#EXTINF:-1 group-title="MÓDULO 07 - Agentes de IA" audio-track="pt-BR",Aula 03 - Crie Seu Próprio Agente de IA no WhatsApp em Minutos (Sem Programar)
+https://www.youtube.com/watch?v=ubyWC53wxLU
+#EXTINF:-1 group-title="MÓDULO 07 - Agentes de IA" audio-track="pt-BR",Aula 04 - Crie um Agente de IA Completo no GPTMaker (Google Calendar + Webhook + Atendimento) - Parte 2
+https://www.youtube.com/watch?v=xuA7cZYgVA0
+#EXTINF:-1 group-title="MÓDULO 07 - Agentes de IA" audio-track="pt-BR",Aula 05 - Crie Apps e Publique na Google Play Store — Testei do Zero Sem Programar (OnSpace)
+https://www.youtube.com/watch?v=udpZ8socNN4
+#EXTINF:-1 group-title="MÓDULO 07 - Agentes de IA" audio-track="pt-BR",Aula 06 - Queue Mode no n8n sem enrolação: como funciona de verdade
+https://www.youtube.com/watch?v=QIE_pwHIoYI
+#EXTINF:-1 group-title="MÓDULO 07 - Agentes de IA" audio-track="pt-BR",Aula 07 - n8n do Zero Tudo Que Você Precisa Saber Pra Começar (Aula 1)
+https://www.youtube.com/watch?v=WSec7kAenf4
+#EXTINF:-1 group-title="MÓDULO 08 - Netlify" audio-track="pt-BR",Site 100% GRÁTIS no AR com IA + Netlify (Sem Cartão)
+https://www.youtube.com/watch?v=-8tpqN8j3lc
+#EXTINF:-1 group-title="MÓDULO 09 - CRIAR MÚSICAS" audio-track="pt-BR",vIDEOCLIPE Com IA - Ferramenta para Criar No Automatico no Flow AI
+https://www.youtube.com/watch?v=SQVUpWLsan4
+#EXTINF:-1 group-title="MÓDULO 10 - Play Store" audio-track="pt-BR",Publicando Seu App na Play Store Passo a Passo (Atualizado e Compatível com Qualquer Stack)
+https://www.youtube.com/watch?v=Ci4MRGce15Y
+#EXTINF:-1 group-title="MÓDULO 11 - SERVIDORES VPS" audio-track="pt-BR",ADEUS Google Drive. Monte o seu SERVIDOR CASEIRO com 32TB e Truenas em 15 minutos
+https://www.youtube.com/watch?v=xXJLD2-8udo
+#EXTINF:-1 group-title="MÓDULO 11 - SERVIDORES VPS" audio-track="pt-BR",Como criar um servidor de arquivos [NAS] em 5 minutos USANDO SEU ROTEADOR
+https://www.youtube.com/watch?v=xJQfiatwyOk
+#EXTINF:-1 group-title="MÓDULO 11 - SERVIDORES VPS" audio-track="pt-BR",Como ter um servidor VPS grátis pra sempre sem gambiarra
+https://www.youtube.com/watch?v=bk5sWon4tnE
+#EXTINF:-1 group-title="MÓDULO 11 - SERVIDORES VPS" audio-track="pt-BR",Como transformar um celular em um servidor e hospedar sites
+https://www.youtube.com/watch?v=LE1J1_PKgGM
+#EXTINF:-1 group-title="MÓDULO 11 - SERVIDORES VPS" audio-track="pt-BR",Crie um Servidor Caseiro com Celular Velho — Funciona Melhor do que Esperado
+https://www.youtube.com/watch?v=jMXeb5JSE1s
+#EXTINF:-1 group-title="MÓDULO 11 - SERVIDORES VPS" audio-track="pt-BR",Servidor com um Netbook SUCATA de 2009
+https://www.youtube.com/watch?v=DT1-uDpr9Pw
+#EXTINF:-1 group-title="MÓDULO 11 - SERVIDORES VPS" audio-track="pt-BR",monte um SERVIDOR PESSOAL Gastando Pouco (com Orange Pi e CasaOS)
+https://www.youtube.com/watch?v=pWOtgiBhOhI
+#EXTINF:-1 group-title="MÓDULO 11 - SERVIDORES VPS" audio-track="pt-BR",SERVIDOR CASEIRO COM TV BOX - GUIA COMPLETO DE INSTALAÇÃO ARMBIAN
+https://www.youtube.com/watch?v=292JKFXuryY
