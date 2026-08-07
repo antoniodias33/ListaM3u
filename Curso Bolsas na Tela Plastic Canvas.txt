@@ -1,32 +1,32 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (05/08/2026 02:10hs)" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: (05/08/2026 02:10hs)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (07/08/2026 12:40hs)" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: (05/08/2026 02:10hs)
 https://www.youtube.com/watch?v=QuQFg7QUTnE
 #EXTINF:215 tvg-logo="https://i.ytimg.com/vi/bsN2Kp-6wek/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (05/08/2026 02:10hs)",A simple but very beautiful bag made of plastic canvas.
 https://www.youtube.com/watch?v=bsN2Kp-6wek
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (05/08/2026 02:10hs)",Aula 1 - Bem-vindo ao Curso
 https://www.youtube.com/watch?v=B6MdFl1PIDA
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (05/08/2026 02:10hs)",Aula 2 - Como utilizar o aplicativo
-https://www.youtube.com/watch?v=B6MdFl1PIDA
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N2bpVTVf640/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (05/08/2026 02:10hs)",Aula 3 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
-https://www.youtube.com/watch?v=N2bpVTVf640
+
 #EXTINF:500 tvg-logo="https://i.ytimg.com/vi/MRIXyMphsWo/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (05/08/2026 02:10hs)",Aula 4 - Saiba as PRINCIPAIS FERRAMENTAS para quem quer INICIAR em Bolsas em Tela
-https://www.youtube.com/watch?v=MRIXyMphsWo
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (05/08/2026 02:10hs)",Aula 5 - Como organizar seu espaço de trabalho
-https://www.youtube.com/watch?v=B6MdFl1PIDA
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 01 - Telas: tamanhos e espessuras
 https://www.youtube.com/watch?v=B6MdFl1PIDA
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159366254-d25c1fb421980e01c88038cb3889fae9c7ad5b2e8b0612136d15f8fdcc57513e-d_360x203?&r=pad&region=us" group-title="MÓDULO 01 - Materiais Básicos",Aula 03 - Diferença entre tela 3 mm e 4 mm e outras (Bolsa Edna aos 37Minutos)
 https://player.vimeo.com/video/1193802601?fl=pl&fe=sh#t=37m38s&end=39m35s
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 03 - Linhas indicadas
-https://www.youtube.com/watch?v=B6MdFl1PIDA
+
 #EXTINF:2865 tvg-logo="https://i.ytimg.com/vi/l3xcAn3vL8k/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 03 - Minha 1ª Bolsa na tela plástica (Materiais)
-https://www.youtube.com/watch?v=l3xcAn3vL8k
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 04 - Agulhas
-https://www.youtube.com/watch?v=B6MdFl1PIDA
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 05 - Tesouras
-https://www.youtube.com/watch?v=B6MdFl1PIDA
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 06 - Alças
-https://www.youtube.com/watch?v=B6MdFl1PIDA
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 07 - Fechos
 https://www.youtube.com/watch?v=B6MdFl1PIDA
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 08 - Ferragens
@@ -48,25 +48,25 @@ https://www.youtube.com/watch?v=-4BbjcXRDik
 #EXTINF:723 tvg-logo="https://i.ytimg.com/vi/XGs_DmcrX7o/mqdefault.jpg" group-title="MÓDULO 02 - Fundamentos",Aula 1 - TELA PLÁSTICA  QUAL MELHOR FIO  Telas com furos de 3mm
 https://www.youtube.com/watch?v=XGs_DmcrX7o
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wLBh1S3.jpeg" group-title="MÓDULO 02 - Fundamentos",Aula 2 - Qual Fio Usar
-https://drive.google.com/uc?export=download&id=1qQWTaKkPX0wj5zlQ97-APHh0dS9bsqQz
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lKnEBpP.jpeg" group-title="MÓDULO 02 - Fundamentos",Aula 3 - Pontos Básicos
-https://drive.google.com/uc?export=download&id=18X6kaaw7Mk9rCFHIN5WVZMLmyuiWRpz3
+
 #EXTINF:-1 group-title="MÓDULO 02 - Fundamentos",Aula 4 - Como cortar a tela
-https://www.youtube.com/watch?v=gygeKMgT4vE
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1sH0lys.jpeg" group-title="MÓDULO 02 - Fundamentos",Aula 5 - Como fazer alça de Crochê para Bolsa
-https://www.youtube.com/watch?v=pyZh6ZICkM4
+
 #EXTINF:589 tvg-logo="https://i.ytimg.com/vi/0fumEXDlPOs/mqdefault.jpg" group-title="MÓDULO 02 - Fundamentos",Aula 6 - Alça de bolsa em fio de malha crochê ou tricô
-https://www.youtube.com/watch?v=0fumEXDlPOs
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0zuYn6H.jpeg" group-title="MÓDULO 03 - Técnicas Essenciais",Aula 1 - O que fazer quando o fio acabar
 https://drive.google.com/uc?export=download&id=14Qii5i4nPFgoo7ftUVsMHh11WUU3uJoQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lc52xmO.jpeg" group-title="MÓDULO 03 - Técnicas Essenciais",Aula 2 - Como colocar o Forro
-https://drive.google.com/uc?export=download&id=1AVcRFbzIiBSJ1z3HThu3FIxyLHcHqugq
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fHqFEmu.jpeg" group-title="MÓDULO 03 - Técnicas Essenciais",Aula 3 - Acabamento e Montagem
-https://drive.google.com/uc?export=download&id=1rRRLbIlgh2Y8ri8RRrbq2EmfJ6--ZYKB
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zaVq1hC.jpeg" group-title="MÓDULO 03 - Técnicas Essenciais",Aula 4 Colocando o Fecho e Alça (Passo a Passo)
-https://drive.google.com/uc?export=download&id=1jk5CXSmBJ8iATy09NcD_B4c2uBHoJrsk
+
 #EXTINF:1615 tvg-logo="https://i.ytimg.com/vi/c_gku3rI1V0/mqdefault.jpg" group-title="MÓDULO 03 - Técnicas Essenciais",Aula 5 - Como cortar sua tela para montar sua bolsa
-https://www.youtube.com/watch?v=c_gku3rI1V0
+
 #EXTINF:347 tvg-logo="https://i.ytimg.com/vi/kg-eB5zYtt8/mqdefault.jpg" group-title="MÓDULO 03 - Técnicas Essenciais",Aula 6 - Embalagens para Artesanato fáceis de fazer
 https://www.youtube.com/watch?v=kg-eB5zYtt8
 #EXTINF:952 tvg-logo="https://i.ytimg.com/vi/PnKEVWLOtFA/mqdefault.jpg" group-title="MÓDULO 03 - Técnicas Essenciais",Aula 7 - Vamos fazer a alca Jessy? você faz vai amar!!
