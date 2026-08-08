@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (08/08/2026 02:20hs)" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: (08/08/2026 02:20hs)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (08/08/2026 02:20hs)" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: 08/08/2026 02:20hs)
 https://www.youtube.com/watch?v=QuQFg7QUTnE
 #EXTINF:215 tvg-logo="https://i.ytimg.com/vi/bsN2Kp-6wek/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (08/08/2026 02:20hs)",A simple but very beautiful bag made of plastic canvas.
 https://www.youtube.com/watch?v=bsN2Kp-6wek
