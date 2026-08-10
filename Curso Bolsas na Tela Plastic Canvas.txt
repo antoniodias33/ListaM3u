@@ -1,19 +1,35 @@
 #EXTM3U
-#EXTINF:830 tvg-logo="https://i.ytimg.com/vi/T3qAQ15ZOYs/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (10/08/2026 13:10hs)", Dicas para Fazer Bolsas na Tela
+#EXTINF:3699 tvg-logo="https://i.ytimg.com/vi/BNBUEOItzz8/mqdefault.jpg" group-title="MÓDULO 0 - BOLSA GATINHO", Técnica secreta para Acabamento  bonito! #diy #plastic 
+https://www.youtube.com/watch?v=BNBUEOItzz8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fJkCBlA8Q_w/mqdefault.jpg" group-title="MÓDULO 0 - BOLSA GATINHO",Aula 4 - BOLSA NA TELA PLÁSTICA PASSO A PASSO
+https://www.youtube.com/watch?v=fJkCBlA8Q_w
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_g13fenuOSg/mqdefault.jpg " group-title="MÓDULO 0 - BOLSA GATINHO",Bolsa na Tela Plástica com Fio de Malha- Plastic Canvas Bag Tutorial
+https://www.youtube.com/watch?v=_g13fenuOSg
+#EXTINF:1774 tvg-logo="https://i.ytimg.com/vi/O8BtlmjwjwY/mqdefault.jpg" group-title="MÓDULO 0 - BOLSA GATINHO",Bolsa na Tela Plástica | Tutorial Completo com Forro
+https://www.youtube.com/watch?v=O8BtlmjwjwY
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3DjPcIRs7SA/mqdefault.jpg" group-title="MÓDULO 0 - BOLSA GATINHO",Como colar o forro na bolsa em tela plástica
+https://www.youtube.com/watch?v=3DjPcIRs7SA
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/jlB5lnOyfPs/mqdefault.jpg" group-title="MÓDULO 0 - BOLSA GATINHO",Como eu faço bolsas na tela plástica com fios poliéster. Parte 1
+https://www.youtube.com/watch?v=jlB5lnOyfPs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/K2ptrIAi4vs/mqdefault.jpg" group-title="MÓDULO 0 - BOLSA GATINHO",Como eu faço uma bolsa na tela plástica com fios poliéster parte 2
+https://www.youtube.com/watch?v=K2ptrIAi4vs
+#EXTINF:3246 tvg-logo="https://i.ytimg.com/vi/DCJ_BBulARw/mqdefault.jpg" group-title="MÓDULO 0 - BOLSA GATINHO",Raquel Baguette Bag with Mesh Base
+https://www.youtube.com/watch?v=DCJ_BBulARw
+#EXTINF:830 tvg-logo="https://i.ytimg.com/vi/T3qAQ15ZOYs/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (10/08/2026 17:50hs)", Dicas para Fazer Bolsas na Tela
 https://www.youtube.com/watch?v=T3qAQ15ZOYs
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (10/08/2026 13:10hs)" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: (10/08/2026 13:10hs)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (10/08/2026 17:50hs)" audio-track="pt-BR",BOLSAS feitas à mão (ATUALIZADO EM: (10/08/2026 17:50hs)
 https://www.youtube.com/watch?v=QuQFg7QUTnE
-#EXTINF:215 tvg-logo="https://i.ytimg.com/vi/bsN2Kp-6wek/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (10/08/2026 13:10hs)",A simple but very beautiful bag made of plastic canvas.
+#EXTINF:215 tvg-logo="https://i.ytimg.com/vi/bsN2Kp-6wek/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (10/08/2026 17:50hs)",A simple but very beautiful bag made of plastic canvas.
 https://www.youtube.com/watch?v=bsN2Kp-6wek
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (10/08/2026 13:10hs)",Aula 1 - Bem-vindo ao Curso
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (10/08/2026 17:50hs)",Aula 1 - Bem-vindo ao Curso
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (10/08/2026 13:10hs)",Aula 2 - Como utilizar o aplicativo
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (10/08/2026 17:50hs)",Aula 2 - Como utilizar o aplicativo
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N2bpVTVf640/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (10/08/2026 13:10hs)",Aula 3 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N2bpVTVf640/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (10/08/2026 17:50hs)",Aula 3 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
 https://www.youtube.com/watch?v=N2bpVTVf640
-#EXTINF:500 tvg-logo="https://i.ytimg.com/vi/MRIXyMphsWo/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (10/08/2026 13:10hs)",Aula 4 - Saiba as PRINCIPAIS FERRAMENTAS para quem quer INICIAR em Bolsas em Tela
+#EXTINF:500 tvg-logo="https://i.ytimg.com/vi/MRIXyMphsWo/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (10/08/2026 17:50hs)",Aula 4 - Saiba as PRINCIPAIS FERRAMENTAS para quem quer INICIAR em Bolsas em Tela
 https://www.youtube.com/watch?v=MRIXyMphsWo
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (10/08/2026 13:10hs)",Aula 5 - Como organizar seu espaço de trabalho
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (10/08/2026 17:50hs)",Aula 5 - Como organizar seu espaço de trabalho
 https://www.youtube.com/watch?v=B6MdFl1PIDA
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 01 - Telas: tamanhos e espessuras
 https://www.youtube.com/watch?v=B6MdFl1PIDA
@@ -85,8 +101,6 @@ https://www.youtube.com/watch?v=JEtjL-r5QBc
 https://www.youtube.com/watch?v=9_JvJsfXzSE
 #EXTINF:1142 tvg-logo="https://i.ytimg.com/vi/5TNmdxJ5Zxo/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Aula 2 - BOLSA DE TELA PLÁSTICA
 https://www.youtube.com/watch?v=5TNmdxJ5Zxo
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fJkCBlA8Q_w/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Aula 4 - BOLSA NA TELA PLÁSTICA PASSO A PASSO
-https://www.youtube.com/watch?v=fJkCBlA8Q_w
 #EXTINF:967 tvg-logo="https://i.ytimg.com/vi/v43DnZIpkSI/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Aula 5 - Bolsa em plastic canvas com bordado de fio náutico | LOOK ESTILOSO
 https://www.youtube.com/watch?v=v43DnZIpkSI
 #EXTINF:2590 tvg-logo="https://i.ytimg.com/vi/jHt9aKSVguc/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Aula 6 - Bolsa na tela – Não é necessário saber fazer crochê
@@ -999,8 +1013,6 @@ https://www.youtube.com/watch?v=Wuy9UKGeLS8
 https://www.youtube.com/watch?v=kFMrUjngJpY
 #EXTINF:3349 tvg-logo="https://i.ytimg.com/vi/n8ToeZ80I4A/mqdefault.jpg" group-title="MÓDULO 32 - Rute Prestes-Bolsas na tela", I Discovered the SECRET of Mesh Crochet (And I’m Going to Show You!)
 https://www.youtube.com/watch?v=n8ToeZ80I4A
-#EXTINF:3699 tvg-logo="https://i.ytimg.com/vi/BNBUEOItzz8/mqdefault.jpg" group-title="MÓDULO 32 - Rute Prestes-Bolsas na tela", Técnica secreta para Acabamento  bonito! #diy #plastic 
-https://www.youtube.com/watch?v=BNBUEOItzz8
 #EXTINF:3607 tvg-logo="https://i.ytimg.com/vi/w-PwYppnduc/mqdefault.jpg" group-title="MÓDULO 32 - Rute Prestes-Bolsas na tela",Book cover on screen
 https://www.youtube.com/watch?v=w-PwYppnduc
 #EXTINF:3621 tvg-logo="https://i.ytimg.com/vi/EtL7P1OiIB8/mqdefault.jpg" group-title="MÓDULO 32 - Rute Prestes-Bolsas na tela",COMO FAZER BOLSA DIRETO NA TELA RAPIDO / FACÍL  #crochet #croche
@@ -1031,8 +1043,6 @@ https://www.youtube.com/watch?v=a8UwJ3AyRHU
 https://www.youtube.com/watch?v=hIsOlV38THI
 #EXTINF:3081 tvg-logo="https://i.ytimg.com/vi/frHr_H9wqCw/mqdefault.jpg" group-title="MÓDULO 32 - Rute Prestes-Bolsas na tela",O Segredo da bolsa de crochê na tela! #tela#crochet#croche
 https://www.youtube.com/watch?v=frHr_H9wqCw
-#EXTINF:3246 tvg-logo="https://i.ytimg.com/vi/DCJ_BBulARw/mqdefault.jpg" group-title="MÓDULO 32 - Rute Prestes-Bolsas na tela",Raquel Baguette Bag with Mesh Base
-https://www.youtube.com/watch?v=DCJ_BBulARw
 #EXTINF:495 tvg-logo="https://i.ytimg.com/vi/bN5VKpdy0vg/mqdefault.jpg" group-title="MÓDULO 32 - Rute Prestes-Bolsas na tela",The secret to cutting the fabric correctly | FREE PATTERN in the description! #shorts
 https://www.youtube.com/watch?v=bN5VKpdy0vg
 #EXTINF:495 tvg-logo="https://i.ytimg.com/vi/bN5VKpdy0vg/mqdefault.jpg" group-title="MÓDULO 32 - Rute Prestes-Bolsas na tela",The secret to cutting the fabric correctly | FREE PATTERN in the description! #shorts
@@ -1103,8 +1113,6 @@ https://www.youtube.com/watch?v=q1hHB5ARog4
 https://www.youtube.com/watch?v=yWl_wqrKEos
 #EXTINF:1702 tvg-logo="https://i.ytimg.com/vi/Zn-CSD0umEw/mqdefault.jpg" group-title="MÓDULO 34 - Ateliê Joana Fernandes Crochê Moderno",The SECRET to a Luxury Plastic Canvas Bag (Step-by-Step)
 https://www.youtube.com/watch?v=Zn-CSD0umEw
-#EXTINF:1774 tvg-logo="https://i.ytimg.com/vi/O8BtlmjwjwY/mqdefault.jpg" group-title="MÓDULO 34 - Ateliê Joana Fernandes Crochê Moderno",Plastic Mesh Bag | Complete Tutorial with Lining
-https://www.youtube.com/watch?v=O8BtlmjwjwY
 #EXTINF:362 tvg-logo="https://i.ytimg.com/vi/cEV0kXcS52c/mqdefault.jpg" group-title="MÓDULO 34 - Ateliê Joana Fernandes Crochê Moderno",Kit Completo para Bolsas na Tela Plástica! Veja esses materiais incríveis
 https://www.youtube.com/watch?v=cEV0kXcS52c
 #EXTINF:2076 tvg-logo="https://i.ytimg.com/vi/XZtf2AqK1Tc/mqdefault.jpg" group-title="MÓDULO 35 - Núbia Maia",AULA 1 - BOLSA DE CRISTAIS / CRIAÇÃO USANDO A TECNICA DO ENTRELAÇADO
@@ -2589,3 +2597,5 @@ https://player.vimeo.com/video/1209295902
 https://player.vimeo.com/video/1209295903
 #EXTINF:-1 group-title="TV | CANAIS | VIMEO3",CANAL 5904
 https://player.vimeo.com/video/1209295904
+#EXTINF:2185 tvg-logo="https://i.ytimg.com/vi/1As1kZ4o1BE/mqdefault.jpg" group-title="Hooked by Empress",TUTORIAL DE BOLSA DE LONA PLÁSTICA/TUTORIAL DE BOLSA DIY/TUTORIAL DE BOLSA FEITA À MÃO/TUTORIAL DE BOLSA DE CROCHÊ
+https://www.youtube.com/watch?v=1As1kZ4o1BE
