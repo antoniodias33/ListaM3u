@@ -1,15 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="55" tvg-logo="" group-title="SERVIÇOS DO USUARIO" parent-code="1900", 01 CANAL DO USUARIO EM EM 25/07/2026 11:55Hs
-https://dn600204.us.archive.org/0/items/canal-do-usuario-iptvbm/Canal%20do%20Usuario%20IPTVBM.mp4
-#EXTINF:-1 tvg-id="55" tvg-logo="https://i.ytimg.com/vi/Er5R4ZX4mdg/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO", Faça uma homenagem à quem você ama com Músicas Personalizadas
-https://www.youtube.com/watch?v=Er5R4ZX4mdg
-#EXTINF:-1 group-title="TV | CANAIS | VIMEO3",CANAL 5900
-https://player.vimeo.com/video/1209295900
-#EXTINF:-1 group-title="TV | CANAIS | VIMEO3",CANAL 5901
-https://player.vimeo.com/video/1209295901
-#EXTINF:-1 group-title="TV | CANAIS | VIMEO3",CANAL 5902
-https://player.vimeo.com/video/1209295902
-#EXTINF:-1 group-title="TV | CANAIS | VIMEO3",CANAL 5903
-https://player.vimeo.com/video/1209295903
-#EXTINF:-1 group-title="TV | CANAIS | VIMEO3",CANAL 5904
-https://player.vimeo.com/video/1209295904
+https://www.youtube.com/watch?v=b1J_mC3pWvM
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5Xl6pSgiy3A/mqdefault.jpg" group-title="CANAIS | TV AO VIVO",Balneário Camboriú ao vivo - Avenida Atlântica
+https://www.youtube.com/watch?v=5Xl6pSgiy3A
+#EXTINF:5998 tvg-logo="https://i.ytimg.com/vi/5DLOGErRUD0/mqdefault.jpg" group-title="CANAIS | TV AO VIVO",Bom Dia Produtor | 05/08/2026
+https://www.youtube.com/watch?v=5DLOGErRUD0
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Df3g76Y25gs/mqdefault.jpg" group-title="CANAIS | TV AO VIVO",DiaTV - AO VIVO 24 HORAS POR DIA
+https://www.youtube.com/watch?v=Df3g76Y25gs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/myxSlgI60co/mqdefault.jpg" group-title="CANAIS | TV AO VIVO",Filmelier TV (24 Horas - Ao VIVO)
+https://www.youtube.com/watch?v=myxSlgI60co
