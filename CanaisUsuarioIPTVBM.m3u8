@@ -1,3 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="51" tvg-logo="" group-title="SERVIÇOS DO USUARIO", 03 VIMEO
 https://player.vimeo.com/video/1193802503
+#EXTINF:-1 tvg-id="55" tvg-logo="" group-title="SERVIÇOS DO USUARIO" parent-code="1900", 01 CANAL DO USUARIO EM EM 18/08/2026 05:25Hs YouTube
+https://www.youtube.com/watch?v=Er5R4ZX4mdg
+#EXTINF:-1 tvg-id="54" tvg-logo="https://i.ytimg.com/vi/5Xl6pSgiy3A/mqdefault.jpg" group-title="CANAIS | TV AO VIVO",YouTube Shorts
+https://www.youtube.com/shorts/0VTPDuUYPyE
+#EXTINF:5998 tvg-id="53" tvg-logo="https://i.ytimg.com/vi/5DLOGErRUD0/mqdefault.jpg" group-title="CANAIS | TV AO VIVO",ArchiveOrg
+https://archive.org/download/canal-do-usuario-iptvbm/Canal%20do%20Usuario%20IPTVBM.mp4
+#EXTINF:-1 tvg-id="52" tvg-logo="https://i.ytimg.com/vi/Df3g76Y25gs/mqdefault.jpg" group-title="CANAIS | TV AO VIVO",TV AO VIVO
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="51" tvg-logo="https://i.ytimg.com/vi/myxSlgI60co/mqdefault.jpg" group-title="CANAIS | TV AO VIVO",Google Drive
+https://drive.google.com/uc?export=download&id=14Qii5i4nPFgoo7ftUVsMHh11WUU3uJoQ
+#EXTINF:-1 tvg-id="55" tvg-logo="" group-title="SERVIÇOS DO USUARIO" parent-code="1950", Filme YouTube
+https://www.youtube.com/watch?v=S4TBjIo4FuI
