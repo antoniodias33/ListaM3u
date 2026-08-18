@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="55" tvg-logo="" group-title="SERVIÇOS DO USUARIO" parent-code="1900", 01 GOOGLE
+#EXTINF:-1 tvg-id="50" tvg-logo="" group-title="SERVIÇOS DO USUARIO" parent-code="1900", 01 GOOGLE
 https://drive.google.com/uc?export=download&id=1qQWTaKkPX0wj5zlQ97-APHh0dS9bsqQz
-#EXTINF:-1 tvg-id="54" tvg-logo="" group-title="SERVIÇOS DO USUARIO", 02 VIMEO
+#EXTINF:-1 tvg-id="51" tvg-logo="" group-title="SERVIÇOS DO USUARIO", 02 VIMEO
 https://player.vimeo.com/video/1193802503
-#EXTINF:-1 tvg-id="54" tvg-logo="" group-title="SERVIÇOS DO USUARIO", 02 VIMEO
-https://player.vimeo.com/video/1193802503
-#EXTINF:-1 tvg-id="54" tvg-logo="" group-title="SERVIÇOS DO USUARIO", 03 SBT Youtube
+#EXTINF:-1 tvg-id="52" tvg-logo="" group-title="SERVIÇOS DO USUARIO", 03 SBT Youtube
 https://www.youtube.com/watch?v=LLpNUqHVam8
