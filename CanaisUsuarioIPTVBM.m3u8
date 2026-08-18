@@ -1,13 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="55" tvg-logo="" group-title="SERVIÇOS DO USUARIO" parent-code="1900", 01 CANAL DO USUARIO EM EM 25/07/2026 11:55Hs
-https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
-#EXTINF:-1 tvg-id="54" tvg-logo="https://i.ytimg.com/vi/5Xl6pSgiy3A/mqdefault.jpg" group-title="CANAIS | TV AO VIVO",Balneário Camboriú ao vivo - Avenida Atlântica
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:5998 tvg-id="53" tvg-logo="https://i.ytimg.com/vi/5DLOGErRUD0/mqdefault.jpg" group-title="CANAIS | TV AO VIVO",Bom Dia Produtor | 05/08/2026
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:-1 tvg-id="52" tvg-logo="https://i.ytimg.com/vi/Df3g76Y25gs/mqdefault.jpg" group-title="CANAIS | TV AO VIVO",DiaTV - AO VIVO 24 HORAS POR DIA
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w16814077.m3u8
-#EXTINF:-1 tvg-id="51" tvg-logo="https://i.ytimg.com/vi/myxSlgI60co/mqdefault.jpg" group-title="CANAIS | TV AO VIVO",Filmelier TV (24 Horas - Ao VIVO)
-https://player.vimeo.com/video/1209295900
-#EXTINF:-1 tvg-id="55" tvg-logo="" group-title="SERVIÇOS DO USUARIO" parent-code="1950", 03 MIMOS DA CRIS (TIARAS E LAÇOS) (47)99115-0154
-https://player.vimeo.com/video/1209295844
+#EXTINF:-1 tvg-id="55" tvg-logo="" group-title="SERVIÇOS DO USUARIO" parent-code="1900", 01 CANAL DO USUARIO EM EM 18/08/2026 02:45Hs
+https://dn600204.us.archive.org/0/items/canal-do-usuario-iptvbm/Canal%20do%20Usuario%20IPTVBM.mp4
+#EXTINF:-1 tvg-id="54" tvg-logo="" group-title="SERVIÇOS DO USUARIO", Faça uma homenagem à quem você ama com Músicas Personalizadas
+https://www.youtube.com/watch?v=Er5R4ZX4mdg
+#EXTINF:-1 tvg-id="53" tvg-logo="" group-title="SERVIÇOS DO USUARIO" parent-code="1950", 01 TESTE GRATIS por 3 dias (App Bit Master TVShow WhatsApp (47)99626-5594)
+https://www.youtube.com/watch?v=dcIBmYcy9Bo
+#EXTINF:-1 tvg-id="52" tvg-logo="" group-title="SERVIÇOS DO USUARIO" parent-code="1950", 03 MIMOS DA CRIS (TIARAS E LAÇOS) (47)99115-0154
+https://www.youtube.com/watch?v=DA45onT1R4A
+#EXTINF:-1 tvg-id="51" tvg-logo="" group-title="SERVIÇOS DO USUARIO" parent-code="1960", INDIQUE E GANHE 10 Reais
+https://www.youtube.com/watch?v=YBQ3BhHT8us
+#EXTINF:-1 tvg-id="50" tvg-logo="" group-title="SERVIÇOS DO USUARIO" parent-code="1970", Renda com Assinaturas pela Internet (47)99195-2228
+https://www.youtube.com/watch?v=mvLgBpBryb8
+#EXTINF:-1 tvg-id="60" tvg-logo="" group-title="SERVIÇOS DO USUARIO" parent-code="1975", Renda com Assinaturas pela Internet (47)99195-2228
+https://www.youtube.com/watch?v=_0XAox_w24A
+#EXTINF:-1 tvg-id="59" tvg-logo="" group-title="SERVIÇOS DO USUARIO" parent-code="1980", 01 TESTE GRATIS por 3 dias (App Bit Master TVShow. WhatsApp (47)99626-5594
+https://www.youtube.com/watch?v=oBmvYDKCbFo
+#EXTINF:-1 tvg-id="58" tvg-logo="" group-title="SERVIÇOS DO USUARIO",Como ganhar dinheiro com Internet e Criptomoedas (sem INVESTIR)
+https://www.youtube.com/watch?v=sb_lnl282ig
