@@ -1,7 +1,13 @@
 #EXTM3U
-#EXTINF: tvg-id="50" tvg-name="TATOO001" group-title="SERVIÇOS DO USUARIO" parent-code="1234", 01 CANAL DO USUARIO EM EM 20/08/2026 Tatuagem é pecado?
+#EXTINF:98 tvg-id="15" tvg-name="TATOO001" group-title="SERVIÇOS DO USUARIO" parent-code="1234", 01 CANAL DO USUARIO EM EM 20/08/2026 06:45hs Tatuagem é pecado?
 https://player.vimeo.com/video/1219749473
-#EXTINF tvg-id="50" tvg-name="MERCADO002" tvg-logo="https://i.ytimg.com/vi/0VTPDuUYPyE/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234",SELFIE com MODERN TALKING Bad Boys Blue C.C. Catch e Erasure
+#EXTINF:75 tvg-id="20" tvg-name="MERCADO002" tvg-logo="https://i.ytimg.com/vi/0VTPDuUYPyE/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234",SELFIE com MODERN TALKING Bad Boys Blue C.C. Catch e Erasure
 https://www.youtube.com/watch?v=0VTPDuUYPyE
-#EXTINF tvg-id="50" tvg-name="PADARIA001" group-title="SERVIÇOS DO USUARIO" parent-code="1234",🎵 Sentir raiva é pecado
+#EXTINF:49 tvg-id="25" tvg-name="PADARIA001" group-title="SERVIÇOS DO USUARIO" parent-code="1234",🎵 Sentir raiva é pecado
 https://player.vimeo.com/video/1219750110?share=copy&fl=sv&fe=ci
+#EXTINF:120 tvg-id="30" tvg-name="MERCADO001" tvg-logo="https://i.ytimg.com/vi/DA45onT1R4A/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234",🎵 O Rugido do Leão | Louvor e adoração ao Leão da Tribo de Judá 
+https://www.youtube.com/watch?v=DA45onT1R4A
+#EXTINF:80 tvg-id="35" tvg-name="BARBEARIA002" tvg-logo="https://i.ytimg.com/vi/dcIBmYcy9Bo/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234",INSTRUMENTO DO TEU AMOR | Adoração Profunda & Worship | Gospel Brasileiro 
+https://www.youtube.com/watch?v=dcIBmYcy9Bo
+#EXTINF:55 tvg-id="40" tvg-name="BARBEARIA003" tvg-logo="https://i.ytimg.com/vi/AVNM91FFaD0/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234",🎵 EU SOU O AMOR | Música Gospel Inspirada em João 15 9-17 | Louvor e Adoração | Worship Brasil
+https://www.youtube.com/watch?v=AVNM91FFaD0
