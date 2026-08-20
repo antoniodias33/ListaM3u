@@ -1,11 +1,13 @@
 #EXTM3U
-#EXTINF:30 tvg-id="25" tvg-name="INFORMATICA001" group-title="SERVIÇOS DO USUARIO" parent-code="1234", 01 CANAL DO USUARIO EM EM 20/08/2026 10:20hs Insiste ou se afasta?
+#EXTINF:30 tvg-id="25" tvg-name="INFORMATICA001" tvg-logo="https://i.ytimg.com/vi/mKjFaTUELA0/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234" audio-track="pt-BR", 01 CANAL DO USUARIO EM EM 20/08/2026 11:00hs Insiste ou se afasta?
 https://youtube.com/shorts/mKjFaTUELA0?si=3QGFTvz1MAlMArky
-#EXTINF:30 tvg-id="30" tvg-name="AÇOUGUE001" tvg-logo="https://i.ytimg.com/vi/0VTPDuUYPyE/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234",Você pode sofrer por uma dor que não é sua
+#EXTINF:30 tvg-id="30" tvg-name="AÇOUGUE001" tvg-logo="https://i.ytimg.com/vi/0VTPDuUYPyE/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234" audio-track="pt-BR",Você pode sofrer por uma dor que não é sua
 https://youtube.com/shorts/tK4_4d1jbxQ?si=Fw2AYlwQBBP4Hpzq
-#EXTINF:40 tvg-id="35" tvg-name="FORNEC001" group-title="SERVIÇOS DO USUARIO" parent-code="1234",Anúncio da Parafusadeira
+#EXTINF:40 tvg-id="35" tvg-name="FORNEC001" tvg-logo="https://i.ytimg.com/vi/wY32sKo6o34/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234" audio-track="pt-BR",Anúncio da Parafusadeira
 https://www.youtube.com/shorts/wY32sKo6o34
-#EXTINF:30 tvg-id="40" tvg-name="FORNEC002" tvg-logo="https://i.ytimg.com/vi/DA45onT1R4A/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234",Minha prima perdeu o carro no shopping
+#EXTINF:30 tvg-id="40" tvg-name="FORNEC002" tvg-logo="https://i.ytimg.com/vi/DA45onT1R4A/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234" audio-track="pt-BR",Minha prima perdeu o carro no shopping
 https://www.youtube.com/shorts/XB88f6ag56U
-#EXTINF:35 tvg-id="45" tvg-name="MILLIUM001" tvg-logo="https://i.ytimg.com/vi/dcIBmYcy9Bo/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234",Sandy vamos fazer Xixi
+#EXTINF:35 tvg-id="45" tvg-name="MILLIUM001" tvg-logo="https://i.ytimg.com/vi/dcIBmYcy9Bo/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234" audio-track="pt-BR",Sandy vamos fazer Xixi
 https://www.youtube.com/shorts/7ZEinpEyZOs
+#EXTINF:-1 tvg-id="60" tvg-name="IGREJA001" tvg-logo="https://i.ytimg.com/vi/kC8u2seW6s8/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234" audio-track="pt-BR",Quando eu chego da igreja
+https://www.youtube.com/shorts/kC8u2seW6s8
