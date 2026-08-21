@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTINF:3699 tvg-logo="https://i.ytimg.com/vi/BNBUEOItzz8/mqdefault.jpg" group-title="MÓDULO 0 - BOLSA GATINHO", Técnica secreta para Acabamento  bonito! #diy #plastic 
 https://www.youtube.com/watch?v=BNBUEOItzz8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fJkCBlA8Q_w/mqdefault.jpg" group-title="MÓDULO 0 - BOLSA GATINHO",Aula 4 - BOLSA NA TELA PLÁSTICA PASSO A PASSO
+#EXTINF:1000 tvg-logo="https://i.ytimg.com/vi/fJkCBlA8Q_w/mqdefault.jpg" group-title="MÓDULO 0 - BOLSA GATINHO",Aula 4 - BOLSA NA TELA PLÁSTICA PASSO A PASSO
 https://www.youtube.com/watch?v=fJkCBlA8Q_w
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_g13fenuOSg/mqdefault.jpg " group-title="MÓDULO 0 - BOLSA GATINHO",Bolsa na Tela Plástica com Fio de Malha- Plastic Canvas Bag Tutorial
+#EXTINF:500 tvg-logo="https://i.ytimg.com/vi/_g13fenuOSg/mqdefault.jpg " group-title="MÓDULO 0 - BOLSA GATINHO",Bolsa na Tela Plástica com Fio de Malha- Plastic Canvas Bag Tutorial
 https://www.youtube.com/watch?v=_g13fenuOSg
 #EXTINF:1774 tvg-logo="https://i.ytimg.com/vi/O8BtlmjwjwY/mqdefault.jpg" group-title="MÓDULO 0 - BOLSA GATINHO",Bolsa na Tela Plástica | Tutorial Completo com Forro
 https://www.youtube.com/watch?v=O8BtlmjwjwY
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3DjPcIRs7SA/mqdefault.jpg" group-title="MÓDULO 0 - BOLSA GATINHO",Como colar o forro na bolsa em tela plástica
+#EXTINF:500 tvg-logo="https://i.ytimg.com/vi/3DjPcIRs7SA/mqdefault.jpg" group-title="MÓDULO 0 - BOLSA GATINHO",Como colar o forro na bolsa em tela plástica
 https://www.youtube.com/watch?v=3DjPcIRs7SA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/jlB5lnOyfPs/mqdefault.jpg" group-title="MÓDULO 0 - BOLSA GATINHO",Como eu faço bolsas na tela plástica com fios poliéster. Parte 1
+#EXTINF:600 tvg-logo="https://i.ytimg.com/vi/jlB5lnOyfPs/mqdefault.jpg" group-title="MÓDULO 0 - BOLSA GATINHO",Como eu faço bolsas na tela plástica com fios poliéster. Parte 1
 https://www.youtube.com/watch?v=jlB5lnOyfPs
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/K2ptrIAi4vs/mqdefault.jpg" group-title="MÓDULO 0 - BOLSA GATINHO",Como eu faço uma bolsa na tela plástica com fios poliéster parte 2
+#EXTINF:700 tvg-logo="https://i.ytimg.com/vi/K2ptrIAi4vs/mqdefault.jpg" group-title="MÓDULO 0 - BOLSA GATINHO",Como eu faço uma bolsa na tela plástica com fios poliéster parte 2
 https://www.youtube.com/watch?v=K2ptrIAi4vs
 #EXTINF:3246 tvg-logo="https://i.ytimg.com/vi/DCJ_BBulARw/mqdefault.jpg" group-title="MÓDULO 0 - BOLSA GATINHO",Raquel Baguette Bag with Mesh Base
 https://www.youtube.com/watch?v=DCJ_BBulARw
@@ -1295,78 +1295,9 @@ https://www.youtube.com/watch?v=_QVWu7_C1_Q
 https://www.youtube.com/watch?v=U-djlw9NJLk
 #EXTINF:1772 tvg-logo="https://i.ytimg.com/vi/tIW65-OI75M/mqdefault.jpg" group-title="Santa Costura Armarinho",Bolsa em Tela Treliça com Bolso Interno e Zíper para fechar
 https://www.youtube.com/watch?v=tIW65-OI75M
-#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="TV | CANAIS | ABERTOS", SBT TV Guajará (PA)
-https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
-#EXTINF:-1 group-title="TV | CANAIS | ABERTOS", TV Globo HD
-http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="TV | CANAIS | ABERTOS", RECORD 2
-https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="TV | CANAIS | ABERTOS", RecordTV MT
-https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="TV | CANAIS | ABERTOS", RecordTV MT 2
-https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="TV | CANAIS | ABERTOS", RecordTV MT 2
-https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="TV | CANAIS | ABERTOS", REDE TV
-https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://igrejastv.com.br/wp-content/uploads/2015/10/logomarca-rittv.png" group-title="TV | CANAIS | ABERTOS", RIT TV
-https://acesso.ecast.site:3648/live/ritlive.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/fmGNohE.png" group-title="TV | CANAIS | ABERTOS", TV GALEGA
-https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
-#EXTINF:-1 group-title="TV | CANAIS | FILMES", A&E Latin America Brazil (720p)
-http://45.190.28.50/AE_HD/index.m3u8
-#EXTINF:-1 group-title="TV | CANAIS | FILMES", AXN (720p)
-http://45.190.28.50/AXN_HD/index.m3u8
-#EXTINF:-1 group-title="TV | CANAIS | FILMES",SONY HD
-http://45.190.28.50/SONY_HD/index.m3u8
-#EXTINF:-1 group-title="TV | CANAIS | DOCUMENTÁRIOS", History (720p)
-http://45.190.28.50/HISTORY_HD/index.m3u8
-#EXTINF:-1 group-title="TV | CANAIS | DOCUMENTÁRIOS", History 2 Latin America Brazil (720p)
-http://45.190.28.50/H2_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aoq9CGU.png" group-title="TV | CANAIS | RELIGIOSOS", Gospel Cartoon (360p)
-https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospel.jpg" group-title="TV | CANAIS | RELIGIOSOS", Gospel Movie TV
-https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ipgo.xyz/tv/gmovies/imagens/logo_gospelf_site.png" group-title="TV | CANAIS | RELIGIOSOS", Gospel Movie TV
-https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png" group-title="TV | CANAIS | RELIGIOSOS", IURD TV 
-https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png" group-title="TV | CANAIS | RELIGIOSOS", IURD TV (Assine nossa Lista Premium para mais canais de TV. Chame no WhatsApp(47)99626-5594)
-https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/9pZox0Z.png" group-title="TV | CANAIS | RELIGIOSOS", PLENA TV
-https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yvxG9m5.png" group-title="TV | CANAIS | RELIGIOSOS", Rede Gospel
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/egU0jsZ.png" group-title="TV | CANAIS | RELIGIOSOS", TV APARECIDA
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/fk2mNc4.png" group-title="TV | CANAIS | RELIGIOSOS", TV Aparecida
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="TV | CANAIS | RELIGIOSOS", TV Aparecida
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3f6171c551bfebb0226b4f7d526a8e6f.webp" group-title="TV | CANAIS | RELIGIOSOS", TV Gideões
-https://tv01.zas.media:1936/gideoes/gideoes/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zBtvnD5.png" group-title="TV | CANAIS | RELIGIOSOS", TV Maná Brazil (1080p)
-https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y7b29VG.png" group-title="TV | CANAIS | RELIGIOSOS", TV Padre Cicero
-https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wfnet.net.br/wp-content/uploads/2023/05/Rede_Gospel_sp.png" group-title="TV | CANAIS | RELIGIOSOS", TV Rede Gospel
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/iurd-logo.png" group-title="TV | CANAIS | RELIGIOSOS", TV UNIVERSAL
-https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_f61dea77-770b-444c-8f61-88b3f8666b3f.m3u8
-#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/60ddb652a9fbc_d19ecce6131ee18d0d846a16aae7ed6e.png" group-title="TV | CANAIS | RELIGIOSOS", Vivas Tv
-https://stmv1.liveplushd.com.br/tvvivam/tvvivam/chunklist_w252085201.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/jetsons.png" group-title="TV | CANAIS | WebTV", Jetsons - Webtv (Peça um teste na nossa LISTA PREMIUM. WhatsApp(47)99626-5594)
-https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvgallo.png" group-title="TV | CANAIS | WebTV", TV Gallo Assine nossa Lista Premium para mais canais (47)99626-5594
-https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/riomadeira.png" group-title="TV | CANAIS | WebTV", TV Rio Madeira - WebTV
-https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvseries.png" group-title="TV | CANAIS | WebTV", TV Séries - WEBTV
-https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/morena.png" group-title="TV | CANAIS | WebTV", Via Morena
-https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bitmaster.listen2myshow.com/assets/images/uploads/user_146577503/radio_193669591/logo_banner/1685088049.jpg" group-title="TV | CANAIS | WebTV", WebRADIO BITMASTER 24Hs Online
-https://Fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123&port=10077&type=s1
+#EXTINF:2185 tvg-logo="https://i.ytimg.com/vi/1As1kZ4o1BE/mqdefault.jpg" group-title="Hooked by Empress",TUTORIAL DE BOLSA DE LONA PLÁSTICA/TUTORIAL DE BOLSA DIY/TUTORIAL DE BOLSA FEITA À MÃO/TUTORIAL DE BOLSA DE CROCHÊ
+https://www.youtube.com/watch?v=1As1kZ4o1BE
+
 #EXTINF:-1 group-title="TV | CANAIS | VIMEO1",CANAL 2500
 https://player.vimeo.com/video/1193802500
 #EXTINF:-1 group-title="TV | CANAIS | VIMEO1",CANAL 2501
