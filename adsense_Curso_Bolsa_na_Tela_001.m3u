@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:25 tvg-id="40" tvg-name="INFORMATICA001" tvg-logo="https://i.ytimg.com/vi/mKjFaTUELA0/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234" audio-track="pt-BR", 01 CANAL DO USUARIO EM EM 21/08/2026 14:00hs Insiste ou se afasta?
-https://youtube.com/shorts/mKjFaTUELA0?si=3QGFTvz1MAlMArky
-#EXTINF:25 tvg-id="40" tvg-name="FORNEC001" tvg-logo="https://i.ytimg.com/vi/wY32sKo6o34/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234" audio-track="pt-BR",Anúncio da Parafusadeira
+#EXTINF:14 tvg-id="40" tvg-name="INFORMATICA001" tvg-logo="https://i.ytimg.com/vi/mKjFaTUELA0/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234" audio-track="pt-BR",01 CANAL DO USUARIO EM EM 21/08/2026 14:00hs Insiste ou se afasta?
+https://www.youtube.com/shorts/mKjFaTUELA0
+#EXTINF:35 tvg-id="40" tvg-name="FORNEC001" tvg-logo="https://i.ytimg.com/vi/wY32sKo6o34/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234" audio-track="pt-BR",Anúncio da Parafusadeira
 https://www.youtube.com/shorts/wY32sKo6o34
-#EXTINF:25 tvg-id="40" tvg-name="FORNEC002" tvg-logo="https://i.ytimg.com/vi/DA45onT1R4A/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234" audio-track="pt-BR",Minha prima perdeu o carro no shopping
+#EXTINF:35 tvg-id="40" tvg-name="FORNEC002" tvg-logo="https://i.ytimg.com/vi/DA45onT1R4A/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234" audio-track="pt-BR",Minha prima perdeu o carro no shopping
 https://www.youtube.com/shorts/XB88f6ag56U
-#EXTINF:25 tvg-id="40" tvg-name="IGREJA001" tvg-logo="https://i.ytimg.com/vi/kC8u2seW6s8/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234" audio-track="pt-BR",Quando eu chego da igreja
+#EXTINF:31 tvg-id="40" tvg-name="IGREJA001" tvg-logo="https://i.ytimg.com/vi/kC8u2seW6s8/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234" audio-track="pt-BR",Quando eu chego da igreja
 https://www.youtube.com/shorts/kC8u2seW6s8
-#EXTINF:25 tvg-id="40" tvg-name="MILLIUM001" tvg-logo="https://i.ytimg.com/vi/dcIBmYcy9Bo/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234" audio-track="pt-BR",Sandy vamos fazer xixi?
+#EXTINF:35 tvg-id="40" tvg-name="MILLIUM001" tvg-logo="https://i.ytimg.com/vi/dcIBmYcy9Bo/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234" audio-track="pt-BR",Sandy vamos fazer xixi
 https://www.youtube.com/shorts/7ZEinpEyZOs
-#EXTINF:25 tvg-id="40" tvg-name="AÇOUGUE001" tvg-logo="https://i.ytimg.com/vi/0VTPDuUYPyE/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234" audio-track="pt-BR",Você pode sofrer por uma dor que não é sua
-https://youtube.com/shorts/tK4_4d1jbxQ?si=Fw2AYlwQBBP4Hpzq
-#EXTINF:25 tvg-id="40" tvg-name="MKX2316" tvg-logo="https://i.ytimg.com/vi/8AHLVezliiI/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234" audio-track="pt-BR",Fogo Suave do Teu Amor
+#EXTINF:23 tvg-id="40" tvg-name="AÇOUGUE001" tvg-logo="https://i.ytimg.com/vi/0VTPDuUYPyE/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234" audio-track="pt-BR",Você pode sofrer por uma dor que não é sua
+https://www.youtube.com/shorts/tK4_4d1jbxQ
+#EXTINF:35 tvg-id="40" tvg-name="MKX2316" tvg-logo="https://i.ytimg.com/vi/8AHLVezliiI/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234" audio-track="pt-BR",Fogo Suave do Teu Amor
 https://www.youtube.com/shorts/8AHLVezliiI
-#EXTINF:25 tvg-id="40" tvg-name="RENDAEXTRA" tvg-logo="" group-title="CANAIS: ABERTOS",   RENDA EXTRA com ASSINATURASA pela Internet (47)99195-2228
-https://dn721603.ca.archive.org/0/items/vsl-renda-extra-com-assinaturas-pela-internet/VSL%20Renda%20Extra%20com%20Assinaturas%20pela%20Internet.mp4
+#EXTINF:35 tvg-id="40" tvg-name="RENDAEXTRA" tvg-logo="" group-title="CANAIS: ABERTOS",ESTUDO BÍBLICO COMPLETO
+https://www.youtube.com/shorts/G_KrxiOhE-o
