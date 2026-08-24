@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:12 tvg-id="60" tvg-name="INFORMATICA001" tvg-logo="https://i.ytimg.com/vi/mKjFaTUELA0/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234" audio-track="pt-BR",01 CANAL DO USUARIO EM EM 24/08/2026 16:15hs Insiste ou se afasta
+#EXTINF:12 tvg-id="60" tvg-name="INFORMATICA001" tvg-logo="https://i.ytimg.com/vi/mKjFaTUELA0/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234" audio-track="pt-BR",01 CANAL DO USUARIO EM EM 24/08/2026 16:20hs Insiste ou se afasta?
 https://www.youtube.com/shorts/mKjFaTUELA0
 #EXTINF:62 tvg-id="60" tvg-name="FORNEC001" tvg-logo="https://i.ytimg.com/vi/wY32sKo6o34/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234" audio-track="pt-BR",Anúncio da Parafusadeira
 https://www.youtube.com/shorts/wY32sKo6o34
@@ -13,7 +13,7 @@ https://www.youtube.com/shorts/7ZEinpEyZOs
 https://www.youtube.com/shorts/tK4_4d1jbxQ
 #EXTINF:71 tvg-id="60" tvg-name="MKX2316" tvg-logo="https://i.ytimg.com/vi/8AHLVezliiI/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234" audio-track="pt-BR",Fogo Suave do Teu Amor
 https://www.youtube.com/shorts/8AHLVezliiI
-#EXTINF:48 tvg-id="60" tvg-name="MKX2316" tvg-logo="" group-title="CANAIS: ABERTOS",Look Social
+#EXTINF:48 tvg-id="60" tvg-name="LOOKSOCIAL001" tvg-logo="" group-title="CANAIS: ABERTOS",Look Social
 https://www.youtube.com/shorts/O0WE51IRqBk
-#EXTINF:48 tvg-id="60" tvg-name="MKX2316" tvg-logo="" group-title="CANAIS: ABERTOS",Coragem ou Loucura
+#EXTINF:48 tvg-id="60" tvg-name="CORAGEM001" tvg-logo="" group-title="CANAIS: ABERTOS",Coragem ou Loucura
 https://www.youtube.com/shorts/mTsWROv-kFQ
