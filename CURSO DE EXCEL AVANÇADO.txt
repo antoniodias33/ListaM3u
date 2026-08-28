@@ -1,36 +1,436 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/J4FdeTm-4FA/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (06/08/2026 23:40hs)" audio-track="pt-BR",Como Criar uma Página Web para Lançamento de Despesas na sua Planilha (Tutorial Apps Script)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/J4FdeTm-4FA/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (27/08/2026 23:55hs)" audio-track="pt-BR",Como Criar uma Página Web para Lançamento de Despesas na sua Planilha (Tutorial Apps Script)
 https://www.youtube.com/watch?v=J4FdeTm-4FA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-XWKDfVsI6I/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (06/08/2026 23:40hs)" audio-track="pt-BR",Como Transformar Planilhas em Sistemas em Minutos
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-XWKDfVsI6I/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (27/08/2026 23:55hs)" audio-track="pt-BR",Como Transformar Planilhas em Sistemas em Minutos
 https://www.youtube.com/watch?v=-XWKDfVsI6I
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/4_qBkqMtS-A/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (06/08/2026 23:40hs)" audio-track="pt-BR",CRIE SEU PRÓPRIO APP BÍBLICO HOJE (Sem Código!)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/4_qBkqMtS-A/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (27/08/2026 23:55hs)" audio-track="pt-BR",CRIE SEU PRÓPRIO APP BÍBLICO HOJE (Sem Código!)
 https://www.youtube.com/watch?v=4_qBkqMtS-A
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/U4XNeOAsoq4/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (06/08/2026 23:40hs)" audio-track="pt-BR",O Google fez de novo: Crie e Publique Apps 100% GRÁTIS com o Google AI Studio
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/U4XNeOAsoq4/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (27/08/2026 23:55hs)" audio-track="pt-BR",O Google fez de novo: Crie e Publique Apps 100% GRÁTIS com o Google AI Studio
 https://www.youtube.com/watch?v=U4XNeOAsoq4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OMAbzZRNLrI/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (06/08/2026 23:40hs)" audio-track="pt-BR",Curso AppSheet Express Aula 1 | Criando seu primeiro App
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OMAbzZRNLrI/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (27/08/2026 23:55hs)" audio-track="pt-BR",Curso AppSheet Express Aula 1 | Criando seu primeiro App
 https://www.youtube.com/watch?v=OMAbzZRNLrI
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QaR6L4-Tcc0/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (06/08/2026 23:40hs)" audio-track="pt-BR",Curso AppSheet Express Aula 2 | Colunas fórmulas e Ref
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QaR6L4-Tcc0/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (27/08/2026 23:55hs)" audio-track="pt-BR",Curso AppSheet Express Aula 2 | Colunas fórmulas e Ref
 https://www.youtube.com/watch?v=QaR6L4-Tcc0
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_99f8iYMQTo/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (06/08/2026 23:40hs)" audio-track="pt-BR",Curso AppSheet Express Aula 3 | Views Slices e Muito Mais
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_99f8iYMQTo/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (27/08/2026 23:55hs)" audio-track="pt-BR",Curso AppSheet Express Aula 3 | Views Slices e Muito Mais
 https://www.youtube.com/watch?v=_99f8iYMQTo
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fxcxXk2Eqqo/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (06/08/2026 23:40hs)" audio-track="pt-BR",Curso AppSheet Express Aula 4 | Ações e Colunas Virtuais
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fxcxXk2Eqqo/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (27/08/2026 23:55hs)" audio-track="pt-BR",Curso AppSheet Express Aula 4 | Ações e Colunas Virtuais
 https://www.youtube.com/watch?v=fxcxXk2Eqqo
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/AfXnSyEIysM/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (06/08/2026 23:40hs)" audio-track="pt-BR",Curso AppSheet Express Aula 5 | Format Rules e UX/UI
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/AfXnSyEIysM/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (27/08/2026 23:55hs)" audio-track="pt-BR",Curso AppSheet Express Aula 5 | Format Rules e UX/UI
 https://www.youtube.com/watch?v=AfXnSyEIysM
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ithLMqwgvPE/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (06/08/2026 23:40hs)" audio-track="pt-BR",Curso AppSheet Express Aula 6 | Gráficos e Dashboards Interativos
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ithLMqwgvPE/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (27/08/2026 23:55hs)" audio-track="pt-BR",Curso AppSheet Express Aula 6 | Gráficos e Dashboards Interativos
 https://www.youtube.com/watch?v=ithLMqwgvPE
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YQzYX0KMaaQ/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (06/08/2026 23:40hs)" audio-track="pt-BR",Curso AppSheet Express Aula 7 | Compartilhamento e Dicas
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YQzYX0KMaaQ/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (27/08/2026 23:55hs)" audio-track="pt-BR",Curso AppSheet Express Aula 7 | Compartilhamento e Dicas
 https://www.youtube.com/watch?v=YQzYX0KMaaQ
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/oX8LFXJ8Exc/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (06/08/2026 23:40hs)" audio-track="pt-BR",Sistema de Estoque COMPLETO com AppSheet | Grátis e sem programar
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/oX8LFXJ8Exc/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (27/08/2026 23:55hs)" audio-track="pt-BR",Sistema de Estoque COMPLETO com AppSheet | Grátis e sem programar
 https://www.youtube.com/watch?v=oX8LFXJ8Exc
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0KNE5XDffWE/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (06/08/2026 23:40hs)" audio-track="pt-BR",Assim que cria apps a partir de planilhas - JEITO CERTO
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0KNE5XDffWE/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (27/08/2026 23:55hs)" audio-track="pt-BR",Assim que cria apps a partir de planilhas - JEITO CERTO
 https://www.youtube.com/watch?v=0KNE5XDffWE
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UiK9pl8tKao/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (06/08/2026 23:40hs)" audio-track="pt-BR",AGENTES DE IA: Como CRIAR e USAR para AUTOMATIZAR TUDO em 2026 | Tutorial Completo GRÁTIS
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UiK9pl8tKao/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (27/08/2026 23:55hs)" audio-track="pt-BR",AGENTES DE IA: Como CRIAR e USAR para AUTOMATIZAR TUDO em 2026 | Tutorial Completo GRÁTIS
 https://www.youtube.com/watch?v=UiK9pl8tKao
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fSEn_hk3Swo/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (06/08/2026 23:40hs)" audio-track="pt-BR",Como Transformar sua Planilha Excel em um APP Financeiro com IA em Minutos (100% Grátis)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fSEn_hk3Swo/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (27/08/2026 23:55hs)" audio-track="pt-BR",Como Transformar sua Planilha Excel em um APP Financeiro com IA em Minutos (100% Grátis)
 https://www.youtube.com/watch?v=fSEn_hk3Swo
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1LPoWFlEiOo/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (06/08/2026 23:40hs)" audio-track="pt-BR",Transformei uma PLANILHA com abas em um APP COMPLETO em apenas 5 minutos
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1LPoWFlEiOo/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (27/08/2026 23:55hs)" audio-track="pt-BR",Transformei uma PLANILHA com abas em um APP COMPLETO em apenas 5 minutos
 https://www.youtube.com/watch?v=1LPoWFlEiOo
+#EXTINF:1504 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/C6x5OqMEp68/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",10 Fórmulas Novas do Excel Úteis para o Trabalho
+https://www.youtube.com/watch?v=C6x5OqMEp68
+#EXTINF:872 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/NMjGQ3JnPxk/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",10 New Features That Will Make You an Excel Master
+https://www.youtube.com/watch?v=NMjGQ3JnPxk
+#EXTINF:8073 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/ThXB-TWAe0c/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",10 Truques no Excel para Você ser Mais Produtivo
+https://www.youtube.com/watch?v=ThXB-TWAe0c
+#EXTINF:670 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/APIlfIgiMQQ/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",3 Ferramentas para Criar Gráficos Automáticos no Excel
+https://www.youtube.com/watch?v=APIlfIgiMQQ
+#EXTINF:661 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/AUyEGD_-ft8/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",3 Fórmulas do Excel Criadas por Inteligência Artificial usando ChatGPT
+https://www.youtube.com/watch?v=AUyEGD_-ft8
+#EXTINF:1035 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/UX2JdxRei80/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",3 Quick Tips to Improve the Design of Your Excel Spreadsheet
+https://www.youtube.com/watch?v=UX2JdxRei80
+#EXTINF:828 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/1vt8DyPAb1Q/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",3 Suplementos Incríveis do Excel [QR Code Mapa e Calendário]
+https://www.youtube.com/watch?v=1vt8DyPAb1Q
+#EXTINF:565 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/nKAQ2jEj-bc/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",3 Ways to Create Numeric Sequences in Excel
+https://www.youtube.com/watch?v=nKAQ2jEj-bc
+#EXTINF:1514 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/O18eVPQ1F7g/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",4 Excel Tips You Didn't Know (They Could CHANGE Your Life)
+https://www.youtube.com/watch?v=O18eVPQ1F7g
+#EXTINF:1022 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/wmumi_-xnNc/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",5 Amazing Things Copilot for Excel Can Do
+https://www.youtube.com/watch?v=wmumi_-xnNc
+#EXTINF:841 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/u8wWGv85Sro/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",5 Formas de Excluir Espaços em Branco no Excel
+https://www.youtube.com/watch?v=u8wWGv85Sro
+#EXTINF:999 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/s1bSQYqXCE4/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",5 Novidades para ter Mais Produtividade no Excel
+https://www.youtube.com/watch?v=s1bSQYqXCE4
+#EXTINF:1067 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/KQE4TTShlA8/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",5 Steps to Learn How to Create a Pivot Table in Excel
+https://www.youtube.com/watch?v=KQE4TTShlA8
+#EXTINF:1154 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/4bSmLe1uIAo/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",5 Things You Are Doing WRONG in Excel Pivot Tables
+https://www.youtube.com/watch?v=4bSmLe1uIAo
+#EXTINF:1293 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/_YI6kSATJ6w/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",6 SECRET shortcuts in EXCEL that you DON'T KNOW
+https://www.youtube.com/watch?v=_YI6kSATJ6w
+#EXTINF:1460 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/rTqBz1t9-ac/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",6 Truques ESCONDIDOS do Excel (+Bônus)
+https://www.youtube.com/watch?v=rTqBz1t9-ac
+#EXTINF:611 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/0nuw2jaSVvo/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",7 Keyboard Shortcuts Every Excel User Must Know
+https://www.youtube.com/watch?v=0nuw2jaSVvo
+#EXTINF:1085 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/quuuZNtZk8c/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",8 Dicas de Design para Melhorar Suas Planilhas no Excel
+https://www.youtube.com/watch?v=quuuZNtZk8c
+#EXTINF:1835 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/OagOCztwJyo/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",All Excel Charts - How to Use Each One - Part 2
+https://www.youtube.com/watch?v=OagOCztwJyo
+#EXTINF:948 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/TepGr0uZzHY/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Analyzing Excel Data with ChatGPT
+https://www.youtube.com/watch?v=TepGr0uZzHY
+#EXTINF:1361 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/A3qe7mMDnMQ/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Análise Regional de Dados no Excel [Excel na Prática - Aula 1]
+https://www.youtube.com/watch?v=A3qe7mMDnMQ
+#EXTINF:1106 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/HjNA9uI8UQ0/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Aprenda a criar Controle de Gastos Automático no Excel
+https://www.youtube.com/watch?v=HjNA9uI8UQ0
+#EXTINF:1695 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/Pzolz_Q1M4s/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Aprenda a Criar um Cronograma de Projeto Automático no Excel
+https://www.youtube.com/watch?v=Pzolz_Q1M4s
+#EXTINF:789 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/p1fsUtIi5e4/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Aprenda a Criar um Orçamento Automático no Excel [Planilha de Orçamento]
+https://www.youtube.com/watch?v=p1fsUtIi5e4
+#EXTINF:1117 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/AIfrzDttzNw/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Aprenda a Criar uma Planilha de Indicadores e Metas Automática no Excel
+https://www.youtube.com/watch?v=AIfrzDttzNw
+#EXTINF:410 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/qGPOGfTVUuE/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Aprenda a Criar uma Tabela Dinâmica no Excel Passo a Passo
+https://www.youtube.com/watch?v=qGPOGfTVUuE
+#EXTINF:2341 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/P_SnCOqMYqQ/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Aprenda TUDO sobre como criar GRÁFICOS no EXCEL
+https://www.youtube.com/watch?v=P_SnCOqMYqQ
+#EXTINF:669 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/RYSkiJSUxn4/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",As 4 FÓRMULAS ESSENCIAIS do EXCEL
+https://www.youtube.com/watch?v=RYSkiJSUxn4
+#EXTINF:1290 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/2EKPYd40Leo/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",As PRINCIPAIS FERRAMENTAS para você COMEÇAR no EXCEL
+https://www.youtube.com/watch?v=2EKPYd40Leo
+#EXTINF:515 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/IRt-8tF_5Kc/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Automate ANY task in Excel (better than macros)
+https://www.youtube.com/watch?v=IRt-8tF_5Kc
+#EXTINF:972 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/REudpaAA64I/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Automate Excel Reports with ChatGPT
+https://www.youtube.com/watch?v=REudpaAA64I
+#EXTINF:1607 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/ZdvNU1c1Wnk/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Automated Personal Finance Spreadsheet in Excel [Learn How to Create Yours]
+https://www.youtube.com/watch?v=ZdvNU1c1Wnk
+#EXTINF:872 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/Bhkfx3nvnqE/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Automatic Chart in Excel (Simple and Quick Trick)
+https://www.youtube.com/watch?v=Bhkfx3nvnqE
+#EXTINF:619 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/yqkcduqeB-E/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",AVOID registering DUPLICATE VALUES in Excel
+https://www.youtube.com/watch?v=yqkcduqeB-E
+#EXTINF:1585 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/FB2NHyoiY9w/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",BANCO de HORAS - Como fazer CÁLCULO com HORAS no EXCEL
+https://www.youtube.com/watch?v=FB2NHyoiY9w
+#EXTINF:1402 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/hvD3E8A8wn0/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Be 10X More Productive in Excel with ChatGPT
+https://www.youtube.com/watch?v=hvD3E8A8wn0
+#EXTINF:816 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/5ctBXoyhIX8/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Checkbox in Excel for Creating CheckList
+https://www.youtube.com/watch?v=5ctBXoyhIX8
+#EXTINF:834 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/GAdVNGSNFuA/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Checkbox no Excel - 5 Aplicações Incríveis para o Trabalho
+https://www.youtube.com/watch?v=GAdVNGSNFuA
+#EXTINF:1059 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/rs0OlCNPCb0/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Checklist in Excel - How to Control Activities in Excel Correctly
+https://www.youtube.com/watch?v=rs0OlCNPCb0
+#EXTINF:1193 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/ufGbvgkmJzk/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",CLASSIFY Formula [10 Most Demanded Excel Formulas in the Job Market - Class 9]
+https://www.youtube.com/watch?v=ufGbvgkmJzk
+#EXTINF:1080 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/oErLI-hCKH0/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Claude in Excel will surprise you.
+https://www.youtube.com/watch?v=oErLI-hCKH0
+#EXTINF:1533 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/pQcUaWh4rc4/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Como Apresentar Tabelas em seus Dashboards da Forma Certa
+https://www.youtube.com/watch?v=pQcUaWh4rc4
+#EXTINF:773 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/RUmQyc24nI4/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Como Calcular Porcentagem no Excel - 5 Aplicações Reais
+https://www.youtube.com/watch?v=RUmQyc24nI4
+#EXTINF:605 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/_tTsu3FB-Gg/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Como Colocar e Tirar Senha da Planilha no Excel
+https://www.youtube.com/watch?v=_tTsu3FB-Gg
+#EXTINF:977 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/6aJ93Yv1llg/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Como Fazer GRÁFICO de PIZZA no EXCEL - PASSO A PASSO
+https://www.youtube.com/watch?v=6aJ93Yv1llg
+#EXTINF:955 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/crjBlHBzDNQ/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Como Fazer QUALQUER Gráfico no Excel - Passo a Passo Completo
+https://www.youtube.com/watch?v=crjBlHBzDNQ
+#EXTINF:1200 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/XWsbY9n4oAw/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Como Preparar seu Excel para Parecer um Site (3 Dicas de Design)
+https://www.youtube.com/watch?v=XWsbY9n4oAw
+#EXTINF:2057 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/4RWaLYZ00Ew/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Como SEPARAR TEXTOS AUTOMATICAMENTE no EXCEL
+https://www.youtube.com/watch?v=4RWaLYZ00Ew
+#EXTINF:877 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/YWr2AWplHSQ/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Como usar Função ÚNICO no Excel [Office 365]
+https://www.youtube.com/watch?v=YWr2AWplHSQ
+#EXTINF:797 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/uzJiWN9pwZw/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",CONCAT - How to Join Text in Excel with 1 Formula
+https://www.youtube.com/watch?v=uzJiWN9pwZw
+#EXTINF:595 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/YcsVmkFF_WQ/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Conditional Formatting in Excel in 10 minutes - Make your Excel Spreadsheet more visual
+https://www.youtube.com/watch?v=YcsVmkFF_WQ
+#EXTINF:462 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/CIw86e0mKSk/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Conditional Formatting with Formulas in Excel
+https://www.youtube.com/watch?v=CIw86e0mKSk
+#EXTINF:1684 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/01jejTA9jIU/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Control Chart in Excel - [Impress Your Boss at the Meeting]
+https://www.youtube.com/watch?v=01jejTA9jIU
+#EXTINF:552 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/zLusCsJQFyQ/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Controle de Vendas no Excel com Indicadores [Download Gratuito]
+https://www.youtube.com/watch?v=zLusCsJQFyQ
+#EXTINF:1206 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/b5r5lLxy9Qc/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Correcting the Structure of a Table in Excel with Power Query
+https://www.youtube.com/watch?v=b5r5lLxy9Qc
+#EXTINF:1140 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/ZNmZl0-w-n0/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",COUNTIFS Formula [10 Most Requested Excel Formulas in the Job Market - Lesson 4]
+https://www.youtube.com/watch?v=ZNmZl0-w-n0
+#EXTINF:778 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/lJW4N7FHzJU/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Creating a GRAPH with LOGOS in EXCEL
+https://www.youtube.com/watch?v=lJW4N7FHzJU
+#EXTINF:771 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/aO8GlPSo1wg/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Creating FILTERED TABLES with the FILTER FUNCTION
+https://www.youtube.com/watch?v=aO8GlPSo1wg
+#EXTINF:2249 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/YsZ-VNSOpI8/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Crie seu Portfólio de Projetos em Excel 100% Gratuito
+https://www.youtube.com/watch?v=YsZ-VNSOpI8
+#EXTINF:2086 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/61G4F9LhCCg/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Curva ABC no EXCEL com GRÁFICO AUTOMÁTICO
+https://www.youtube.com/watch?v=61G4F9LhCCg
+#EXTINF:773 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/m_9M36rbyy4/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Data Analysis in Excel Step by Step
+https://www.youtube.com/watch?v=m_9M36rbyy4
+#EXTINF:1491 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/YdXmo6JvDtI/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Data Processing and Analysis in Excel - Using a Table from the Forbes Website
+https://www.youtube.com/watch?v=YdXmo6JvDtI
+#EXTINF:556 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/QNfySHfO3RE/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Data Validation in Excel in 10 minutes - Learn How to Create Lists in Excel
+https://www.youtube.com/watch?v=QNfySHfO3RE
+#EXTINF:700 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/Rk1fOYjtwaw/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Deepseek in Excel: How the Chinese AI that shook the world can help your spreadsheets
+https://www.youtube.com/watch?v=Rk1fOYjtwaw
+#EXTINF:2214 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/K_uBvI7PGtU/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Dicas Rápidas para o Visual do seu Dashboard em Excel
+https://www.youtube.com/watch?v=K_uBvI7PGtU
+#EXTINF:3088 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/D394vEkMW-I/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Difference between VLOOKUP and XLOOKUP in Excel (Learn both functions in one lesson)
+https://www.youtube.com/watch?v=D394vEkMW-I
+#EXTINF:1533 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/LVpEdRhtYUQ/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Every Excel Chart - How to Use Each One - Part 1
+https://www.youtube.com/watch?v=LVpEdRhtYUQ
+#EXTINF:678 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/GSPnEB5rgD8/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Excel 365: 5 New Features You Need to Use Now!
+https://www.youtube.com/watch?v=GSPnEB5rgD8
+#EXTINF:896 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/mixDDhgJIbg/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Excel Add-ins - Discover Amazing Available Add-ins
+https://www.youtube.com/watch?v=mixDDhgJIbg
+#EXTINF:1418 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/NLjiHhoWcW8/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Excel Exercises - Part 2 (Format as Table and Pivot Table)
+https://www.youtube.com/watch?v=NLjiHhoWcW8
+#EXTINF:938 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/_Xk-mZgOW8w/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Excel Map Chart with Coronavirus Cases in Brazil
+https://www.youtube.com/watch?v=_Xk-mZgOW8w
+#EXTINF:1442 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/pzYnuq3fEQA/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Excel Solver for Problem Optimization (Practical Example)
+https://www.youtube.com/watch?v=pzYnuq3fEQA
+#EXTINF:569 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/dS0HzsL2EJk/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Excel VLOOKUP - Learn the Easy Method Once and for All
+https://www.youtube.com/watch?v=dS0HzsL2EJk
+#EXTINF:649 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/WNdinEmMC5o/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Expense Control Spreadsheet in Excel: How to Make It Simple and from Scratch
+https://www.youtube.com/watch?v=WNdinEmMC5o
+#EXTINF:1445 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/ud2W-Fy2tzk/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",FILTER Formula [10 Most Popular Excel Formulas in the Job Market - Lesson 8]
+https://www.youtube.com/watch?v=ud2W-Fy2tzk
+#EXTINF:660 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/ht7wpEdeSIw/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",FILTER function to create Automatic Lists in Excel
+https://www.youtube.com/watch?v=ht7wpEdeSIw
+#EXTINF:1507 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/Ij_FVb1-0AM/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Filtro Avançado: A Forma Certa de Usar Filtro no Excel (Passo a Passo)
+https://www.youtube.com/watch?v=Ij_FVb1-0AM
+#EXTINF:794 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/j-oXIP3_V6s/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Financial Control Spreadsheet in Excel - Download for free and create yours in minutes
+https://www.youtube.com/watch?v=j-oXIP3_V6s
+#EXTINF:2133 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/kcd9VXr3XXw/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Find and Replace Tool in Excel Like You've Never Seen It Before (Basic to Advanced)
+https://www.youtube.com/watch?v=kcd9VXr3XXw
+#EXTINF:339 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/0vv-O9DBDns/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Formatação Condicional - [Seu Primeiro Dashboard - Aula 5]
+https://www.youtube.com/watch?v=0vv-O9DBDns
+#EXTINF:1079 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/qIjKcHAkkEg/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",FUNÇÃO SE Excel com MAIS DE UMA CONDIÇÃO (Função E e Função OU)
+https://www.youtube.com/watch?v=qIjKcHAkkEg
+#EXTINF:462 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/5kvEAH2VD1I/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Função IMAGEM - Novidade no Excel
+https://www.youtube.com/watch?v=5kvEAH2VD1I
+#EXTINF:831 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/ubLPxe3Xfbg/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Função PROCV no Excel [Passo a Passo da Fórmula PROCV]
+https://www.youtube.com/watch?v=ubLPxe3Xfbg
+#EXTINF:354 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/MABmNbEik7U/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Função SE - Te explico na praia como fazer a fórmula SE!
+https://www.youtube.com/watch?v=MABmNbEik7U
+#EXTINF:867 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/VWNl4okEzZI/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Função SE com PROCURAR - Análise Parcial de Texto no Excel
+https://www.youtube.com/watch?v=VWNl4okEzZI
+#EXTINF:898 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/Ul3HLGwVREg/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Função SE no Excel - Do Básico ao Avançado [SE Composto | Funções OU e E]
+https://www.youtube.com/watch?v=Ul3HLGwVREg
+#EXTINF:1322 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/RkskPdpuQ_c/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Função SES - A evolução da Fórmula SE no Excel (Passo a Passo)
+https://www.youtube.com/watch?v=RkskPdpuQ_c
+#EXTINF:2019 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/fNUZrXIGnUE/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Função SOMASES no Excel: Como Somar com Condições (3 Exemplos Práticos)
+https://www.youtube.com/watch?v=fNUZrXIGnUE
+#EXTINF:811 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/XjmAvpdkzY0/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Função TEXTODIVISÃO no Excel - Nova Função do Excel
+https://www.youtube.com/watch?v=XjmAvpdkzY0
+#EXTINF:645 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/eHU2PeWiDRY/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Funções CONT.SES | SOMASES e MÉDIASES no Excel 10 Minutos
+https://www.youtube.com/watch?v=eHU2PeWiDRY
+#EXTINF:936 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/rYwVTRpMzPE/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Funções de Texto no Excel - 3 Formas de Separar Nome e Sobrenome
+https://www.youtube.com/watch?v=rYwVTRpMzPE
+#EXTINF:1010 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/TJ1pjq4vSAg/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Funções Novas Excel - Office 365 (FILTRO | ÚNICO | CLASSIFICAR)
+https://www.youtube.com/watch?v=TJ1pjq4vSAg
+#EXTINF:661 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/1IZb3c9U8NA/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Fórmula CONT.SES - Como usar a função CONT.SES no Excel
+https://www.youtube.com/watch?v=1IZb3c9U8NA
+#EXTINF:1111 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/QXf8jATYHFA/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Fórmula PROCV [10 Fórmulas Mais Cobradas de Excel no Mercado de Trabalho - Aula 1]
+https://www.youtube.com/watch?v=QXf8jATYHFA
+#EXTINF:1028 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/oKG6WS_86d4/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",GOAL Tracking - GOAL vs. ACCOMPLISHED Chart
+https://www.youtube.com/watch?v=oKG6WS_86d4
+#EXTINF:180 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/TViRmQVQKBA/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Gráfico com Eixo Secundário - TOP 10 Questões Prova de Excel - Eixo Secundário no Gráfico
+https://www.youtube.com/watch?v=TViRmQVQKBA
+#EXTINF:979 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/m1cZGLxyIIo/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Gráfico com Eixo Secundário no Excel - Passo a Passo
+https://www.youtube.com/watch?v=m1cZGLxyIIo
+#EXTINF:1284 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/onuFe_ybTZE/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Gráfico de GANTT no Excel (Passo a Passo)
+https://www.youtube.com/watch?v=onuFe_ybTZE
+#EXTINF:1046 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/0kxVx7BK85Y/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",How to Automate Sending Emails in Excel without VBA
+https://www.youtube.com/watch?v=0kxVx7BK85Y
+#EXTINF:1018 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/64Va4HQ3XnU/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",How to calculate COMPOUND INTEREST in Excel?
+https://www.youtube.com/watch?v=64Va4HQ3XnU
+#EXTINF:782 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/ILncTMV8z1Q/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",How to Calculate Loans in Excel - Amortization Tables (PRICE vs. SAC)
+https://www.youtube.com/watch?v=ILncTMV8z1Q
+#EXTINF:905 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/2f81qDvv9v0/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",How to Create a Ranking in Excel (VLOOKUP and LARGER)
+https://www.youtube.com/watch?v=2f81qDvv9v0
+#EXTINF:536 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/-eSIUaYOrIQ/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",How to Create a Registration Form in Excel (WITHOUT VBA!)
+https://www.youtube.com/watch?v=-eSIUaYOrIQ
+#EXTINF:2319 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/JaVTD8y8hAc/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",How to Create a Search Tool in Excel with INDEX and MATCH
+https://www.youtube.com/watch?v=JaVTD8y8hAc
+#EXTINF:945 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/h1uTw6NKHPI/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",How to create a STACKED COLUMN CHART in Excel
+https://www.youtube.com/watch?v=h1uTw6NKHPI
+#EXTINF:640 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/6IERF_SXX1M/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",How to Create a Waterfall Chart in Excel
+https://www.youtube.com/watch?v=6IERF_SXX1M
+#EXTINF:1028 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/icIW4vqf9eY/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",How to Create Impactful Charts in Excel
+https://www.youtube.com/watch?v=icIW4vqf9eY
+#EXTINF:753 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/3Nq-uuBn0Rg/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",How to do bank reconciliation in Excel
+https://www.youtube.com/watch?v=3Nq-uuBn0Rg
+#EXTINF:909 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/_rHLMCBKMIs/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",How to Generate Databases for Excel with ChatGPT
+https://www.youtube.com/watch?v=_rHLMCBKMIs
+#EXTINF:1663 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/NIT-Rwpot7Y/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",How to Make a Dynamic Area Chart in Excel (Step by Step)
+https://www.youtube.com/watch?v=NIT-Rwpot7Y
+#EXTINF:733 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/VyRf9qfcZoE/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",How to make a PIZZA PIZZA CHART in EXCEL
+https://www.youtube.com/watch?v=VyRf9qfcZoE
+#EXTINF:737 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/_Cc9wgOQsvc/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",How to REMOVE Excel DUPLICATES with the UNIQUE Function
+https://www.youtube.com/watch?v=_Cc9wgOQsvc
+#EXTINF:854 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/Wh6KgbwtA2Q/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",How to Use ChatGPT to Create an Accounts Payable Spreadsheet in Excel
+https://www.youtube.com/watch?v=Wh6KgbwtA2Q
+#EXTINF:905 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/d3tNc-fOhA0/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",How to Use IFS Function in Excel [IF Function Improvement]
+https://www.youtube.com/watch?v=d3tNc-fOhA0
+#EXTINF:1028 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/iXxPX_cRx2I/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",How to Use the HLOOKUP Function in Excel
+https://www.youtube.com/watch?v=iXxPX_cRx2I
+#EXTINF:760 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/cUNs-weA1rE/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",How will these two lines change the way you write Excel formulas?
+https://www.youtube.com/watch?v=cUNs-weA1rE
+#EXTINF:1042 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/kqHB9u47YLs/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",IF and Nested IF Formula [10 Most Demanded Excel Formulas in the Job Market - Lesson 3]
+https://www.youtube.com/watch?v=kqHB9u47YLs
+#EXTINF:641 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/z73WB4RnkBk/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",IFERROR Formula - How to HANDLE ANY ERROR in Excel (Ex: VLOOKUP and SUMIFS)
+https://www.youtube.com/watch?v=z73WB4RnkBk
+#EXTINF:545 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/PI_tgBBQ1uQ/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Impress with a 3D Map Chart in Excel
+https://www.youtube.com/watch?v=PI_tgBBQ1uQ
+#EXTINF:2074 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/Szls8b7_MiQ/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",INDIRECT Function in Excel (Explanation from Scratch)
+https://www.youtube.com/watch?v=Szls8b7_MiQ
+#EXTINF:1459 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/-LJpaUBfjio/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Introduction to Power Query - Learn with a Complete Project
+https://www.youtube.com/watch?v=-LJpaUBfjio
+#EXTINF:722 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/IfTDHu58Vr0/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",IT'S EASY TO AUTOMATE EXCEL SPREADSHEETS WITH COPILOT
+https://www.youtube.com/watch?v=IfTDHu58Vr0
+#EXTINF:1302 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/JXUqBszR3XA/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Job Interviews and Excel Tests - Lesson 4
+https://www.youtube.com/watch?v=JXUqBszR3XA
+#EXTINF:1286 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/30pa9x8DU4o/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Job Interviews and Excel Tests - Lesson 5
+https://www.youtube.com/watch?v=30pa9x8DU4o
+#EXTINF:600 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/spLBI78xkAU/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Learn 10 Excel Text Functions in 10 Minutes
+https://www.youtube.com/watch?v=spLBI78xkAU
+#EXTINF:1029 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/Pa545GROxao/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Learn 15 Excel Text Formulas in Just 15 Minutes
+https://www.youtube.com/watch?v=Pa545GROxao
+#EXTINF:743 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/RqsVYt9CTuk/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Learn 3 Target vs. Actual Charts in Excel
+https://www.youtube.com/watch?v=RqsVYt9CTuk
+#EXTINF:877 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/DS93EQFGWCs/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Learn 3 Very Important Excel Functions in 15 Minutes
+https://www.youtube.com/watch?v=DS93EQFGWCs
+#EXTINF:561 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/zcnFPuTAn5s/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Learn how to automate everything with Power Query in Excel.
+https://www.youtube.com/watch?v=zcnFPuTAn5s
+#EXTINF:1219 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/ZWtaD-hgjmM/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Learn how to create an automated customer registration spreadsheet in Excel.
+https://www.youtube.com/watch?v=ZWtaD-hgjmM
+#EXTINF:1778 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/wlmTvmzhxpI/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Learn How to Create an Automated Purchase Management Spreadsheet in Excel
+https://www.youtube.com/watch?v=wlmTvmzhxpI
+#EXTINF:893 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/IBI54_hnAKY/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Learn How to Create an Automatic Cash Flow in Excel
+https://www.youtube.com/watch?v=IBI54_hnAKY
+#EXTINF:681 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/vUQJcAwaFcI/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Learn How to Create an Automatic Cash Flow in Excel from Scratch in 10 Minutes
+https://www.youtube.com/watch?v=vUQJcAwaFcI
+#EXTINF:860 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/DmMmwD8T6Ak/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Learn How to Create an Automatic Commercial Management Spreadsheet in Excel
+https://www.youtube.com/watch?v=DmMmwD8T6Ak
+#EXTINF:858 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/Scy6WaVMgrE/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Learn How to Create an Automatic Fleet Management Spreadsheet in Excel
+https://www.youtube.com/watch?v=Scy6WaVMgrE
+#EXTINF:1364 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/k7UXCRRHruU/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Learn How to Create an Automatic Inventory Control in Excel
+https://www.youtube.com/watch?v=k7UXCRRHruU
+#EXTINF:1217 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/uWmg5UhBVpA/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Learn How to Create an Automatic Pricing Spreadsheet in Excel
+https://www.youtube.com/watch?v=uWmg5UhBVpA
+#EXTINF:549 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/wXOmBkwF-Fc/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Learn How to Create Excel Spreadsheets INSIDE ChatGPT
+https://www.youtube.com/watch?v=wXOmBkwF-Fc
+#EXTINF:930 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/kcPN0VlcYfQ/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",MAXIMUS and MINIMUS in Excel (Practical Example + Fixation Exercise)
+https://www.youtube.com/watch?v=kcPN0VlcYfQ
+#EXTINF:662 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/TbeQTy97D0A/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Menu for Navigating Between Spreadsheets in Excel - [Hyperlink in Excel]
+https://www.youtube.com/watch?v=TbeQTy97D0A
+#EXTINF:748 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/qTThUMwK7xQ/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",NEVER write an Excel formula again: let Copilot do it
+https://www.youtube.com/watch?v=qTThUMwK7xQ
+#EXTINF:836 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/X3kJKbCNeXc/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",O SEGREDO para EVITAR TRANCAMENTO no EXCEL (Gerenciador de Nomes)
+https://www.youtube.com/watch?v=X3kJKbCNeXc
+#EXTINF:294 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/EoTRSe7Z6p0/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",PARAMETER - How to use the new Excel function
+https://www.youtube.com/watch?v=EoTRSe7Z6p0
+#EXTINF:1378 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/QKfj4TJv1Wg/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",PARAMETER Formula [10 Most Demanded Excel Formulas in the Job Market - Class 7]
+https://www.youtube.com/watch?v=QKfj4TJv1Wg
+#EXTINF:1184 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/IROvDnL4C1Y/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",PARETO Diagram - How to build a PARETO CHART in Excel
+https://www.youtube.com/watch?v=IROvDnL4C1Y
+#EXTINF:1521 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/WvZsyF-ywi4/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Pivot Table - The Most Important Excel Tool
+https://www.youtube.com/watch?v=WvZsyF-ywi4
+#EXTINF:1863 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/jsf8xssjIvA/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Planilha de CONTAS A PAGAR e RECEBER Excel (Como fazer do ZERO)
+https://www.youtube.com/watch?v=jsf8xssjIvA
+#EXTINF:689 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/Xm4kf39qvc8/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Planilha de Despesas Mensais no Excel [Download Gratuito]
+https://www.youtube.com/watch?v=Xm4kf39qvc8
+#EXTINF:2095 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/n3OjgkhatEI/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Planilha de Gastos Pessoais no Excel (Simples e Prática)
+https://www.youtube.com/watch?v=n3OjgkhatEI
+#EXTINF:692 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/dKSiHRGVvYg/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Planilha de Gestão da Manutenção [Baixe Grátis]
+https://www.youtube.com/watch?v=dKSiHRGVvYg
+#EXTINF:777 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/x0vkPD4qSf4/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Planilha de Gestão de Empresas - Receitas | Despesas | Produção e Estoque
+https://www.youtube.com/watch?v=x0vkPD4qSf4
+#EXTINF:721 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/FyzjeadPPMg/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Planilha de Horas - Como Trabalhar com Data e Hora no Excel?
+https://www.youtube.com/watch?v=FyzjeadPPMg
+#EXTINF:1429 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/t4Joli7VqZQ/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Planilha de Horas Trabalhadas Excel [Planilha Automática]
+https://www.youtube.com/watch?v=t4Joli7VqZQ
+#EXTINF:2180 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/2LmM0yWJjkw/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",PLANILHA EXCEL para IMPRESSIONAR QUALQUER UM
+https://www.youtube.com/watch?v=2LmM0yWJjkw
+#EXTINF:1257 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/-U144KQJNsI/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Price and SAC Table in Excel (Amortization Systems)
+https://www.youtube.com/watch?v=-U144KQJNsI
+#EXTINF:1166 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/QIYnnsPRLDs/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Process Mapping and Organizational Chart in Excel
+https://www.youtube.com/watch?v=QIYnnsPRLDs
+#EXTINF:1958 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/UcxC1OvBCvs/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Processos Seletivos e Provas de Excel - Aula 6
+https://www.youtube.com/watch?v=UcxC1OvBCvs
+#EXTINF:344 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/Nn68Ga6MhX8/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",PROCV em 5 MINUTOS! APRENDA de UMA VEZ POR TODAS!
+https://www.youtube.com/watch?v=Nn68Ga6MhX8
+#EXTINF:697 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/YdKK5_g69Ew/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",PROCX Formula [10 Most Demanded Excel Formulas in the Job Market - Lesson 10]
+https://www.youtube.com/watch?v=YdKK5_g69Ew
+#EXTINF:1427 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/mBITCFW3bF8/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",PROCX in Excel - EVERYTHING you NEED TO KNOW about the NEW FUNCTION
+https://www.youtube.com/watch?v=mBITCFW3bF8
+#EXTINF:985 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/nTJdyD70UEc/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Remove ALL UNWANTED SPACES in Excel! (FIX and VALUE)
+https://www.youtube.com/watch?v=nTJdyD70UEc
+#EXTINF:1427 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/sJhwz-Uzt_8/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Results Analysis Chart in Excel - Difference between Results and Target
+https://www.youtube.com/watch?v=sJhwz-Uzt_8
+#EXTINF:1191 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/Y2dZG9qO9zg/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",S-Curve and Progress Circle - Project Progress Charts in Excel
+https://www.youtube.com/watch?v=Y2dZG9qO9zg
+#EXTINF:1250 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/y8DNX4KjJ5s/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Sales Form in Excel (for you to apply in your company today)
+https://www.youtube.com/watch?v=y8DNX4KjJ5s
+#EXTINF:1741 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/qxYErlJfe_8/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Selection Processes and Excel Tests - Class 1
+https://www.youtube.com/watch?v=qxYErlJfe_8
+#EXTINF:1177 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/EFCJP-MvaLM/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Selection Processes and Excel Tests - Class 2
+https://www.youtube.com/watch?v=EFCJP-MvaLM
+#EXTINF:1263 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/xchBU5wPxOk/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Selection Processes and Excel Tests - Class 3
+https://www.youtube.com/watch?v=xchBU5wPxOk
+#EXTINF:1261 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/rlEqUPuVkkw/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Send EMAIL via EXCEL with a SINGLE FORMULA (No VBA)
+https://www.youtube.com/watch?v=rlEqUPuVkkw
+#EXTINF:727 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/0EY78yg_SLs/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Solver - Solving Optimization Problems in Excel (Practical Example)
+https://www.youtube.com/watch?v=0EY78yg_SLs
+#EXTINF:979 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/DWxw3HW3B2g/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",SORT Function: Automatically Sorting in Excel
+https://www.youtube.com/watch?v=DWxw3HW3B2g
+#EXTINF:906 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/0Zx4pXf4EAQ/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",SUMIFS and COUNTIFS - How to SUM and COUNT with CONDITIONS in Excel
+https://www.youtube.com/watch?v=0Zx4pXf4EAQ
+#EXTINF:1087 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/jlv2sFP3AyM/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",SUMIFS Formula [10 Most Popular Excel Formulas in the Job Market - Lesson 5]
+https://www.youtube.com/watch?v=jlv2sFP3AyM
+#EXTINF:685 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/gxagHHA4U4g/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",SUMPRODUCT with Multiple Conditions - Excel Function to Sum Products
+https://www.youtube.com/watch?v=gxagHHA4U4g
+#EXTINF:457 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/TVCrJfu35rU/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",SWITCH Function in Excel (Step-by-Step)
+https://www.youtube.com/watch?v=TVCrJfu35rU
+#EXTINF:437 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/IFTJbEVYnO8/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Tabela Dinâmica - Como fazer Tabela Dinâmica Excel em 5 passos!
+https://www.youtube.com/watch?v=IFTJbEVYnO8
+#EXTINF:1178 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/No3iBuAK16A/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Tabela Dinâmica [Ferramentas Essenciais do Excel - Aula 1]
+https://www.youtube.com/watch?v=No3iBuAK16A
+#EXTINF:699 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/5P66ujnL39I/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",TESTE de EXCEL para ENTREVISTA de EMPREGO - Quais são os TEMAS COBRADOS?
+https://www.youtube.com/watch?v=5P66ujnL39I
+#EXTINF:1237 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/c4QBo2EHe28/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",The SECRETS of CUSTOM FORMATTING in EXCEL
+https://www.youtube.com/watch?v=c4QBo2EHe28
+#EXTINF:599 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/ktmIeMCw3FA/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",This super simple new feature will revolutionize Excel formulas.
+https://www.youtube.com/watch?v=ktmIeMCw3FA
+#EXTINF:855 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/eiko_6etsOw/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Thread Chart in Excel
+https://www.youtube.com/watch?v=eiko_6etsOw
+#EXTINF:1481 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/OAcKN6PxIAI/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Todos os PROCs do Excel - PROCV PROCX PROCH e PROC
+https://www.youtube.com/watch?v=OAcKN6PxIAI
+#EXTINF:626 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/clZP-E6vHWc/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Trancamento e Exemplo do Estágio
+https://www.youtube.com/watch?v=clZP-E6vHWc
+#EXTINF:449 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/mwtLxrBze7Q/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Translate Function: New in Excel for Professional Spreadsheets
+https://www.youtube.com/watch?v=mwtLxrBze7Q
+#EXTINF:1512 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/YlSHT0v0JZo/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Tricks for a More Professional Excel Spreadsheet (From Scratch)
+https://www.youtube.com/watch?v=YlSHT0v0JZo
+#EXTINF:2224 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/xgZLebJzh8Y/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",TUDO sobre a FÓRMULA SE no Excel
+https://www.youtube.com/watch?v=xgZLebJzh8Y
+#EXTINF:2396 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/zLBWM0JhIV4/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",TUDO sobre TABELA DINÂMICA no EXCEL
+https://www.youtube.com/watch?v=zLBWM0JhIV4
+#EXTINF:1684 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/YLXHq-IYg8I/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Usando a Formatação Personalizada do Excel da Forma Certa!
+https://www.youtube.com/watch?v=YLXHq-IYg8I
+#EXTINF:1169 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/7oUYRNYT68M/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Usando FORMATAÇÃO CONDICIONAL na LINHA INTEIRA
+https://www.youtube.com/watch?v=7oUYRNYT68M
+#EXTINF:990 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/zlY6OO4JB28/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Using IF Formula with Emojis the Right Way!
+https://www.youtube.com/watch?v=zlY6OO4JB28
+#EXTINF:1208 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/hwY8X2b6t_k/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",VALIDAÇÃO de DADOS - Como criar uma LISTA SUSPENSA Condicionada no Excel
+https://www.youtube.com/watch?v=hwY8X2b6t_k
+#EXTINF:1636 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/oOFBt1hOTtk/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Visual and Dynamic Bar Chart for your Dashboard
+https://www.youtube.com/watch?v=oOFBt1hOTtk
+#EXTINF:572 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/Fwkzjm-9YHU/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",VLOOKUP Between Different Spreadsheets and Files in Excel
+https://www.youtube.com/watch?v=Fwkzjm-9YHU
+#EXTINF:297 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/Ld69Im4QhKQ/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",VLOOKUP in Excel - Learn How to Use This Function in 5 minutes [=VLOOKUP]
+https://www.youtube.com/watch?v=Ld69Im4QhKQ
+#EXTINF:624 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/xgSGRtOS-X0/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",VLOOKUP in Excel Between Two Workbooks
+https://www.youtube.com/watch?v=xgSGRtOS-X0
+#EXTINF:1439 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/XxkQ-tN2U_U/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Watch this Video before creating a Pivot Table in Excel (two simple tricks)
+https://www.youtube.com/watch?v=XxkQ-tN2U_U
+#EXTINF:696 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/CruoKcjo4p8/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Working with Business Days in Excel - (One Day You'll Need This at Work)
+https://www.youtube.com/watch?v=CruoKcjo4p8
+#EXTINF:1331 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/XJ2iBRtrNtY/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",XLOOKUP or VLOOKUP? Find out which is best!
+https://www.youtube.com/watch?v=XJ2iBRtrNtY
+#EXTINF:1279 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/JnW2cUoPz7M/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",💰 5 Funções Financeiras do Excel para o Trabalho
+https://www.youtube.com/watch?v=JnW2cUoPz7M
+#EXTINF:1197 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/zathJw5m8O8/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",💰 Learn How to Create an Automatic Accounts Payable and Receivable Spreadsheet in Excel
+https://www.youtube.com/watch?v=zathJw5m8O8
+#EXTINF:1559 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/AepJagDC-GM/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",💵 Learn how to create an investment spreadsheet in Excel.
+https://www.youtube.com/watch?v=AepJagDC-GM
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/hSP2deY86C0/mqdefault.jpg" group-title="MÓDULO 01 - AFILIADOS" audio-track="pt-BR",O MELHOR JEITO de GANHAR DINHEIRO como AFILIADO ou INFLUENCIADOR! Monetize seu conteúdo com IA 
 https://www.youtube.com/watch?v=hSP2deY86C0
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QJZNpw9hGVQ/mqdefault.jpg" group-title="MÓDULO 02 - APPs" audio-track="pt-BR",Como fazer Apps Idiotas de R$10K/mês em 18 minutos
