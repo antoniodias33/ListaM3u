@@ -1,36 +1,78 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/J4FdeTm-4FA/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (27/08/2026 23:55hs)" audio-track="pt-BR",Como Criar uma Página Web para Lançamento de Despesas na sua Planilha (Tutorial Apps Script)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/J4FdeTm-4FA/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (28/08/2026 00:35hs)" audio-track="pt-BR",Como Criar uma Página Web para Lançamento de Despesas na sua Planilha (Tutorial Apps Script)
 https://www.youtube.com/watch?v=J4FdeTm-4FA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-XWKDfVsI6I/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (27/08/2026 23:55hs)" audio-track="pt-BR",Como Transformar Planilhas em Sistemas em Minutos
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-XWKDfVsI6I/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (28/08/2026 00:35hs)" audio-track="pt-BR",Como Transformar Planilhas em Sistemas em Minutos
 https://www.youtube.com/watch?v=-XWKDfVsI6I
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/4_qBkqMtS-A/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (27/08/2026 23:55hs)" audio-track="pt-BR",CRIE SEU PRÓPRIO APP BÍBLICO HOJE (Sem Código!)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/4_qBkqMtS-A/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (28/08/2026 00:35hs)" audio-track="pt-BR",CRIE SEU PRÓPRIO APP BÍBLICO HOJE (Sem Código!)
 https://www.youtube.com/watch?v=4_qBkqMtS-A
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/U4XNeOAsoq4/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (27/08/2026 23:55hs)" audio-track="pt-BR",O Google fez de novo: Crie e Publique Apps 100% GRÁTIS com o Google AI Studio
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/U4XNeOAsoq4/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (28/08/2026 00:35hs)" audio-track="pt-BR",O Google fez de novo: Crie e Publique Apps 100% GRÁTIS com o Google AI Studio
 https://www.youtube.com/watch?v=U4XNeOAsoq4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OMAbzZRNLrI/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (27/08/2026 23:55hs)" audio-track="pt-BR",Curso AppSheet Express Aula 1 | Criando seu primeiro App
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OMAbzZRNLrI/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (28/08/2026 00:35hs)" audio-track="pt-BR",Curso AppSheet Express Aula 1 | Criando seu primeiro App
 https://www.youtube.com/watch?v=OMAbzZRNLrI
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QaR6L4-Tcc0/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (27/08/2026 23:55hs)" audio-track="pt-BR",Curso AppSheet Express Aula 2 | Colunas fórmulas e Ref
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QaR6L4-Tcc0/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (28/08/2026 00:35hs)" audio-track="pt-BR",Curso AppSheet Express Aula 2 | Colunas fórmulas e Ref
 https://www.youtube.com/watch?v=QaR6L4-Tcc0
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_99f8iYMQTo/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (27/08/2026 23:55hs)" audio-track="pt-BR",Curso AppSheet Express Aula 3 | Views Slices e Muito Mais
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_99f8iYMQTo/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (28/08/2026 00:35hs)" audio-track="pt-BR",Curso AppSheet Express Aula 3 | Views Slices e Muito Mais
 https://www.youtube.com/watch?v=_99f8iYMQTo
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fxcxXk2Eqqo/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (27/08/2026 23:55hs)" audio-track="pt-BR",Curso AppSheet Express Aula 4 | Ações e Colunas Virtuais
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fxcxXk2Eqqo/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (28/08/2026 00:35hs)" audio-track="pt-BR",Curso AppSheet Express Aula 4 | Ações e Colunas Virtuais
 https://www.youtube.com/watch?v=fxcxXk2Eqqo
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/AfXnSyEIysM/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (27/08/2026 23:55hs)" audio-track="pt-BR",Curso AppSheet Express Aula 5 | Format Rules e UX/UI
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/AfXnSyEIysM/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (28/08/2026 00:35hs)" audio-track="pt-BR",Curso AppSheet Express Aula 5 | Format Rules e UX/UI
 https://www.youtube.com/watch?v=AfXnSyEIysM
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ithLMqwgvPE/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (27/08/2026 23:55hs)" audio-track="pt-BR",Curso AppSheet Express Aula 6 | Gráficos e Dashboards Interativos
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ithLMqwgvPE/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (28/08/2026 00:35hs)" audio-track="pt-BR",Curso AppSheet Express Aula 6 | Gráficos e Dashboards Interativos
 https://www.youtube.com/watch?v=ithLMqwgvPE
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YQzYX0KMaaQ/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (27/08/2026 23:55hs)" audio-track="pt-BR",Curso AppSheet Express Aula 7 | Compartilhamento e Dicas
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YQzYX0KMaaQ/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (28/08/2026 00:35hs)" audio-track="pt-BR",Curso AppSheet Express Aula 7 | Compartilhamento e Dicas
 https://www.youtube.com/watch?v=YQzYX0KMaaQ
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/oX8LFXJ8Exc/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (27/08/2026 23:55hs)" audio-track="pt-BR",Sistema de Estoque COMPLETO com AppSheet | Grátis e sem programar
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/oX8LFXJ8Exc/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (28/08/2026 00:35hs)" audio-track="pt-BR",Sistema de Estoque COMPLETO com AppSheet | Grátis e sem programar
 https://www.youtube.com/watch?v=oX8LFXJ8Exc
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0KNE5XDffWE/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (27/08/2026 23:55hs)" audio-track="pt-BR",Assim que cria apps a partir de planilhas - JEITO CERTO
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0KNE5XDffWE/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (28/08/2026 00:35hs)" audio-track="pt-BR",Assim que cria apps a partir de planilhas - JEITO CERTO
 https://www.youtube.com/watch?v=0KNE5XDffWE
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UiK9pl8tKao/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (27/08/2026 23:55hs)" audio-track="pt-BR",AGENTES DE IA: Como CRIAR e USAR para AUTOMATIZAR TUDO em 2026 | Tutorial Completo GRÁTIS
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UiK9pl8tKao/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (28/08/2026 00:35hs)" audio-track="pt-BR",AGENTES DE IA: Como CRIAR e USAR para AUTOMATIZAR TUDO em 2026 | Tutorial Completo GRÁTIS
 https://www.youtube.com/watch?v=UiK9pl8tKao
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fSEn_hk3Swo/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (27/08/2026 23:55hs)" audio-track="pt-BR",Como Transformar sua Planilha Excel em um APP Financeiro com IA em Minutos (100% Grátis)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fSEn_hk3Swo/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (28/08/2026 00:35hs)" audio-track="pt-BR",Como Transformar sua Planilha Excel em um APP Financeiro com IA em Minutos (100% Grátis)
 https://www.youtube.com/watch?v=fSEn_hk3Swo
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1LPoWFlEiOo/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (27/08/2026 23:55hs)" audio-track="pt-BR",Transformei uma PLANILHA com abas em um APP COMPLETO em apenas 5 minutos
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1LPoWFlEiOo/mqdefault.jpg" group-title="MÓDULO 00 - APPSHEETS (28/08/2026 00:35hs)" audio-track="pt-BR",Transformei uma PLANILHA com abas em um APP COMPLETO em apenas 5 minutos
 https://www.youtube.com/watch?v=1LPoWFlEiOo
+#EXTINF:199 tvg-logo="https://i.ytimg.com/vi/qu2QBEMs1j4/mqdefault.jpg" group-title="Excel: do Básico ao Avançado | Prime Cursos do Brasil ",Aula 01 - What is Excel? - Excel from Basic to Advanced
+https://www.youtube.com/watch?v=qu2QBEMs1j4
+#EXTINF:1743 tvg-logo="https://i.ytimg.com/vi/J9jSCL61a4k/mqdefault.jpg" group-title="Excel: do Básico ao Avançado | Prime Cursos do Brasil ",Aula 02 - Interface do Excel - Excel do Básico ao Avançado
+https://www.youtube.com/watch?v=J9jSCL61a4k
+#EXTINF:1864 tvg-logo="https://i.ytimg.com/vi/C5ouQPaCQjM/mqdefault.jpg" group-title="Excel: do Básico ao Avançado | Prime Cursos do Brasil ",Aula 03 - Basic Formatting - Excel from Basic to Advanced
+https://www.youtube.com/watch?v=C5ouQPaCQjM
+#EXTINF:1233 tvg-logo="https://i.ytimg.com/vi/9X1pfhyBo0c/mqdefault.jpg" group-title="Excel: do Básico ao Avançado | Prime Cursos do Brasil ",Aula 04 - Arithmetric Functions - Excel from Basic to Advanced
+https://www.youtube.com/watch?v=9X1pfhyBo0c
+#EXTINF:1109 tvg-logo="https://i.ytimg.com/vi/QiOdw-Fgjm0/mqdefault.jpg" group-title="Excel: do Básico ao Avançado | Prime Cursos do Brasil ",Aula 05 - Funções Condicionais - Excel do Básico ao Avançado
+https://www.youtube.com/watch?v=QiOdw-Fgjm0
+#EXTINF:1333 tvg-logo="https://i.ytimg.com/vi/BBOfpehpLbQ/mqdefault.jpg" group-title="Excel: do Básico ao Avançado | Prime Cursos do Brasil ",Aula 06 - Text Functions - Excel from Basic to Advanced
+https://www.youtube.com/watch?v=BBOfpehpLbQ
+#EXTINF:1096 tvg-logo="https://i.ytimg.com/vi/_1-Euxg1ncc/mqdefault.jpg" group-title="Excel: do Básico ao Avançado | Prime Cursos do Brasil ",Aula 07 - Date Functions - Excel from Basic to Advanced
+https://www.youtube.com/watch?v=_1-Euxg1ncc
+#EXTINF:1190 tvg-logo="https://i.ytimg.com/vi/KD1Re8pEnlo/mqdefault.jpg" group-title="Excel: do Básico ao Avançado | Prime Cursos do Brasil ",Aula 08 - Funções Estastísticas - Excel do Básico ao Avançado
+https://www.youtube.com/watch?v=KD1Re8pEnlo
+#EXTINF:1295 tvg-logo="https://i.ytimg.com/vi/BmzcDLSvOWg/mqdefault.jpg" group-title="Excel: do Básico ao Avançado | Prime Cursos do Brasil ",Aula 09 - Formatação Condicional - Excel do Básico ao Avançado
+https://www.youtube.com/watch?v=BmzcDLSvOWg
+#EXTINF:997 tvg-logo="https://i.ytimg.com/vi/UWJRaWE_WzM/mqdefault.jpg" group-title="Excel: do Básico ao Avançado | Prime Cursos do Brasil ",Aula 10 - Cell Style and Formatting - Excel from Basic to Advanced
+https://www.youtube.com/watch?v=UWJRaWE_WzM
+#EXTINF:455 tvg-logo="https://i.ytimg.com/vi/GLft0tZ86NM/mqdefault.jpg" group-title="Excel: do Básico ao Avançado | Prime Cursos do Brasil ",Aula 11 - Protecting Workbooks - Excel from Basic to Advanced
+https://www.youtube.com/watch?v=GLft0tZ86NM
+#EXTINF:788 tvg-logo="https://i.ytimg.com/vi/N3qfZio0AUw/mqdefault.jpg" group-title="Excel: do Básico ao Avançado | Prime Cursos do Brasil ",Aula 12 - Texto para Coluna | Remoção de Duplicidade | Classificação - Excel do Básico ao Avançado
+https://www.youtube.com/watch?v=N3qfZio0AUw
+#EXTINF:537 tvg-logo="https://i.ytimg.com/vi/NHlvY9OCobw/mqdefault.jpg" group-title="Excel: do Básico ao Avançado | Prime Cursos do Brasil ",Aula 13 - Data Validation - Excel from Basic to Advanced
+https://www.youtube.com/watch?v=NHlvY9OCobw
+#EXTINF:1062 tvg-logo="https://i.ytimg.com/vi/Cm3GmwiQkOI/mqdefault.jpg" group-title="Excel: do Básico ao Avançado | Prime Cursos do Brasil ",Aula 14 - Working with Tables - Excel from Basic to Advanced
+https://www.youtube.com/watch?v=Cm3GmwiQkOI
+#EXTINF:532 tvg-logo="https://i.ytimg.com/vi/0zywbT1qHlY/mqdefault.jpg" group-title="Excel: do Básico ao Avançado | Prime Cursos do Brasil ",Aula 15 - Data Segmentation - Excel from Basic to Advanced
+https://www.youtube.com/watch?v=0zywbT1qHlY
+#EXTINF:2469 tvg-logo="https://i.ytimg.com/vi/RFZN-Sacvdg/mqdefault.jpg" group-title="Excel: do Básico ao Avançado | Prime Cursos do Brasil ",Aula 16 - Charts Part 1 - Excel from Basic to Advanced
+https://www.youtube.com/watch?v=RFZN-Sacvdg
+#EXTINF:1572 tvg-logo="https://i.ytimg.com/vi/ytgxP6amJhs/mqdefault.jpg" group-title="Excel: do Básico ao Avançado | Prime Cursos do Brasil ",Aula 17 - Charts Part 2 - Excel from Basic to Advanced
+https://www.youtube.com/watch?v=ytgxP6amJhs
+#EXTINF:2885 tvg-logo="https://i.ytimg.com/vi/SUcWo8g6hss/mqdefault.jpg" group-title="Excel: do Básico ao Avançado | Prime Cursos do Brasil ",Aula 18 - Advanced Formulas - Excel from Basic to Advanced
+https://www.youtube.com/watch?v=SUcWo8g6hss
+#EXTINF:1678 tvg-logo="https://i.ytimg.com/vi/1RmCy-B9pUs/mqdefault.jpg" group-title="Excel: do Básico ao Avançado | Prime Cursos do Brasil ",Aula 19 - Pivot Table and Chart - Excel from Basic to Advanced
+https://www.youtube.com/watch?v=1RmCy-B9pUs
+#EXTINF:726 tvg-logo="https://i.ytimg.com/vi/J1sxncVrhCc/mqdefault.jpg" group-title="Excel: do Básico ao Avançado | Prime Cursos do Brasil ",Aula 20 - Introduction to VBA - Excel from Basic to Advanced
+https://www.youtube.com/watch?v=J1sxncVrhCc
+#EXTINF:2485 tvg-logo="https://i.ytimg.com/vi/ldvhmbWTlZo/mqdefault.jpg" group-title="Excel: do Básico ao Avançado | Prime Cursos do Brasil ",Aula 21 - Dashboard - Excel from Basic to Advanced
+https://www.youtube.com/watch?v=ldvhmbWTlZo
 #EXTINF:1504 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/C6x5OqMEp68/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",10 Fórmulas Novas do Excel Úteis para o Trabalho
 https://www.youtube.com/watch?v=C6x5OqMEp68
 #EXTINF:872 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/NMjGQ3JnPxk/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",10 New Features That Will Make You an Excel Master
@@ -141,7 +183,7 @@ https://www.youtube.com/watch?v=01jejTA9jIU
 https://www.youtube.com/watch?v=zLusCsJQFyQ
 #EXTINF:1206 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/b5r5lLxy9Qc/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Correcting the Structure of a Table in Excel with Power Query
 https://www.youtube.com/watch?v=b5r5lLxy9Qc
-#EXTINF:1140 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/ZNmZl0-w-n0/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",COUNTIFS Formula [10 Most Requested Excel Formulas in the Job Market - Lesson 4]
+#EXTINF:1140 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/ZNmZl0-w-n0/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",COUNTIFS Formula [10 Most Requested Excel Formulas in the Job Market - Aula 4]
 https://www.youtube.com/watch?v=ZNmZl0-w-n0
 #EXTINF:778 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/lJW4N7FHzJU/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Creating a GRAPH with LOGOS in EXCEL
 https://www.youtube.com/watch?v=lJW4N7FHzJU
@@ -161,7 +203,7 @@ https://www.youtube.com/watch?v=QNfySHfO3RE
 https://www.youtube.com/watch?v=Rk1fOYjtwaw
 #EXTINF:2214 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/K_uBvI7PGtU/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Dicas Rápidas para o Visual do seu Dashboard em Excel
 https://www.youtube.com/watch?v=K_uBvI7PGtU
-#EXTINF:3088 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/D394vEkMW-I/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Difference between VLOOKUP and XLOOKUP in Excel (Learn both functions in one lesson)
+#EXTINF:3088 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/D394vEkMW-I/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Difference between VLOOKUP and XLOOKUP in Excel (Learn both functions in one Aula)
 https://www.youtube.com/watch?v=D394vEkMW-I
 #EXTINF:1533 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/LVpEdRhtYUQ/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Every Excel Chart - How to Use Each One - Part 1
 https://www.youtube.com/watch?v=LVpEdRhtYUQ
@@ -179,7 +221,7 @@ https://www.youtube.com/watch?v=pzYnuq3fEQA
 https://www.youtube.com/watch?v=dS0HzsL2EJk
 #EXTINF:649 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/WNdinEmMC5o/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Expense Control Spreadsheet in Excel: How to Make It Simple and from Scratch
 https://www.youtube.com/watch?v=WNdinEmMC5o
-#EXTINF:1445 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/ud2W-Fy2tzk/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",FILTER Formula [10 Most Popular Excel Formulas in the Job Market - Lesson 8]
+#EXTINF:1445 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/ud2W-Fy2tzk/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",FILTER Formula [10 Most Popular Excel Formulas in the Job Market - Aula 8]
 https://www.youtube.com/watch?v=ud2W-Fy2tzk
 #EXTINF:660 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/ht7wpEdeSIw/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",FILTER function to create Automatic Lists in Excel
 https://www.youtube.com/watch?v=ht7wpEdeSIw
@@ -263,7 +305,7 @@ https://www.youtube.com/watch?v=d3tNc-fOhA0
 https://www.youtube.com/watch?v=iXxPX_cRx2I
 #EXTINF:760 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/cUNs-weA1rE/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",How will these two lines change the way you write Excel formulas?
 https://www.youtube.com/watch?v=cUNs-weA1rE
-#EXTINF:1042 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/kqHB9u47YLs/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",IF and Nested IF Formula [10 Most Demanded Excel Formulas in the Job Market - Lesson 3]
+#EXTINF:1042 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/kqHB9u47YLs/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",IF and Nested IF Formula [10 Most Demanded Excel Formulas in the Job Market - Aula 3]
 https://www.youtube.com/watch?v=kqHB9u47YLs
 #EXTINF:641 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/z73WB4RnkBk/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",IFERROR Formula - How to HANDLE ANY ERROR in Excel (Ex: VLOOKUP and SUMIFS)
 https://www.youtube.com/watch?v=z73WB4RnkBk
@@ -275,9 +317,9 @@ https://www.youtube.com/watch?v=Szls8b7_MiQ
 https://www.youtube.com/watch?v=-LJpaUBfjio
 #EXTINF:722 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/IfTDHu58Vr0/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",IT'S EASY TO AUTOMATE EXCEL SPREADSHEETS WITH COPILOT
 https://www.youtube.com/watch?v=IfTDHu58Vr0
-#EXTINF:1302 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/JXUqBszR3XA/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Job Interviews and Excel Tests - Lesson 4
+#EXTINF:1302 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/JXUqBszR3XA/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Job Interviews and Excel Tests - Aula 4
 https://www.youtube.com/watch?v=JXUqBszR3XA
-#EXTINF:1286 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/30pa9x8DU4o/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Job Interviews and Excel Tests - Lesson 5
+#EXTINF:1286 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/30pa9x8DU4o/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Job Interviews and Excel Tests - Aula 5
 https://www.youtube.com/watch?v=30pa9x8DU4o
 #EXTINF:600 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/spLBI78xkAU/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",Learn 10 Excel Text Functions in 10 Minutes
 https://www.youtube.com/watch?v=spLBI78xkAU
@@ -347,7 +389,7 @@ https://www.youtube.com/watch?v=QIYnnsPRLDs
 https://www.youtube.com/watch?v=UcxC1OvBCvs
 #EXTINF:344 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/Nn68Ga6MhX8/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",PROCV em 5 MINUTOS! APRENDA de UMA VEZ POR TODAS!
 https://www.youtube.com/watch?v=Nn68Ga6MhX8
-#EXTINF:697 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/YdKK5_g69Ew/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",PROCX Formula [10 Most Demanded Excel Formulas in the Job Market - Lesson 10]
+#EXTINF:697 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/YdKK5_g69Ew/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",PROCX Formula [10 Most Demanded Excel Formulas in the Job Market - Aula 10]
 https://www.youtube.com/watch?v=YdKK5_g69Ew
 #EXTINF:1427 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/mBITCFW3bF8/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",PROCX in Excel - EVERYTHING you NEED TO KNOW about the NEW FUNCTION
 https://www.youtube.com/watch?v=mBITCFW3bF8
@@ -373,7 +415,7 @@ https://www.youtube.com/watch?v=0EY78yg_SLs
 https://www.youtube.com/watch?v=DWxw3HW3B2g
 #EXTINF:906 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/0Zx4pXf4EAQ/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",SUMIFS and COUNTIFS - How to SUM and COUNT with CONDITIONS in Excel
 https://www.youtube.com/watch?v=0Zx4pXf4EAQ
-#EXTINF:1087 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/jlv2sFP3AyM/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",SUMIFS Formula [10 Most Popular Excel Formulas in the Job Market - Lesson 5]
+#EXTINF:1087 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/jlv2sFP3AyM/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",SUMIFS Formula [10 Most Popular Excel Formulas in the Job Market - Aula 5]
 https://www.youtube.com/watch?v=jlv2sFP3AyM
 #EXTINF:685 tvg-id="600" tvg-logo="https://i.ytimg.com/vi/gxagHHA4U4g/mqdefault.jpg" group-title="MÓDULO 00 - Hashtag Treinamentos",SUMPRODUCT with Multiple Conditions - Excel Function to Sum Products
 https://www.youtube.com/watch?v=gxagHHA4U4g
