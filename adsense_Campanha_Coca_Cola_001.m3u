@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:31 tvg-id="180" tvg-logo="https://i.ytimg.com/vi/_tVCthKSqaA/mqdefault.jpg",Coca-Cola Brasil | Escolhas
+#EXTINF:12 tvg-id="180" tvg-name="COCA-COLA05" tvg-logo="https://i.ytimg.com/vi/mKjFaTUELA0/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234" audio-track="pt-BR",01 CANAL DO USUARIO EM EM 31/08/2026 18:10hs Insiste ou se afasta?
+https://www.youtube.com/shorts/mKjFaTUELA0
+#EXTINF:36 tvg-id="480" tvg-name="COCA-COLA01" tvg-logo="https://i.ytimg.com/vi/_tVCthKSqaA/mqdefault.jpg",Coca-Cola Brasil | Escolhas
 https://www.youtube.com/watch?v=_tVCthKSqaA
-#EXTINF:22 tvg-id="180" tvg-logo="https://i.ytimg.com/vi/_Tre8oOq2VI/mqdefault.jpg",Abra a Felicidade Coca-Cola
+#EXTINF:27 tvg-id="480" tvg-name="COCA-COLA02" tvg-logo="https://i.ytimg.com/vi/_Tre8oOq2VI/mqdefault.jpg",Abra a Felicidade Coca-Cola
 https://www.youtube.com/watch?v=_Tre8oOq2VI
-#EXTINF:24 tvg-id="180" tvg-logo="https://i.ytimg.com/vi/qPkELI0aWEU/mqdefault.jpg",Testei o truque do Slushie Instantâneo da Coca
+#EXTINF:29 tvg-id="480" tvg-name="COCA-COLA03" tvg-logo="https://i.ytimg.com/vi/qPkELI0aWEU/mqdefault.jpg",Testei o truque do Slushie Instantâneo da Coca
 https://www.youtube.com/watch?v=qPkELI0aWEU
-#EXTINF:45 tvg-id="180" tvg-logo="https://i.ytimg.com/vi/0Ab-F7Y3IXc/mqdefault.jpg",Who will you Share A Coke with?
+#EXTINF:50 tvg-id="480" tvg-name="COCA-COLA04" tvg-logo="https://i.ytimg.com/vi/0Ab-F7Y3IXc/mqdefault.jpg",Who will you Share A Coke with?
 https://www.youtube.com/watch?v=0Ab-F7Y3IXc
+#EXTINF:14 tvg-id="480" tvg-name="ANUNCIE_AQUI" tvg-logo="https://i.ytimg.com/vi/f4sEcbFs0LE/mqdefault.jpg",Letreiro animado ANUNCIE AQUI | BIT MASTER
+https://www.youtube.com/watch?v=f4sEcbFs0LE
