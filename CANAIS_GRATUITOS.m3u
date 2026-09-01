@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title=" CANAIS | 01 ABERTOS", 01  CANAL DO USUARIO Atualizado EM 01/09/2026 01:00hs
+#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title=" CANAIS | 01 ABERTOS", 01  CANAL DO USUARIO Atualizado EM 01/09/2026 01:30hs
 https://archive.org/download/canal-do-usuario-iptvbm/Canal%20do%20Usuario%20IPTVBM.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/b1J_mC3pWvM/mqdefault.jpg" group-title="CANAIS | TV AO VIVO",AO VIVO - FILMES (24 HORAS) - NetMovies
 https://www.youtube.com/watch?v=b1J_mC3pWvM
@@ -364,19 +364,16 @@ http://45.190.28.50/AXN_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS | FILMES",SONY HD
 http://45.190.28.50/SONY_HD/index.m3u8
 
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS", History (720p)
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS1", History (720p)
 https://45.190.28.50/HISTORY_HD/index.m3u8
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS", History 2 Latin America Brazil (720p)
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS1", History 2 Latin America Brazil (720p)
 https://45.190.28.50/H2_HD/index.m3u8
-#EXTINF:-1 group-title="CANAIS | FILMES", A&E Latin America Brazil (720p)
+#EXTINF:-1 group-title="CANAIS | FILMES1", A&E Latin America Brazil (720p)
 https://45.190.28.50/AE_HD/index.m3u8
-#EXTINF:-1 group-title="CANAIS | FILMES", AXN (720p)
+#EXTINF:-1 group-title="CANAIS | FILMES1", AXN (720p)
 https://45.190.28.50/AXN_HD/index.m3u8
-#EXTINF:-1 group-title="CANAIS | FILMES",SONY HD
+#EXTINF:-1 group-title="CANAIS | FILMES1",SONY HD
 https://45.190.28.50/SONY_HD/index.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1wECsnGZcfc/mqdefault.jpg" group-title="CANAIS | INTERNACIONAIS",24 News Live TV | Kerala Rain Live News Updates | Malayalam News Live | HD Live Streaming | 24 News
 https://www.youtube.com/watch?v=1wECsnGZcfc
