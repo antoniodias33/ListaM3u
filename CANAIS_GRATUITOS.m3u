@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title=" CANAIS | 01 ABERTOS", 01  CANAL DO USUARIO Atualizado EM 01/09/2026 00:45hs
+https://archive.org/download/canal-do-usuario-iptvbm/Canal%20do%20Usuario%20IPTVBM.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/b1J_mC3pWvM/mqdefault.jpg" group-title="CANAIS | TV AO VIVO",AO VIVO - FILMES (24 HORAS) - NetMovies
 https://www.youtube.com/watch?v=b1J_mC3pWvM
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5Xl6pSgiy3A/mqdefault.jpg" group-title="CANAIS | TV AO VIVO",Balneário Camboriú ao vivo - Avenida Atlântica
@@ -41,130 +43,822 @@ https://www.youtube.com/watch?v=GZJ6_czLzp4
 https://www.youtube.com/watch?v=l2_O7pDT0Fg
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/L2uItBrKwtk/mqdefault.jpg" group-title="CANAIS | TV AO VIVO",TV PAI ETERNO AO VIVO 24H
 https://www.youtube.com/watch?v=L2uItBrKwtk
-#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="TV | CANAIS | ABERTOS", RECORD 2
-https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="TV | CANAIS | ABERTOS", RecordTV MT
-https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="TV | CANAIS | ABERTOS", RecordTV MT 2
-https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="TV | CANAIS | ABERTOS", RecordTV MT 2
-https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="TV | CANAIS | ABERTOS", REDE TV
-https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://igrejastv.com.br/wp-content/uploads/2015/10/logomarca-rittv.png" group-title="TV | CANAIS | ABERTOS", RIT TV
-https://acesso.ecast.site:3648/live/ritlive.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="TV | CANAIS | ABERTOS", SBT TV Guajará (PA)
-https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/fmGNohE.png" group-title="TV | CANAIS | ABERTOS", TV GALEGA
-https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
-#EXTINF:-1 group-title="TV | CANAIS | ABERTOS", TV Globo HD
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/adesso.png" group-title="CANAIS | ABERTOS", Adesso TV
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/diAxFOm.png" group-title="CANAIS | ABERTOS", ADESSO TV
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://portalamazonia.com/images/p/35790/b2ap3_thumbnail_2016-18.jpg" group-title="CANAIS | ABERTOS", Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2021/09/Xicara-de-Cafe-Acucar-e-Colher-Png-1024x1024.png" group-title="CANAIS | ABERTOS", Amazon Sat CONTRIBUA COM UM CAFEZINHO PIX Chave Fone (47)99626 5594
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fh4SQ6L.png" group-title="CANAIS | ABERTOS", BAND (Experimente nossa lista PREMIUM) WhatsApp (47)99626-5594
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w16814077.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="CANAIS | ABERTOS", BAND Pará - RBA TV
+https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="CANAIS | ABERTOS", BAND Pará - RBA TV
+https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="CANAIS | ABERTOS", Canal Educacao
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rHPY0Yv.png" group-title="CANAIS | ABERTOS", Canal Gov
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/catve.png" group-title="CANAIS | ABERTOS", Catve - Cultura (PR)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/catve.png" group-title="CANAIS | ABERTOS", Catve - Cultura (PR)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/JQU7Ysw.png" group-title="CANAIS | ABERTOS", CATVE PR
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cctv13.png" group-title="CANAIS | ABERTOS", CCTV Notícias
+https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctv13_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GrjGwKM.png" group-title="CANAIS | ABERTOS", COM Brasil
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2pSzgVU.png" group-title="CANAIS | ABERTOS", CONECT TV
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XN6jjMR.png" group-title="CANAIS | ABERTOS", ConecTV Brasil
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/s80elMU.png" group-title="CANAIS | ABERTOS", CONEXAO TV
+https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/chunklist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2020/05/TV-Cultura-logo-e1603864549316.jpg" group-title="CANAIS | ABERTOS", CULTURA
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w970754890.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Yr8diVX.png" group-title="CANAIS | ABERTOS", DEMAIS TV
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/X3lIFxM.png" group-title="CANAIS | ABERTOS", FALA LITORAL WEB TV
+https://5c483b9d1019c.streamlock.net:443/falalitoraltv/falalitoraltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-fonte.png" group-title="CANAIS | ABERTOS", FonteTV (GO)
+http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/635px-france24.png" group-title="CANAIS | ABERTOS", France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="CANAIS | ABERTOS", GLOBO SP
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-#EXTINF:-1 group-title="TV | CANAIS | FILMES", A&E Latin America Brazil (720p)
-http://45.190.28.50/AE_HD/index.m3u8
-#EXTINF:-1 group-title="TV | CANAIS | FILMES", AXN (720p)
-http://45.190.28.50/AXN_HD/index.m3u8
-#EXTINF:-1 group-title="TV | CANAIS | FILMES",SONY HD
-http://45.190.28.50/SONY_HD/index.m3u8
-#EXTINF:-1 group-title="TV | CANAIS | DOCUMENTÁRIOS", History (720p)
-http://45.190.28.50/HISTORY_HD/index.m3u8
-#EXTINF:-1 group-title="TV | CANAIS | DOCUMENTÁRIOS", History 2 Latin America Brazil (720p)
-http://45.190.28.50/H2_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aoq9CGU.png" group-title="TV | CANAIS | RELIGIOSOS", Gospel Cartoon (360p)
-https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospel.jpg" group-title="TV | CANAIS | RELIGIOSOS", Gospel Movie TV
-https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ipgo.xyz/tv/gmovies/imagens/logo_gospelf_site.png" group-title="TV | CANAIS | RELIGIOSOS", Gospel Movie TV
-https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png" group-title="TV | CANAIS | RELIGIOSOS", IURD TV 
-https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png" group-title="TV | CANAIS | RELIGIOSOS", IURD TV (Assine nossa Lista Premium para mais canais de TV. Chame no WhatsApp(47)99626-5594)
-https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/9pZox0Z.png" group-title="TV | CANAIS | RELIGIOSOS", PLENA TV
-https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yvxG9m5.png" group-title="TV | CANAIS | RELIGIOSOS", Rede Gospel
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/egU0jsZ.png" group-title="TV | CANAIS | RELIGIOSOS", TV APARECIDA
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/fk2mNc4.png" group-title="TV | CANAIS | RELIGIOSOS", TV Aparecida
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="TV | CANAIS | RELIGIOSOS", TV Aparecida
-https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3f6171c551bfebb0226b4f7d526a8e6f.webp" group-title="TV | CANAIS | RELIGIOSOS", TV Gideões
-https://tv01.zas.media:1936/gideoes/gideoes/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zBtvnD5.png" group-title="TV | CANAIS | RELIGIOSOS", TV Maná Brazil (1080p)
-https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y7b29VG.png" group-title="TV | CANAIS | RELIGIOSOS", TV Padre Cicero
-https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wfnet.net.br/wp-content/uploads/2023/05/Rede_Gospel_sp.png" group-title="TV | CANAIS | RELIGIOSOS", TV Rede Gospel
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/iurd-logo.png" group-title="TV | CANAIS | RELIGIOSOS", TV UNIVERSAL
-https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_f61dea77-770b-444c-8f61-88b3f8666b3f.m3u8
-#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/60ddb652a9fbc_d19ecce6131ee18d0d846a16aae7ed6e.png" group-title="TV | CANAIS | RELIGIOSOS", Vivas Tv
-https://stmv1.liveplushd.com.br/tvvivam/tvvivam/chunklist_w252085201.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/jetsons.png" group-title="TV | CANAIS | WebTV", Jetsons - Webtv (Peça um teste na nossa LISTA PREMIUM. WhatsApp(47)99626-5594)
-https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvgallo.png" group-title="TV | CANAIS | WebTV", TV Gallo Assine nossa Lista Premium para mais canais (47)99626-5594
-https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/riomadeira.png" group-title="TV | CANAIS | WebTV", TV Rio Madeira - WebTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="CANAIS | ABERTOS", GLOBO SP
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMLxwL0.img" group-title="CANAIS | ABERTOS", Master TV
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FioVeSb.png" group-title="CANAIS | ABERTOS", MASTER TV PR
+http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ngt.png" group-title="CANAIS | ABERTOS", NGT
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/McgXMZ6.png" group-title="CANAIS | ABERTOS", NOVA ERA TV
+http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_redeparanaeducativa.png" group-title="CANAIS | ABERTOS", Paraná Turismo
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/05/petlovers.jpg" group-title="CANAIS | ABERTOS", Pet Lovers TV
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wqOAIgT.png" group-title="CANAIS | ABERTOS", PLAN TV
+https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/playtv.png" group-title="CANAIS | ABERTOS", PlayTV
+https://isaocorp.cloudecast.com/playtv/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zBbubNN.png" group-title="CANAIS | ABERTOS", PRIMER TV
+http://200.194.238.229:8383/live/primer/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5gkt9DD.png" group-title="CANAIS | ABERTOS", Rai 4K (Italy)
+https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="CANAIS | ABERTOS", RECORD 2
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="CANAIS | ABERTOS", RECORD 2
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="CANAIS | ABERTOS", RECORD 2
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="CANAIS | ABERTOS", RECORD 2
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="CANAIS | ABERTOS", RecordTV MT
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="CANAIS | ABERTOS", RecordTV MT
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="CANAIS | ABERTOS", RecordTV MT 2
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="CANAIS | ABERTOS", RecordTV MT 2
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="CANAIS | ABERTOS", RecordTV MT 2
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="CANAIS | ABERTOS", RecordTV MT 2
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-nKFQjWxV-Co/XRZMlbgmYDI/AAAAAAAABPI/RLnB3Goeyw83rN6mM2J7O3kw8sQ3QtyCgCLcBGAs/s320/Screenshot_2019-06-28-14-19-55.png" group-title="CANAIS | ABERTOS", RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmarajoara.png" group-title="CANAIS | ABERTOS", Rede Brasil - TV Marajoara (PA)
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://redemaisfamilia.com.br/wp-content/uploads/2022/08/Logo-rede-mais-familia.png" group-title="CANAIS | ABERTOS", Rede Mais Família
+https://video09.logicahost.com.br/redefamilia/redefamilia/chunklist_w1847404135.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fP74ULx.png" group-title="CANAIS | ABERTOS", REDE METROPOLITANA
+https://cdn.cdnseguro.com/metropolitana2/metropolitana2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-minas-original.jpg" group-title="CANAIS | ABERTOS", Rede Minas
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/super-tv-logo-FDAE640290-seeklogo.com.png" group-title="CANAIS | ABERTOS", Rede Super
+https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w1249447642.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="CANAIS | ABERTOS", REDE TV
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="CANAIS | ABERTOS", REDE TV
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanalredetv.png" group-title="CANAIS | ABERTOS", RedeTV! TV Pantanal (MT)
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/12/redetv-pr.webp" group-title="CANAIS | ABERTOS", RedeTV! TV PR
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://igrejastv.com.br/wp-content/uploads/2015/10/logomarca-rittv.png" group-title="CANAIS | ABERTOS", RIT TV
+https://acesso.ecast.site:3648/live/ritlive.m3u8
+#EXTINF:-1 tvg-logo="https://igrejastv.com.br/wp-content/uploads/2015/10/logomarca-rittv.png" group-title="CANAIS | ABERTOS", RIT TV
+https://acesso.ecast.site:3648/live/ritlive.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/90kb4L2.png" group-title="CANAIS | ABERTOS", RTV CANAL 38
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2Vxo3Lc.png" group-title="CANAIS | ABERTOS", SANDEGI TV
+https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/yjBgTgY.png" group-title="CANAIS | ABERTOS", SAO RAIMUNDO TV
+https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="CANAIS | ABERTOS", SBT
+https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="CANAIS | ABERTOS", SBT - TV Cidade Verde - (PI)
+http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="CANAIS | ABERTOS", SBT - TV Cidade Verde - (PI)
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="CANAIS | ABERTOS", SBT - TV Cidade Verde - (PI)
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="CANAIS | ABERTOS", SBT TV Guajará (PA)
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="CANAIS | ABERTOS", SBT TV Guajará (PA)
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="CANAIS | ABERTOS", SBT TV Thathi (SP)
+https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/XaTKJef.png" group-title="CANAIS | ABERTOS", SERTAO TV
+http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8" group-title="CANAIS | ABERTOS", SERTÃO TV
+http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/chunklist_w1172238546.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png" group-title="CANAIS | ABERTOS", SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sictv.png" group-title="CANAIS | ABERTOS", SIC TV  Local - Record Rondônia
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/6KHGXbM.png" group-title="CANAIS | ABERTOS", TCM 10
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ytZUsdv.png" group-title="CANAIS | ABERTOS", TV A FOLHA
+https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/09/tvassembleia.png" group-title="CANAIS | ABERTOS", TV Assembléia Maceió
+https://5c483b9d1019c.streamlock.net/staffvideotv/staffvideotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvbrasil.ebc.com.br/sites/default/themes/tvbrasil/img/logo_tvbrasil_201904.png" group-title="CANAIS | ABERTOS", TV BRASIL (TVE Brasil)
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bnzdrdjj.jpg" group-title="CANAIS | ABERTOS", TV Brusque (SC)
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IQWmGHN.png" group-title="CANAIS | ABERTOS", TV CANDIDES
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SVmkbKwWILA/XXpn6tIEuDI/AAAAAAAABz0/jyRMvdB8L6Av2CinwIqYkG4XBUZ1A3IDgCLcBGAsYHQ/s320/Screenshot_2019-09-12-12-42-47.png" group-title="CANAIS | ABERTOS", TV CARIOCA
+https://video04.logicahost.com.br/cariocainternacional/cariocainternacional/chunklist_w553281216.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/DPXwC9p.png" group-title="CANAIS | ABERTOS", TV CHROMA
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/DPXwC9p.png" group-title="CANAIS | ABERTOS", TV CHROMA
+https://5c483b9d1019c.streamlock.net:443/8054/8054/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Ea5KBfh.png" group-title="CANAIS | ABERTOS", TV CLUBE WEB
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4o6Xeee.png" group-title="CANAIS | ABERTOS", TV COM DF
+https://5b7f3c45ab7c2.streamlock.net:443/8008/smil:8008.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/02/tvcommaceio.png" group-title="CANAIS | ABERTOS", TV COM MACEIÓ
+https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uxefHY3.png" group-title="CANAIS | ABERTOS", TV Comunitaria
+https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uxefHY3.png" group-title="CANAIS | ABERTOS", TV Comunitaria
+https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-logo="https://imgur.com/c1XFUsl.png" group-title="CANAIS | ABERTOS", TV Cultura
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="CANAIS | ABERTOS", TV Cultura - TV Guará (MA)
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/slWITgo.png" group-title="CANAIS | ABERTOS", TV CULTURA SC
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/camara.png" group-title="CANAIS | ABERTOS", TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/M53Agyb.png" group-title="CANAIS | ABERTOS", TV DIARIO DO BRASIL TV PREVE
+https://video01.kshost.com.br:4443/paulispar7372/paulispar7372/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/diariodosertao.png" group-title="CANAIS | ABERTOS", TV Diário do Sertão
+https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Pv95YP8.png" group-title="CANAIS | ABERTOS", TV DO POVO
+https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/Yj9UKv2.png" group-title="CANAIS | ABERTOS", TV Escola
+http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fmGNohE.png" group-title="CANAIS | ABERTOS", TV GALEGA
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fmGNohE.png" group-title="CANAIS | ABERTOS", TV GALEGA
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fmGNohE.png" group-title="CANAIS | ABERTOS", TV GALEGA
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FY8kjgr.png" group-title="CANAIS | ABERTOS", TV GALLO
+https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
+#EXTINF:-1 group-title="CANAIS | ABERTOS", TV Globo HD
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FWYjaed.png" group-title="CANAIS | ABERTOS", TV GRANDE NATAL
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/NOEr7gX.png" group-title="CANAIS | ABERTOS", TV GRAO PARA
+https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5hzyZO1.png" group-title="CANAIS | ABERTOS", TV ITAPETININGA
+https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmaceio.jpg" group-title="CANAIS | ABERTOS", TV Maceió (AL)
+https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmaceio.jpg" group-title="CANAIS | ABERTOS", TV Maceió (AL)
+https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/F66Mq8p.png" group-title="CANAIS | ABERTOS", TV MAIS MARICA
+https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmax.png" group-title="CANAIS | ABERTOS", TV MAX
+https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logotipo_da_tv_metrc3b3pole.png" group-title="CANAIS | ABERTOS", TV Metrópole
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Pw2v6ne.png" group-title="CANAIS | ABERTOS", TV NBN
+https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/L2ib2Mg.png" group-title="CANAIS | ABERTOS", TV OMINDARE
+https://video01.kshost.com.br/lourdes52007/lourdes52007/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/YsqXFyc.png" group-title="CANAIS | ABERTOS", TV OSORIO NEWS
+https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IVUjkii.png" group-title="CANAIS | ABERTOS", TV PARANA TURISMO
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/cWd3wHS.png" group-title="CANAIS | ABERTOS", TV PASSO FUNDO
+https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1cYYuy.png" group-title="CANAIS | ABERTOS", TV Plan
+https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1cYYuy.png" group-title="CANAIS | ABERTOS", TV Plan
+https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Klwjy9d.png" group-title="CANAIS | ABERTOS", TV RIO MADEIRA
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvseries.png" group-title="TV | CANAIS | WebTV", TV Séries - WEBTV
-https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/morena.png" group-title="TV | CANAIS | WebTV", Via Morena
-https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bitmaster.listen2myshow.com/assets/images/uploads/user_146577503/radio_193669591/logo_banner/1685088049.jpg" group-title="TV | CANAIS | WebTV", WebRADIO BITMASTER 24Hs Online
-https://Fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123&port=10077&type=s1
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1wECsnGZcfc/mqdefault.jpg" group-title="TV | CANAIS | INTERNACIONAIS",24 News Live TV | Kerala Rain Live News Updates | Malayalam News Live | HD Live Streaming | 24 News
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s2pFJbb/Dimens-es-personalizadas-720x720-px.png" group-title="CANAIS | ABERTOS", Tv Rio Madeiras
+https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/zq9ZcXP.png" group-title="CANAIS | ABERTOS", TV SETE LAGOAS
+https://video04.logicahost.com.br/santiagoproducoes/santiagoproducoes/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/OPIwjmg.png" group-title="CANAIS | ABERTOS", TV STA CECILIA
+https://60d88f8ce1206.streamlock.net/2063/2063/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/1Nf2kbP.png" group-title="CANAIS | ABERTOS", TV SUL BAHIA
+https://a.cdni.live/radiomultimidia/radiomultimidia/chunklist_w1711981393.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/rLGrmCU.png" group-title="CANAIS | ABERTOS", TV SUL DE MINAS
+https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/TV5-Monde-Info.png" group-title="CANAIS | ABERTOS", TV5 Monde Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-tve-png.png" group-title="CANAIS | ABERTOS", TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-id="Band.br@SD" tvg-logo="https://i.imgur.com/1r5T6Pw.png" group-title="CANAIS | ABERTOS",Band (720p)
+http://45.190.28.50/BAND_HD/index.m3u8
+#EXTINF:-1 tvg-name="BR: GLOBO" tvg-logo="https://docdog.top/logo/countries/brazil/globosp.png" group-title="CANAIS | ABERTOS",Globo
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4865
+#EXTINF:-1 tvg-name="BR: GLOBO EPTV CAMPINAS" tvg-logo="https://docdog.top/logo/countries/brazil/globoeptvcampinas.png" group-title="CANAIS | ABERTOS",Globo EPTV Campinas
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4862
+#EXTINF:-1 tvg-name="BR: GLOBO INTERNACIONAL" tvg-logo="https://docdog.top/logo/countries/brazil/globointernacional.png" group-title="CANAIS | ABERTOS",Globo Internacional
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4863
+#EXTINF:-1 tvg-id="Record.br@SD" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="CANAIS | ABERTOS",Record (720p)
+http://45.190.28.50/RECORD/index.m3u8
+#EXTINF:-1 tvg-name="BR: Record RJ" group-title="CANAIS | ABERTOS",Record RJ
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/58729
+#EXTINF:-1 tvg-name="BR: Record RS" group-title="CANAIS | ABERTOS",Record RS
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/58730
+#EXTINF:-1 tvg-name="BR: Record SP" group-title="CANAIS | ABERTOS",Record SP
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/58731
+#EXTINF:-1 tvg-id="RecordTVBelem.br@SD" tvg-logo="https://i.imgur.com/gEEiN10.png" group-title="CANAIS | ABERTOS",Record TV Belem (720p) [Geo-blocked]
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RecordTVBrasilia.br@SD" tvg-logo="https://i.imgur.com/PZMas8Y.png" group-title="CANAIS | ABERTOS",Record TV Brasilia (720p) [Geo-blocked]
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RecordTVGoias.br@SD" tvg-logo="https://i.imgur.com/Fdoax1M.png" group-title="CANAIS | ABERTOS",Record TV Goias (720p) [Geo-blocked]
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RecordTVInteriorSP.br@SD" tvg-logo="https://i.imgur.com/VcHy0fu.png" group-title="CANAIS | ABERTOS",Record TV Interior SP
+http://200.77.176.130:8000/udp/224.0.0.4:49152
+#EXTINF:-1 tvg-id="RecordTVItapoan.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/13/Logotipo_da_RecordTV_Itapoan.png/500px-Logotipo_da_RecordTV_Itapoan.png" group-title="CANAIS | ABERTOS",Record TV Itapoan (720p) [Geo-blocked]
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
+#EXTINF:-1 tvg-id="RecordTVRio.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ce/Logotipo_da_RecordTV_Rio.png/500px-Logotipo_da_RecordTV_Rio.png" group-title="CANAIS | ABERTOS",Record TV Rio (720p) [Geo-blocked]
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RecordRS.br@SD" tvg-logo="https://i.imgur.com/JLQWoNc.png" group-title="CANAIS | ABERTOS",Record TV RS (720p) [Geo-blocked]
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/960px-Logotipo_da_Record.png" group-title="CANAIS | ABERTOS",Record TV SP (720p) [Geo-blocked]
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+#EXTINF:-1 tvg-name="BR: RECORD" tvg-logo="https://docdog.top/logo/countries/brazil/record.png" group-title="CANAIS | ABERTOS",Record VIP
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4894
+#EXTINF:-1 tvg-id="RedeBrasil.br@SD" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="CANAIS | ABERTOS",Rede Brasil (1080p)
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="RedeCNTSalvador.br@SD" tvg-logo="https://i.imgur.com/jcasAmw.png" group-title="CANAIS | ABERTOS",Rede CNT Salvador (576i)
+
+#EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-logo="https://i.imgur.com/O02TF2r.png" group-title="CANAIS | ABERTOS",Rede Globo (1080p)
+https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 tvg-id="RedeMetropole.br@SD" tvg-logo="https://i.imgur.com/qJx9Zvd.png" group-title="CANAIS | ABERTOS",Rede Metropole (720p)
+https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/metropole/index.m3u8
+#EXTINF:-1 tvg-id="RedeSPTV.br@SD" tvg-logo="https://i.imgur.com/kh3LGAP.png" group-title="CANAIS | ABERTOS",Rede SPTV (360p)
+https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="CANAIS | ABERTOS",Rede TV! (1080p)
+http://45.190.28.50/REDE_TV_HD/index.m3u8
+#EXTINF:-1 tvg-id="RedeTVES.br@SD" tvg-logo="https://i.imgur.com/k7vO9Bk.png" group-title="CANAIS | ABERTOS",Rede TV! ES (1080p)
+https://streaming.cloudecast.com/hls/redetves/index.m3u8
+#EXTINF:-1 tvg-id="RedeTVMais.br@SD" tvg-logo="https://i.ibb.co/F0Tm2WP/2103f4c07b851d64b4c96955765a9a95.png" group-title="CANAIS | ABERTOS",Rede TV! Mais
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
+#EXTINF:-1 tvg-name="BR: REDE TV" tvg-logo="https://docdog.top/logo/countries/brazil/redetv.png" group-title="CANAIS | ABERTOS",Rede TV! VIP
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4896
+#EXTINF:-1 tvg-name="BR: RPC TV CURITIBA" group-title="CANAIS | ABERTOS",RPC TV Curitiba
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4897
+#EXTINF:-1 tvg-name="BR: SBT" tvg-logo="https://docdog.top/logo/countries/brazil/sbt.png" group-title="CANAIS | ABERTOS",SBT
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4898
+#EXTINF:-1 tvg-id="SBTCuiaba.br@SD" tvg-logo="https://i.imgur.com/EZJWQ3i.png" group-title="CANAIS | ABERTOS",SBT Cuiaba
+https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTInterior.br@SD" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="CANAIS | ABERTOS",SBT Interior (720p)
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br@SD" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="CANAIS | ABERTOS",SBT Nacional (720p)
+http://45.190.28.50/SBT_HD/index.m3u8
+#EXTINF:-1 tvg-name="BR: SBT NORDESTE" tvg-logo="https://docdog.top/logo/countries/brazil//SBTNORDESTE.jpg" group-title="CANAIS | ABERTOS",SBT Nordeste
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4899
+#EXTINF:-1 tvg-id="SBTNovaMutum.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/Logotipo_do_SBT_Nova_Mutum.png" group-title="CANAIS | ABERTOS",SBT Nova Mutum
+https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTRondonopolis.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d5/Logotipo_do_SBT_Rondon%C3%B3polis.png" group-title="CANAIS | ABERTOS",SBT Rondonopolis
+https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTSinop.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8b/Logotipo_do_SBT_Sinop.png" group-title="CANAIS | ABERTOS",SBT Sinop
+https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS", History (720p)
+http://45.190.28.50/HISTORY_HD/index.m3u8
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS", History 2 Latin America Brazil (720p)
+http://45.190.28.50/H2_HD/index.m3u8
+#EXTINF:-1 group-title="CANAIS | FILMES", A&E Latin America Brazil (720p)
+http://45.190.28.50/AE_HD/index.m3u8
+#EXTINF:-1 group-title="CANAIS | FILMES", AXN (720p)
+http://45.190.28.50/AXN_HD/index.m3u8
+#EXTINF:-1 group-title="CANAIS | FILMES",SONY HD
+http://45.190.28.50/SONY_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1wECsnGZcfc/mqdefault.jpg" group-title="CANAIS | INTERNACIONAIS",24 News Live TV | Kerala Rain Live News Updates | Malayalam News Live | HD Live Streaming | 24 News
 https://www.youtube.com/watch?v=1wECsnGZcfc
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LTiqKDrjqr4/mqdefault.jpg" group-title="TV | CANAIS | INTERNACIONAIS",24/7 deep sleep music calm ambient to sleep & dream to
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LTiqKDrjqr4/mqdefault.jpg" group-title="CANAIS | INTERNACIONAIS",24/7 deep sleep music calm ambient to sleep & dream to
 https://www.youtube.com/watch?v=LTiqKDrjqr4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ArKbAx1K-2U/mqdefault.jpg" group-title="TV | CANAIS | INTERNACIONAIS",A24 EN VIVO | Noticias de Argentina y el mundo las 24 horas
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ArKbAx1K-2U/mqdefault.jpg" group-title="CANAIS | INTERNACIONAIS",A24 EN VIVO | Noticias de Argentina y el mundo las 24 horas
 https://www.youtube.com/watch?v=ArKbAx1K-2U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/gCNeDWCI0vo/mqdefault.jpg" group-title="TV | CANAIS | INTERNACIONAIS",Al Jazeera English | Live
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/gCNeDWCI0vo/mqdefault.jpg" group-title="CANAIS | INTERNACIONAIS",Al Jazeera English | Live
 https://www.youtube.com/watch?v=gCNeDWCI0vo
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1zK6HNkAsFI/mqdefault.jpg" group-title="TV | CANAIS | INTERNACIONAIS",América Noticias - EN VIVO
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1zK6HNkAsFI/mqdefault.jpg" group-title="CANAIS | INTERNACIONAIS",América Noticias - EN VIVO
 https://www.youtube.com/watch?v=1zK6HNkAsFI
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mKCieTImjvU/mqdefault.jpg" group-title="TV | CANAIS | INTERNACIONAIS",Cozy Fireplace 4K (LIVE 24/7). Fireplace with Crackling Fire Sounds. Christmas Fireplace 2026
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mKCieTImjvU/mqdefault.jpg" group-title="CANAIS | INTERNACIONAIS",Cozy Fireplace 4K (LIVE 24/7). Fireplace with Crackling Fire Sounds. Christmas Fireplace 2026
 https://www.youtube.com/watch?v=mKCieTImjvU
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/b4tE5aKhtlg/mqdefault.jpg" group-title="TV | CANAIS | INTERNACIONAIS",DIRECTO | CANAL 24H | TODA LA ACTUALIDAD NACIONAL E INTERNACIONAL | RTVE Noticias
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/b4tE5aKhtlg/mqdefault.jpg" group-title="CANAIS | INTERNACIONAIS",DIRECTO | CANAL 24H | TODA LA ACTUALIDAD NACIONAL E INTERNACIONAL | RTVE Noticias
 https://www.youtube.com/watch?v=b4tE5aKhtlg
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/yZh3xsFqCt8/mqdefault.jpg" group-title="TV | CANAIS | INTERNACIONAIS",DW Español | En vivo
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/yZh3xsFqCt8/mqdefault.jpg" group-title="CANAIS | INTERNACIONAIS",DW Español | En vivo
 https://www.youtube.com/watch?v=yZh3xsFqCt8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rn-5vL0_bCw/mqdefault.jpg" group-title="TV | CANAIS | INTERNACIONAIS",EL DÍA MENOS PENSADO ya está aquí | Súmate a la GRAN MARATÓN en TVN Chile
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/rn-5vL0_bCw/mqdefault.jpg" group-title="CANAIS | INTERNACIONAIS",EL DÍA MENOS PENSADO ya está aquí | Súmate a la GRAN MARATÓN en TVN Chile
 https://www.youtube.com/watch?v=rn-5vL0_bCw
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/4wb_xjoZau8/mqdefault.jpg" group-title="TV | CANAIS | INTERNACIONAIS",EN VIVO | Noticias de Chile y el mundo en cualquier momento del día
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/4wb_xjoZau8/mqdefault.jpg" group-title="CANAIS | INTERNACIONAIS",EN VIVO | Noticias de Chile y el mundo en cualquier momento del día
 https://www.youtube.com/watch?v=4wb_xjoZau8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/pykpO5kQJ98/mqdefault.jpg" group-title="TV | CANAIS | INTERNACIONAIS",Euronews English Live
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/pykpO5kQJ98/mqdefault.jpg" group-title="CANAIS | INTERNACIONAIS",Euronews English Live
 https://www.youtube.com/watch?v=pykpO5kQJ98
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/HvZt-nh9sGg/mqdefault.jpg" group-title="TV | CANAIS | INTERNACIONAIS",FRANCE 24 English – LIVE – International Breaking News & Top stories - 24/7 stream
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/HvZt-nh9sGg/mqdefault.jpg" group-title="CANAIS | INTERNACIONAIS",FRANCE 24 English – LIVE – International Breaking News & Top stories - 24/7 stream
 https://www.youtube.com/watch?v=HvZt-nh9sGg
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0FBiyFpV__g/mqdefault.jpg" group-title="TV | CANAIS | INTERNACIONAIS",International Space Station — Live 24/7 Earth View | Dream Trips
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0FBiyFpV__g/mqdefault.jpg" group-title="CANAIS | INTERNACIONAIS",International Space Station — Live 24/7 Earth View | Dream Trips
 https://www.youtube.com/watch?v=0FBiyFpV__g
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/iipR5yUp36o/mqdefault.jpg" group-title="TV | CANAIS | INTERNACIONAIS",LIVE: ABC News Live - 24/7 news context and analysis
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/iipR5yUp36o/mqdefault.jpg" group-title="CANAIS | INTERNACIONAIS",LIVE: ABC News Live - 24/7 news context and analysis
 https://www.youtube.com/watch?v=iipR5yUp36o
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nAZMOF3zhto/mqdefault.jpg" group-title="TV | CANAIS | INTERNACIONAIS",Live: NEW 24 Hour Walt Disney World Relaxing Stroll & Ambiance Live Stream
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nAZMOF3zhto/mqdefault.jpg" group-title="CANAIS | INTERNACIONAIS",Live: NEW 24 Hour Walt Disney World Relaxing Stroll & Ambiance Live Stream
 https://www.youtube.com/watch?v=nAZMOF3zhto
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/36YnV9STBqc/mqdefault.jpg" group-title="TV | CANAIS | INTERNACIONAIS",The Good Life Radio • 24/7 Live Radio | Best Relax House Chillout Study Running Gym Happy Music
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/36YnV9STBqc/mqdefault.jpg" group-title="CANAIS | INTERNACIONAIS",The Good Life Radio • 24/7 Live Radio | Best Relax House Chillout Study Running Gym Happy Music
 https://www.youtube.com/watch?v=36YnV9STBqc
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YDvsBbKfLPA/mqdefault.jpg" group-title="TV | CANAIS | INTERNACIONAIS",Watch Sky News
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YDvsBbKfLPA/mqdefault.jpg" group-title="CANAIS | INTERNACIONAIS",Watch Sky News
 https://www.youtube.com/watch?v=YDvsBbKfLPA
-#EXTINF:10556 tvg-logo="https://i.ytimg.com/vi/T_soNLfeEDg/mqdefault.jpg" group-title="FILMES | Coleção Bíblia Sagrada",Abraão (1993) - Filme Completo Dublado GRÁTIS - Drama com Richard Harris| NetMovies
-https://www.youtube.com/watch?v=T_soNLfeEDg
-#EXTINF:10053 tvg-logo="https://i.ytimg.com/vi/v_oy1vd3iq0/mqdefault.jpg" group-title="FILMES | Coleção Bíblia Sagrada",Davi (1997) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
-https://www.youtube.com/watch?v=v_oy1vd3iq0
-#EXTINF:5422 tvg-logo="https://i.ytimg.com/vi/VkHlzJcE8zk/mqdefault.jpg" group-title="FILMES | Coleção Bíblia Sagrada",Esther (1999) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
-https://www.youtube.com/watch?v=VkHlzJcE8zk
-#EXTINF:5253 tvg-logo="https://i.ytimg.com/vi/qkZnCMJ9qpQ/mqdefault.jpg" group-title="FILMES | Coleção Bíblia Sagrada",Jacob - Full Movie Dubbed FREE - Drama starring Christoph Waltz | NetMovies
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1onemus.png" group-title="CANAIS | MUSICAS Gratis", 1Mus
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wgTyf6P.png" group-title="CANAIS | MUSICAS Gratis", 4FUN TV
+https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/4Fun-TV.png" group-title="CANAIS | MUSICAS Gratis", 4Fun TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/QISHhp6.png" group-title="CANAIS | MUSICAS Gratis", 88 STEREO
+http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/sa8jiwA.png" group-title="CANAIS | MUSICAS Gratis", Atlãndida FM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_capital_1024x1024-768x384.png" group-title="CANAIS | MUSICAS Gratis", Capital TV
+https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/Colosal-TV.png" group-title="CANAIS | MUSICAS Gratis", Colosal TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jfkbG3x.png" group-title="CANAIS | MUSICAS Gratis", Difusora Acreana
+http://midia.ac.gov.br/difusora
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospelmusic.jpg" group-title="CANAIS | MUSICAS Gratis", Gospel Music
+https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS | MUSICAS Gratis", Kronehit
+https://bitcdn-kronehit.bitmovin.com/v2/hls/20000k.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-kronehit_logo2018_nachtblau_rgb.svg_.png" group-title="CANAIS | MUSICAS Gratis", KroneHIT
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/OA7DMUk.png" group-title="CANAIS | MUSICAS Gratis", LFM TV
+https://edge17.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-radio_m2o_-_logo_2019.svg_.png" group-title="CANAIS | MUSICAS Gratis", M2O
+https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-radio_m2o_-_logo_2019.svg_.png" group-title="CANAIS | MUSICAS Gratis", M2O
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2022/11/maisum.png" group-title="CANAIS | MUSICAS Gratis", MAIS UM
+https://stream.ichibantv.com:3230/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS | MUSICAS Gratis", Ocko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS | MUSICAS Gratis", Ocko Gold
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ockostar.png" group-title="CANAIS | MUSICAS Gratis", Ocko Star
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/UoI90JJ.png" group-title="CANAIS | MUSICAS Gratis", ON FM TV
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/C4sc9nI.png" group-title="CANAIS | MUSICAS Gratis", PORTAL FOXMIX
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2c8dg7Y.png" group-title="CANAIS | MUSICAS Gratis", POWER TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nYirGYT.png" group-title="CANAIS | MUSICAS Gratis", POWER TV
+http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rock.png" group-title="CANAIS | MUSICAS Gratis", Rock TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rtl.png" group-title="CANAIS | MUSICAS Gratis", RTL (Itália)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/pbvkmrF.png" group-title="CANAIS | MUSICAS Gratis", RU TV
+https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/theretrofb.jpg" group-title="CANAIS | MUSICAS Gratis", The Retro Channel
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2ENPzfC.png" group-title="CANAIS | MUSICAS Gratis", TV 538
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
+#EXTINF:-1 tvg-id="KpopTVPlay.br@SD" tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="CANAIS | MUSICAS Gratis",KpopTV Play (576p)
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+#EXTINF:-1 tvg-id="MCMPop.fr@SD" tvg-logo="https://i.imgur.com/j31lBL7.png" group-title="CANAIS | MUSICAS Gratis",MCM Pop
+http://rjcf.ofztvxv.top:8080/kang/71267133/99554
+#EXTINF:-1 tvg-id="MCMTop.fr@SD" tvg-logo="https://i.imgur.com/EVtWQLd.png" group-title="CANAIS | MUSICAS Gratis",MCM Top (720p)
+http://rezofoot.tv/MCM/index.m3u8
+#EXTINF:-1 tvg-id="MTVBiggestPop.us@BR" tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="CANAIS | MUSICAS Gratis",MTV Biggest Pop (1080p)
+https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
+#EXTINF:-1 tvg-id="MusicBoxBrazil.br@SD" tvg-logo="https://i.imgur.com/CDPCF2X.png" group-title="CANAIS | MUSICAS Gratis",Music Box Brazil (720p)
+http://45.190.28.50/MUSIC_BOX_HD/index.m3u8
+#EXTINF:-1 tvg-id="PlutoTVKaraokeporStingray.us@BR" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="CANAIS | MUSICAS Gratis",Pluto TV Karaokê por Stingray (720p)
+https://jmp2.uk/plu-604b99d633a72b00078e05ad.m3u8
+#EXTINF:-1 tvg-id="MTVClassic.us@BR" tvg-logo="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png" group-title="CANAIS | MUSICAS Gratis",Pluto TV MTV Classic (720p)
+https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
+#EXTINF:-1 tvg-id="PlutoTVShowsporStingray.us@BR" tvg-logo="https://images.pluto.tv/channels/604b91e0692f770007d9f33f/colorLogoPNG.png" group-title="CANAIS | MUSICAS Gratis",Pluto TV Shows por Stingray (720p)
+https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8
+#EXTINF:-1 tvg-id="TikTokRadioBrasil.br@HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/TikTok_Radio.svg" group-title="CANAIS | MUSICAS Gratis",TikTok Radio Brasil (1080p)
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529
+#EXTINF:-1 tvg-id="TraceBrazuca.fr@HD" tvg-logo="https://i.imgur.com/DFBocPu.png" group-title="CANAIS | MUSICAS Gratis",Trace Brasil (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1-12141_al-jazeera-png-aljazeera-logo-01-png-al.png" group-title="CANAIS | NOTICIÁRIO Gratis", Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-bloomberg_television_logo.svg_.png" group-title="CANAIS | NOTICIÁRIO Gratis", Bloomberg TV
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cbsnews.png" group-title="CANAIS | NOTICIÁRIO Gratis", CBS News
+https://vidtech.cbsinteractive.com/h5/blanks/uvp_blank.mp4
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cctv13.png" group-title="CANAIS | NOTICIÁRIO Gratis", CCTV Notícias
+https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctv13_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="CANAIS | NOTICIÁRIO Gratis", CNN BRASIL
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/635px-france24.png" group-title="CANAIS | NOTICIÁRIO Gratis", France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4850f3a4ceccc09a8ecbfb492473870f.png" group-title="CANAIS | NOTICIÁRIO Gratis", RAI NEWS
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/../../../598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4850f3a4ceccc09a8ecbfb492473870f.png" group-title="CANAIS | NOTICIÁRIO Gratis", RAI NEWS
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/../../../598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rainews.png" group-title="CANAIS | NOTICIÁRIO Gratis", RAINEWS24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://oplanetatv.clickgratis.com.br/_upload/content/2023/11/08/record-news-apresenta-nova-identidade-visual-654c117f851c9.png" group-title="CANAIS | NOTICIÁRIO Gratis", RECORD NEWS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="CANAIS | NOTICIÁRIO Gratis", Record News
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/xkmeoGO.png" group-title="CANAIS | NOTICIÁRIO Gratis", Record News ES
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/russiatoday.jpg" group-title="CANAIS | NOTICIÁRIO Gratis", RT en español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/TV5-Monde-Info.png" group-title="CANAIS | NOTICIÁRIO Gratis", TV5 Monde Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 tvg-id="AgroMais.br@SD" tvg-logo="https://i.imgur.com/sFcOZeo.png" group-title="CANAIS | NOTICIÁRIO Gratis",AgroMais (720p)
+http://45.162.64.114/AGROMAIS/index.m3u8
+#EXTINF:-1 tvg-id="AratuOn.br@SD" tvg-logo="https://i.imgur.com/Ht4jCab.png" group-title="CANAIS | NOTICIÁRIO Gratis",Aratu On
+https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
+#EXTINF:-1 tvg-id="BandNews.br@SD" tvg-logo="https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg" group-title="CANAIS | NOTICIÁRIO Gratis",BandNews (1080p)
+https://cdn-5.nxplay.com.br/BAND_NEWS/index.m3u8
+#EXTINF:-1 tvg-name="BR: BAND NEWS" tvg-logo="https://docdog.top/logo/countries/brazil/bandnews.png" group-title="CANAIS | NOTICIÁRIO Gratis",BandNews VIP
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4834
+#EXTINF:-1 tvg-id="BMCNews.br@SD" tvg-logo="https://i.imgur.com/pOUY2Uz.png" group-title="CANAIS | NOTICIÁRIO Gratis",BM&C News (720p)
+https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
+#EXTINF:-1 tvg-id="BR8TV.br@SD" tvg-logo="https://i.ibb.co/1QZv2q1/Br8-fb-graph.png" group-title="CANAIS | NOTICIÁRIO Gratis",BR8 TV
+https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal38.br@SD" tvg-logo="https://i.imgur.com/co7TCWC.png" group-title="CANAIS | NOTICIÁRIO Gratis",Canal 38 (720p)
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalMetropolitanodeNoticias.br@SD" tvg-logo="https://i.imgur.com/G0x4xqa.png" group-title="CANAIS | NOTICIÁRIO Gratis",Canal Metropolitano de Noticias
+https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
+#EXTINF:-1 tvg-id="GloboNews.br@SD" tvg-logo="https://i.imgur.com/3yZyaCm.png" group-title="CANAIS | NOTICIÁRIO Gratis",GloboNews (720p)
+http://41.205.70.146/GLOBONEWS/index.m3u8
+#EXTINF:-1 tvg-name="BR: GLOBO NEWS" tvg-logo="https://docdog.top/logo/countries/brazil/globonews.png" group-title="CANAIS | NOTICIÁRIO Gratis",GloboNews VIP
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4864
+#EXTINF:-1 tvg-id="GNT.br@SD" tvg-logo="https://i.imgur.com/XymcvMy.png" group-title="CANAIS | NOTICIÁRIO Gratis",GNT (1080p)
+http://170.82.202.31/GNT/index.m3u8
+#EXTINF:-1 tvg-id="J3NEWSTV.br@SD" tvg-logo="https://i.imgur.com/lezIQyL.png" group-title="CANAIS | NOTICIÁRIO Gratis",J3NEWS TV
+https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8
+#EXTINF:-1 tvg-id="JovemPanNews.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png" group-title="CANAIS | NOTICIÁRIO Gratis",Jovem Pan News (JP News) (1080p) [Not 24/7]
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:-1 tvg-id="PlenaTV.br@SD" tvg-logo="https://i.imgur.com/lH4RT7b.png" group-title="CANAIS | NOTICIÁRIO Gratis",Plena TV (720p)
+https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVRecordNews.us@BR" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="CANAIS | NOTICIÁRIO Gratis",Pluto TV Record News (720p)
+https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="CANAIS | NOTICIÁRIO Gratis",Record News (720p)
+http://45.162.64.114/RECORD_NEWS/index.m3u8
+#EXTINF:-1 tvg-name="BR: RECORD NEWS" tvg-logo="https://docdog.top/logo/countries/brazil/recordnews.png" group-title="CANAIS | NOTICIÁRIO Gratis",Record News VIP
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4895
+#EXTINF:-1 tvg-id="SBTNews.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/SBT_News_2025.svg" group-title="CANAIS | NOTICIÁRIO Gratis",SBT News (720p)
+https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
+#EXTINF:-1 tvg-id="TCM10HD.br@SD" tvg-logo="https://i.imgur.com/aMuMVvB.png" group-title="CANAIS | NOTICIÁRIO Gratis",TCM 10 HD (1080p)
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:-1 tvg-id="TimesBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Times_Brasil_CNBC_logo_2025.svg/960px-Times_Brasil_CNBC_logo_2025.svg.png" group-title="CANAIS | NOTICIÁRIO Gratis",Times Brasil (720p)
+http://45.190.28.50/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="TVAFolha.br@SD" tvg-logo="https://i.imgur.com/I7XGMhj.png" group-title="CANAIS | NOTICIÁRIO Gratis",TV A Folha (720p)
+https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBrusque.br@SD" tvg-logo="https://i.imgur.com/J2EAZPS.png" group-title="CANAIS | NOTICIÁRIO Gratis",TV Brusque (720p)
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
+#EXTINF:-1 tvg-id="TVdoPovo.br@SD" tvg-logo="https://i.imgur.com/58EQ5qX.png" group-title="CANAIS | NOTICIÁRIO Gratis",TV do Povo (540p)
+https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSimCachoeiro.br@SD" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="CANAIS | NOTICIÁRIO Gratis",TV Sim Cachoeiro (720p)
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSimColatina.br@SD" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="CANAIS | NOTICIÁRIO Gratis",TV Sim Colatina (720p)
+https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSimSaoMateus.br@SD" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="CANAIS | NOTICIÁRIO Gratis",TV Sim São Mateus (720p)
+https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
+#EXTINF:-1 tvg-id="TVideoNews.br@SD" tvg-logo="https://i.imgur.com/vstHOYx.png" group-title="CANAIS | NOTICIÁRIO Gratis",TVídeoNews (720p) [Not 24/7]
+https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
+#EXTINF:-1 tvg-id="VEJAPlusTV.br@HD" tvg-logo="https://i.imgur.com/n0pxHo4.png" group-title="CANAIS | NOTICIÁRIO Gratis",VEJA+ TV (1080p)
+https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aoq9CGU.png" group-title="CANAIS | RELIGIOSOS", Gospel Cartoon (360p)
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospel.jpg" group-title="CANAIS | RELIGIOSOS", Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ipgo.xyz/tv/gmovies/imagens/logo_gospelf_site.png" group-title="CANAIS | RELIGIOSOS", Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png" group-title="CANAIS | RELIGIOSOS", IURD TV 
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png" group-title="CANAIS | RELIGIOSOS", IURD TV (Assine nossa Lista Premium para mais canais de TV. Chame no WhatsApp(47)99626-5594)
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9pZox0Z.png" group-title="CANAIS | RELIGIOSOS", PLENA TV
+https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yvxG9m5.png" group-title="CANAIS | RELIGIOSOS", Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/egU0jsZ.png" group-title="CANAIS | RELIGIOSOS", TV APARECIDA
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/fk2mNc4.png" group-title="CANAIS | RELIGIOSOS", TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="CANAIS | RELIGIOSOS", TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3f6171c551bfebb0226b4f7d526a8e6f.webp" group-title="CANAIS | RELIGIOSOS", TV Gideões
+https://tv01.zas.media:1936/gideoes/gideoes/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zBtvnD5.png" group-title="CANAIS | RELIGIOSOS", TV Maná Brazil (1080p)
+https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y7b29VG.png" group-title="CANAIS | RELIGIOSOS", TV Padre Cicero
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wfnet.net.br/wp-content/uploads/2023/05/Rede_Gospel_sp.png" group-title="CANAIS | RELIGIOSOS", TV Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/iurd-logo.png" group-title="CANAIS | RELIGIOSOS", TV UNIVERSAL
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_f61dea77-770b-444c-8f61-88b3f8666b3f.m3u8
+#EXTINF:-1 tvg-logo="https://imagens.nxplay.com.br/60ddb652a9fbc_d19ecce6131ee18d0d846a16aae7ed6e.png" group-title="CANAIS | RELIGIOSOS", Vivas Tv
+https://stmv1.liveplushd.com.br/tvvivam/tvvivam/chunklist_w252085201.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/jetsons.png" group-title="CANAIS | WebTV", Jetsons - Webtv (Peça um teste na nossa LISTA PREMIUM. WhatsApp(47)99626-5594)
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvgallo.png" group-title="CANAIS | WebTV", TV Gallo Assine nossa Lista Premium para mais canais (47)99626-5594
+https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/riomadeira.png" group-title="CANAIS | WebTV", TV Rio Madeira - WebTV
+https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvseries.png" group-title="CANAIS | WebTV", TV Séries - WEBTV
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/morena.png" group-title="CANAIS | WebTV", Via Morena
+https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bitmaster.listen2myshow.com/assets/images/uploads/user_146577503/radio_193669591/logo_banner/1685088049.jpg" group-title="CANAIS | WebTV", WebRADIO BITMASTER 24Hs Online
+https://Fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123&port=10077&type=s1
+#EXTINF:5616 tvg-logo="https://i.ytimg.com/vi/8daN5s_Lrrw/mqdefault.jpg" group-title="FILMES | ANOS 2010",Obsessão Perigosa (2018) - Filme Completo Dublado GRÁTIS - Filme de Suspense | NetMovies
+https://www.youtube.com/watch?v=8daN5s_Lrrw
+#EXTINF:7110 tvg-logo="https://i.ytimg.com/vi/vwXfkvwYutI/mqdefault.jpg" group-title="FILMES | ANOS 2010",Punhos de Ferro (2013) - Filme Completo Dublado GRÁTIS - Filme Policial | NetMovies
+https://www.youtube.com/watch?v=vwXfkvwYutI
+#EXTINF:4608 tvg-logo="https://i.ytimg.com/vi/vvYo8dLX78k/mqdefault.jpg" group-title="FILMES | ANOS 2010",Interconnected (2018) - Full Movie Dubbed FREE - Thriller Movie | NetMovies
+https://www.youtube.com/watch?v=vvYo8dLX78k
+#EXTINF:5326 tvg-logo="https://i.ytimg.com/vi/FYhr6lREl98/mqdefault.jpg" group-title="FILMES | ANOS 2010",Experimentos Macabros (2019) - Filme Completo Dublado GRÁTIS - Filme de Terror | NetMovies
+https://www.youtube.com/watch?v=FYhr6lREl98
+#EXTINF:5033 tvg-logo="https://i.ytimg.com/vi/WWdgVbFSG8U/mqdefault.jpg" group-title="FILMES | ANOS 2010",No Tempo de Deus (2017) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
+https://www.youtube.com/watch?v=WWdgVbFSG8U
+#EXTINF:5729 tvg-logo="https://i.ytimg.com/vi/wZhRqRcxnjg/mqdefault.jpg" group-title="FILMES | ANOS 2010",Resgate no Oeste (2016) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
+https://www.youtube.com/watch?v=wZhRqRcxnjg
+#EXTINF:4839 tvg-logo="https://i.ytimg.com/vi/lbkHdsmELKQ/mqdefault.jpg" group-title="FILMES | ANOS 2010",Parallel Terror (2016) - Full Movie Dubbed FREE - Suspense Film | NetMovies
+https://www.youtube.com/watch?v=lbkHdsmELKQ
+#EXTINF:4871 tvg-logo="https://i.ytimg.com/vi/QA9lEf9kLQY/mqdefault.jpg" group-title="FILMES | ANOS 2010",Coragem Para Vencer (2016) - Filme Completo Dublado com Danielle Campbell - Drama | NetMovies
+https://www.youtube.com/watch?v=QA9lEf9kLQY
+#EXTINF:5402 tvg-logo="https://i.ytimg.com/vi/R0zX04g5d_U/mqdefault.jpg" group-title="FILMES | ANOS 2010",A Arte de Se Apaixonar (2019) - Filme Completo Dublado GRÁTIS - Filme de Romance | NetMovies
+https://www.youtube.com/watch?v=R0zX04g5d_U
+#EXTINF:5313 tvg-logo="https://i.ytimg.com/vi/V8r4JPfkMw8/mqdefault.jpg" group-title="FILMES | ANOS 2010",Giallo: Hostages of Fear (2010) - Full Movie Dubbed FREE - Suspense with Adrien Brody | NetMovies
+https://www.youtube.com/watch?v=V8r4JPfkMw8
+#EXTINF:5232 tvg-logo="https://i.ytimg.com/vi/vZKcTDtyQUg/mqdefault.jpg" group-title="FILMES | ANOS 2010",Mad Genius (2017) - Filme Completo Dublado GRÁTIS - Ficção Científica com Chris Mason! | NetMovies
+https://www.youtube.com/watch?v=vZKcTDtyQUg
+#EXTINF:5451 tvg-logo="https://i.ytimg.com/vi/IRlAEl4LBbM/mqdefault.jpg" group-title="FILMES | ANOS 2010",Uma Viagem para Paris (2019) - Filme Completo Dublado GRÁTIS - Filme de Romance | NetMovies
+https://www.youtube.com/watch?v=IRlAEl4LBbM
+#EXTINF:5772 tvg-logo="https://i.ytimg.com/vi/OFd-HLKQ88c/mqdefault.jpg" group-title="FILMES | ANOS 2010",A Felicidade Mora ao Lado (2018) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
+https://www.youtube.com/watch?v=OFd-HLKQ88c
+#EXTINF:5075 tvg-logo="https://i.ytimg.com/vi/8pcpZVyH6qs/mqdefault.jpg" group-title="FILMES | ANOS 2010",Após a M0rte (2015) - Filme Completo Dublado GRÁTIS - Filme de Terror | NetMovies
+https://www.youtube.com/watch?v=8pcpZVyH6qs
+#EXTINF:5522 tvg-logo="https://i.ytimg.com/vi/qsoxntmQGcw/mqdefault.jpg" group-title="FILMES | ANOS 2010",Vigiados (2017) - Filme Completo Dublado GRÁTIS - Filme de Ficção-Científica | Netmovies
+https://www.youtube.com/watch?v=qsoxntmQGcw
+#EXTINF:5915 tvg-logo="https://i.ytimg.com/vi/vXfc2XLa-No/mqdefault.jpg" group-title="FILMES | ANOS 2010",A Batalha de Shindisi (2019) - Filme Completo Dublado GRÁTIS - Filme de Guerra | NetMovies
+https://www.youtube.com/watch?v=vXfc2XLa-No
+#EXTINF:5090 tvg-logo="https://i.ytimg.com/vi/3yfJiMXGM10/mqdefault.jpg" group-title="FILMES | ANOS 2010",Dança Comigo (2019) - Filme Completo Dublado GRÁTIS - Filme de Musical | NetMovies
+https://www.youtube.com/watch?v=3yfJiMXGM10
+#EXTINF:5857 tvg-logo="https://i.ytimg.com/vi/mcMQKMEUP18/mqdefault.jpg" group-title="FILMES | ANOS 2010",Crime sem Volta (2018) - Filme Completo com Sarah Butler - Filme de Suspense | NetMovies
+https://www.youtube.com/watch?v=mcMQKMEUP18
+#EXTINF:5646 tvg-logo="https://i.ytimg.com/vi/sRlmgga3xEY/mqdefault.jpg" group-title="FILMES | ANOS 2010",O Lado Engraçado do Vida (2019) - Filme Completo Dublado GRÁTIS - Filme de Comédia | NetMovies
+https://www.youtube.com/watch?v=sRlmgga3xEY
+#EXTINF:4516 tvg-logo="https://i.ytimg.com/vi/sTfkLT-L_d8/mqdefault.jpg" group-title="FILMES | ANOS 2010",Infidelidade (2019) - Filme Completo Dublado GRÁTIS - Filme de Suspense  com Jake Abel | NetMovies
+https://www.youtube.com/watch?v=sTfkLT-L_d8
+#EXTINF:5244 tvg-logo="https://i.ytimg.com/vi/JKcSiDhPaRw/mqdefault.jpg" group-title="FILMES | ANOS 2010",No Ritmo do Amor (2017) - Filme Completo Dublado GRÁTIS - Romance com Carlos PenaVega | NetMovies
+https://www.youtube.com/watch?v=JKcSiDhPaRw
+#EXTINF:5329 tvg-logo="https://i.ytimg.com/vi/RjsAaAf84bw/mqdefault.jpg" group-title="FILMES | ANOS 2010",O Passageiro das Trevas (2019) - Filme Completo Dublado GRÁTIS - Filme de Terror | NetMovies
+https://www.youtube.com/watch?v=RjsAaAf84bw
+#EXTINF:6263 tvg-logo="https://i.ytimg.com/vi/xiridcp_6FU/mqdefault.jpg" group-title="FILMES | ANOS 2010",Saga: A Maldição das Sombras (2013) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
+https://www.youtube.com/watch?v=xiridcp_6FU
+#EXTINF:6520 tvg-logo="https://i.ytimg.com/vi/9kNKubbWsXY/mqdefault.jpg" group-title="FILMES | ANOS 2010",100 Dias de Resistência (2019) - Filme Completo Dublado GRÁTIS - Filme de Guerra | NetMovies
+https://www.youtube.com/watch?v=9kNKubbWsXY
+#EXTINF:6872 tvg-logo="https://i.ytimg.com/vi/iN6ZFAniSLI/mqdefault.jpg" group-title="FILMES | ANOS 2010",The Defender (2019) - Full Movie Dubbed FREE - Drama Film | NetMovies
+https://www.youtube.com/watch?v=iN6ZFAniSLI
+#EXTINF:5194 tvg-logo="https://i.ytimg.com/vi/X-ym55uWDGM/mqdefault.jpg" group-title="FILMES | ANOS 2010",Sex Tape: Ninguém Pode Ver (2018) - Filme Completo Dublado GRÁTIS - Filme de Comédia | NetMovies
+https://www.youtube.com/watch?v=X-ym55uWDGM
+#EXTINF:5066 tvg-logo="https://i.ytimg.com/vi/QDMA8qO5Aj8/mqdefault.jpg" group-title="FILMES | ANOS 2010",Natal em Hollywood (2014) - Filme Completo Dublado GRÁTIS - Filme de Aventura | NetMovies
+https://www.youtube.com/watch?v=QDMA8qO5Aj8
+#EXTINF:6866 tvg-logo="https://i.ytimg.com/vi/UvCrT0oq-t8/mqdefault.jpg" group-title="FILMES | ANOS 2010",Destemida (2015) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
+https://www.youtube.com/watch?v=UvCrT0oq-t8
+#EXTINF:5714 tvg-logo="https://i.ytimg.com/vi/boZKvZlW9Vw/mqdefault.jpg" group-title="FILMES | ANOS 2010",Acima da Lei (2018) - Filme Completo Dublado GRÁTIS - Filme de Suspense com Eric Close! | NetMovies
+https://www.youtube.com/watch?v=boZKvZlW9Vw
+#EXTINF:6751 tvg-logo="https://i.ytimg.com/vi/wIYoRWE8tfs/mqdefault.jpg" group-title="FILMES | ANOS 2010",Correndo Contra o Vento (2019) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
+https://www.youtube.com/watch?v=wIYoRWE8tfs
+#EXTINF:5604 tvg-logo="https://i.ytimg.com/vi/Z8u8VtoCha8/mqdefault.jpg" group-title="FILMES | ANOS 2010",Tacada de Mestre (2019) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
+https://www.youtube.com/watch?v=Z8u8VtoCha8
+#EXTINF:4389 tvg-logo="https://i.ytimg.com/vi/tpiM5TKuKl8/mqdefault.jpg" group-title="FILMES | ANOS 2010",A Man Without a Past (2017) - Full Movie Dubbed FREE - Action Movie | NetMovies
+https://www.youtube.com/watch?v=tpiM5TKuKl8
+#EXTINF:5353 tvg-logo="https://i.ytimg.com/vi/UtiT6vVvpfk/mqdefault.jpg" group-title="FILMES | ANOS 2010",Uma Última Vez (2018) -Filme Completo Dublado GRÁTIS -Filme de Drama com Jurnee Smollett | NetMovies
+https://www.youtube.com/watch?v=UtiT6vVvpfk
+#EXTINF:5700 tvg-logo="https://i.ytimg.com/vi/aWdh9foA6Zs/mqdefault.jpg" group-title="FILMES | ANOS 2010",Um Casamento Muito Louco (2013) - Filme Completo Dublado - Filme de Comédia | NetMovies
+https://www.youtube.com/watch?v=aWdh9foA6Zs
+#EXTINF:4668 tvg-logo="https://i.ytimg.com/vi/-fLthkNu5x8/mqdefault.jpg" group-title="FILMES | ANOS 2010",Legado de Vi0lência (2019)- Filme Completo Dublado GRÁTIS- Filme de Ação com Will Patton | NetMovies
+https://www.youtube.com/watch?v=-fLthkNu5x8
+#EXTINF:5466 tvg-logo="https://i.ytimg.com/vi/l1XE4vxH7dY/mqdefault.jpg" group-title="FILMES | ANOS 2010",Um Casamento Muito Louco 2 (2014) - Filme Completo Dublado GRÁTIS - Filme de Comédia | NetMovies
+https://www.youtube.com/watch?v=l1XE4vxH7dY
+#EXTINF:6682 tvg-logo="https://i.ytimg.com/vi/Z0j6B_0wBXs/mqdefault.jpg" group-title="FILMES | ANOS 2010",Um Pedaço do Meu Coração (2019)- Filme Completo Dublado GRÁTIS - Filme com Malin Akerman | NetMovies
+https://www.youtube.com/watch?v=Z0j6B_0wBXs
+#EXTINF:5537 tvg-logo="https://i.ytimg.com/vi/_VnzsSnrNKo/mqdefault.jpg" group-title="FILMES | ANOS 2010",Mentira Nada Inocente (2019) - Filme Completo Dublado GRÁTIS - Filme de Suspense | NetMovies
+https://www.youtube.com/watch?v=_VnzsSnrNKo
+#EXTINF:5676 tvg-logo="https://i.ytimg.com/vi/9nL3t4bPxBw/mqdefault.jpg" group-title="FILMES | ANOS 2010", Coração de Leão (2013) - Filme Completo Dublado - Ação com Malcolm Mcdowell | NetMovies
+https://www.youtube.com/watch?v=9nL3t4bPxBw
+#EXTINF:6284 tvg-logo="https://i.ytimg.com/vi/6GZ-JWscCLw/mqdefault.jpg" group-title="FILMES | ANOS 2010",Antes de Partir (2018) - Filme Completo Dublado GRÁTIS - Filme de Drama com Brian Cox | NetMovies
+https://www.youtube.com/watch?v=6GZ-JWscCLw
+#EXTINF:5756 tvg-logo="https://i.ytimg.com/vi/LtW0sTZpIBw/mqdefault.jpg" group-title="FILMES | ANOS 2010",Um Conto Sobre o Tempo (2019) - Filme Completo Dublado GRÁTIS - Filme de Comédia | NetMovies
+https://www.youtube.com/watch?v=LtW0sTZpIBw
+#EXTINF:6700 tvg-logo="https://i.ytimg.com/vi/a44L974nPUw/mqdefault.jpg" group-title="FILMES | ANOS 2010",Meu Amor Por Grace (2018)-Filme Completo Dublado GRÁTIS-Filme de Aventura com Matt Dillon |NetMovies
+https://www.youtube.com/watch?v=a44L974nPUw
+#EXTINF:3315 tvg-logo="https://i.ytimg.com/vi/36Ts0QM0Y1k/mqdefault.jpg" group-title="FILMES | ANOS 2010",Boonie Bears e o Robô Destruidor (2014)- Filme Completo Dublado GRÁTIS- Filme de Aventura| NetMovies
+https://www.youtube.com/watch?v=36Ts0QM0Y1k
+#EXTINF:5923 tvg-logo="https://i.ytimg.com/vi/y_dO3z3VBI4/mqdefault.jpg" group-title="FILMES | ANOS 2010",Professor (2019) - Full Movie Dubbed FREE - Drama Movie starring David Dastmalchian | NetMovies
+https://www.youtube.com/watch?v=y_dO3z3VBI4
+#EXTINF:5482 tvg-logo="https://i.ytimg.com/vi/xjmy-ek_9Bk/mqdefault.jpg" group-title="FILMES | ANOS 2010",O Jovem Viking (2018) - Filme Completo Dublado GRÁTIS - Filme de AÇÃO | NetMovies
+https://www.youtube.com/watch?v=xjmy-ek_9Bk
+#EXTINF:5813 tvg-logo="https://i.ytimg.com/vi/jIgmoYxJHPY/mqdefault.jpg" group-title="FILMES | ANOS 2010",Homens de Ouro (2019) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
+https://www.youtube.com/watch?v=jIgmoYxJHPY
+#EXTINF:5173 tvg-logo="https://i.ytimg.com/vi/MQqcZpurOpM/mqdefault.jpg" group-title="FILMES | ANOS 2010",Meu Pequeno Macaco (2018) - Filme Completo Dublado GRÁTIS - Filme de Aventura | NetMovies
+https://www.youtube.com/watch?v=MQqcZpurOpM
+#EXTINF:4906 tvg-logo="https://i.ytimg.com/vi/p8kyrrzpM6Y/mqdefault.jpg" group-title="FILMES | ANOS 2010",Saved by Grace (2016) - Full Movie Dubbed FREE - Drama Movie | NetMovies
+https://www.youtube.com/watch?v=p8kyrrzpM6Y
+#EXTINF:4939 tvg-logo="https://i.ytimg.com/vi/-POUuKXKBJU/mqdefault.jpg" group-title="FILMES | ANOS 2010",O Mistério de Green Hill (2017) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
+https://www.youtube.com/watch?v=-POUuKXKBJU
+#EXTINF:3686 tvg-logo="https://i.ytimg.com/vi/TyVVTXP3luw/mqdefault.jpg" group-title="FILMES | ANOS 2010",Ultraman Ginga S: The 10 Ultra Warriors - Full Movie Dubbed FREE - Action Movie | NetMovies
+https://www.youtube.com/watch?v=TyVVTXP3luw
+#EXTINF:5925 tvg-logo="https://i.ytimg.com/vi/8iIKmZJYyWY/mqdefault.jpg" group-title="FILMES | ANOS 2010",De Volta ao Fundo do Mar (2012) - Filme Completo Dublado GRÁTIS - Filme de Animação | NetMovies
+https://www.youtube.com/watch?v=8iIKmZJYyWY
+#EXTINF:5279 tvg-logo="https://i.ytimg.com/vi/4qlJ6-fxcuA/mqdefault.jpg" group-title="FILMES | ANOS 2010",Aposta Radical (2010) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
+https://www.youtube.com/watch?v=4qlJ6-fxcuA
+#EXTINF:5270 tvg-logo="https://i.ytimg.com/vi/Ye1cidCX-9g/mqdefault.jpg" group-title="FILMES | ANOS 2010",Ultraman Saga: O Filme (2012) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
+https://www.youtube.com/watch?v=Ye1cidCX-9g
+#EXTINF:5584 tvg-logo="https://i.ytimg.com/vi/aPxPrV39WOM/mqdefault.jpg" group-title="FILMES | ANOS 2010",Valan: Valley of Angels (2019) - Full Movie Dubbed FREE - Crime Movie | NetMovies
+https://www.youtube.com/watch?v=aPxPrV39WOM
+#EXTINF:4051 tvg-logo="https://i.ytimg.com/vi/KG8pEVw_HwE/mqdefault.jpg" group-title="FILMES | ANOS 2010",Ultraman Orb: The Movie (2017) - Full Movie Dubbed FREE - Action Movie | NetMovies
+https://www.youtube.com/watch?v=KG8pEVw_HwE
+#EXTINF:5740 tvg-logo="https://i.ytimg.com/vi/H3IE9YvzM7U/mqdefault.jpg" group-title="FILMES | ANOS 2010",Ultraman Zero: O Filme (2010) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
+https://www.youtube.com/watch?v=H3IE9YvzM7U
+#EXTINF:3474 tvg-logo="https://i.ytimg.com/vi/WzFsH8qNnbA/mqdefault.jpg" group-title="FILMES | ANOS 2010",Ultra Galaxy Fight: Heróis da Nova Geração-Filme Completo Dublado GRÁTIS-Filme de Ação | NetMovies
+https://www.youtube.com/watch?v=WzFsH8qNnbA
+#EXTINF:6040 tvg-logo="https://i.ytimg.com/vi/kJAQU1zRNrc/mqdefault.jpg" group-title="FILMES | ANOS 2010",A Jornada de Jhalki (2019) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
+https://www.youtube.com/watch?v=kJAQU1zRNrc
+#EXTINF:6350 tvg-logo="https://i.ytimg.com/vi/QW72AmQsABo/mqdefault.jpg" group-title="FILMES | ANOS 2010",Confusão de Elite (2018) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
+https://www.youtube.com/watch?v=QW72AmQsABo
+#EXTINF:5542 tvg-logo="https://i.ytimg.com/vi/iRqkks6lHng/mqdefault.jpg" group-title="FILMES | ANOS 2010",O Interrogatório (2017) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
+https://www.youtube.com/watch?v=iRqkks6lHng
+#EXTINF:5287 tvg-logo="https://i.ytimg.com/vi/n7_LthPpYK0/mqdefault.jpg" group-title="FILMES | ANOS 2010",O Acampamento de Férias- Filme Completo Dublado GRÁTIS-Filme de Comédia com Jimmy Trato! | NetMovies
+https://www.youtube.com/watch?v=n7_LthPpYK0
+#EXTINF:6822 tvg-logo="https://i.ytimg.com/vi/84bcQbGUTFE/mqdefault.jpg" group-title="FILMES | ANOS 2010",A Invasão (2019) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
+https://www.youtube.com/watch?v=84bcQbGUTFE
+#EXTINF:5473 tvg-logo="https://i.ytimg.com/vi/cFu9VPZbyXc/mqdefault.jpg" group-title="FILMES | ANOS 2010",Elyse: A Coragem Vem do Coração- Filme Completo Dublado GRÁTIS -Drama com Anthony Hopkins |NetMovies
+https://www.youtube.com/watch?v=cFu9VPZbyXc
+#EXTINF:4158 tvg-logo="https://i.ytimg.com/vi/IRhfpZCOnMk/mqdefault.jpg" group-title="FILMES | ANOS 2010",Ultraman X: O Filme (2016) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
+https://www.youtube.com/watch?v=IRhfpZCOnMk
+#EXTINF:4620 tvg-logo="https://i.ytimg.com/vi/2boM05pgI5Y/mqdefault.jpg" group-title="FILMES | ANOS 2010",A Maldição da Freira (2018) - Filme Completo Dublado GRÁTIS - Filme de Terror | NetMovies
+https://www.youtube.com/watch?v=2boM05pgI5Y
+#EXTINF:5253 tvg-logo="https://i.ytimg.com/vi/qkZnCMJ9qpQ/mqdefault.jpg" group-title="FILMES | ANOS 2010",Holy Bible Collection: Jacob - Full Movie Dubbed FREE - Drama starring Christoph Waltz | NetMovies
 https://www.youtube.com/watch?v=qkZnCMJ9qpQ
-#EXTINF:5753 tvg-logo="https://i.ytimg.com/vi/Q_4jAauoc1w/mqdefault.jpg" group-title="FILMES | Coleção Bíblia Sagrada",Jeremias (1998) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
-https://www.youtube.com/watch?v=Q_4jAauoc1w
-#EXTINF:10571 tvg-logo="https://i.ytimg.com/vi/GD3nSQk1YSU/mqdefault.jpg" group-title="FILMES | Coleção Bíblia Sagrada",Moisés - Filme Completo Dublado GRÁTIS - Drama com Ben Kingsley | NetMovies
+#EXTINF:5879 tvg-logo="https://i.ytimg.com/vi/kL8EGx0F978/mqdefault.jpg" group-title="FILMES | ANOS 2010",Uma Viagem Fantástica (2018) - Filme Completo Dublado GRÁTIS - Filme de Comédia | NetMovies
+https://www.youtube.com/watch?v=kL8EGx0F978
+#EXTINF:6269 tvg-logo="https://i.ytimg.com/vi/cO50xSHK_kg/mqdefault.jpg" group-title="FILMES | ANOS 2010",A Espiã (2019) - Filme Completo Dublado GRÁTIS - Filme de Guerra | NetMovies
+https://www.youtube.com/watch?v=cO50xSHK_kg
+#EXTINF:5975 tvg-logo="https://i.ytimg.com/vi/Tw9BFXcE75E/mqdefault.jpg" group-title="FILMES | ANOS 2010",O Dom da Serpente (2019) - Filme Completo Dublado GRÁTIS - Filme de Aventura | NetMovies
+https://www.youtube.com/watch?v=Tw9BFXcE75E
+#EXTINF:5513 tvg-logo="https://i.ytimg.com/vi/umEAhnzD_T4/mqdefault.jpg" group-title="FILMES | ANOS 2010",The Invisible Girl (2019) - Full Movie Dubbed FREE - Adventure Film | NetMovies
+https://www.youtube.com/watch?v=umEAhnzD_T4
+#EXTINF:10571 tvg-logo="https://i.ytimg.com/vi/GD3nSQk1YSU/mqdefault.jpg" group-title="FILMES | ANOS 2010",Coleção Bíblia Sagrada: Moisés - Filme Completo Dublado GRÁTIS - Drama com Ben Kingsley | NetMovies
 https://www.youtube.com/watch?v=GD3nSQk1YSU
-#EXTINF:10282 tvg-logo="https://i.ytimg.com/vi/ny3ZQjJEPkk/mqdefault.jpg" group-title="FILMES | Coleção Bíblia Sagrada",Paulo (2000) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
-https://www.youtube.com/watch?v=ny3ZQjJEPkk
-#EXTINF:10034 tvg-logo="https://i.ytimg.com/vi/G0SIvGdiQ2k/mqdefault.jpg" group-title="FILMES | Coleção Bíblia Sagrada",Salomão (1997) - Filme Completo Dublado GRÁTIS - Filme Bíblico | NetMovies
-https://www.youtube.com/watch?v=G0SIvGdiQ2k
-#EXTINF:10712 tvg-logo="https://i.ytimg.com/vi/nHWeWhH_yo4/mqdefault.jpg" group-title="FILMES | Coleção Bíblia Sagrada",Sansão e Dalila (1996) - Filme Completo Dublado GRÁTIS - Aventura |NetMovies
-https://www.youtube.com/watch?v=nHWeWhH_yo4
+#EXTINF:6022 tvg-logo="https://i.ytimg.com/vi/vK4swnH5NUk/mqdefault.jpg" group-title="FILMES | ANOS 2010",In the Minefield (2014) - Full Movie Dubbed FREE - Action Movie | NetMovies
+https://www.youtube.com/watch?v=vK4swnH5NUk
+#EXTINF:4604 tvg-logo="https://i.ytimg.com/vi/pY-2ggYC0NM/mqdefault.jpg" group-title="FILMES | ANOS 2010",Deadly Toxin (2015) - Full Movie Dubbed FREE - Horror Movie with Danny Glover! | NetMovies
+https://www.youtube.com/watch?v=pY-2ggYC0NM
+#EXTINF:7512 tvg-logo="https://i.ytimg.com/vi/dFYS90eeTV0/mqdefault.jpg" group-title="FILMES | ANOS 2010", Drogad4 e Prostituíd4 -Filme Completo Dublado - Filme de Drama| NetMovies
+https://www.youtube.com/watch?v=dFYS90eeTV0
+#EXTINF:4878 tvg-logo="https://i.ytimg.com/vi/Kaytmnvbm8o/mqdefault.jpg" group-title="FILMES | ANOS 2010",A Loucura Que Nos Une (2019) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
+https://www.youtube.com/watch?v=Kaytmnvbm8o
+#EXTINF:5180 tvg-logo="https://i.ytimg.com/vi/B7-WO9CE-14/mqdefault.jpg" group-title="FILMES | ANOS 2010",Sozinho com o Inimigo (2018) - Filme Completo Dublado GRÁTIS - Filme de Suspense | NetMovies
+https://www.youtube.com/watch?v=B7-WO9CE-14
+#EXTINF:6082 tvg-logo="https://i.ytimg.com/vi/UOZ2ROsFamI/mqdefault.jpg" group-title="FILMES | ANOS 2010",Espada de Deus: A Última Cruzada (2018) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
+https://www.youtube.com/watch?v=UOZ2ROsFamI
+#EXTINF:6244 tvg-logo="https://i.ytimg.com/vi/3KlJN_dvwzc/mqdefault.jpg" group-title="FILMES | ANOS 2010",A Última Viagem (2019) - Filme Completo Dublado GRÁTIS - Filme de Comédia com Brian Cox | NetMovies
+https://www.youtube.com/watch?v=3KlJN_dvwzc
+#EXTINF:5688 tvg-logo="https://i.ytimg.com/vi/pfsRh-25kwc/mqdefault.jpg" group-title="FILMES | ANOS 2010",Heroes of the Galaxy: Ratchet & Clank - Full Movie Dubbed FREE - Animated Film | NetMovies
+https://www.youtube.com/watch?v=pfsRh-25kwc
+#EXTINF:5120 tvg-logo="https://i.ytimg.com/vi/CFFdi1kvbRY/mqdefault.jpg" group-title="FILMES | ANOS 2010",Cíntia: The Creature (2019) - Full Movie Dubbed FREE - Horror Movie | NetMovies
+https://www.youtube.com/watch?v=CFFdi1kvbRY
+#EXTINF:5645 tvg-logo="https://i.ytimg.com/vi/k7wR_tOj8z4/mqdefault.jpg" group-title="FILMES | ANOS 2010",Terminal Sul: Luta por Liberdade - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
+https://www.youtube.com/watch?v=k7wR_tOj8z4
+#EXTINF:5164 tvg-logo="https://i.ytimg.com/vi/frk3ZP0m32M/mqdefault.jpg" group-title="FILMES | ANOS 2010",O Segredo da Borboleta (2012) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
+https://www.youtube.com/watch?v=frk3ZP0m32M
+#EXTINF:6164 tvg-logo="https://i.ytimg.com/vi/RdrlibCcS84/mqdefault.jpg" group-title="FILMES | ANOS 2010",Diário de Um Exorcista - Zero (2016) - Filme Completo GRÁTIS - Filme de Terror | NetMovies
+https://www.youtube.com/watch?v=RdrlibCcS84
+#EXTINF:5574 tvg-logo="https://i.ytimg.com/vi/fQ8TqY7uejU/mqdefault.jpg" group-title="FILMES | ANOS 2010",A Máfia dos Vampiros (2017) - Filme Completo Dublado GRÁTIS - Filme de Ação com Ice-T | NetMovies
+https://www.youtube.com/watch?v=fQ8TqY7uejU
+#EXTINF:6184 tvg-logo="https://i.ytimg.com/vi/X_2y1wrAUbk/mqdefault.jpg" group-title="FILMES | ANOS 2010",O Estranho Caso de Cornelius Bloom (2018) - Filme Completo Dublado - Filme de Comédia | NetMovies
+https://www.youtube.com/watch?v=X_2y1wrAUbk
+#EXTINF:5231 tvg-logo="https://i.ytimg.com/vi/-p5dWZ7y9Y4/mqdefault.jpg" group-title="FILMES | ANOS 2010",Real Life (2016) - Full Movie Dubbed FREE - Comedy Film starring Matthew Morrison | NetMovies
+https://www.youtube.com/watch?v=-p5dWZ7y9Y4
+#EXTINF:5485 tvg-logo="https://i.ytimg.com/vi/i83erEwiK2s/mqdefault.jpg" group-title="FILMES | ANOS 2010",The Four Warriors (2015) - Full Movie Dubbed FREE - Adventure Movie | NetMovies
+https://www.youtube.com/watch?v=i83erEwiK2s
+#EXTINF:5607 tvg-logo="https://i.ytimg.com/vi/oOpyrgE_gU0/mqdefault.jpg" group-title="FILMES | ANOS 2010",Paranormal Activity (2012) - FREE Full Movie Dubbed - Thriller Movie | NetMovies
+https://www.youtube.com/watch?v=oOpyrgE_gU0
+#EXTINF:4888 tvg-logo="https://i.ytimg.com/vi/6rinw_Ef6VM/mqdefault.jpg" group-title="FILMES | ANOS 2010",Projeto Pé Grande (2017) - Filme Completo Dublado GRÁTIS - Filme de Comédia | NetMovies
+https://www.youtube.com/watch?v=6rinw_Ef6VM
+#EXTINF:5042 tvg-logo="https://i.ytimg.com/vi/96M9cCz3WL4/mqdefault.jpg" group-title="FILMES | ANOS 2010",The Best Musical Ever Made About Fried Chicken - FREE Dubbed Movie - Comedy Movie | NetMovies
+https://www.youtube.com/watch?v=96M9cCz3WL4
+#EXTINF:4730 tvg-logo="https://i.ytimg.com/vi/aGQ9q5Wm_X8/mqdefault.jpg" group-title="FILMES | ANOS 2010",Maldita Aranha Assassina (2013) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
+https://www.youtube.com/watch?v=aGQ9q5Wm_X8
+#EXTINF:6125 tvg-logo="https://i.ytimg.com/vi/0oplmmUxI8U/mqdefault.jpg" group-title="FILMES | ANOS 2010",O Último Refúgio (2019) - Filme Completo Dublado GRÁTIS - Ação com Hayden Christensen | NetMovies
+https://www.youtube.com/watch?v=0oplmmUxI8U
+#EXTINF:5831 tvg-logo="https://i.ytimg.com/vi/rZMXwvCr188/mqdefault.jpg" group-title="FILMES | ANOS 2010",Em Busca do Castelo Dourado (2019) - Filme Completo Dublado GRÁTIS - Filme de Aventura | NetMovies
+https://www.youtube.com/watch?v=rZMXwvCr188
+#EXTINF:6130 tvg-logo="https://i.ytimg.com/vi/1H3lXAUr6eg/mqdefault.jpg" group-title="FILMES | ANOS 2010",O Sonhador (2017) - Filme Completo GRÁTIS - Filme de Drama | NetMovies
+https://www.youtube.com/watch?v=1H3lXAUr6eg
+#EXTINF:4538 tvg-logo="https://i.ytimg.com/vi/fYgwZitQz0o/mqdefault.jpg" group-title="FILMES | ANOS 2010",Paradise Club: O Pecado Mora Aqui (2016) - Filme Completo Dublado GRÁTIS - Filme de Drama| NetMovies
+https://www.youtube.com/watch?v=fYgwZitQz0o
+#EXTINF:5299 tvg-logo="https://i.ytimg.com/vi/Rw5NOWDdMCI/mqdefault.jpg" group-title="FILMES | ANOS 2010",Todo Mundo Ama Minha Mãe (2019) - Filme Completo Dublado GRÁTIS - Filme de Comédia | NetMovies
+https://www.youtube.com/watch?v=Rw5NOWDdMCI
+#EXTINF:4688 tvg-logo="https://i.ytimg.com/vi/CwJ2AeGvRmw/mqdefault.jpg" group-title="FILMES | ANOS 2010",Vengeance Without Limits (2012) - Full Movie Dubbed FREE - Action Movie | NetMovies
+https://www.youtube.com/watch?v=CwJ2AeGvRmw
+#EXTINF:5468 tvg-logo="https://i.ytimg.com/vi/MSzjEGLTI6c/mqdefault.jpg" group-title="FILMES | ANOS 2010",Tenha Medo (2017) - Filme Completo Dublado GRÁTIS - Filme de Suspense | NetMovies
+https://www.youtube.com/watch?v=MSzjEGLTI6c
+#EXTINF:6023 tvg-logo="https://i.ytimg.com/vi/WkD2wtti1dM/mqdefault.jpg" group-title="FILMES | ANOS 2010",Resgate Impossível (2012) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
+https://www.youtube.com/watch?v=WkD2wtti1dM
+#EXTINF:5414 tvg-logo="https://i.ytimg.com/vi/7W8g3t4ot8Y/mqdefault.jpg" group-title="FILMES | ANOS 2010",Animais Unidos Jamais Serão Vencidos (2010) - Filme Completo Dublado - Filme de Animação | NetMovies
+https://www.youtube.com/watch?v=7W8g3t4ot8Y
+#EXTINF:5878 tvg-logo="https://i.ytimg.com/vi/7mJDswC_iNc/mqdefault.jpg" group-title="FILMES | ANOS 2010",A Razão do Amor (2012) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
+https://www.youtube.com/watch?v=7mJDswC_iNc
+#EXTINF:6362 tvg-logo="https://i.ytimg.com/vi/xbu5Jy9pHTM/mqdefault.jpg" group-title="FILMES | ANOS 2010",The King's Ring: The Last Battle (2018) - Full Movie Dubbed FREE - Action Movie | NetMovies
+https://www.youtube.com/watch?v=xbu5Jy9pHTM
+#EXTINF:4557 tvg-logo="https://i.ytimg.com/vi/fTK6TZ_xn3M/mqdefault.jpg" group-title="FILMES | ANOS 2010",1914: A Primeira Guerra  (2014) - Filme Completo Dublado GRÁTIS - Filme de Aventura | NetMovies
+https://www.youtube.com/watch?v=fTK6TZ_xn3M
+#EXTINF:5787 tvg-logo="https://i.ytimg.com/vi/H38Mfzo8RcA/mqdefault.jpg" group-title="FILMES | ANOS 2010",O Chamado de Deus (2015)-Filme Completo Dublado GRÁTIS-Filme de Aventura com Brittany Snow|NetMovies
+https://www.youtube.com/watch?v=H38Mfzo8RcA
+#EXTINF:4645 tvg-logo="https://i.ytimg.com/vi/S08j6mFxPXE/mqdefault.jpg" group-title="FILMES | ANOS 2010",Super Urso: Um Resgate na Cidade Grande-Filme Completo Dublado GRÁTIS- Filme de Animação | NetMovies
+https://www.youtube.com/watch?v=S08j6mFxPXE
+#EXTINF:4718 tvg-logo="https://i.ytimg.com/vi/7JIkNzturZY/mqdefault.jpg" group-title="FILMES | ANOS 2010",Hotel of Fear (2018) - Full Movie Dubbed FREE - Action Movie | NetMovies
+https://www.youtube.com/watch?v=7JIkNzturZY
+#EXTINF:5401 tvg-logo="https://i.ytimg.com/vi/hK2BAenCEq4/mqdefault.jpg" group-title="FILMES | ANOS 2010",Armadilha (2012) - Filme Completo Dublado GRÁTIS - Filme de Terror - Josh Peck | NetMovies
+https://www.youtube.com/watch?v=hK2BAenCEq4
+#EXTINF:5757 tvg-logo="https://i.ytimg.com/vi/7RRCoJDQ25I/mqdefault.jpg" group-title="FILMES | ANOS 2010",Até o Fim da Noite (2017) - Filme Completo Dublado GRÁTIS - Filme de Suspense| NetMovies
+https://www.youtube.com/watch?v=7RRCoJDQ25I
+#EXTINF:5663 tvg-logo="https://i.ytimg.com/vi/xNWOhphusts/mqdefault.jpg" group-title="FILMES | ANOS 2010",Mademoiselle Paradis (2017) - Filme Completo GRÁTIS - Filme de Drama | NetMovies
+https://www.youtube.com/watch?v=xNWOhphusts
+#EXTINF:6360 tvg-logo="https://i.ytimg.com/vi/w7AQaVfItX8/mqdefault.jpg" group-title="FILMES | ANOS 2010",Reféns do Crime - Filme Completo Dublado GRÁTIS - Filme de Suspense com Chris Hemsworth | NetMovies
+https://www.youtube.com/watch?v=w7AQaVfItX8
+#EXTINF:4493 tvg-logo="https://i.ytimg.com/vi/gKYuvL0Fe58/mqdefault.jpg" group-title="FILMES | ANOS 2010",REC 3: Genesis (2012) - Full Movie Dubbed FREE - Horror Movie | NetMovies
+https://www.youtube.com/watch?v=gKYuvL0Fe58
+#EXTINF:5907 tvg-logo="https://i.ytimg.com/vi/UK02a2aP6vo/mqdefault.jpg" group-title="FILMES | ANOS 2010",The Blitz: Rotterdam (2012) - Full Movie Dubbed FREE - Drama Film | NetMovies
+https://www.youtube.com/watch?v=UK02a2aP6vo
+#EXTINF:5810 tvg-logo="https://i.ytimg.com/vi/POAXRo_pOLY/mqdefault.jpg" group-title="FILMES | ANOS 2010",Viva (2016) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
+https://www.youtube.com/watch?v=POAXRo_pOLY
+#EXTINF:6984 tvg-logo="https://i.ytimg.com/vi/SZfi4P8uviQ/mqdefault.jpg" group-title="FILMES | ANOS 2010",Caros Camaradas! Trabalhadores em Luta - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
+https://www.youtube.com/watch?v=SZfi4P8uviQ
+#EXTINF:6646 tvg-logo="https://i.ytimg.com/vi/l4DL1kiECQg/mqdefault.jpg" group-title="FILMES | ANOS 2010",Finding the Way (2020) - Full Movie Dubbed FREE - Drama Film | NetMovies
+https://www.youtube.com/watch?v=l4DL1kiECQg
+#EXTINF:5234 tvg-logo="https://i.ytimg.com/vi/OvU0uRkJ-fo/mqdefault.jpg" group-title="FILMES | ANOS 2010",Refuge of Silence (2016) - Full Movie Dubbed FREE - Thriller Movie | NetMovies
+https://www.youtube.com/watch?v=OvU0uRkJ-fo
+#EXTINF:6107 tvg-logo="https://i.ytimg.com/vi/oIUN0NHZ_lw/mqdefault.jpg" group-title="FILMES | ANOS 2010",Pegadas (2011) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
+https://www.youtube.com/watch?v=oIUN0NHZ_lw
+#EXTINF:4656 tvg-logo="https://i.ytimg.com/vi/fRRvy3DDX38/mqdefault.jpg" group-title="FILMES | ANOS 2010",Cabin Fever (2017) - Full Movie Dubbed FREE - Horror Movie | NetMovies
+https://www.youtube.com/watch?v=fRRvy3DDX38
+#EXTINF:5485 tvg-logo="https://i.ytimg.com/vi/QdXEAQNMtPI/mqdefault.jpg" group-title="FILMES | ANOS 2010",Armadas e Perigosas (2017) -Filme Completo Dublado GRÁTIS-Comédia com Florence Henderson | NetMovies
+https://www.youtube.com/watch?v=QdXEAQNMtPI
+#EXTINF:4936 tvg-logo="https://i.ytimg.com/vi/LSpA6-Bmv2o/mqdefault.jpg" group-title="FILMES | ANOS 2010",M0rte Imediata (2017) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
+https://www.youtube.com/watch?v=LSpA6-Bmv2o
+#EXTINF:6016 tvg-logo="https://i.ytimg.com/vi/RQPT0tRl4Tc/mqdefault.jpg" group-title="FILMES | ANOS 2010",Insidious (2010) - Full Movie Dubbed FREE - Horror Movie starring Patrick Wilson | NetMovies
+https://www.youtube.com/watch?v=RQPT0tRl4Tc
+#EXTINF:5368 tvg-logo="https://i.ytimg.com/vi/NXxyzypvzI0/mqdefault.jpg" group-title="FILMES | ANOS 2010",Avenger (2010) - Full Movie Dubbed FREE - Action Movie with Steve Austin! | NetMovies
+https://www.youtube.com/watch?v=NXxyzypvzI0
+#EXTINF:5484 tvg-logo="https://i.ytimg.com/vi/-cCrTaMKtc8/mqdefault.jpg" group-title="FILMES | ANOS 2010",🔥☢️ Nuclear Threat in California: A Man Against the Apocalypse | NetMovies
+https://www.youtube.com/watch?v=-cCrTaMKtc8
+#EXTINF:5322 tvg-logo="https://i.ytimg.com/vi/-y4Ya83ZRiU/mqdefault.jpg" group-title="FILMES | ANOS 2010",⚔️🔥 Between Gods and Wars: A Man Decides His Own Destiny | NetMovies
+https://www.youtube.com/watch?v=-y4Ya83ZRiU
+#EXTINF:5624 tvg-logo="https://i.ytimg.com/vi/EsJmsGCFR8Y/mqdefault.jpg" group-title="FILMES | ANOS 2010",🎲 Uma aposta um retorno no tempo e uma vida que nunca mais será a mesma 🎰 | NetMovies
+https://www.youtube.com/watch?v=EsJmsGCFR8Y
+#EXTINF:5356 tvg-logo="https://i.ytimg.com/vi/gusAkGeNhPQ/mqdefault.jpg" group-title="FILMES | ANOS 2010", and Second Chances | NetMovies
+https://www.youtube.com/watch?v=gusAkGeNhPQ
+#EXTINF:5417 tvg-logo="https://i.ytimg.com/vi/sZKc4bcOZUo/mqdefault.jpg" group-title="FILMES | ANOS 2010",Detroit em Chamas 💣🔥 Crime Parceria Fatal e Violência nas Ruas de 1974 | NetMovies
+https://www.youtube.com/watch?v=sZKc4bcOZUo
+#EXTINF:6835 tvg-logo="https://i.ytimg.com/vi/Lku54w-Nk8s/mqdefault.jpg" group-title="FILMES | ANOS 2010",✍️ RESPOSTA DO CÉU: O GAROTO COM CÂNCER QUE VIROU UM ANJO NA TERRA | FILME COMPLETO GRÁTIS💜NetMovies
+https://www.youtube.com/watch?v=Lku54w-Nk8s
+#EXTINF:6921 tvg-logo="https://i.ytimg.com/vi/pUGmefahmbU/mqdefault.jpg" group-title="FILMES | ANOS 2010",Um professor e seus alunos: a luta por esperança e a realidade cruel de Bougainville nos anos 90 🕊️
+https://www.youtube.com/watch?v=pUGmefahmbU
+#EXTINF:5068 tvg-logo="https://i.ytimg.com/vi/2O0clqckML0/mqdefault.jpg" group-title="FILMES | ANOS 2010",🦖 HE FOUND A DINOSAUR… AND NOW HE NEEDS TO SAVE IT ❤️‍🩹 | Free Online Movie 💜 NetMovies
+https://www.youtube.com/watch?v=2O0clqckML0
 #EXTINF:4557 tvg-logo="https://i.ytimg.com/vi/fTK6TZ_xn3M/mqdefault.jpg" group-title="FILMES | Ação e Aventura",1914: A Primeira Guerra  (2014) - Filme Completo Dublado GRÁTIS - Filme de Aventura | NetMovies
 https://www.youtube.com/watch?v=fTK6TZ_xn3M
 #EXTINF:4065 tvg-logo="https://i.ytimg.com/vi/LWAj6YjYieI/mqdefault.jpg" group-title="FILMES | Ação e Aventura",1953: HUNT FOR THE SERIAL KILLER | ☭ THE TRUTH ABOUT THE FORMER SOVIET AGENT | MYSTERY
@@ -579,6 +1273,24 @@ https://www.youtube.com/watch?v=8jshmm8ev74
 https://www.youtube.com/watch?v=QmiE91_ah0M
 #EXTINF:5383 tvg-logo="https://i.ytimg.com/vi/GkB6fraPUR8/mqdefault.jpg" group-title="FILMES | CLASSIFICAR",A Recipe for Love FULL MOVIE DUBBED | Romance Movies | Movie Night
 https://www.youtube.com/watch?v=GkB6fraPUR8
+#EXTINF:10556 tvg-logo="https://i.ytimg.com/vi/T_soNLfeEDg/mqdefault.jpg" group-title="FILMES | Coleção Bíblia Sagrada",Abraão (1993) - Filme Completo Dublado GRÁTIS - Drama com Richard Harris| NetMovies
+https://www.youtube.com/watch?v=T_soNLfeEDg
+#EXTINF:10053 tvg-logo="https://i.ytimg.com/vi/v_oy1vd3iq0/mqdefault.jpg" group-title="FILMES | Coleção Bíblia Sagrada",Davi (1997) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
+https://www.youtube.com/watch?v=v_oy1vd3iq0
+#EXTINF:5422 tvg-logo="https://i.ytimg.com/vi/VkHlzJcE8zk/mqdefault.jpg" group-title="FILMES | Coleção Bíblia Sagrada",Esther (1999) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
+https://www.youtube.com/watch?v=VkHlzJcE8zk
+#EXTINF:5253 tvg-logo="https://i.ytimg.com/vi/qkZnCMJ9qpQ/mqdefault.jpg" group-title="FILMES | Coleção Bíblia Sagrada",Jacob - Full Movie Dubbed FREE - Drama starring Christoph Waltz | NetMovies
+https://www.youtube.com/watch?v=qkZnCMJ9qpQ
+#EXTINF:5753 tvg-logo="https://i.ytimg.com/vi/Q_4jAauoc1w/mqdefault.jpg" group-title="FILMES | Coleção Bíblia Sagrada",Jeremias (1998) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
+https://www.youtube.com/watch?v=Q_4jAauoc1w
+#EXTINF:10571 tvg-logo="https://i.ytimg.com/vi/GD3nSQk1YSU/mqdefault.jpg" group-title="FILMES | Coleção Bíblia Sagrada",Moisés - Filme Completo Dublado GRÁTIS - Drama com Ben Kingsley | NetMovies
+https://www.youtube.com/watch?v=GD3nSQk1YSU
+#EXTINF:10282 tvg-logo="https://i.ytimg.com/vi/ny3ZQjJEPkk/mqdefault.jpg" group-title="FILMES | Coleção Bíblia Sagrada",Paulo (2000) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
+https://www.youtube.com/watch?v=ny3ZQjJEPkk
+#EXTINF:10034 tvg-logo="https://i.ytimg.com/vi/G0SIvGdiQ2k/mqdefault.jpg" group-title="FILMES | Coleção Bíblia Sagrada",Salomão (1997) - Filme Completo Dublado GRÁTIS - Filme Bíblico | NetMovies
+https://www.youtube.com/watch?v=G0SIvGdiQ2k
+#EXTINF:10712 tvg-logo="https://i.ytimg.com/vi/nHWeWhH_yo4/mqdefault.jpg" group-title="FILMES | Coleção Bíblia Sagrada",Sansão e Dalila (1996) - Filme Completo Dublado GRÁTIS - Aventura |NetMovies
+https://www.youtube.com/watch?v=nHWeWhH_yo4
 #EXTINF:5378 tvg-logo="https://i.ytimg.com/vi/LoPX8mjOlDE/mqdefault.jpg" group-title="FILMES | COMÉDIA",A Bestseller Romance FULL MOVIE DUBBED | Romance Movies | Movie Night
 https://www.youtube.com/watch?v=LoPX8mjOlDE
 #EXTINF:5467 tvg-logo="https://i.ytimg.com/vi/tpmqhrsJxGs/mqdefault.jpg" group-title="FILMES | COMÉDIA",A Competição de Casamento FILME COMPLETO DUBLADO | Filmes de Romance | Noite de Filmes
@@ -1251,266 +1963,6 @@ https://www.youtube.com/watch?v=sjhqvaPQPgg
 https://www.youtube.com/watch?v=zoJcPTrqv4U
 #EXTINF:8216 tvg-logo="https://i.ytimg.com/vi/wb4PzT9buvQ/mqdefault.jpg" group-title="FILMES | Universo DC e Marvel",Flores do Oriente (2011) - Filme Completo Dublado - Filme com Christian Bale | NetMovies
 https://www.youtube.com/watch?v=wb4PzT9buvQ
-#EXTINF:5616 tvg-logo="https://i.ytimg.com/vi/8daN5s_Lrrw/mqdefault.jpg" group-title="FILMES | ANOS 2010",Obsessão Perigosa (2018) - Filme Completo Dublado GRÁTIS - Filme de Suspense | NetMovies
-https://www.youtube.com/watch?v=8daN5s_Lrrw
-#EXTINF:7110 tvg-logo="https://i.ytimg.com/vi/vwXfkvwYutI/mqdefault.jpg" group-title="FILMES | ANOS 2010",Punhos de Ferro (2013) - Filme Completo Dublado GRÁTIS - Filme Policial | NetMovies
-https://www.youtube.com/watch?v=vwXfkvwYutI
-#EXTINF:4608 tvg-logo="https://i.ytimg.com/vi/vvYo8dLX78k/mqdefault.jpg" group-title="FILMES | ANOS 2010",Interconnected (2018) - Full Movie Dubbed FREE - Thriller Movie | NetMovies
-https://www.youtube.com/watch?v=vvYo8dLX78k
-#EXTINF:5326 tvg-logo="https://i.ytimg.com/vi/FYhr6lREl98/mqdefault.jpg" group-title="FILMES | ANOS 2010",Experimentos Macabros (2019) - Filme Completo Dublado GRÁTIS - Filme de Terror | NetMovies
-https://www.youtube.com/watch?v=FYhr6lREl98
-#EXTINF:5033 tvg-logo="https://i.ytimg.com/vi/WWdgVbFSG8U/mqdefault.jpg" group-title="FILMES | ANOS 2010",No Tempo de Deus (2017) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
-https://www.youtube.com/watch?v=WWdgVbFSG8U
-#EXTINF:5729 tvg-logo="https://i.ytimg.com/vi/wZhRqRcxnjg/mqdefault.jpg" group-title="FILMES | ANOS 2010",Resgate no Oeste (2016) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
-https://www.youtube.com/watch?v=wZhRqRcxnjg
-#EXTINF:4839 tvg-logo="https://i.ytimg.com/vi/lbkHdsmELKQ/mqdefault.jpg" group-title="FILMES | ANOS 2010",Parallel Terror (2016) - Full Movie Dubbed FREE - Suspense Film | NetMovies
-https://www.youtube.com/watch?v=lbkHdsmELKQ
-#EXTINF:4871 tvg-logo="https://i.ytimg.com/vi/QA9lEf9kLQY/mqdefault.jpg" group-title="FILMES | ANOS 2010",Coragem Para Vencer (2016) - Filme Completo Dublado com Danielle Campbell - Drama | NetMovies
-https://www.youtube.com/watch?v=QA9lEf9kLQY
-#EXTINF:5402 tvg-logo="https://i.ytimg.com/vi/R0zX04g5d_U/mqdefault.jpg" group-title="FILMES | ANOS 2010",A Arte de Se Apaixonar (2019) - Filme Completo Dublado GRÁTIS - Filme de Romance | NetMovies
-https://www.youtube.com/watch?v=R0zX04g5d_U
-#EXTINF:5313 tvg-logo="https://i.ytimg.com/vi/V8r4JPfkMw8/mqdefault.jpg" group-title="FILMES | ANOS 2010",Giallo: Hostages of Fear (2010) - Full Movie Dubbed FREE - Suspense with Adrien Brody | NetMovies
-https://www.youtube.com/watch?v=V8r4JPfkMw8
-#EXTINF:5232 tvg-logo="https://i.ytimg.com/vi/vZKcTDtyQUg/mqdefault.jpg" group-title="FILMES | ANOS 2010",Mad Genius (2017) - Filme Completo Dublado GRÁTIS - Ficção Científica com Chris Mason! | NetMovies
-https://www.youtube.com/watch?v=vZKcTDtyQUg
-#EXTINF:5451 tvg-logo="https://i.ytimg.com/vi/IRlAEl4LBbM/mqdefault.jpg" group-title="FILMES | ANOS 2010",Uma Viagem para Paris (2019) - Filme Completo Dublado GRÁTIS - Filme de Romance | NetMovies
-https://www.youtube.com/watch?v=IRlAEl4LBbM
-#EXTINF:5772 tvg-logo="https://i.ytimg.com/vi/OFd-HLKQ88c/mqdefault.jpg" group-title="FILMES | ANOS 2010",A Felicidade Mora ao Lado (2018) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
-https://www.youtube.com/watch?v=OFd-HLKQ88c
-#EXTINF:5075 tvg-logo="https://i.ytimg.com/vi/8pcpZVyH6qs/mqdefault.jpg" group-title="FILMES | ANOS 2010",Após a M0rte (2015) - Filme Completo Dublado GRÁTIS - Filme de Terror | NetMovies
-https://www.youtube.com/watch?v=8pcpZVyH6qs
-#EXTINF:5522 tvg-logo="https://i.ytimg.com/vi/qsoxntmQGcw/mqdefault.jpg" group-title="FILMES | ANOS 2010",Vigiados (2017) - Filme Completo Dublado GRÁTIS - Filme de Ficção-Científica | Netmovies
-https://www.youtube.com/watch?v=qsoxntmQGcw
-#EXTINF:5915 tvg-logo="https://i.ytimg.com/vi/vXfc2XLa-No/mqdefault.jpg" group-title="FILMES | ANOS 2010",A Batalha de Shindisi (2019) - Filme Completo Dublado GRÁTIS - Filme de Guerra | NetMovies
-https://www.youtube.com/watch?v=vXfc2XLa-No
-#EXTINF:5090 tvg-logo="https://i.ytimg.com/vi/3yfJiMXGM10/mqdefault.jpg" group-title="FILMES | ANOS 2010",Dança Comigo (2019) - Filme Completo Dublado GRÁTIS - Filme de Musical | NetMovies
-https://www.youtube.com/watch?v=3yfJiMXGM10
-#EXTINF:5857 tvg-logo="https://i.ytimg.com/vi/mcMQKMEUP18/mqdefault.jpg" group-title="FILMES | ANOS 2010",Crime sem Volta (2018) - Filme Completo com Sarah Butler - Filme de Suspense | NetMovies
-https://www.youtube.com/watch?v=mcMQKMEUP18
-#EXTINF:5646 tvg-logo="https://i.ytimg.com/vi/sRlmgga3xEY/mqdefault.jpg" group-title="FILMES | ANOS 2010",O Lado Engraçado do Vida (2019) - Filme Completo Dublado GRÁTIS - Filme de Comédia | NetMovies
-https://www.youtube.com/watch?v=sRlmgga3xEY
-#EXTINF:4516 tvg-logo="https://i.ytimg.com/vi/sTfkLT-L_d8/mqdefault.jpg" group-title="FILMES | ANOS 2010",Infidelidade (2019) - Filme Completo Dublado GRÁTIS - Filme de Suspense  com Jake Abel | NetMovies
-https://www.youtube.com/watch?v=sTfkLT-L_d8
-#EXTINF:5244 tvg-logo="https://i.ytimg.com/vi/JKcSiDhPaRw/mqdefault.jpg" group-title="FILMES | ANOS 2010",No Ritmo do Amor (2017) - Filme Completo Dublado GRÁTIS - Romance com Carlos PenaVega | NetMovies
-https://www.youtube.com/watch?v=JKcSiDhPaRw
-#EXTINF:5329 tvg-logo="https://i.ytimg.com/vi/RjsAaAf84bw/mqdefault.jpg" group-title="FILMES | ANOS 2010",O Passageiro das Trevas (2019) - Filme Completo Dublado GRÁTIS - Filme de Terror | NetMovies
-https://www.youtube.com/watch?v=RjsAaAf84bw
-#EXTINF:6263 tvg-logo="https://i.ytimg.com/vi/xiridcp_6FU/mqdefault.jpg" group-title="FILMES | ANOS 2010",Saga: A Maldição das Sombras (2013) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
-https://www.youtube.com/watch?v=xiridcp_6FU
-#EXTINF:6520 tvg-logo="https://i.ytimg.com/vi/9kNKubbWsXY/mqdefault.jpg" group-title="FILMES | ANOS 2010",100 Dias de Resistência (2019) - Filme Completo Dublado GRÁTIS - Filme de Guerra | NetMovies
-https://www.youtube.com/watch?v=9kNKubbWsXY
-#EXTINF:6872 tvg-logo="https://i.ytimg.com/vi/iN6ZFAniSLI/mqdefault.jpg" group-title="FILMES | ANOS 2010",The Defender (2019) - Full Movie Dubbed FREE - Drama Film | NetMovies
-https://www.youtube.com/watch?v=iN6ZFAniSLI
-#EXTINF:5194 tvg-logo="https://i.ytimg.com/vi/X-ym55uWDGM/mqdefault.jpg" group-title="FILMES | ANOS 2010",Sex Tape: Ninguém Pode Ver (2018) - Filme Completo Dublado GRÁTIS - Filme de Comédia | NetMovies
-https://www.youtube.com/watch?v=X-ym55uWDGM
-#EXTINF:5066 tvg-logo="https://i.ytimg.com/vi/QDMA8qO5Aj8/mqdefault.jpg" group-title="FILMES | ANOS 2010",Natal em Hollywood (2014) - Filme Completo Dublado GRÁTIS - Filme de Aventura | NetMovies
-https://www.youtube.com/watch?v=QDMA8qO5Aj8
-#EXTINF:6866 tvg-logo="https://i.ytimg.com/vi/UvCrT0oq-t8/mqdefault.jpg" group-title="FILMES | ANOS 2010",Destemida (2015) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
-https://www.youtube.com/watch?v=UvCrT0oq-t8
-#EXTINF:5714 tvg-logo="https://i.ytimg.com/vi/boZKvZlW9Vw/mqdefault.jpg" group-title="FILMES | ANOS 2010",Acima da Lei (2018) - Filme Completo Dublado GRÁTIS - Filme de Suspense com Eric Close! | NetMovies
-https://www.youtube.com/watch?v=boZKvZlW9Vw
-#EXTINF:6751 tvg-logo="https://i.ytimg.com/vi/wIYoRWE8tfs/mqdefault.jpg" group-title="FILMES | ANOS 2010",Correndo Contra o Vento (2019) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
-https://www.youtube.com/watch?v=wIYoRWE8tfs
-#EXTINF:5604 tvg-logo="https://i.ytimg.com/vi/Z8u8VtoCha8/mqdefault.jpg" group-title="FILMES | ANOS 2010",Tacada de Mestre (2019) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
-https://www.youtube.com/watch?v=Z8u8VtoCha8
-#EXTINF:4389 tvg-logo="https://i.ytimg.com/vi/tpiM5TKuKl8/mqdefault.jpg" group-title="FILMES | ANOS 2010",A Man Without a Past (2017) - Full Movie Dubbed FREE - Action Movie | NetMovies
-https://www.youtube.com/watch?v=tpiM5TKuKl8
-#EXTINF:5353 tvg-logo="https://i.ytimg.com/vi/UtiT6vVvpfk/mqdefault.jpg" group-title="FILMES | ANOS 2010",Uma Última Vez (2018) -Filme Completo Dublado GRÁTIS -Filme de Drama com Jurnee Smollett | NetMovies
-https://www.youtube.com/watch?v=UtiT6vVvpfk
-#EXTINF:5700 tvg-logo="https://i.ytimg.com/vi/aWdh9foA6Zs/mqdefault.jpg" group-title="FILMES | ANOS 2010",Um Casamento Muito Louco (2013) - Filme Completo Dublado - Filme de Comédia | NetMovies
-https://www.youtube.com/watch?v=aWdh9foA6Zs
-#EXTINF:4668 tvg-logo="https://i.ytimg.com/vi/-fLthkNu5x8/mqdefault.jpg" group-title="FILMES | ANOS 2010",Legado de Vi0lência (2019)- Filme Completo Dublado GRÁTIS- Filme de Ação com Will Patton | NetMovies
-https://www.youtube.com/watch?v=-fLthkNu5x8
-#EXTINF:5466 tvg-logo="https://i.ytimg.com/vi/l1XE4vxH7dY/mqdefault.jpg" group-title="FILMES | ANOS 2010",Um Casamento Muito Louco 2 (2014) - Filme Completo Dublado GRÁTIS - Filme de Comédia | NetMovies
-https://www.youtube.com/watch?v=l1XE4vxH7dY
-#EXTINF:6682 tvg-logo="https://i.ytimg.com/vi/Z0j6B_0wBXs/mqdefault.jpg" group-title="FILMES | ANOS 2010",Um Pedaço do Meu Coração (2019)- Filme Completo Dublado GRÁTIS - Filme com Malin Akerman | NetMovies
-https://www.youtube.com/watch?v=Z0j6B_0wBXs
-#EXTINF:5537 tvg-logo="https://i.ytimg.com/vi/_VnzsSnrNKo/mqdefault.jpg" group-title="FILMES | ANOS 2010",Mentira Nada Inocente (2019) - Filme Completo Dublado GRÁTIS - Filme de Suspense | NetMovies
-https://www.youtube.com/watch?v=_VnzsSnrNKo
-#EXTINF:5676 tvg-logo="https://i.ytimg.com/vi/9nL3t4bPxBw/mqdefault.jpg" group-title="FILMES | ANOS 2010", Coração de Leão (2013) - Filme Completo Dublado - Ação com Malcolm Mcdowell | NetMovies
-https://www.youtube.com/watch?v=9nL3t4bPxBw
-#EXTINF:6284 tvg-logo="https://i.ytimg.com/vi/6GZ-JWscCLw/mqdefault.jpg" group-title="FILMES | ANOS 2010",Antes de Partir (2018) - Filme Completo Dublado GRÁTIS - Filme de Drama com Brian Cox | NetMovies
-https://www.youtube.com/watch?v=6GZ-JWscCLw
-#EXTINF:5756 tvg-logo="https://i.ytimg.com/vi/LtW0sTZpIBw/mqdefault.jpg" group-title="FILMES | ANOS 2010",Um Conto Sobre o Tempo (2019) - Filme Completo Dublado GRÁTIS - Filme de Comédia | NetMovies
-https://www.youtube.com/watch?v=LtW0sTZpIBw
-#EXTINF:6700 tvg-logo="https://i.ytimg.com/vi/a44L974nPUw/mqdefault.jpg" group-title="FILMES | ANOS 2010",Meu Amor Por Grace (2018)-Filme Completo Dublado GRÁTIS-Filme de Aventura com Matt Dillon |NetMovies
-https://www.youtube.com/watch?v=a44L974nPUw
-#EXTINF:3315 tvg-logo="https://i.ytimg.com/vi/36Ts0QM0Y1k/mqdefault.jpg" group-title="FILMES | ANOS 2010",Boonie Bears e o Robô Destruidor (2014)- Filme Completo Dublado GRÁTIS- Filme de Aventura| NetMovies
-https://www.youtube.com/watch?v=36Ts0QM0Y1k
-#EXTINF:5923 tvg-logo="https://i.ytimg.com/vi/y_dO3z3VBI4/mqdefault.jpg" group-title="FILMES | ANOS 2010",Professor (2019) - Full Movie Dubbed FREE - Drama Movie starring David Dastmalchian | NetMovies
-https://www.youtube.com/watch?v=y_dO3z3VBI4
-#EXTINF:5482 tvg-logo="https://i.ytimg.com/vi/xjmy-ek_9Bk/mqdefault.jpg" group-title="FILMES | ANOS 2010",O Jovem Viking (2018) - Filme Completo Dublado GRÁTIS - Filme de AÇÃO | NetMovies
-https://www.youtube.com/watch?v=xjmy-ek_9Bk
-#EXTINF:5813 tvg-logo="https://i.ytimg.com/vi/jIgmoYxJHPY/mqdefault.jpg" group-title="FILMES | ANOS 2010",Homens de Ouro (2019) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
-https://www.youtube.com/watch?v=jIgmoYxJHPY
-#EXTINF:5173 tvg-logo="https://i.ytimg.com/vi/MQqcZpurOpM/mqdefault.jpg" group-title="FILMES | ANOS 2010",Meu Pequeno Macaco (2018) - Filme Completo Dublado GRÁTIS - Filme de Aventura | NetMovies
-https://www.youtube.com/watch?v=MQqcZpurOpM
-#EXTINF:4906 tvg-logo="https://i.ytimg.com/vi/p8kyrrzpM6Y/mqdefault.jpg" group-title="FILMES | ANOS 2010",Saved by Grace (2016) - Full Movie Dubbed FREE - Drama Movie | NetMovies
-https://www.youtube.com/watch?v=p8kyrrzpM6Y
-#EXTINF:4939 tvg-logo="https://i.ytimg.com/vi/-POUuKXKBJU/mqdefault.jpg" group-title="FILMES | ANOS 2010",O Mistério de Green Hill (2017) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
-https://www.youtube.com/watch?v=-POUuKXKBJU
-#EXTINF:3686 tvg-logo="https://i.ytimg.com/vi/TyVVTXP3luw/mqdefault.jpg" group-title="FILMES | ANOS 2010",Ultraman Ginga S: The 10 Ultra Warriors - Full Movie Dubbed FREE - Action Movie | NetMovies
-https://www.youtube.com/watch?v=TyVVTXP3luw
-#EXTINF:5925 tvg-logo="https://i.ytimg.com/vi/8iIKmZJYyWY/mqdefault.jpg" group-title="FILMES | ANOS 2010",De Volta ao Fundo do Mar (2012) - Filme Completo Dublado GRÁTIS - Filme de Animação | NetMovies
-https://www.youtube.com/watch?v=8iIKmZJYyWY
-#EXTINF:5279 tvg-logo="https://i.ytimg.com/vi/4qlJ6-fxcuA/mqdefault.jpg" group-title="FILMES | ANOS 2010",Aposta Radical (2010) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
-https://www.youtube.com/watch?v=4qlJ6-fxcuA
-#EXTINF:5270 tvg-logo="https://i.ytimg.com/vi/Ye1cidCX-9g/mqdefault.jpg" group-title="FILMES | ANOS 2010",Ultraman Saga: O Filme (2012) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
-https://www.youtube.com/watch?v=Ye1cidCX-9g
-#EXTINF:5584 tvg-logo="https://i.ytimg.com/vi/aPxPrV39WOM/mqdefault.jpg" group-title="FILMES | ANOS 2010",Valan: Valley of Angels (2019) - Full Movie Dubbed FREE - Crime Movie | NetMovies
-https://www.youtube.com/watch?v=aPxPrV39WOM
-#EXTINF:4051 tvg-logo="https://i.ytimg.com/vi/KG8pEVw_HwE/mqdefault.jpg" group-title="FILMES | ANOS 2010",Ultraman Orb: The Movie (2017) - Full Movie Dubbed FREE - Action Movie | NetMovies
-https://www.youtube.com/watch?v=KG8pEVw_HwE
-#EXTINF:5740 tvg-logo="https://i.ytimg.com/vi/H3IE9YvzM7U/mqdefault.jpg" group-title="FILMES | ANOS 2010",Ultraman Zero: O Filme (2010) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
-https://www.youtube.com/watch?v=H3IE9YvzM7U
-#EXTINF:3474 tvg-logo="https://i.ytimg.com/vi/WzFsH8qNnbA/mqdefault.jpg" group-title="FILMES | ANOS 2010",Ultra Galaxy Fight: Heróis da Nova Geração-Filme Completo Dublado GRÁTIS-Filme de Ação | NetMovies
-https://www.youtube.com/watch?v=WzFsH8qNnbA
-#EXTINF:6040 tvg-logo="https://i.ytimg.com/vi/kJAQU1zRNrc/mqdefault.jpg" group-title="FILMES | ANOS 2010",A Jornada de Jhalki (2019) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
-https://www.youtube.com/watch?v=kJAQU1zRNrc
-#EXTINF:6350 tvg-logo="https://i.ytimg.com/vi/QW72AmQsABo/mqdefault.jpg" group-title="FILMES | ANOS 2010",Confusão de Elite (2018) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
-https://www.youtube.com/watch?v=QW72AmQsABo
-#EXTINF:5542 tvg-logo="https://i.ytimg.com/vi/iRqkks6lHng/mqdefault.jpg" group-title="FILMES | ANOS 2010",O Interrogatório (2017) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
-https://www.youtube.com/watch?v=iRqkks6lHng
-#EXTINF:5287 tvg-logo="https://i.ytimg.com/vi/n7_LthPpYK0/mqdefault.jpg" group-title="FILMES | ANOS 2010",O Acampamento de Férias- Filme Completo Dublado GRÁTIS-Filme de Comédia com Jimmy Trato! | NetMovies
-https://www.youtube.com/watch?v=n7_LthPpYK0
-#EXTINF:6822 tvg-logo="https://i.ytimg.com/vi/84bcQbGUTFE/mqdefault.jpg" group-title="FILMES | ANOS 2010",A Invasão (2019) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
-https://www.youtube.com/watch?v=84bcQbGUTFE
-#EXTINF:5473 tvg-logo="https://i.ytimg.com/vi/cFu9VPZbyXc/mqdefault.jpg" group-title="FILMES | ANOS 2010",Elyse: A Coragem Vem do Coração- Filme Completo Dublado GRÁTIS -Drama com Anthony Hopkins |NetMovies
-https://www.youtube.com/watch?v=cFu9VPZbyXc
-#EXTINF:4158 tvg-logo="https://i.ytimg.com/vi/IRhfpZCOnMk/mqdefault.jpg" group-title="FILMES | ANOS 2010",Ultraman X: O Filme (2016) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
-https://www.youtube.com/watch?v=IRhfpZCOnMk
-#EXTINF:4620 tvg-logo="https://i.ytimg.com/vi/2boM05pgI5Y/mqdefault.jpg" group-title="FILMES | ANOS 2010",A Maldição da Freira (2018) - Filme Completo Dublado GRÁTIS - Filme de Terror | NetMovies
-https://www.youtube.com/watch?v=2boM05pgI5Y
-#EXTINF:5253 tvg-logo="https://i.ytimg.com/vi/qkZnCMJ9qpQ/mqdefault.jpg" group-title="FILMES | ANOS 2010",Holy Bible Collection: Jacob - Full Movie Dubbed FREE - Drama starring Christoph Waltz | NetMovies
-https://www.youtube.com/watch?v=qkZnCMJ9qpQ
-#EXTINF:5879 tvg-logo="https://i.ytimg.com/vi/kL8EGx0F978/mqdefault.jpg" group-title="FILMES | ANOS 2010",Uma Viagem Fantástica (2018) - Filme Completo Dublado GRÁTIS - Filme de Comédia | NetMovies
-https://www.youtube.com/watch?v=kL8EGx0F978
-#EXTINF:6269 tvg-logo="https://i.ytimg.com/vi/cO50xSHK_kg/mqdefault.jpg" group-title="FILMES | ANOS 2010",A Espiã (2019) - Filme Completo Dublado GRÁTIS - Filme de Guerra | NetMovies
-https://www.youtube.com/watch?v=cO50xSHK_kg
-#EXTINF:5975 tvg-logo="https://i.ytimg.com/vi/Tw9BFXcE75E/mqdefault.jpg" group-title="FILMES | ANOS 2010",O Dom da Serpente (2019) - Filme Completo Dublado GRÁTIS - Filme de Aventura | NetMovies
-https://www.youtube.com/watch?v=Tw9BFXcE75E
-#EXTINF:5513 tvg-logo="https://i.ytimg.com/vi/umEAhnzD_T4/mqdefault.jpg" group-title="FILMES | ANOS 2010",The Invisible Girl (2019) - Full Movie Dubbed FREE - Adventure Film | NetMovies
-https://www.youtube.com/watch?v=umEAhnzD_T4
-#EXTINF:10571 tvg-logo="https://i.ytimg.com/vi/GD3nSQk1YSU/mqdefault.jpg" group-title="FILMES | ANOS 2010",Coleção Bíblia Sagrada: Moisés - Filme Completo Dublado GRÁTIS - Drama com Ben Kingsley | NetMovies
-https://www.youtube.com/watch?v=GD3nSQk1YSU
-#EXTINF:6022 tvg-logo="https://i.ytimg.com/vi/vK4swnH5NUk/mqdefault.jpg" group-title="FILMES | ANOS 2010",In the Minefield (2014) - Full Movie Dubbed FREE - Action Movie | NetMovies
-https://www.youtube.com/watch?v=vK4swnH5NUk
-#EXTINF:4604 tvg-logo="https://i.ytimg.com/vi/pY-2ggYC0NM/mqdefault.jpg" group-title="FILMES | ANOS 2010",Deadly Toxin (2015) - Full Movie Dubbed FREE - Horror Movie with Danny Glover! | NetMovies
-https://www.youtube.com/watch?v=pY-2ggYC0NM
-#EXTINF:7512 tvg-logo="https://i.ytimg.com/vi/dFYS90eeTV0/mqdefault.jpg" group-title="FILMES | ANOS 2010", Drogad4 e Prostituíd4 -Filme Completo Dublado - Filme de Drama| NetMovies
-https://www.youtube.com/watch?v=dFYS90eeTV0
-#EXTINF:4878 tvg-logo="https://i.ytimg.com/vi/Kaytmnvbm8o/mqdefault.jpg" group-title="FILMES | ANOS 2010",A Loucura Que Nos Une (2019) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
-https://www.youtube.com/watch?v=Kaytmnvbm8o
-#EXTINF:5180 tvg-logo="https://i.ytimg.com/vi/B7-WO9CE-14/mqdefault.jpg" group-title="FILMES | ANOS 2010",Sozinho com o Inimigo (2018) - Filme Completo Dublado GRÁTIS - Filme de Suspense | NetMovies
-https://www.youtube.com/watch?v=B7-WO9CE-14
-#EXTINF:6082 tvg-logo="https://i.ytimg.com/vi/UOZ2ROsFamI/mqdefault.jpg" group-title="FILMES | ANOS 2010",Espada de Deus: A Última Cruzada (2018) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
-https://www.youtube.com/watch?v=UOZ2ROsFamI
-#EXTINF:6244 tvg-logo="https://i.ytimg.com/vi/3KlJN_dvwzc/mqdefault.jpg" group-title="FILMES | ANOS 2010",A Última Viagem (2019) - Filme Completo Dublado GRÁTIS - Filme de Comédia com Brian Cox | NetMovies
-https://www.youtube.com/watch?v=3KlJN_dvwzc
-#EXTINF:5688 tvg-logo="https://i.ytimg.com/vi/pfsRh-25kwc/mqdefault.jpg" group-title="FILMES | ANOS 2010",Heroes of the Galaxy: Ratchet & Clank - Full Movie Dubbed FREE - Animated Film | NetMovies
-https://www.youtube.com/watch?v=pfsRh-25kwc
-#EXTINF:5120 tvg-logo="https://i.ytimg.com/vi/CFFdi1kvbRY/mqdefault.jpg" group-title="FILMES | ANOS 2010",Cíntia: The Creature (2019) - Full Movie Dubbed FREE - Horror Movie | NetMovies
-https://www.youtube.com/watch?v=CFFdi1kvbRY
-#EXTINF:5645 tvg-logo="https://i.ytimg.com/vi/k7wR_tOj8z4/mqdefault.jpg" group-title="FILMES | ANOS 2010",Terminal Sul: Luta por Liberdade - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
-https://www.youtube.com/watch?v=k7wR_tOj8z4
-#EXTINF:5164 tvg-logo="https://i.ytimg.com/vi/frk3ZP0m32M/mqdefault.jpg" group-title="FILMES | ANOS 2010",O Segredo da Borboleta (2012) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
-https://www.youtube.com/watch?v=frk3ZP0m32M
-#EXTINF:6164 tvg-logo="https://i.ytimg.com/vi/RdrlibCcS84/mqdefault.jpg" group-title="FILMES | ANOS 2010",Diário de Um Exorcista - Zero (2016) - Filme Completo GRÁTIS - Filme de Terror | NetMovies
-https://www.youtube.com/watch?v=RdrlibCcS84
-#EXTINF:5574 tvg-logo="https://i.ytimg.com/vi/fQ8TqY7uejU/mqdefault.jpg" group-title="FILMES | ANOS 2010",A Máfia dos Vampiros (2017) - Filme Completo Dublado GRÁTIS - Filme de Ação com Ice-T | NetMovies
-https://www.youtube.com/watch?v=fQ8TqY7uejU
-#EXTINF:6184 tvg-logo="https://i.ytimg.com/vi/X_2y1wrAUbk/mqdefault.jpg" group-title="FILMES | ANOS 2010",O Estranho Caso de Cornelius Bloom (2018) - Filme Completo Dublado - Filme de Comédia | NetMovies
-https://www.youtube.com/watch?v=X_2y1wrAUbk
-#EXTINF:5231 tvg-logo="https://i.ytimg.com/vi/-p5dWZ7y9Y4/mqdefault.jpg" group-title="FILMES | ANOS 2010",Real Life (2016) - Full Movie Dubbed FREE - Comedy Film starring Matthew Morrison | NetMovies
-https://www.youtube.com/watch?v=-p5dWZ7y9Y4
-#EXTINF:5485 tvg-logo="https://i.ytimg.com/vi/i83erEwiK2s/mqdefault.jpg" group-title="FILMES | ANOS 2010",The Four Warriors (2015) - Full Movie Dubbed FREE - Adventure Movie | NetMovies
-https://www.youtube.com/watch?v=i83erEwiK2s
-#EXTINF:5607 tvg-logo="https://i.ytimg.com/vi/oOpyrgE_gU0/mqdefault.jpg" group-title="FILMES | ANOS 2010",Paranormal Activity (2012) - FREE Full Movie Dubbed - Thriller Movie | NetMovies
-https://www.youtube.com/watch?v=oOpyrgE_gU0
-#EXTINF:4888 tvg-logo="https://i.ytimg.com/vi/6rinw_Ef6VM/mqdefault.jpg" group-title="FILMES | ANOS 2010",Projeto Pé Grande (2017) - Filme Completo Dublado GRÁTIS - Filme de Comédia | NetMovies
-https://www.youtube.com/watch?v=6rinw_Ef6VM
-#EXTINF:5042 tvg-logo="https://i.ytimg.com/vi/96M9cCz3WL4/mqdefault.jpg" group-title="FILMES | ANOS 2010",The Best Musical Ever Made About Fried Chicken - FREE Dubbed Movie - Comedy Movie | NetMovies
-https://www.youtube.com/watch?v=96M9cCz3WL4
-#EXTINF:4730 tvg-logo="https://i.ytimg.com/vi/aGQ9q5Wm_X8/mqdefault.jpg" group-title="FILMES | ANOS 2010",Maldita Aranha Assassina (2013) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
-https://www.youtube.com/watch?v=aGQ9q5Wm_X8
-#EXTINF:6125 tvg-logo="https://i.ytimg.com/vi/0oplmmUxI8U/mqdefault.jpg" group-title="FILMES | ANOS 2010",O Último Refúgio (2019) - Filme Completo Dublado GRÁTIS - Ação com Hayden Christensen | NetMovies
-https://www.youtube.com/watch?v=0oplmmUxI8U
-#EXTINF:5831 tvg-logo="https://i.ytimg.com/vi/rZMXwvCr188/mqdefault.jpg" group-title="FILMES | ANOS 2010",Em Busca do Castelo Dourado (2019) - Filme Completo Dublado GRÁTIS - Filme de Aventura | NetMovies
-https://www.youtube.com/watch?v=rZMXwvCr188
-#EXTINF:6130 tvg-logo="https://i.ytimg.com/vi/1H3lXAUr6eg/mqdefault.jpg" group-title="FILMES | ANOS 2010",O Sonhador (2017) - Filme Completo GRÁTIS - Filme de Drama | NetMovies
-https://www.youtube.com/watch?v=1H3lXAUr6eg
-#EXTINF:4538 tvg-logo="https://i.ytimg.com/vi/fYgwZitQz0o/mqdefault.jpg" group-title="FILMES | ANOS 2010",Paradise Club: O Pecado Mora Aqui (2016) - Filme Completo Dublado GRÁTIS - Filme de Drama| NetMovies
-https://www.youtube.com/watch?v=fYgwZitQz0o
-#EXTINF:5299 tvg-logo="https://i.ytimg.com/vi/Rw5NOWDdMCI/mqdefault.jpg" group-title="FILMES | ANOS 2010",Todo Mundo Ama Minha Mãe (2019) - Filme Completo Dublado GRÁTIS - Filme de Comédia | NetMovies
-https://www.youtube.com/watch?v=Rw5NOWDdMCI
-#EXTINF:4688 tvg-logo="https://i.ytimg.com/vi/CwJ2AeGvRmw/mqdefault.jpg" group-title="FILMES | ANOS 2010",Vengeance Without Limits (2012) - Full Movie Dubbed FREE - Action Movie | NetMovies
-https://www.youtube.com/watch?v=CwJ2AeGvRmw
-#EXTINF:5468 tvg-logo="https://i.ytimg.com/vi/MSzjEGLTI6c/mqdefault.jpg" group-title="FILMES | ANOS 2010",Tenha Medo (2017) - Filme Completo Dublado GRÁTIS - Filme de Suspense | NetMovies
-https://www.youtube.com/watch?v=MSzjEGLTI6c
-#EXTINF:6023 tvg-logo="https://i.ytimg.com/vi/WkD2wtti1dM/mqdefault.jpg" group-title="FILMES | ANOS 2010",Resgate Impossível (2012) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
-https://www.youtube.com/watch?v=WkD2wtti1dM
-#EXTINF:5414 tvg-logo="https://i.ytimg.com/vi/7W8g3t4ot8Y/mqdefault.jpg" group-title="FILMES | ANOS 2010",Animais Unidos Jamais Serão Vencidos (2010) - Filme Completo Dublado - Filme de Animação | NetMovies
-https://www.youtube.com/watch?v=7W8g3t4ot8Y
-#EXTINF:5878 tvg-logo="https://i.ytimg.com/vi/7mJDswC_iNc/mqdefault.jpg" group-title="FILMES | ANOS 2010",A Razão do Amor (2012) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
-https://www.youtube.com/watch?v=7mJDswC_iNc
-#EXTINF:6362 tvg-logo="https://i.ytimg.com/vi/xbu5Jy9pHTM/mqdefault.jpg" group-title="FILMES | ANOS 2010",The King's Ring: The Last Battle (2018) - Full Movie Dubbed FREE - Action Movie | NetMovies
-https://www.youtube.com/watch?v=xbu5Jy9pHTM
-#EXTINF:4557 tvg-logo="https://i.ytimg.com/vi/fTK6TZ_xn3M/mqdefault.jpg" group-title="FILMES | ANOS 2010",1914: A Primeira Guerra  (2014) - Filme Completo Dublado GRÁTIS - Filme de Aventura | NetMovies
-https://www.youtube.com/watch?v=fTK6TZ_xn3M
-#EXTINF:5787 tvg-logo="https://i.ytimg.com/vi/H38Mfzo8RcA/mqdefault.jpg" group-title="FILMES | ANOS 2010",O Chamado de Deus (2015)-Filme Completo Dublado GRÁTIS-Filme de Aventura com Brittany Snow|NetMovies
-https://www.youtube.com/watch?v=H38Mfzo8RcA
-#EXTINF:4645 tvg-logo="https://i.ytimg.com/vi/S08j6mFxPXE/mqdefault.jpg" group-title="FILMES | ANOS 2010",Super Urso: Um Resgate na Cidade Grande-Filme Completo Dublado GRÁTIS- Filme de Animação | NetMovies
-https://www.youtube.com/watch?v=S08j6mFxPXE
-#EXTINF:4718 tvg-logo="https://i.ytimg.com/vi/7JIkNzturZY/mqdefault.jpg" group-title="FILMES | ANOS 2010",Hotel of Fear (2018) - Full Movie Dubbed FREE - Action Movie | NetMovies
-https://www.youtube.com/watch?v=7JIkNzturZY
-#EXTINF:5401 tvg-logo="https://i.ytimg.com/vi/hK2BAenCEq4/mqdefault.jpg" group-title="FILMES | ANOS 2010",Armadilha (2012) - Filme Completo Dublado GRÁTIS - Filme de Terror - Josh Peck | NetMovies
-https://www.youtube.com/watch?v=hK2BAenCEq4
-#EXTINF:5757 tvg-logo="https://i.ytimg.com/vi/7RRCoJDQ25I/mqdefault.jpg" group-title="FILMES | ANOS 2010",Até o Fim da Noite (2017) - Filme Completo Dublado GRÁTIS - Filme de Suspense| NetMovies
-https://www.youtube.com/watch?v=7RRCoJDQ25I
-#EXTINF:5663 tvg-logo="https://i.ytimg.com/vi/xNWOhphusts/mqdefault.jpg" group-title="FILMES | ANOS 2010",Mademoiselle Paradis (2017) - Filme Completo GRÁTIS - Filme de Drama | NetMovies
-https://www.youtube.com/watch?v=xNWOhphusts
-#EXTINF:6360 tvg-logo="https://i.ytimg.com/vi/w7AQaVfItX8/mqdefault.jpg" group-title="FILMES | ANOS 2010",Reféns do Crime - Filme Completo Dublado GRÁTIS - Filme de Suspense com Chris Hemsworth | NetMovies
-https://www.youtube.com/watch?v=w7AQaVfItX8
-#EXTINF:4493 tvg-logo="https://i.ytimg.com/vi/gKYuvL0Fe58/mqdefault.jpg" group-title="FILMES | ANOS 2010",REC 3: Genesis (2012) - Full Movie Dubbed FREE - Horror Movie | NetMovies
-https://www.youtube.com/watch?v=gKYuvL0Fe58
-#EXTINF:5907 tvg-logo="https://i.ytimg.com/vi/UK02a2aP6vo/mqdefault.jpg" group-title="FILMES | ANOS 2010",The Blitz: Rotterdam (2012) - Full Movie Dubbed FREE - Drama Film | NetMovies
-https://www.youtube.com/watch?v=UK02a2aP6vo
-#EXTINF:5810 tvg-logo="https://i.ytimg.com/vi/POAXRo_pOLY/mqdefault.jpg" group-title="FILMES | ANOS 2010",Viva (2016) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
-https://www.youtube.com/watch?v=POAXRo_pOLY
-#EXTINF:6984 tvg-logo="https://i.ytimg.com/vi/SZfi4P8uviQ/mqdefault.jpg" group-title="FILMES | ANOS 2010",Caros Camaradas! Trabalhadores em Luta - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
-https://www.youtube.com/watch?v=SZfi4P8uviQ
-#EXTINF:6646 tvg-logo="https://i.ytimg.com/vi/l4DL1kiECQg/mqdefault.jpg" group-title="FILMES | ANOS 2010",Finding the Way (2020) - Full Movie Dubbed FREE - Drama Film | NetMovies
-https://www.youtube.com/watch?v=l4DL1kiECQg
-#EXTINF:5234 tvg-logo="https://i.ytimg.com/vi/OvU0uRkJ-fo/mqdefault.jpg" group-title="FILMES | ANOS 2010",Refuge of Silence (2016) - Full Movie Dubbed FREE - Thriller Movie | NetMovies
-https://www.youtube.com/watch?v=OvU0uRkJ-fo
-#EXTINF:6107 tvg-logo="https://i.ytimg.com/vi/oIUN0NHZ_lw/mqdefault.jpg" group-title="FILMES | ANOS 2010",Pegadas (2011) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
-https://www.youtube.com/watch?v=oIUN0NHZ_lw
-#EXTINF:4656 tvg-logo="https://i.ytimg.com/vi/fRRvy3DDX38/mqdefault.jpg" group-title="FILMES | ANOS 2010",Cabin Fever (2017) - Full Movie Dubbed FREE - Horror Movie | NetMovies
-https://www.youtube.com/watch?v=fRRvy3DDX38
-#EXTINF:5485 tvg-logo="https://i.ytimg.com/vi/QdXEAQNMtPI/mqdefault.jpg" group-title="FILMES | ANOS 2010",Armadas e Perigosas (2017) -Filme Completo Dublado GRÁTIS-Comédia com Florence Henderson | NetMovies
-https://www.youtube.com/watch?v=QdXEAQNMtPI
-#EXTINF:4936 tvg-logo="https://i.ytimg.com/vi/LSpA6-Bmv2o/mqdefault.jpg" group-title="FILMES | ANOS 2010",M0rte Imediata (2017) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
-https://www.youtube.com/watch?v=LSpA6-Bmv2o
-#EXTINF:6016 tvg-logo="https://i.ytimg.com/vi/RQPT0tRl4Tc/mqdefault.jpg" group-title="FILMES | ANOS 2010",Insidious (2010) - Full Movie Dubbed FREE - Horror Movie starring Patrick Wilson | NetMovies
-https://www.youtube.com/watch?v=RQPT0tRl4Tc
-#EXTINF:5368 tvg-logo="https://i.ytimg.com/vi/NXxyzypvzI0/mqdefault.jpg" group-title="FILMES | ANOS 2010",Avenger (2010) - Full Movie Dubbed FREE - Action Movie with Steve Austin! | NetMovies
-https://www.youtube.com/watch?v=NXxyzypvzI0
-#EXTINF:5484 tvg-logo="https://i.ytimg.com/vi/-cCrTaMKtc8/mqdefault.jpg" group-title="FILMES | ANOS 2010",🔥☢️ Nuclear Threat in California: A Man Against the Apocalypse | NetMovies
-https://www.youtube.com/watch?v=-cCrTaMKtc8
-#EXTINF:5322 tvg-logo="https://i.ytimg.com/vi/-y4Ya83ZRiU/mqdefault.jpg" group-title="FILMES | ANOS 2010",⚔️🔥 Between Gods and Wars: A Man Decides His Own Destiny | NetMovies
-https://www.youtube.com/watch?v=-y4Ya83ZRiU
-#EXTINF:5624 tvg-logo="https://i.ytimg.com/vi/EsJmsGCFR8Y/mqdefault.jpg" group-title="FILMES | ANOS 2010",🎲 Uma aposta um retorno no tempo e uma vida que nunca mais será a mesma 🎰 | NetMovies
-https://www.youtube.com/watch?v=EsJmsGCFR8Y
-#EXTINF:5356 tvg-logo="https://i.ytimg.com/vi/gusAkGeNhPQ/mqdefault.jpg" group-title="FILMES | ANOS 2010", and Second Chances | NetMovies
-https://www.youtube.com/watch?v=gusAkGeNhPQ
-#EXTINF:5417 tvg-logo="https://i.ytimg.com/vi/sZKc4bcOZUo/mqdefault.jpg" group-title="FILMES | ANOS 2010",Detroit em Chamas 💣🔥 Crime Parceria Fatal e Violência nas Ruas de 1974 | NetMovies
-https://www.youtube.com/watch?v=sZKc4bcOZUo
-#EXTINF:6835 tvg-logo="https://i.ytimg.com/vi/Lku54w-Nk8s/mqdefault.jpg" group-title="FILMES | ANOS 2010",✍️ RESPOSTA DO CÉU: O GAROTO COM CÂNCER QUE VIROU UM ANJO NA TERRA | FILME COMPLETO GRÁTIS💜NetMovies
-https://www.youtube.com/watch?v=Lku54w-Nk8s
-#EXTINF:6921 tvg-logo="https://i.ytimg.com/vi/pUGmefahmbU/mqdefault.jpg" group-title="FILMES | ANOS 2010",Um professor e seus alunos: a luta por esperança e a realidade cruel de Bougainville nos anos 90 🕊️
-https://www.youtube.com/watch?v=pUGmefahmbU
-#EXTINF:5068 tvg-logo="https://i.ytimg.com/vi/2O0clqckML0/mqdefault.jpg" group-title="FILMES | ANOS 2010",🦖 HE FOUND A DINOSAUR… AND NOW HE NEEDS TO SAVE IT ❤️‍🩹 | Free Online Movie 💜 NetMovies
-https://www.youtube.com/watch?v=2O0clqckML0
 #EXTINF:-1 group-title="TV | CANAIS | VIMEO1",CANAL 2500
 https://player.vimeo.com/video/1193802500
 #EXTINF:-1 group-title="TV | CANAIS | VIMEO1",CANAL 2501
