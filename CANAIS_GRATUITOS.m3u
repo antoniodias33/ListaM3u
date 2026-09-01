@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title=" CANAIS | 01 ABERTOS", 01 CANAL DO USUARIO Atualizado EM 01/09/2026 02h25hs
+#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title=" CANAIS | 01 ABERTOS", 01 CANAL DO USUARIO Atualizado EM 01/09/2026 02h35hs
 https://archive.org/download/canal-do-usuario-iptvbm/Canal%20do%20Usuario%20IPTVBM.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/b1J_mC3pWvM/mqdefault.jpg" group-title="CANAIS | TV AO VIVO",AO VIVO - FILMES (24 HORAS) - NetMovies
 https://www.youtube.com/watch?v=b1J_mC3pWvM
@@ -131,7 +131,7 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="CANAIS | ABERTOS", RecordTV MT 2
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
-#EXTINF:-1 tvg-logo = "https://2.bp.blogspot.com/-nKFQjWxV-Co/XRZMlbgmYDI/AAAAAAAAABPI/RLnB3Goeyw83rN6mM2J7O3kw8sQ3QtyCgCLcBGAs/s320/Screenshot_2019-06-28-14-19-55.png" group-title="CANAIS | ABERTOS", RED BULL TV
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-nKFQjWxV-Co/XRZMlbgmYDI/AAAAAAAAABPI/RLnB3Goeyw83rN6mM2J7O3kw8sQ3QtyCgCLcBGAs/s320/Screenshot_2019-06-28-14-19-55.png" group-title="CANAIS | ABERTOS", RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmarajoara.png" group-title="CANAIS | ABERTOS", Rede Brasil - TV Marajoara (PA)
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
@@ -375,7 +375,7 @@ https://45.190.28.50/AXN_HD/index.m3u8
 https://45.190.28.50/SONY_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1wECsnGZcfc/mqdefault.jpg" group-title="CANAIS | INTERNACIONAIS",24 Notícias TV ao vivo | Atualizações de notícias ao vivo da chuva de Kerala | Notícias Malayalam ao vivo | Transmissão ao vivo em HD | 24 Notícias
 https://www.youtube.com/watch?v=1wECsnGZcfc
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LTiqKDrjqr4/mqdefault.jpg" group-title="CANAIS | INTERNACIONAIS",música para dormir profundo 24 horas por dia, 7 dias por semana, ambiente calmo para dormir e sonhar para
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LTiqKDrjqr4/mqdefault.jpg" group-title="CANAIS | INTERNACIONAIS", ambiente calmo para dormir e sonhar para
 https://www.youtube.com/watch?v=LTiqKDrjqr4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ArKbAx1K-2U/mqdefault.jpg" group-title="CANAIS | INTERNACIONAIS",A24 EN VIVO | Notícias da Argentina e do mundo nas 24 horas
 https://www.youtube.com/watch?v=ArKbAx1K-2U
@@ -395,15 +395,15 @@ https://www.youtube.com/watch?v=rn-5vL0_bCw
 https://www.youtube.com/watch?v=4wb_xjoZau8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/pykpO5kQJ98/mqdefault.jpg" group-title="CANAIS | INTERNACIONAIS",Euronews English Live
 https://www.youtube.com/watch?v=pykpO5kQJ98
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/HvZt-nh9sGg/mqdefault.jpg" group-title="CANAIS | INTERNACIONAIS",FRANÇA 24 Inglês – AO VIVO – Notícias de última hora internacionais e principais notícias - transmissão 24 horas por dia, 7 dias por semana
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/HvZt-nh9sGg/mqdefault.jpg" group-title="CANAIS | INTERNACIONAIS", 7 dias por semana
 https://www.youtube.com/watch?v=HvZt-nh9sGg
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0FBiyFpV__g/mqdefault.jpg" group-title="CANAIS | INTERNACIONAIS",Estação Espacial Internacional — Live 24/7 Earth View | Viagens de sonho
 https://www.youtube.com/watch?v=0FBiyFpV__g
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/iipR5yUp36o/mqdefault.jpg" group-title="CANAIS | INTERNACIONAIS",AO VIVO: ABC News Live - contexto e análise de notícias 24 horas por dia, 7 dias por semana
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/iipR5yUp36o/mqdefault.jpg" group-title="CANAIS | INTERNACIONAIS", 7 dias por semana
 https://www.youtube.com/watch?v=iipR5yUp36o
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nAZMOF3zhto/mqdefault.jpg" group-title="CANAIS | INTERNACIONAIS",Ao vivo: NOVO passeio relaxante 24 horas no Walt Disney World e ambiente ao vivo
 https://www.youtube.com/watch?v=nAZMOF3zhto
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/36YnV9STBqc/mqdefault.jpg" group-title="CANAIS | INTERNACIONAIS",The Good Life Radio • Rádio ao vivo 24 horas por dia, 7 dias por semana | Melhor música relaxante para relaxar, estudar, correr, academia e se divertir
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/36YnV9STBqc/mqdefault.jpg" group-title="CANAIS | INTERNACIONAIS", academia e se divertir
 https://www.youtube.com/watch?v=36YnV9STBqc
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YDvsBbKfLPA/mqdefault.jpg" group-title="CANAIS | INTERNACIONAIS",Assistir Sky News
 https://www.youtube.com/watch?v=YDvsBbKfLPA
@@ -411,14 +411,8 @@ https://www.youtube.com/watch?v=YDvsBbKfLPA
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/wgTyf6P.png" group-title="CANAIS | MÚSICAS Gratis", 4FUN TV
 https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/4Fun-TV.png" group-title="CANAIS | MÚSICAS Grátis", 4Fun TV
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/QISHhp6.png" group-title="CANAIS | MÚSICAS Grátis", 88 ESTÉREO
-http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sa8jiwA.png" group-title="CANAIS | MÚSICAS Gratis", Atlãndida FM
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_capital_1024x1024-768x384.png" group-title="CANAIS | MÚSICAS Grátis", Capital TV
-https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/Colosal-TV.png" group-title="CANAIS | MÚSICAS Gratis", Colosal TV
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jfkbG3x.png" group-title="CANAIS | MÚSICAS Gratis", Difusora Acreana
@@ -427,18 +421,8 @@ http://midia.ac.gov.br/difusora
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS | MÚSICAS Gratis", Kronehit
 https://bitcdn-kronehit.bitmovin.com/v2/hls/20000k.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-kronehit_logo2018_nachtblau_rgb.svg_.png" group-title="CANAIS | MÚSICAS Grátis", KroneHIT
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OA7DMUk.png" group-title="CANAIS | MÚSICAS Gratis", LFM TV
 https://edge17.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-radio_m2o_-_logo_2019.svg_.png" group-title="CANAIS | MÚSICAS Grátis", M2O
-https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-radio_m2o_-_logo_2019.svg_.png" group-title="CANAIS | MÚSICAS Grátis", M2O
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2022/11/maisum.png" group-title="CANAIS | MÚSICAS Grátis", MAIS UM
-https://stream.ichibantv.com:3230/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS | MÚSICAS Grátis", Ocko
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS | MÚSICAS Gratis", Ocko Gold
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ockostar.png" group-title="CANAIS | MÚSICAS Gratis", Ocko Star
@@ -447,10 +431,6 @@ https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/C4sc9nI.png" group-title="CANAIS | MÚSICAS Gratis", PORTAL FOXMIX
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/2c8dg7Y.png" group-title="CANAIS | MÚSICAS Grátis", POWER TV
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/nYirGYT.png" group-title="CANAIS | MÚSICAS Grátis", POWER TV
-http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rock.png" group-title="CANAIS | MÚSICAS Gratis", Rock TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rtl.png" group-title="CANAIS | MÚSICAS Gratis", RTL (Itália)
@@ -459,10 +439,34 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/p
 https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/theretrofb.jpg" group-title="CANAIS | MÚSICAS Gratis", The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/2ENPzfC.png" group-title="CANAIS | MÚSICAS Grátis", TV 538
-https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
 #EXTINF:-1 tvg-id="KpopTVPlay.br@SD" tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="CANAIS | MÚSICAS Gratis",KpopTV Play (576p)
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVKaraokeporStingray.us@BR" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="CANAIS | MÚSICAS Gratis",Pluto TV Karaokê por Stingray (720p)
+https://jmp2.uk/plu-604b99d633a72b00078e05ad.m3u8
+#EXTINF:-1 tvg-id="TraceBrazuca.fr@HD" tvg-logo="https://i.imgur.com/DFBocPu.png" group-title="CANAIS | MÚSICAS Gratis",Trace Brasil (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/4Fun-TV.png" group-title="CANAIS | MÚSICAS Grátis", 4Fun TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/QISHhp6.png" group-title="CANAIS | MÚSICAS Grátis", 88 ESTÉREO
+http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_capital_1024x1024-768x384.png" group-title="CANAIS | MÚSICAS Grátis", Capital TV
+https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-kronehit_logo2018_nachtblau_rgb.svg_.png" group-title="CANAIS | MÚSICAS Grátis", KroneHIT
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-radio_m2o_-_logo_2019.svg_.png" group-title="CANAIS | MÚSICAS Grátis", M2O
+https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-radio_m2o_-_logo_2019.svg_.png" group-title="CANAIS | MÚSICAS Grátis", M2O
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2022/11/maisum.png" group-title="CANAIS | MÚSICAS Grátis", MAIS UM
+https://stream.ichibantv.com:3230/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS | MÚSICAS Grátis", Ocko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2c8dg7Y.png" group-title="CANAIS | MÚSICAS Grátis", POWER TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nYirGYT.png" group-title="CANAIS | MÚSICAS Grátis", POWER TV
+http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2ENPzfC.png" group-title="CANAIS | MÚSICAS Grátis", TV 538
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
 #EXTINF:-1 tvg-id="MCMPop.fr@SD" tvg-logo="https://i.imgur.com/j31lBL7.png" group-title="CANAIS | MÚSICAS Grátis",MCM Pop
 http://rjcf.ofztvxv.top:8080/kang/71267133/99554
 #EXTINF:-1 tvg-id="MCMTop.fr@SD" tvg-logo="https://i.imgur.com/EVtWQLd.png" group-title="CANAIS | MÚSICAS Grátis",MCM Top (720p)
@@ -471,16 +475,12 @@ http://rezofoot.tv/MCM/index.m3u8
 https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
 #EXTINF:-1 tvg-id="MusicBoxBrazil.br@SD" tvg-logo="https://i.imgur.com/CDPCF2X.png" group-title="CANAIS | MÚSICAS Grátis",Music Box Brazil (720p)
 http://45.190.28.50/MUSIC_BOX_HD/index.m3u8
-#EXTINF:-1 tvg-id="PlutoTVKaraokeporStingray.us@BR" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="CANAIS | MÚSICAS Gratis",Pluto TV Karaokê por Stingray (720p)
-https://jmp2.uk/plu-604b99d633a72b00078e05ad.m3u8
 #EXTINF:-1 tvg-id="MTVClassic.us@BR" tvg-logo="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png" group-title="CANAIS | MÚSICAS Grátis",Pluto TV MTV Classic (720p)
 https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
 #EXTINF:-1 tvg-id="PlutoTVShowsporStingray.us@BR" tvg-logo="https://images.pluto.tv/channels/604b91e0692f770007d9f33f/colorLogoPNG.png" group-title="CANAIS | MÚSICAS Grátis",Pluto TV Shows por Stingray (720p)
 https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8
 #EXTINF:-1 tvg-id="TikTokRadioBrasil.br@HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/TikTok_Radio.svg" group-title="CANAIS | MÚSICAS Grátis",TikTok Radio Brasil (1080p)
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529
-#EXTINF:-1 tvg-id="TraceBrazuca.fr@HD" tvg-logo="https://i.imgur.com/DFBocPu.png" group-title="CANAIS | MÚSICAS Gratis",Trace Brasil (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1-12141_al-jazeera-png-aljazeera-logo-01-png-al.png" group-title="CANAIS | NOTICIÁRIO Gratis", Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-bloomberg_television_logo.svg_.png" group-title="CANAIS | NOTICIÁRIO Gratis", Bloomberg TV
@@ -1477,6 +1477,86 @@ https://www.youtube.com/watch?v=R-0KL27BnRE
 https://www.youtube.com/watch?v=LxtzWBcK1-Q
 #EXTINF:5516 tvg-logo="https://i.ytimg.com/vi/o-uFsOJ7Psk/mqdefault.jpg" group-title="FILMES | Cine Club | Drama",FILME COMPLETO DUBLADO 🎬 Dançando em Lughnasa | Drama | Cine Clube
 https://www.youtube.com/watch?v=o-uFsOJ7Psk
+#EXTINF:6217 tvg-logo="https://i.ytimg.com/vi/2AGxOX_nO2M/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO 🎬 O Segredo: Ouse Sonhar | Romance | Cine Club
+https://www.youtube.com/watch?v=2AGxOX_nO2M
+#EXTINF:5482 tvg-logo="https://i.ytimg.com/vi/s87COkd2nrQ/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO 🎬 Trabalhos de Amor Perdidos | Musical | Cine Club
+https://www.youtube.com/watch?v=s87COkd2nrQ
+#EXTINF:5891 tvg-logo="https://i.ytimg.com/vi/tMUE8Wg88iM/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO 🎬 Sem Controle | Drama | Cine Club
+https://www.youtube.com/watch?v=tMUE8Wg88iM
+#EXTINF:5333 tvg-logo="https://i.ytimg.com/vi/mPkpH5HN154/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO 🎬 Caminhos do Coração | Romance | Cine Club
+https://www.youtube.com/watch?v=mPkpH5HN154
+#EXTINF:4419 tvg-logo="https://i.ytimg.com/vi/WrSvzLcrYoI/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO 🎬 O Limite do Prazer | Romance | Cine Club
+https://www.youtube.com/watch?v=WrSvzLcrYoI
+#EXTINF:7650 tvg-logo="https://i.ytimg.com/vi/hejDN16D48Q/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO 🎬 Entre Quatro Paredes | Aventura | Cine Club
+https://www.youtube.com/watch?v=hejDN16D48Q
+#EXTINF:6077 tvg-logo="https://i.ytimg.com/vi/yDpQF05MvW0/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO 🎬 O Diário de Uma Babá | Comédia | Cine Club
+https://www.youtube.com/watch?v=yDpQF05MvW0
+#EXTINF:6205 tvg-logo="https://i.ytimg.com/vi/DjXeMr0doPc/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO 🎬 A Garota dos Seus Sonhos | Comédia | Cine Club
+https://www.youtube.com/watch?v=DjXeMr0doPc
+#EXTINF:4969 tvg-logo="https://i.ytimg.com/vi/Jk4QAQo58Ps/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO 🎬 Quase Trinta - Em Busca do Amor | Romance | Cine Club
+https://www.youtube.com/watch?v=Jk4QAQo58Ps
+#EXTINF:5534 tvg-logo="https://i.ytimg.com/vi/dDxSrY43ODA/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO 🎬 Alex & Emma - Escrevendo sua História de Amor | Romance | Cine Club
+https://www.youtube.com/watch?v=dDxSrY43ODA
+#EXTINF:6169 tvg-logo="https://i.ytimg.com/vi/ULrX9rkyl68/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO 🎬 Uma Escolha de Natal | Romance | Cine Club
+https://www.youtube.com/watch?v=ULrX9rkyl68
+#EXTINF:6003 tvg-logo="https://i.ytimg.com/vi/JdA77q--3K4/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO 🎬 A Loucura do Tempo com Sophie Turner | Romance | Cine Club
+https://www.youtube.com/watch?v=JdA77q--3K4
+#EXTINF:5587 tvg-logo="https://i.ytimg.com/vi/9x0WT-0GcMQ/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO 🎬 Férias na Fazenda | Romance | Cine Club
+https://www.youtube.com/watch?v=9x0WT-0GcMQ
+#EXTINF:6121 tvg-logo="https://i.ytimg.com/vi/IDGXgwkVtpY/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO 🎬 Radioactive | Drama | Cine Club
+https://www.youtube.com/watch?v=IDGXgwkVtpY
+#EXTINF:5646 tvg-logo="https://i.ytimg.com/vi/DmOt81rdFn4/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO 🎬 Caminhos Cruzados | Drama / Romance | Cine Club
+https://www.youtube.com/watch?v=DmOt81rdFn4
+#EXTINF:6673 tvg-logo="https://i.ytimg.com/vi/BJdNwm5Ks4c/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO 🎬 A Cinco Passos de Você | Drama / Romance | Cine Club
+https://www.youtube.com/watch?v=BJdNwm5Ks4c
+#EXTINF:5508 tvg-logo="https://i.ytimg.com/vi/OlWt1apwZNY/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO 🎬 O Par Perfeito | Romance | Cine Club
+https://www.youtube.com/watch?v=OlWt1apwZNY
+#EXTINF:6483 tvg-logo="https://i.ytimg.com/vi/kYswFUnEULw/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO COM ROBERT PATTINSON 🎬 Lembranças | Romance | Cine Club
+https://www.youtube.com/watch?v=kYswFUnEULw
+#EXTINF:5644 tvg-logo="https://i.ytimg.com/vi/EONKQOr825g/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO COM ASHTON KUTCHER 🎬 Assassinos | Comédia de Ação | Cine Club
+https://www.youtube.com/watch?v=EONKQOr825g
+#EXTINF:5774 tvg-logo="https://i.ytimg.com/vi/u2pzHnxTBPA/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO 🎬 Jogando com o Amor | Romance | Cine Club
+https://www.youtube.com/watch?v=u2pzHnxTBPA
+#EXTINF:4998 tvg-logo="https://i.ytimg.com/vi/Sa_wXI73w8w/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO 🎬 Sob as Escadas de Paris | Drama | Cine Club
+https://www.youtube.com/watch?v=Sa_wXI73w8w
+#EXTINF:5380 tvg-logo="https://i.ytimg.com/vi/AGTQYV4yoIA/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO COM PAUL RUDD 🎬 Nem por Cima do Meu Cadáver | Comédia Romântica | Cine Club
+https://www.youtube.com/watch?v=AGTQYV4yoIA
+#EXTINF:4815 tvg-logo="https://i.ytimg.com/vi/r-sejVTgsw4/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO 🎬 Um Amor Sublime | Drama | Cine Club
+https://www.youtube.com/watch?v=r-sejVTgsw4
+#EXTINF:5994 tvg-logo="https://i.ytimg.com/vi/q-TFr_zRJUI/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO COM MERYL STREEP E UMA THURMAN! 🎬 Terapia do Amor | Comédia | Cine Club
+https://www.youtube.com/watch?v=q-TFr_zRJUI
+#EXTINF:5055 tvg-logo="https://i.ytimg.com/vi/oMeapSXgqLk/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO 🎬 Um Conto de Fadas nas Montanhas | Romance | Cine Club
+https://www.youtube.com/watch?v=oMeapSXgqLk
+#EXTINF:4832 tvg-logo="https://i.ytimg.com/vi/6brlUkfSL2g/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO 🎬 Quase Virgem | Comédia | Cine Club
+https://www.youtube.com/watch?v=6brlUkfSL2g
+#EXTINF:5313 tvg-logo="https://i.ytimg.com/vi/8vFmcVAU1OM/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO 🎬 Tempestade na Estrada | Romance | Cine Club
+https://www.youtube.com/watch?v=8vFmcVAU1OM
+#EXTINF:5439 tvg-logo="https://i.ytimg.com/vi/6g91I_q4yXE/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO 🎬 A Verdade Sobre o Amor | Comédia Romântica | Cine Club
+https://www.youtube.com/watch?v=6g91I_q4yXE
+#EXTINF:5639 tvg-logo="https://i.ytimg.com/vi/ULfFIQ5Vbp4/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO 🎬 A Serviço de Sara | Comédia Romântica | Cine Club
+https://www.youtube.com/watch?v=ULfFIQ5Vbp4
+#EXTINF:5891 tvg-logo="https://i.ytimg.com/vi/2bKGBq3VGj4/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO 🎬 Casamento Polonês | Drama | Cine Club
+https://www.youtube.com/watch?v=2bKGBq3VGj4
+#EXTINF:5304 tvg-logo="https://i.ytimg.com/vi/y8VhNxEC__g/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO 🎬 A Cura | Romance | Cine Club
+https://www.youtube.com/watch?v=y8VhNxEC__g
+#EXTINF:5876 tvg-logo="https://i.ytimg.com/vi/5iukHOqHinY/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO 🎬 O Amor Pode Dar Certo | Drama | Cine Club
+https://www.youtube.com/watch?v=5iukHOqHinY
+#EXTINF:5437 tvg-logo="https://i.ytimg.com/vi/KSbHrhS4oco/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO 🎬 Em Busca de um Milagre | drama | Cine Club
+https://www.youtube.com/watch?v=KSbHrhS4oco
+#EXTINF:3631 tvg-logo="https://i.ytimg.com/vi/KL2DeXgCNk0/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO 🎬 Um Inverno Para Lembrar | Romance LGBT | Cine Club
+https://www.youtube.com/watch?v=KL2DeXgCNk0
+#EXTINF:5041 tvg-logo="https://i.ytimg.com/vi/H3n2WE89xJ4/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO 🎬 Um Sonho de Natal 🎬 Comédia Romântica (HD)
+https://www.youtube.com/watch?v=H3n2WE89xJ4
+#EXTINF:6053 tvg-logo="https://i.ytimg.com/vi/eiAs9CVcTAk/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO 🎬 A Última Ceia | Drama / Romance | Cine Club
+https://www.youtube.com/watch?v=eiAs9CVcTAk
+#EXTINF:5275 tvg-logo="https://i.ytimg.com/vi/-zOUn2ZsDRk/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO 🎬 Um Amor do Passado | Drama Romântico | Cine Club
+https://www.youtube.com/watch?v=-zOUn2ZsDRk
+#EXTINF:5603 tvg-logo="https://i.ytimg.com/vi/Iz87S9CLCEo/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO 🎬 2:22 - Encontro Marcado | Suspense | Cine Club
+https://www.youtube.com/watch?v=Iz87S9CLCEo
+#EXTINF:6703 tvg-logo="https://i.ytimg.com/vi/OlqskW6z62w/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO 🎬 Paixão à Flor da Pele | Suspense Romântico | Cine Club
+https://www.youtube.com/watch?v=OlqskW6z62w
+#EXTINF:6094 tvg-logo="https://i.ytimg.com/vi/-KAkzMUYOPU/mqdefault.jpg" group-title="FILMES | Cine Club | Romance",FILME COMPLETO DUBLADO 🎬 Amor Além do Tempo | Romance | Cine Club
+https://www.youtube.com/watch?v=-KAkzMUYOPU
 #EXTINF:4984 tvg-logo="https://i.ytimg.com/vi/S4TBjIo4FuI/mqdefault.jpg" group-title="FILMES | CLASSIFICAR",Como se apaixonar por alguém que você nunca viu? | Filmes dublados completos
 https://www.youtube.com/watch?v=S4TBjIo4FuI
 #EXTINF:6217 tvg-logo="https://i.ytimg.com/vi/Zjk4fdC4mxY/mqdefault.jpg" group-title="FILMES | CLASSIFICAR",O Segredo: Dare to Dream ⭐️ ESTRELADO POR KATIE HOLMES ⭐️ FILME DUBLADO ⭐️ STAR FILMES
@@ -1639,7 +1719,7 @@ https://www.youtube.com/watch?v=OigXT49wYAo
 https://www.youtube.com/watch?v=7W8g3t4ot8Y
 #EXTINF:4350 tvg-logo="https://i.ytimg.com/vi/maL0-M0Xn_I/mqdefault.jpg" group-title="FILMES | Infantis",Antboy (2013) - Filme Completo Dublado (Grátis) - Aventura | NetMovies
 https://www.youtube.com/watch?v=maL0-M0Xn_I
-#EXTINF:4577 tvg-logo="https://i.ytimg.com/vi/hmgTvsfCg98/mqdefault.jpg" group-title="FILMES | Infantis",Arlo, o Porco Travesso - Filme Completo Dublado - Filme de Comédia | NetMovies
+#EXTINF:4577 tvg-logo="https://i.ytimg.com/vi/hmgTvsfCg98/mqdefault.jpg" group-title="FILMES | Infantis", o Porco Travesso - Filme Completo Dublado - Filme de Comédia | NetMovies
 https://www.youtube.com/watch?v=hmgTvsfCg98
 #EXTINF:1873 tvg-logo="https://i.ytimg.com/vi/1AFaaMfm1f0/mqdefault.jpg" group-title="FILMES | Infantis",As Aventuras de Bernardo e Seus Amigos (2021) - LANÇAMENTO DUBLADO GRÁTIS - Animação | NetMovies
 https://www.youtube.com/watch?v=1AFaaMfm1f0
@@ -1723,12 +1803,8 @@ https://www.youtube.com/watch?v=kRrKmkFx9IE
 https://www.youtube.com/watch?v=mddlgdWmR5A
 #EXTINF:4557 tvg-logo="https://i.ytimg.com/vi/fTK6TZ_xn3M/mqdefault.jpg" group-title="FILMES | ON DEMAND",1914: A Primeira Guerra (2014) - Filme Completo Dublado GRÁTIS - Filme de Aventura | NetMovies
 https://www.youtube.com/watch?v=fTK6TZ_xn3M
-#EXTINF:4065 tvg-logo="https://i.ytimg.com/vi/LWAj6YjYieI/mqdefault.jpg" group-title="FILMES | SOB DEMANDA",1953: CAÇADA AO ASSASSINO EM SÉRIE | ☭ A VERDADE SOBRE O EX-AGENTE SOVIÉTICO | MISTÉRIO
-https://www.youtube.com/watch?v=LWAj6YjYieI
 #EXTINF:5509 tvg-logo="https://i.ytimg.com/vi/mvu9grHh2Oc/mqdefault.jpg" group-title="FILMES | ON DEMAND",45 - A Vitória é a Vingança com MILLA JOVOVICH - Filme Dublado GRÁTIS - Filme de Crime | NetMovies
 https://www.youtube.com/watch?v=mvu9grHh2Oc
-#EXTINF:5430 tvg-logo="https://i.ytimg.com/vi/JxCoIFXU9xo/mqdefault.jpg" group-title="FILMES | SOB DEMANDA",Uma Aventura de Natal (2019) - Filme Completo Dublado GRÁTIS - Filme de Aventura | NetMovies
-https://www.youtube.com/watch?v=JxCoIFXU9xo
 #EXTINF:6511 tvg-logo="https://i.ytimg.com/vi/VE43F8JgeKc/mqdefault.jpg" group-title="FILMES | ON DEMAND",A Face Oculta da Lei(2002)- Filme Completo Dublado GRÁTIS - Filme de Ação com KURT RUSSELL|NetMovies
 https://www.youtube.com/watch?v=VE43F8JgeKc
 #EXTINF:6719 tvg-logo="https://i.ytimg.com/vi/TgMuCz43WOY/mqdefault.jpg" group-title="FILMES | ON DEMAND",A Fuga (1994) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
@@ -1743,8 +1819,6 @@ https://www.youtube.com/watch?v=stzlVF4MpkI
 https://www.youtube.com/watch?v=z_RctGzkL9o
 #EXTINF:4620 tvg-logo="https://i.ytimg.com/vi/2boM05pgI5Y/mqdefault.jpg" group-title="FILMES | ON DEMAND",A Maldição da Freira (2018) - Filme Completo Dublado GRÁTIS - Filme de Terror | NetMovies
 https://www.youtube.com/watch?v=2boM05pgI5Y
-#EXTINF:4389 tvg-logo="https://i.ytimg.com/vi/tpiM5TKuKl8/mqdefault.jpg" group-title="FILMES | SOB DEMANDA",Um Homem Sem Passado (2017) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
-https://www.youtube.com/watch?v=tpiM5TKuKl8
 #EXTINF:5513 tvg-logo="https://i.ytimg.com/vi/umEAhnzD_T4/mqdefault.jpg" group-title="FILMES | ON DEMAND",A Menina Invisível (2019) - Filme Completo Dublado GRÁTIS - Filme de Aventura | NetMovies
 https://www.youtube.com/watch?v=umEAhnzD_T4
 #EXTINF:5574 tvg-logo="https://i.ytimg.com/vi/fQ8TqY7uejU/mqdefault.jpg" group-title="FILMES | ON DEMAND",A Máfia dos Vampiros (2017) - Filme Completo Dublado GRÁTIS - Filme de Ação com Ice-T | NetMovies
@@ -1773,8 +1847,6 @@ https://www.youtube.com/watch?v=iYtbwQmLQR8
 https://www.youtube.com/watch?v=mOHBhPwKdKk
 #EXTINF:5757 tvg-logo="https://i.ytimg.com/vi/7RRCoJDQ25I/mqdefault.jpg" group-title="FILMES | ON DEMAND",Até o Fim da Noite (2017) - Filme Completo Dublado GRÁTIS - Filme de Suspense| NetMovies
 https://www.youtube.com/watch?v=7RRCoJDQ25I
-#EXTINF:5368 tvg-logo="https://i.ytimg.com/vi/NXxyzypvzI0/mqdefault.jpg" group-title="FILMES | SOB DEMANDA",Vingadores (2010) - Filme completo dublado GRÁTIS - Filme de ação com Steve Austin! | NetMovies
-https://www.youtube.com/watch?v=NXxyzypvzI0
 #EXTINF:5262 tvg-logo="https://i.ytimg.com/vi/kLjY6aeMeN8/mqdefault.jpg" group-title="FILMES | ON DEMAND",Beowulf vs Grendel: O Guerreiro Que Desafiou o Monstro e Despertou a Inveja do Reino
 https://www.youtube.com/watch?v=kLjY6aeMeN8
 #EXTINF:3315 tvg-logo="https://i.ytimg.com/vi/36Ts0QM0Y1k/mqdefault.jpg" group-title="FILMES | ON DEMAND",Boonie Bears e o Robô Destruidor (2014)- Filme Completo Dublado GRÁTIS- Filme de Aventura| NetMovies
@@ -1901,10 +1973,6 @@ https://www.youtube.com/watch?v=TherE_DJo8Q
 https://www.youtube.com/watch?v=qTkusCsI3D0
 #EXTINF:5630 tvg-logo="https://i.ytimg.com/vi/1XFfSPzA-Ik/mqdefault.jpg" group-title="FILMES | ON DEMAND",Fuga Pela Fronteira (2020) - Filme Completo Dublado GRÁTIS - Filme de Aventura | NetMovies
 https://www.youtube.com/watch?v=1XFfSPzA-Ik
-#EXTINF:5313 tvg-logo="https://i.ytimg.com/vi/V8r4JPfkMw8/mqdefault.jpg" group-title="FILMES | SOB DEMANDA",Giallo: Reféns do Medo (2010) - Filme Completo Dublado GRÁTIS - Suspense com Adrien Brody | NetMovies
-https://www.youtube.com/watch?v=V8r4JPfkMw8
-#EXTINF:5338 tvg-logo="https://i.ytimg.com/vi/fSpaIbcSuzw/mqdefault.jpg" group-title="FILMES | SOB DEMANDA",Guardiões do Tempo (2020) - Filme completo dublado GRÁTIS - Filme de aventura | NetMovies
-https://www.youtube.com/watch?v=fSpaIbcSuzw
 #EXTINF:5221 tvg-logo="https://i.ytimg.com/vi/1FarHWWAs_A/mqdefault.jpg" group-title="FILMES | ON DEMAND",Guerreiros Da M0rte (2009) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
 https://www.youtube.com/watch?v=1FarHWWAs_A
 #EXTINF:5102 tvg-logo="https://i.ytimg.com/vi/2K9JekV8njo/mqdefault.jpg" group-title="FILMES | ON DEMAND",Havaí em Chamas (2022) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
@@ -1963,8 +2031,6 @@ https://www.youtube.com/watch?v=gplUBl1HRG4
 https://www.youtube.com/watch?v=QDMA8qO5Aj8
 #EXTINF:5334 tvg-logo="https://i.ytimg.com/vi/MycZC9IZKiM/mqdefault.jpg" group-title="FILMES | ON DEMAND",No Ritmo da Vida (2020) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
 https://www.youtube.com/watch?v=MycZC9IZKiM
-#EXTINF:5484 tvg-logo="https://i.ytimg.com/vi/-cCrTaMKtc8/mqdefault.jpg" group-title="FILMES | SOB DEMANDA",Ameaça Nuclear na Califórnia: Um Homem Contra o Apocalipse | NetMovies
-https://www.youtube.com/watch?v=-cCrTaMKtc8
 #EXTINF:5287 tvg-logo="https://i.ytimg.com/vi/n7_LthPpYK0/mqdefault.jpg" group-title="FILMES | ON DEMAND",O Acampamento de Férias- Filme Completo Dublado GRÁTIS-Filme de Comédia com Jimmy Trato! | NetMovies
 https://www.youtube.com/watch?v=n7_LthPpYK0
 #EXTINF:5785 tvg-logo="https://i.ytimg.com/vi/c1J-y_yzglc/mqdefault.jpg" group-title="FILMES | ON DEMAND",O Advogado dos 5 Crimes | Filme Completo Dublado GRÁTIS | Filme de Ação | NetMovies
@@ -2025,8 +2091,6 @@ https://www.youtube.com/watch?v=jMSLJr7rVq0
 https://www.youtube.com/watch?v=jFMDropy-zw
 #EXTINF:6125 tvg-logo="https://i.ytimg.com/vi/0oplmmUxI8U/mqdefault.jpg" group-title="FILMES | ON DEMAND",O Último Refúgio (2019) - Filme Completo Dublado GRÁTIS - Ação com Hayden Christensen | NetMovies
 https://www.youtube.com/watch?v=0oplmmUxI8U
-#EXTINF:6060 tvg-logo="https://i.ytimg.com/vi/Tr71e3Bjc_U/mqdefault.jpg" group-title="FILMES | SOB DEMANDA",Oldboy (2013) - Filme Completo Grátis - Filme de Ação | NetMovies
-https://www.youtube.com/watch?v=Tr71e3Bjc_U
 #EXTINF:6088 tvg-logo="https://i.ytimg.com/vi/K6DftqMxBIw/mqdefault.jpg" group-title="FILMES | ON DEMAND",Olhos Cinzentos (2019) - Filme Completo GRÁTIS - Filme de Ação | NetMovies
 https://www.youtube.com/watch?v=K6DftqMxBIw
 #EXTINF:5377 tvg-logo="https://i.ytimg.com/vi/kExUEeKO2tc/mqdefault.jpg" group-title="FILMES | ON DEMAND",Operação Escorpião (2018) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
@@ -2069,8 +2133,6 @@ https://www.youtube.com/watch?v=VADLYRkuBW0
 https://www.youtube.com/watch?v=WkD2wtti1dM
 #EXTINF:5729 tvg-logo="https://i.ytimg.com/vi/wZhRqRcxnjg/mqdefault.jpg" group-title="FILMES | ON DEMAND",Resgate no Oeste (2016) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
 https://www.youtube.com/watch?v=wZhRqRcxnjg
-#EXTINF:6004 tvg-logo="https://i.ytimg.com/vi/12iI9MmvGpg/mqdefault.jpg" group-title="FILMES | SOB DEMANDA",Rogue (2020) - Filme completo dublado GRÁTIS - Filme de ação com MEGAN FOX | NetMovies
-https://www.youtube.com/watch?v=12iI9MmvGpg
 #EXTINF:5810 tvg-logo="https://i.ytimg.com/vi/FZOPCeyRO1s/mqdefault.jpg" group-title="FILMES | ON DEMAND",Russell Crowe faz um assalto virar pesadelo psicológico 😱 | Filme de Ação GRÁTIS 💜 NetMovies
 https://www.youtube.com/watch?v=FZOPCeyRO1s
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/U9Bcqbun3fc/mqdefault.jpg" group-title="FILMES | ON DEMAND",Santa Bárbara - Filme Completo Dublado - Filme de Fé e Família | NetMovies
@@ -2089,16 +2151,12 @@ https://www.youtube.com/watch?v=UFPg_0O56ZM
 https://www.youtube.com/watch?v=gHPuxMyFeks
 #EXTINF:6177 tvg-logo="https://i.ytimg.com/vi/zKkGU6ybyBc/mqdefault.jpg" group-title="FILMES | ON DEMAND",Somente Você (2021) - Filme Completo Dublado GRÁTIS - Filme de Romance | NetMovies
 https://www.youtube.com/watch?v=zKkGU6ybyBc
-#EXTINF:5593 tvg-logo="https://i.ytimg.com/vi/NdvUYdTOIMc/mqdefault.jpg" group-title="FILMES | SOB DEMANDA",Street Fighter Alpha: O Filme (2001) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
-https://www.youtube.com/watch?v=NdvUYdTOIMc
 #EXTINF:4645 tvg-logo="https://i.ytimg.com/vi/S08j6mFxPXE/mqdefault.jpg" group-title="FILMES | ON DEMAND",Super Urso: Um Resgate na Cidade Grande-Filme Completo Dublado GRÁTIS- Filme de Animação | NetMovies
 https://www.youtube.com/watch?v=S08j6mFxPXE
 #EXTINF:5104 tvg-logo="https://i.ytimg.com/vi/gjcWHM68LdQ/mqdefault.jpg" group-title="FILMES | ON DEMAND",Tempestade de Gelo (2023) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
 https://www.youtube.com/watch?v=gjcWHM68LdQ
 #EXTINF:5463 tvg-logo="https://i.ytimg.com/vi/Qe_g0yYR9ls/mqdefault.jpg" group-title="FILMES | ON DEMAND",Território Hostil (2022) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
 https://www.youtube.com/watch?v=Qe_g0yYR9ls
-#EXTINF:5540 tvg-logo="https://i.ytimg.com/vi/tuMh5hcqu3A/mqdefault.jpg" group-title="FILMES | SOB DEMANDA",Terror no Pacífico com um Grande Tubarão Branco à Solta 🦈😱 | FILME COMPLETO GRÁTIS 💜 NetMovies
-https://www.youtube.com/watch?v=tuMh5hcqu3A
 #EXTINF:5130 tvg-logo="https://i.ytimg.com/vi/gtUCiSnrW5k/mqdefault.jpg" group-title="FILMES | ON DEMAND",Thor: Deus do Trovão (2022) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
 https://www.youtube.com/watch?v=gtUCiSnrW5k
 #EXTINF:5551 tvg-logo="https://i.ytimg.com/vi/GiMw3ZLSxMY/mqdefault.jpg" group-title="FILMES | ON DEMAND",Timecop: O Guardião do Tempo com VAN DAMME (1994) - Filme Dublado GRÁTIS - Filme de Ação | NetMovies
@@ -2111,8 +2169,6 @@ https://www.youtube.com/watch?v=G8Fk_p-nIGk
 https://www.youtube.com/watch?v=sSbCxXgPQug
 #EXTINF:6274 tvg-logo="https://i.ytimg.com/vi/YJeqBrjbARA/mqdefault.jpg" group-title="FILMES | ON DEMAND",Trapaças e Dois Canos Fumegantes (1999) - Filme Dublado GRÁTIS - Thriller | NetMovies
 https://www.youtube.com/watch?v=YJeqBrjbARA
-#EXTINF:5423 tvg-logo="https://i.ytimg.com/vi/lD5jJKfFkOM/mqdefault.jpg" group-title="FILMES | SOB DEMANDA",Tremor no mar e terror à vista: como salva-vidas enfrentam tubarões pré-históricos! 🦈 | NetMovies
-https://www.youtube.com/watch?v=lD5jJKfFkOM
 #EXTINF:3474 tvg-logo="https://i.ytimg.com/vi/WzFsH8qNnbA/mqdefault.jpg" group-title="FILMES | ON DEMAND",Ultra Galaxy Fight: Heróis da Nova Geração-Filme Completo Dublado GRÁTIS-Filme de Ação | NetMovies
 https://www.youtube.com/watch?v=WzFsH8qNnbA
 #EXTINF:5522 tvg-logo="https://i.ytimg.com/vi/UhnRiTmnlB0/mqdefault.jpg" group-title="FILMES | ON DEMAND",Ultraman - Mega Batalha na Galáxia Ultra (2009) - Filme Completo Dublado - Filme de Ação | NetMovies
@@ -2157,8 +2213,6 @@ https://www.youtube.com/watch?v=CwoaFzhSUI0
 https://www.youtube.com/watch?v=aPxPrV39WOM
 #EXTINF:5314 tvg-logo="https://i.ytimg.com/vi/G7WpKoliWEA/mqdefault.jpg" group-title="FILMES | ON DEMAND",VENC.BOOH 𝗘𝗟𝗘 𝗔𝗖𝗢𝗥𝗗𝗢𝗨 𝗦𝗘𝗠 𝗠𝗘𝗠𝗢́𝗥𝗜𝗔 𝗘 𝗙𝗢𝗜 𝗔𝗖𝗨𝗦𝗔𝗗𝗢 𝗗𝗘 𝗦𝗘𝗥 𝗨𝗠 🎬O Despertar de um Assassino(2021)
 https://www.youtube.com/watch?v=G7WpKoliWEA
-#EXTINF:4688 tvg-logo="https://i.ytimg.com/vi/CwJ2AeGvRmw/mqdefault.jpg" group-title="FILMES | SOB DEMANDA",Vingança Sem Limites (2012) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
-https://www.youtube.com/watch?v=CwJ2AeGvRmw
 #EXTINF:5368 tvg-logo="https://i.ytimg.com/vi/NXxyzypvzI0/mqdefault.jpg" group-title="FILMES | ON DEMAND",Vingador (2010) - Filme Completo Dublado GRÁTIS - Filme de Ação com Steve Austin! | NetMovies
 https://www.youtube.com/watch?v=NXxyzypvzI0
 #EXTINF:4810 tvg-logo="https://i.ytimg.com/vi/ozAo9VD2-rk/mqdefault.jpg" group-title="FILMES | ON DEMAND",Vingança no Oeste (2018) - Filme Completo Dublado GRÁTIS - Filme de Drama | NetMovies
@@ -2169,6 +2223,32 @@ https://www.youtube.com/watch?v=CwJ2AeGvRmw
 https://www.youtube.com/watch?v=UerSkXCdA-U
 #EXTINF:5302 tvg-logo="https://i.ytimg.com/vi/xyu2aXdeBIc/mqdefault.jpg" group-title="FILMES | ON DEMAND",Zumbis e Robôs | FILME GRATIS COMPLETO 💜 NetMovies
 https://www.youtube.com/watch?v=xyu2aXdeBIc
+#EXTINF:4065 tvg-logo="https://i.ytimg.com/vi/LWAj6YjYieI/mqdefault.jpg" group-title="FILMES | SOB DEMANDA",1953: CAÇADA AO ASSASSINO EM SÉRIE | ☭ A VERDADE SOBRE O EX-AGENTE SOVIÉTICO | MISTÉRIO
+https://www.youtube.com/watch?v=LWAj6YjYieI
+#EXTINF:5430 tvg-logo="https://i.ytimg.com/vi/JxCoIFXU9xo/mqdefault.jpg" group-title="FILMES | SOB DEMANDA",Uma Aventura de Natal (2019) - Filme Completo Dublado GRÁTIS - Filme de Aventura | NetMovies
+https://www.youtube.com/watch?v=JxCoIFXU9xo
+#EXTINF:4389 tvg-logo="https://i.ytimg.com/vi/tpiM5TKuKl8/mqdefault.jpg" group-title="FILMES | SOB DEMANDA",Um Homem Sem Passado (2017) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
+https://www.youtube.com/watch?v=tpiM5TKuKl8
+#EXTINF:5368 tvg-logo="https://i.ytimg.com/vi/NXxyzypvzI0/mqdefault.jpg" group-title="FILMES | SOB DEMANDA",Vingadores (2010) - Filme completo dublado GRÁTIS - Filme de ação com Steve Austin! | NetMovies
+https://www.youtube.com/watch?v=NXxyzypvzI0
+#EXTINF:5313 tvg-logo="https://i.ytimg.com/vi/V8r4JPfkMw8/mqdefault.jpg" group-title="FILMES | SOB DEMANDA",Giallo: Reféns do Medo (2010) - Filme Completo Dublado GRÁTIS - Suspense com Adrien Brody | NetMovies
+https://www.youtube.com/watch?v=V8r4JPfkMw8
+#EXTINF:5338 tvg-logo="https://i.ytimg.com/vi/fSpaIbcSuzw/mqdefault.jpg" group-title="FILMES | SOB DEMANDA",Guardiões do Tempo (2020) - Filme completo dublado GRÁTIS - Filme de aventura | NetMovies
+https://www.youtube.com/watch?v=fSpaIbcSuzw
+#EXTINF:5484 tvg-logo="https://i.ytimg.com/vi/-cCrTaMKtc8/mqdefault.jpg" group-title="FILMES | SOB DEMANDA",Ameaça Nuclear na Califórnia: Um Homem Contra o Apocalipse | NetMovies
+https://www.youtube.com/watch?v=-cCrTaMKtc8
+#EXTINF:6060 tvg-logo="https://i.ytimg.com/vi/Tr71e3Bjc_U/mqdefault.jpg" group-title="FILMES | SOB DEMANDA",Oldboy (2013) - Filme Completo Grátis - Filme de Ação | NetMovies
+https://www.youtube.com/watch?v=Tr71e3Bjc_U
+#EXTINF:6004 tvg-logo="https://i.ytimg.com/vi/12iI9MmvGpg/mqdefault.jpg" group-title="FILMES | SOB DEMANDA",Rogue (2020) - Filme completo dublado GRÁTIS - Filme de ação com MEGAN FOX | NetMovies
+https://www.youtube.com/watch?v=12iI9MmvGpg
+#EXTINF:5593 tvg-logo="https://i.ytimg.com/vi/NdvUYdTOIMc/mqdefault.jpg" group-title="FILMES | SOB DEMANDA",Street Fighter Alpha: O Filme (2001) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
+https://www.youtube.com/watch?v=NdvUYdTOIMc
+#EXTINF:5540 tvg-logo="https://i.ytimg.com/vi/tuMh5hcqu3A/mqdefault.jpg" group-title="FILMES | SOB DEMANDA",Terror no Pacífico com um Grande Tubarão Branco à Solta 🦈😱 | FILME COMPLETO GRÁTIS 💜 NetMovies
+https://www.youtube.com/watch?v=tuMh5hcqu3A
+#EXTINF:5423 tvg-logo="https://i.ytimg.com/vi/lD5jJKfFkOM/mqdefault.jpg" group-title="FILMES | SOB DEMANDA",Tremor no mar e terror à vista: como salva-vidas enfrentam tubarões pré-históricos! 🦈 | NetMovies
+https://www.youtube.com/watch?v=lD5jJKfFkOM
+#EXTINF:4688 tvg-logo="https://i.ytimg.com/vi/CwJ2AeGvRmw/mqdefault.jpg" group-title="FILMES | SOB DEMANDA",Vingança Sem Limites (2012) - Filme Completo Dublado GRÁTIS - Filme de Ação | NetMovies
+https://www.youtube.com/watch?v=CwJ2AeGvRmw
 #EXTINF:5916 tvg-logo="https://i.ytimg.com/vi/_kJSnw4bJ50/mqdefault.jpg" group-title="FILMES | Universo DC e Marvel",Amor em Jogo (2014) - Filme Completo Dublado GRÁTIS - Filme de Comédia com Gal Gadot | NetMovies
 https://www.youtube.com/watch?v=_kJSnw4bJ50
 #EXTINF:5049 tvg-logo="https://i.ytimg.com/vi/TWn8ONeUdYw/mqdefault.jpg" group-title="FILMES | Universo DC e Marvel",Assassinato em Sparrow Creek (2018) - Filme Completo Dublado com Jeffrey Dean Morgan | NetMovies
