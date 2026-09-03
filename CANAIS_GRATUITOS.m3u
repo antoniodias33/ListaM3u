@@ -1,10 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title=" CANAIS | 01 ABERTOS", 01 CANAL DO USUARIO Atualizado EM 03/09/2026 01:45hs
+#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title=" CANAIS | 01 ABERTOS", 01 CANAL DO USUARIO Atualizado EM 03/09/2026 03:25hs
 https://archive.org/download/canal-do-usuario-iptvbm/Canal%20do%20Usuario%20IPTVBM.mp4
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/adesso.png" group-title="CANAIS | ABERTOS", Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/diAxFOm.png" group-title="CANAIS | ABERTOS", ADESSO TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS | ABERTOS",ge Fast (1080p)
+https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://portalamazonia.com/images/p/35790/b2ap3_thumbnail_2016-18.jpg" group-title="CANAIS | ABERTOS", Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2021/09/Xicara-de-Cafe-Acucar-e-Colher-Png-1024x1024.png" group-title="CANAIS | ABERTOS", Amazon Sat CONTRIBUA COM UM CAFEZINHO PIX Chave Fone (47)99626 5594
@@ -45,10 +47,12 @@ https://5c483b9d1019c.streamlock.net:443/falalitoraltv/falalitoraltv/playlist.m3
 http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/635px-france24.png" group-title="CANAIS | ABERTOS", França 24
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="CANAIS | ABERTOS", GLOBO SP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="CANAIS | ABERTOS", TV GLOBO SP
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="CANAIS | ABERTOS", GLOBO SP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="CANAIS | ABERTOS", TV GLOBO HD
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 group-title="CANAIS | ABERTOS",TV Globo Rio de Janeiro (720p)
+http://45.190.28.50/GLOBO_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hMLxwL0.img" group-title="CANAIS | ABERTOS", Master TV
 http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FioVeSb.png" group-title="CANAIS | ABERTOS", MASTER TV PR
@@ -193,8 +197,6 @@ https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FY8kjgr.png" group-title="CANAIS | ABERTOS", TV GALLO
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
-#EXTINF:-1 group-title="CANAIS | ABERTOS", TV Globo HD
-http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FWYjaed.png" group-title="CANAIS | ABERTOS", TV GRANDE NATAL
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NOEr7gX.png" group-title="CANAIS | ABERTOS", TV GRAO PARA
@@ -277,10 +279,6 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4894
 #EXTINF:-1 tvg-id="RedeBrasil.br@SD" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="CANAIS | ABERTOS",Rede Brasil (1080p)
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="RedeCNTSalvador.br@SD" tvg-logo="https://i.imgur.com/jcasAmw.png" group-title="CANAIS | ABERTOS",Rede CNT Salvador (576i)
-
-#EXTINF:-1 tvg-id="RedeGlobo.br@SD" tvg-logo="https://i.imgur.com/O02TF2r.png" group-title="CANAIS | ABERTOS",Rede Globo (1080p)
-https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-id="RedeMetropole.br@SD" tvg-logo="https://i.imgur.com/qJx9Zvd.png" group-title="CANAIS | ABERTOS",Rede Metrópole (720p)
 https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/metropole/index.m3u8
 #EXTINF:-1 tvg-id="RedeSPTV.br@SD" tvg-logo="https://i.imgur.com/kh3LGAP.png" group-title="CANAIS | ABERTOS",Rede SPTV (360p)
