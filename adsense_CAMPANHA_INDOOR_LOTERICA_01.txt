@@ -1,9 +1,17 @@
 #EXTM3U
-#EXTINF:12 tvg-id="20" tvg-name="INFORMATICA001" tvg-logo="https://i.ytimg.com/vi/mKjFaTUELA0/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234" audio-track="pt-BR",01 CANAL DO USUARIO EM EM 01/09/2026 01:15hs Insiste ou se afasta?
-https://www.youtube.com/shorts/mKjFaTUELA0
-#EXTINF:20 tvg-id="20" tvg-name="ANUNCIE_AQUI_01" tvg-logo="https://i.ytimg.com/vi/yYOVIxfOlAc/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO",ANUNCIE AQUI 01 | BIT MASTER
+#EXTINF:14 tvg-id="20" tvg-name="INSISTE_AFASTA_01" tvg-logo="https://www.febspot.com/contents/videos_screenshots/3413000/3413007/320x180/1.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234" audio-track="pt-BR",01 CANAL DO USUARIO EM EM 04/09/2026 23:45hs Insiste ou se afasta?
+https://st29.febspot.com/videos/3413000/3413007/3413007_720p.mp4
+#EXTINF:20 tvg-id="20" tvg-name="DIZ_QUE_NAO_01" tvg-logo="https://www.febspot.com/contents/videos_screenshots/3412000/3412966/320x180/1.jpg" group-title="SERVIÇOS DO USUARIO",QUANDO ALGUÉM DIZ QUE NÃO ESTÁ PRONTO… O QUE VOCÊ FAZ
+https://st29.febspot.com/videos/3412000/3412966/3412966_720p.mp4
+#EXTINF:28 tvg-id="20" tvg-name="DIZ_QUE_NAO_01" tvg-logo="https://www.febspot.com/contents/videos_screenshots/3413000/3413057/320x180/1.jpg" group-title="SERVIÇOS DO USUARIO",Você pode sofrer por uma dor que não é sua
+https://st29.febspot.com/videos/3413000/3413057/3413057_720p.mp4
+#EXTINF:28 tvg-id="20" tvg-name="DIZ_QUE_NAO_01" tvg-logo="https://www.febspot.com/contents/videos_screenshots/3413000/3413068/320x180/1.jpg" group-title="SERVIÇOS DO USUARIO",Coragem ou loucura amar alguém ferido
+https://st29.febspot.com/videos/3413000/3413068/3413068_720p.mp4
+#EXTINF:16 tvg-id="20" tvg-name="ANUNCIE_AQUI_01" tvg-logo="https://www.febspot.com/contents/videos_screenshots/3412000/3412435/320x180/1.jpg" group-title="SERVIÇOS DO USUARIO",ANUNCIE AQUI 01 | BIT MASTER
 https://st29.febspot.com/videos/3412000/3412435/3412435_720p.mp4
-#EXTINF:15 tvg-id="20" tvg-name="ANUNCIE_AQUI_02" tvg-logo="https://i.ytimg.com/vi/7LiGEyTdbrY/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO",ANUNCIE AQUI 02 | BIT MASTER
+#EXTINF:15 tvg-id="20" tvg-name="ANUNCIE_AQUI_02" tvg-logo="https://www.febspot.com/contents/videos_screenshots/3412000/3412440/320x180/1.jpg" group-title="SERVIÇOS DO USUARIO",ANUNCIE AQUI 02 | BIT MASTER
 https://st29.febspot.com/videos/3412000/3412440/3412440_720p.mp4
-#EXTINF:20 tvg-id="20" tvg-name="ANUNCIE_AQUI_03" tvg-logo="https://i.ytimg.com/vi/4i1YSqUvHpA/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO",ANUNCIE AQUI 03 | BIT MASTER
+#EXTINF:20 tvg-id="20" tvg-name="ANUNCIE_AQUI_03" tvg-logo="https://www.febspot.com/contents/videos_screenshots/3412000/3412442/320x180/1.jpg" group-title="SERVIÇOS DO USUARIO",ANUNCIE AQUI 03 | BIT MASTER
 https://st29.febspot.com/videos/3412000/3412442/3412442_720p.mp4
+#EXTINF:20 tvg-id="20" tvg-name="FACO_JINGLES_01" tvg-logo="https://www.febspot.com/contents/videos_screenshots/3412000/3412830/320x180/1.jpg" group-title="SERVIÇOS DO USUARIO",FAÇO JINGLES PRA VOCÊ 01
+https://st29.febspot.com/videos/3412000/3412830/3412830_720p.mp4
