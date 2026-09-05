@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:523 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (05/09/2026 02:40hs)" audio-track="pt-BR",01 BOLSAS feitas à mão (ATUALIZADO EM: (05/09/2026 02:40hs)
-https://www.youtube.com/watch?v=QuQFg7QUTnE
-#EXTINF:215 tvg-logo="https://i.ytimg.com/vi/bsN2Kp-6wek/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (05/09/2026 02:40hs)",Aula 2 - Uma bolsa simples muito bonita feita de tela plástica
+#EXTINF:215 tvg-logo="https://i.ytimg.com/vi/bsN2Kp-6wek/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (05/09/2026 02:50hs)",Aula 1 - Uma bolsa simples muito bonita feita de tela plástica   (ATUALIZADO EM: (05/09/2026 02:50hs)
 https://www.youtube.com/watch?v=bsN2Kp-6wek
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N2bpVTVf640/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (05/09/2026 02:40hs)",Aula 3 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
-https://www.youtube.com/watch?v=N2bpVTVf640
-#EXTINF:500 tvg-logo="https://i.ytimg.com/vi/MRIXyMphsWo/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (05/09/2026 02:40hs)",Aula 4 - Saiba as PRINCIPAIS FERRAMENTAS para quem quer INICIAR em Bolsas em Tela
+#EXTINF:523 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (05/09/2026 02:50hs)" audio-track="pt-BR",Aula 3 - BOLSAS feitas à mão
+https://www.youtube.com/watch?v=QuQFg7QUTnE
+#EXTINF:500 tvg-logo="https://i.ytimg.com/vi/MRIXyMphsWo/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (05/09/2026 02:50hs)",Aula 2 - Saiba as PRINCIPAIS FERRAMENTAS para quem quer INICIAR em Bolsas em Tela
 https://www.youtube.com/watch?v=MRIXyMphsWo
-#EXTINF:830 tvg-logo="https://i.ytimg.com/vi/T3qAQ15ZOYs/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (05/09/2026 02:40hs)",Aula 5 Dicas para Fazer Bolsas na Tela
+#EXTINF:830 tvg-logo="https://i.ytimg.com/vi/T3qAQ15ZOYs/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (05/09/2026 02:50hs)",Aula 5 Dicas para Fazer Bolsas na Tela
 https://www.youtube.com/watch?v=T3qAQ15ZOYs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N2bpVTVf640/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 00 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
+https://www.youtube.com/watch?v=N2bpVTVf640
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159366254-d25c1fb421980e01c88038cb3889fae9c7ad5b2e8b0612136d15f8fdcc57513e-d_360x203?&r=pad&region=us" group-title="MÓDULO 01 - Materiais Básicos",Aula 01 - Diferença entre tela 3 mm e 4 mm e outras (Bolsa Edna aos 37Minutos)
 https://player.vimeo.com/video/1193802601?fl=pl&fe=sh#t=37m38s&end=39m35s
 #EXTINF:2865 tvg-logo="https://i.ytimg.com/vi/l3xcAn3vL8k/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 02 - Minha 1ª Bolsa na tela plástica (Materiais)
@@ -67,6 +67,8 @@ https://www.youtube.com/watch?v=kg-eB5zYtt8
 https://www.youtube.com/watch?v=PnKEVWLOtFA
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/JEtjL-r5QBc/mqdefault.jpg" group-title="MÓDULO 03 - Técnicas Essenciais",Aula 8 - A maneira mais fácil de enfiar uma agulha
 https://www.youtube.com/watch?v=JEtjL-r5QBc
+#EXTINF:1105 tvg-logo="https://i.ytimg.com/vi/oD9KlQDsE_0/mqdefault.jpg" group-title="MÓDULO 03 - Técnicas Essenciais",Aula 9 - Como fazer forros para as bolsas de crochê - Muito fácil
+https://www.youtube.com/watch?v=oD9KlQDsE_0
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9_JvJsfXzSE/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Aula 01 - Bolsa na tela plástica Passo a Passo
 https://www.youtube.com/watch?v=9_JvJsfXzSE
 #EXTINF:1142 tvg-logo="https://i.ytimg.com/vi/5TNmdxJ5Zxo/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Aula 02 - BOLSA DE TELA PLÁSTICA
@@ -193,7 +195,7 @@ https://www.youtube.com/watch?v=UJr-Ggs3vbE
 https://www.youtube.com/watch?v=OUCVUs9DPz8
 #EXTINF:612 tvg-logo="https://i.ytimg.com/vi/2xHmfQubzkw/mqdefault.jpg" group-title="MÓDULO 12 – PRECIFICAÇÃO",Aula 04 - Como precificar bolsas de crochê – Por quanto devo vender bolsas de crochê?
 https://www.youtube.com/watch?v=2xHmfQubzkw
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nSwXjBnmSA0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC3KW1UtMlFRzcG5kPegkYVNv_ICg" group-title="MÓDULO 12 – PRECIFICAÇÃO",Como vender crochê (passo a passo real)/ como vender mais crochê/ vendendo crochê
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nSwXjBnmSA0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC3KW1UtMlFRzcG5kPegkYVNv_ICg" group-title="MÓDULO 12 – PRECIFICAÇÃO",Aula 05 - Como vender crochê (passo a passo real)/ como vender mais crochê/ vendendo crochê
 https://www.youtube.com/watch?v=nSwXjBnmSA0
 #EXTINF:1063 tvg-logo="https://i.ytimg.com/vi/PzHDVnMW420/mqdefault.jpg" group-title="MÓDULO 13 - ALÇAS para Bolsas",Aula 01 - Alça de Bolsa de Crochê na MANGUEIRA DE CONSTRUÇÃO
 https://www.youtube.com/watch?v=PzHDVnMW420
@@ -349,18 +351,16 @@ https://www.youtube.com/watch?v=8MuQO53LhuI
 https://www.youtube.com/watch?v=YtoUlZRtSFk
 #EXTINF:1453 tvg-logo="https://i.ytimg.com/vi/x8nssQn4wD0/mqdefault.jpg" group-title="MÓDULO 14 - CURSO BOLSAS NA TELA",Tutorial de bolsa DIY com tela plástica | Como fazer uma bolsa feminina artesanal com tela plástica #DIY
 https://www.youtube.com/watch?v=x8nssQn4wD0
-#EXTINF:957 tvg-logo="https://i.ytimg.com/vi/kFLTaIaX-VQ/mqdefault.jpg" group-title="MÓDULO 14 - CURSO BOLSAS NA TELA",TUTORIAL DE BOLSA DIY ||Todos podem fazer - Bolsa de lona plástica DIY. Como fazer uma bolsa artesanal
-https://www.youtube.com/watch?v=kFLTaIaX-VQ
 #EXTINF:1198 tvg-logo="https://i.ytimg.com/vi/YylKuSxQ_0o/mqdefault.jpg" group-title="MÓDULO 14 - CURSO BOLSAS NA TELA",TUTORIAL DE BOLSA DIY ||Todos podem fazer - Bolsa de lona plástica DIY. Como fazer uma bolsa artesanal
 https://www.youtube.com/watch?v=YylKuSxQ_0o
+#EXTINF:957 tvg-logo="https://i.ytimg.com/vi/kFLTaIaX-VQ/mqdefault.jpg" group-title="MÓDULO 14 - CURSO BOLSAS NA TELA",TUTORIAL DE BOLSA DIY ||Todos podem fazer - Bolsa de lona plástica DIY. Como fazer uma bolsa artesanal
+https://www.youtube.com/watch?v=kFLTaIaX-VQ
 #EXTINF:6285 tvg-logo="https://i.ytimg.com/vi/7d5NzTjreh8/mqdefault.jpg" group-title="MÓDULO 14 - CURSO BOLSAS NA TELA",TUTORIAL DE COMO FAZER BOLSAS DE LONA PLÁSTICA FEITAS À MÃO / TUTORIAL DE NOVOS SITITCHES DE LONA PLÁSTICA
 https://www.youtube.com/watch?v=7d5NzTjreh8
 #EXTINF:2722 tvg-logo="https://i.ytimg.com/vi/xcKcoU8X7jM/mqdefault.jpg" group-title="MÓDULO 14 - CURSO BOLSAS NA TELA",Uma bolsa completa de tela plástica em preto e branco com um novo padrão de pontos #feitoàmão
 https://www.youtube.com/watch?v=xcKcoU8X7jM
 #EXTINF:1211 tvg-logo="https://i.ytimg.com/vi/PnIpTwy5BTM/mqdefault.jpg" group-title="MÓDULO 14 - CURSO BOLSAS NA TELA",Você vai se apaixonar! Faça esta bolsa elegante usando tela plástica e fita de tule.
 https://www.youtube.com/watch?v=PnIpTwy5BTM
-#EXTINF:1105 tvg-logo="https://i.ytimg.com/vi/oD9KlQDsE_0/mqdefault.jpg" group-title="MÓDULO 15 - FORROS",Como fazer forros para as bolsas de crochê - Muito fácil
-https://www.youtube.com/watch?v=oD9KlQDsE_0
 #EXTINF:1017 tvg-logo="https://i.ytimg.com/vi/50rdxVMDvTY/mqdefault.jpg" group-title="MÓDULO 15 - CURSO: BOLSAS DE TECIDO",Todos vão ADORAR!! Como fazer uma BOLSA DE MALHA PLÁSTICA / Carteira de Lona Plástica
 https://www.youtube.com/watch?v=50rdxVMDvTY
 #EXTINF:930 tvg-logo="https://i.ytimg.com/vi/9xN2UdPXwqw/mqdefault.jpg" group-title="MÓDULO 15 - CURSO: BOLSAS DE TECIDO", APAIXONE-SE! Como FAZER uma MINI BOLSA tecida com TELA PLÁSTICA E RÁFIA / tela plástica
