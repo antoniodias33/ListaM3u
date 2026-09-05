@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:12 tvg-id="20" tvg-name="INFORMATICA001" tvg-logo="https://i.ytimg.com/vi/mKjFaTUELA0/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO" parent-code="1234" audio-track="pt-BR",01 CANAL DO USUARIO EM EM 01/09/2026 01:15hs Insiste ou se afasta?
+https://www.youtube.com/shorts/mKjFaTUELA0
+#EXTINF:20 tvg-id="20" tvg-name="ANUNCIE_AQUI_01" tvg-logo="https://i.ytimg.com/vi/yYOVIxfOlAc/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO",ANUNCIE AQUI 01 | BIT MASTER
+https://st29.febspot.com/videos/3412000/3412435/3412435_720p.mp4
+#EXTINF:15 tvg-id="20" tvg-name="ANUNCIE_AQUI_02" tvg-logo="https://i.ytimg.com/vi/7LiGEyTdbrY/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO",ANUNCIE AQUI 02 | BIT MASTER
+https://st29.febspot.com/videos/3412000/3412440/3412440_720p.mp4
+#EXTINF:20 tvg-id="20" tvg-name="ANUNCIE_AQUI_03" tvg-logo="https://i.ytimg.com/vi/4i1YSqUvHpA/mqdefault.jpg" group-title="SERVIÇOS DO USUARIO",ANUNCIE AQUI 03 | BIT MASTER
+https://st29.febspot.com/videos/3412000/3412442/3412442_720p.mp4
