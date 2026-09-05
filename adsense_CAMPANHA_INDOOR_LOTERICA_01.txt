@@ -3,10 +3,12 @@
 https://st29.febspot.com/videos/3413000/3413007/3413007_720p.mp4
 #EXTINF:20 tvg-id="20" tvg-name="DIZ_QUE_NAO_01" tvg-logo="https://www.febspot.com/contents/videos_screenshots/3412000/3412966/320x180/1.jpg" group-title="SERVIÇOS DO USUARIO",QUANDO ALGUÉM DIZ QUE NÃO ESTÁ PRONTO… O QUE VOCÊ FAZ
 https://st29.febspot.com/videos/3412000/3412966/3412966_720p.mp4
-#EXTINF:28 tvg-id="20" tvg-name="DIZ_QUE_NAO_01" tvg-logo="https://www.febspot.com/contents/videos_screenshots/3413000/3413057/320x180/1.jpg" group-title="SERVIÇOS DO USUARIO",Você pode sofrer por uma dor que não é sua
+#EXTINF:28 tvg-id="20" tvg-name="MILLIUM001" tvg-logo="https://www.febspot.com/contents/videos_screenshots/3413000/3413057/320x180/1.jpg" group-title="SERVIÇOS DO USUARIO",Você pode sofrer por uma dor que não é sua
 https://st29.febspot.com/videos/3413000/3413057/3413057_720p.mp4
-#EXTINF:28 tvg-id="20" tvg-name="DIZ_QUE_NAO_01" tvg-logo="https://www.febspot.com/contents/videos_screenshots/3413000/3413068/320x180/1.jpg" group-title="SERVIÇOS DO USUARIO",Coragem ou loucura amar alguém ferido
+#EXTINF:28 tvg-id="20" tvg-name="CORAGEM_01" tvg-logo="https://www.febspot.com/contents/videos_screenshots/3413000/3413068/320x180/1.jpg" group-title="SERVIÇOS DO USUARIO",Coragem ou loucura amar alguém ferido
 https://st29.febspot.com/videos/3413000/3413068/3413068_720p.mp4
+#EXTINF:46 tvg-id="20" tvg-name="LOOK_SOCIAL_01" tvg-logo="https://www.febspot.com/contents/videos_screenshots/3413000/3413124/320x180/1.jpg" group-title="SERVIÇOS DO USUARIO",Seu Estilo Fala Por Você | Faça-o Falar Alto
+https://st29.febspot.com/videos/3413000/3413124/3413124_720p.mp4
 #EXTINF:16 tvg-id="20" tvg-name="ANUNCIE_AQUI_01" tvg-logo="https://www.febspot.com/contents/videos_screenshots/3412000/3412435/320x180/1.jpg" group-title="SERVIÇOS DO USUARIO",ANUNCIE AQUI 01 | BIT MASTER
 https://st29.febspot.com/videos/3412000/3412435/3412435_720p.mp4
 #EXTINF:15 tvg-id="20" tvg-name="ANUNCIE_AQUI_02" tvg-logo="https://www.febspot.com/contents/videos_screenshots/3412000/3412440/320x180/1.jpg" group-title="SERVIÇOS DO USUARIO",ANUNCIE AQUI 02 | BIT MASTER
