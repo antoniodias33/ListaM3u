@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:523 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (05/09/2026 03:05hs)" audio-track="pt-BR",Aula 1 - BOLSAS feitas à mão  (ATUALIZADO EM: 05/09/2026 03:05hs)
+#EXTINF:523 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (05/09/2026 03:25hs)" audio-track="pt-BR",Aula 1 - BOLSAS feitas à mão (ATUALIZADO EM: 05/09/2026 03:25hs)
 https://www.youtube.com/watch?v=QuQFg7QUTnE
-#EXTINF:500 tvg-logo="https://i.ytimg.com/vi/MRIXyMphsWo/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (05/09/2026 03:05hs)",Aula 2 - Saiba as PRINCIPAIS FERRAMENTAS para quem quer INICIAR em Bolsas em Tela
+#EXTINF:500 tvg-logo="https://i.ytimg.com/vi/MRIXyMphsWo/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (05/09/2026 03:25hs)",Aula 2 - Saiba as PRINCIPAIS FERRAMENTAS para quem quer INICIAR em Bolsas em Tela
 https://www.youtube.com/watch?v=MRIXyMphsWo
-#EXTINF:215 tvg-logo="https://i.ytimg.com/vi/bsN2Kp-6wek/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (05/09/2026 03:05hs)",Aula 3 - Uma bolsa simples muito bonita feita de tela plástica
+#EXTINF:215 tvg-logo="https://i.ytimg.com/vi/bsN2Kp-6wek/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (05/09/2026 03:25hs)",Aula 3 - Uma bolsa simples muito bonita feita de tela plástica
 https://www.youtube.com/watch?v=bsN2Kp-6wek
-#EXTINF:830 tvg-logo="https://i.ytimg.com/vi/T3qAQ15ZOYs/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (05/09/2026 03:05hs)",Aula 4 - Dicas para Fazer Bolsas na Tela
+#EXTINF:830 tvg-logo="https://i.ytimg.com/vi/T3qAQ15ZOYs/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (05/09/2026 03:25hs)",Aula 4 - Dicas para Fazer Bolsas na Tela
 https://www.youtube.com/watch?v=T3qAQ15ZOYs
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N2bpVTVf640/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 00 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
 https://www.youtube.com/watch?v=N2bpVTVf640
@@ -189,8 +189,8 @@ https://www.youtube.com/watch?v=JsPyL_1jTrw
 https://www.youtube.com/watch?v=_JkV6P1XyEA
 #EXTINF:695 tvg-logo="https://i.ytimg.com/vi/l4zraPJbcPw/mqdefault.jpg" group-title="MÓDULO 12 – PRECIFICAÇÃO",Aula 01 - Como DEFINIR PREÇO DE VENDA?  PASSO A PASSO pra PRECIFICAR seu PRODUTO ou SERVIÇO [PLANILHA GRÁTIS]
 https://www.youtube.com/watch?v=l4zraPJbcPw
-#EXTINF:558 tvg-logo="https://i.ytimg.com/vi/UJr-Ggs3vbE/mqdefault.jpg" group-title="MÓDULO 12 – PRECIFICAÇÃO",Aula 02 - APRENDA CALCULAR O PREÇO DA SUA PEÇA DE CROCHÊ/ QUANTO COBRAR?
-https://www.youtube.com/watch?v=UJr-Ggs3vbE
+#EXTINF:558 tvg-logo="https://i.ytimg.com/vi/I7CJriiiA3o/mqdefault.jpg" group-title="MÓDULO 12 – PRECIFICAÇÃO",Aula 02 - APRENDA COMO PRECIFICAR SEU CROCHÊ ( super fácil pra iniciante ✅)
+https://www.youtube.com/watch?v=I7CJriiiA3o
 #EXTINF:3021 tvg-logo="https://i.ytimg.com/vi/OUCVUs9DPz8/mqdefault.jpg" group-title="MÓDULO 12 – PRECIFICAÇÃO",Aula 03 - BOLSA NA TELA COM FIO DE MALHA E PRECIFICAÇÃO PASSO A PASSO
 https://www.youtube.com/watch?v=OUCVUs9DPz8
 #EXTINF:612 tvg-logo="https://i.ytimg.com/vi/2xHmfQubzkw/mqdefault.jpg" group-title="MÓDULO 12 – PRECIFICAÇÃO",Aula 04 - Como precificar bolsas de crochê – Por quanto devo vender bolsas de crochê?
