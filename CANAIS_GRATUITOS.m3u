@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title=" CANAIS | 01 ABERTOS (08/09/2026 12:10hs)", Balneário Camboriú ao vivo - Avenida Atlântica
+#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title=" CANAIS | 01 ABERTOS (08/09/2026 12:15hs)", Balneário Camboriú ao vivo - Avenida Atlântica
 https://www.youtube.com/watch?v=5Xl6pSgiy3A
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LLpNUqHVam8/mqdefault.jpg" group-title="CANAIS | TV AO VIVO", SBT Ao Vivo
 https://www.youtube.com/watch?v=LLpNUqHVam8
@@ -5277,24 +5277,12 @@ https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500016BH_20230222T012037SQUARE.png_20230222012037.png" group-title="Bichos", The Pet Collective (Samsung TV Plus Reino Unido)
 https://07f754f8f3aa4f45a494a61ff985a418.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_ThePetCollective/playlist.m3u8?ads.wurl_channel=152&ads.wurl_name=ThePetCollective&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1024px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="Comédia", Chapolin (Brasil)
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Chaves_logo.svg/1024px-Chaves_logo.svg.png" group-title="Comédia", Chaves (Brasil)
-
 #EXTINF:-1 tvg-logo="https://imgur.com/STcGZA4.png" group-title="Comédia", Comedy Club (Montenegro/RS)
 https://video11.logicahost.com.br/comedyclub/comedyclub/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/16/Escolinha-do-professor-raimundo-logo.jpg" group-title="Comédia", Escolinha do Professor Raimundo (Brasil)
-
 #EXTINF:-1 tvg-logo="https://imgur.com/sDDdwH2.png" group-title="Comédia", Fora Tédio TV (Brasil)
 https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/9zRRgmQ.png" group-title="Comédia", Futurama (Brasil)
-
 #EXTINF:-1 tvg-logo="https://imgur.com/wYyApTk.png" group-title="Comédia", Mr. Bean (Samsung TV Plus Brasil) 
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Banijay/MrBeanLiveAction_BR/MrBeanLiveAction.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Simpsons_Logo.svg/1024px-The_Simpsons_Logo.svg.png" group-title="Comédia", Os Simpsons (Brasil)
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Trapalhoes.jpg" group-title="Comédia", Os Trapalhões (Brasil)
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Porta_dos_Fundos.jpeg" group-title="Comédia", PortaTV / Porta dos Fundos (LG Channels Brasil)
 https://amg00740-sofa-amg00740c22-lg-br-9875.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-portatv-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://poop.tv.br/wp-content/uploads/2024/06/cropped-logo-pooptv-300x228.png" group-title="Comédia", Poop TV (Brasil)
@@ -5351,8 +5339,6 @@ https://amg01515-amg01515c30-lg-br-9221.playouts.now.amagi.tv/playlist/amg01515-
 https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/teRJhVJ.png" group-title="Documentários", TV História (Montenegro/RS)
 https://video10.logicahost.com.br/tvhistoria/tvhistoria/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/3MFWC0k.png" group-title="Documentários", Você Sabia? (Brasil)
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1280px-Deutsche_Welle_symbol_2012.svg.png" group-title="Documentários", Deutsche Welle Español (Alemanha)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700002TD_20230426T015717SQUARE.png_20230426015717.png" group-title="Documentários", Love the Planet (Samsung TV Plus Espanha)
@@ -5693,16 +5679,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=967
 https://amogonetworx-charlie-1-br.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xGHyc3y.png" group-title="Geek e Anime", Canal Start (Brasil)
 https://srv5.zcast.com.br/canalstart/canalstart/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a7/Cybercops-logotipo.jpg" group-title="Geek e Anime", Cybercops (Brasil)
-
 #EXTINF:-1 tvg-logo="https://geekdot.live/wp-content/uploads/2024/05/GKD_CAPA_NEW.png" group-title="Geek e Anime", Geekdot (Brasil)
 https://stream.ichibansys.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/H8WfuOK.png" group-title="Geek e Anime", Hallo! Anime (Só Play)
 https://cdn-5.nxplay.com.br/HALLOANIME/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/62/Jaspion_logo.jpg" group-title="Geek e Anime", Jaspion (Brasil)
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/sekai-ninja-sen-jiraiya-logo-6996F9C376-seeklogo.com.png" group-title="Geek e Anime", Jiraya (Brasil)
-
 #EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/original/loading-programa-novo-canal_73a1059c1143eb067054aa4edc4d77a904d0ed3b.jpeg" group-title="Geek e Anime", Loading Web TV (São Paulo/SP)
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JMYR5Fc.png" group-title="Geek e Anime", Manual do Mundo (Samsung TV Plus Brasil)
@@ -5725,12 +5705,6 @@ https://pop.uniquetv.com.br/supergeek/video.m3u8
 https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/F1nkZlN.png" group-title="Geek e Anime", Yeeaah 2 (Brasil)
 https://srv5.zcast.com.br/yeeaahradio/yeeaahradio/playlist.m3u8?hls_ctx=50r69m13
-#EXTINF:-1 tvg-logo="https://imgur.com/cVk9Ueo.png" group-title="Infantil e Desenhos", A Vaca e o Frango (Brasil)
-
-#EXTINF:-1 tvg-logo="https://imgur.com/tiFOfmW.png" group-title="Infantil e Desenhos", Coragem - o Cão Covarde (Brasil)
-
-#EXTINF:-1 tvg-logo="https://imgur.com/fiq6kJJ.png" group-title="Infantil e Desenhos", Corrida Maluca (Brasil)
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/BRBD1700008A3_20240724T012634SQUARE.png" group-title="Infantil e Desenhos", DPA Fast (Samsung TV Plus Brasil)
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/DPA_Fast_BR/DPA_Fast.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BVL0L15.jpg" group-title="Infantil e Desenhos", Dum Dum (TCL Channel Brasil)
@@ -5739,46 +5713,20 @@ https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/66d1621a454d
 https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://nxplay-images.comets.com.br/resize/65ba3aa6b33fa_e87fab2ab503a0032691e607098fb9e8.png" group-title="Infantil e Desenhos", Léo e Lully (Só Play)
 https://cdn-5.nxplay.com.br/LEO_E_LULLY/tracks-v1a1/mono.m3u8?token=9267fc0520cb18dabfbcd2d0948b9ac39ffa1fae-32e7e90790d141bea7d9880974db3e1b-1731470422-1731427222
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Little_Lulu_Show.jpg" group-title="Infantil e Desenhos", Luluzinha (Brasil) 
-
-#EXTINF:-1 tvg-logo="https://imgur.com/V77GZ7p.png" group-title="Infantil e Desenhos", Manda Chuva (Brasil)
-
-#EXTINF:-1 tvg-logo="https://www.disneyclips.com/images/images/mickey-donald-rollerskating.png" group-title="Infantil e Desenhos", Mickey & Donald (Brasil)
-
 #EXTINF:-1 tvg-logo="https://imgur.com/kIpHUqL.png" group-title="Infantil e Desenhos", Moji TV (Brasil)
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992140
 #EXTINF:-1 tvg-logo="https://imgur.com/M8KSA6P.png" group-title="Infantil e Desenhos", Nicktoons (Brasil)
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.launchbox-app.com/d84590b0-591f-43a0-bdb2-ee08fdbaf875.png" group-title="Infantil e Desenhos", O Fantástico Mundo de Bobby (Brasil) 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/The_Flintstones_logo.svg/1024px-The_Flintstones_logo.svg.png" group-title="Infantil e Desenhos", Os Flintstones (Brasil)
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/Jetsons.jpg" group-title="Infantil e Desenhos", Os Jetsons (Brasil)
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/mcb4uI9.png" group-title="Infantil e Desenhos", Patolino (Brasil)
-
 #EXTINF:-1 tvg-logo="https://imgur.com/k5ZN6Fx.png" group-title="Infantil e Desenhos", Peak Toons (Brasil)
 https://x1colegal.com/hls/0/stream.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/I9D63RG.png" group-title="Infantil e Desenhos", Pepe Legal (Brasil)
-
-#EXTINF:-1 tvg-logo="https://imgur.com/4K37ZFW.jpg" group-title="Infantil e Desenhos", Peppa Pig (Brasil)
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Woody_Woodpecker_logo_%28official%29.png" group-title="Infantil e Desenhos", Pica-Pau (Brasil)
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="Infantil e Desenhos", Retrô Cartoon (São Paulo/SP)
 https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Scooby_doo_logo.png" group-title="Infantil e Desenhos", Scooby Doo (Brasil)
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BN60YJV.png" group-title="Infantil e Desenhos", Tartaruga Touché (Brasil)
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Tom_and_Jerry_logo.svg/1024px-Tom_and_Jerry_logo.svg.png" group-title="Infantil e Desenhos", Tom & Jerry (Brasil)
-
 #EXTINF:-1 tvg-logo="https://imgur.com/igbcugD.png" group-title="Infantil e Desenhos", Toon Goggles (Samsung TV Plus Brasil)
 https://tg-tg-br-samsung.otteravision.com/tg/tg_br_h265/tg_br_h265.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Turma_da_M%C3%B4nica_Logo.png" group-title="Infantil e Desenhos", Turma da Mônica (LG Channels Brasil)
 https://amg00740-sofa-amg00740c9-lg-br-7304.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/twWR8Et.png" group-title="Infantil e Desenhos", Zé Buscapé (Brasil)
-
 #EXTINF:-1 tvg-logo="https://imgur.com/6cEVgaJ.jpg" group-title="Infantil e Desenhos", DM Kids TV (Soul TV)
 https://video03.logicahost.com.br/dmkidstv/dmkidstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/04IizxF.png" group-title="Infantil e Desenhos", Baby Einstein (EUA)
@@ -6001,60 +5949,22 @@ https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://rcntv-rcnmas-1-us.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://awtv.com.br/wp-content/uploads/2025/05/logoawtv.jpg" group-title="Retrô", AWTV (Sorocaba/SP)
 https://awtv.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/db/A-Grande-Fam%C3%ADlia-logo.jpg" group-title="Retrô", A Grande Família (Brasil)
-
 #EXTINF:-1 tvg-logo="https://www.caravanaplay.com.br/admin/assets/img/locutores/padrao.png" group-title="Retrô", Caravana Play (Brasil)
 https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/YvJ3OPd.png" group-title="Retrô", Classique TV (Brasil)
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1024px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="Retrô", Chapolin (Brasil)
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Chaves_logo.svg/1024px-Chaves_logo.svg.png" group-title="Retrô", Chaves (Brasil)
-
-#EXTINF:-1 tvg-logo="https://imgur.com/fiq6kJJ.png" group-title="Retrô", Corrida Maluca (Brasil)
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/16/Escolinha-do-professor-raimundo-logo.jpg" group-title="Retrô", Escolinha do Professor Raimundo (Brasil)
-
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/5b00ef206723937.66d0fe6e1582e.png" group-title="Retrô", Hallo! Classic (Só Play)
 https://cdn-5.nxplay.com.br/HALLOCLASSIC/tracks-v1a1/mono.m3u8?token=546bf65c4a5f9ac44d9ddd3422d6803a06a7a021-7a7b2c0bc8087d2810bf62fd50306b1c-1731305419-1731262219
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Little_Lulu_Show.jpg" group-title="Retrô", Luluzinha (Brasil) 
-
-#EXTINF:-1 tvg-logo="https://imgur.com/V77GZ7p.png" group-title="Retrô", Manda Chuva (Brasil)
-
-#EXTINF:-1 tvg-logo="https://www.disneyclips.com/images/images/mickey-donald-rollerskating.png" group-title="Retrô", Mickey & Donald (Brasil)
-
-#EXTINF:-1 tvg-logo="https://images.launchbox-app.com/d84590b0-591f-43a0-bdb2-ee08fdbaf875.png" group-title="Retrô", O Fantástico Mundo de Bobby (Brasil) 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/The_Flintstones_logo.svg/1024px-The_Flintstones_logo.svg.png" group-title="Retrô", Os Flintstones (Brasil)
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/Jetsons.jpg" group-title="Retrô", Os Jetsons (Brasil)
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Simpsons_Logo.svg/1024px-The_Simpsons_Logo.svg.png" group-title="Retrô", Os Simpsons (Brasil)
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Trapalhoes.jpg" group-title="Retrô", Os Trapalhões (Brasil)
-
-#EXTINF:-1 tvg-logo="https://imgur.com/mcb4uI9.png" group-title="Retrô", Patolino (Brasil)
-
-#EXTINF:-1 tvg-logo="https://imgur.com/I9D63RG.png" group-title="Retrô", Pepe Legal (Brasil)
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Woody_Woodpecker_logo_%28official%29.png" group-title="Retrô", Pica-Pau (Brasil)
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sydBue3.png" group-title="Retrô", Retrô Cartoon (São Paulo/SP)
 https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/davbBNf.png" group-title="Retrô", Reviva TV (São Paulo/SP)
 https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Scooby_doo_logo.png" group-title="Retrô", Scooby Doo (Brasil)
-
 #EXTINF:-1 tvg-logo="https://imgur.com/DXHLIcK.png" group-title="Retrô", Séries Classic (Montenegro/RS)
 https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/BN60YJV.png" group-title="Retrô", Tartaruga Touché (Brasil)
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Tom_and_Jerry_logo.svg/1024px-Tom_and_Jerry_logo.svg.png" group-title="Retrô", Tom & Jerry (Brasil)
-
 #EXTINF:-1 tvg-logo="https://imgur.com/wLv9R0R.png" group-title="Retrô", Vintage TV (Cotia/SP)
 https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/twWR8Et.png" group-title="Retrô", Zé Buscapé (Brasil)
-
 #EXTINF:-1 tvg-logo="https://imgur.com/exmQFrD.png" group-title="Retrô", Charlie TV (Xiaomi TV+ Brasil)
 https://amogonetworx-charlie-1-br.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3wizSOk.png" group-title="Retrô", Pantera Cor-de-Rosa (Brasil)
