@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:523 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (05/09/2026 03:55hs)" audio-track="pt-BR",Aula 1 - BOLSAS feitas à mão (ATUALIZADO EM: 05/09/2026 03:55hs)
+#EXTINF:523 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (08/09/2026 19:15hs)" audio-track="pt-BR",Aula 1 - BOLSAS feitas à mão (ATUALIZADO EM: 08/09/2026 19:15hs)
 https://www.youtube.com/watch?v=QuQFg7QUTnE
-#EXTINF:500 tvg-logo="https://i.ytimg.com/vi/MRIXyMphsWo/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (05/09/2026 03:55hs)",Aula 2 - Saiba as PRINCIPAIS FERRAMENTAS para quem quer INICIAR em Bolsas em Tela
+#EXTINF:500 tvg-logo="https://i.ytimg.com/vi/MRIXyMphsWo/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (08/09/2026 19:15hs)",Aula 2 - Saiba as PRINCIPAIS FERRAMENTAS para quem quer INICIAR em Bolsas em Tela
 https://www.youtube.com/watch?v=MRIXyMphsWo
-#EXTINF:215 tvg-logo="https://i.ytimg.com/vi/bsN2Kp-6wek/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (05/09/2026 03:55hs)",Aula 3 - Uma bolsa simples muito bonita feita de tela plástica
+#EXTINF:215 tvg-logo="https://i.ytimg.com/vi/bsN2Kp-6wek/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (08/09/2026 19:15hs)",Aula 3 - Uma bolsa simples muito bonita feita de tela plástica
 https://www.youtube.com/watch?v=bsN2Kp-6wek
-#EXTINF:830 tvg-logo="https://i.ytimg.com/vi/T3qAQ15ZOYs/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (05/09/2026 03:55hs)",Aula 4 - Dicas para Fazer Bolsas na Tela
+#EXTINF:830 tvg-logo="https://i.ytimg.com/vi/T3qAQ15ZOYs/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (08/09/2026 19:15hs)",Aula 4 - Dicas para Fazer Bolsas na Tela
 https://www.youtube.com/watch?v=T3qAQ15ZOYs
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N2bpVTVf640/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 00 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
 https://www.youtube.com/watch?v=N2bpVTVf640
@@ -93,12 +93,16 @@ https://www.youtube.com/watch?v=UwQi-gocOqU
 https://www.youtube.com/watch?v=LTE67pknJrQ
 #EXTINF:2891 tvg-logo="https://i.ytimg.com/vi/z6WXDEcRjiA/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Aula 15 - APRENDA A FAZER BOLSA NA TELA/ PASSO A PASSO 
 https://www.youtube.com/watch?v=z6WXDEcRjiA
+#EXTINF:-1 group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Aula 16 - Bolsa na Tela
+https://player.vimeo.com/video/1224156517
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/gab8Gpjft-4/mqdefault.jpg" group-title="MÓDULO 04 - BOLSAS PASSO A PASSO",Aula 17 - BOLSA DE TELA COM DUAS CORES
+https://www.youtube.com/watch?v=gab8Gpjft-4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/B6MdFl1PIDA/mqdefault.jpg" group-title="MÓDULO 05 – Técnicas Básicas",Arremates
 https://www.youtube.com/watch?v=B6MdFl1PIDA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tBXsCNIDjH4/mqdefault.jpg" group-title="MÓDULO 06 - PASSO A PASSO AVANÇADOS",Aula 01 - Bolsa de malha com ponto corrente e ponto folha (Parte 2)
-https://www.youtube.com/watch?v=tBXsCNIDjH4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mFjySoh1PMU/mqdefault.jpg" group-title="MÓDULO 06 - PASSO A PASSO AVANÇADOS",Aula 02 - Bolsa de malha com ponto folha (Fácil para iniciantes) Parte 1
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mFjySoh1PMU/mqdefault.jpg" group-title="MÓDULO 06 - PASSO A PASSO AVANÇADOS",Aula 01 - Bolsa de malha com ponto folha (Fácil para iniciantes) Parte 1
 https://www.youtube.com/watch?v=mFjySoh1PMU
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tBXsCNIDjH4/mqdefault.jpg" group-title="MÓDULO 06 - PASSO A PASSO AVANÇADOS",Aula 02 - Bolsa de malha com ponto corrente e ponto folha (Parte 2)
+https://www.youtube.com/watch?v=tBXsCNIDjH4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/w0aLyFBagOU/mqdefault.jpg" group-title="MÓDULO 06 - PASSO A PASSO AVANÇADOS",Aula 03 - Bolsa de malha fácil de usar para iniciantes
 https://www.youtube.com/watch?v=w0aLyFBagOU
 #EXTINF:1814 tvg-logo="https://i.ytimg.com/vi/UFT27JUPyi0/mqdefault.jpg" group-title="MÓDULO 06 - PASSO A PASSO AVANÇADOS",Aula 04 - COMO FAZER BOLSA BORDADA EM TELA Parte 1
@@ -977,22 +981,22 @@ https://www.youtube.com/watch?v=cEV0kXcS52c
 https://www.youtube.com/watch?v=XZtf2AqK1Tc
 #EXTINF:2414 tvg-logo="https://i.ytimg.com/vi/KFIOuo8pcmI/mqdefault.jpg" group-title="MÓDULO 35 - Núbia Maia",AULA 2 - BOLSA CRISTAL - INSTALAÇÃO DO FORRO E ACABAMENTO
 https://www.youtube.com/watch?v=KFIOuo8pcmI
-#EXTINF:2856 tvg-logo="https://i.ytimg.com/vi/1EFFra1bkLg/mqdefault.jpg" group-title="MÓDULO 35 - Núbia Maia",COMO FAZER BOLSA NA TELA || AULA 1 - TEENDO NA TELA
-https://www.youtube.com/watch?v=1EFFra1bkLg
+#EXTINF:1656 tvg-logo="https://i.ytimg.com/vi/erGbeK-psPQ/mqdefault.jpg" group-title="MÓDULO 35 - Núbia Maia",BOLSA DE TELA | QUAIS MATERIAIS SÃO NECESSÁRIOS PARA PRODUZI-LO?
+https://www.youtube.com/watch?v=erGbeK-psPQ
 #EXTINF:2450 tvg-logo="https://i.ytimg.com/vi/cCe1UW6pzR8/mqdefault.jpg" group-title="MÓDULO 35 - Núbia Maia",Brincos confeccionados em lona e corda náutica.
 https://www.youtube.com/watch?v=cCe1UW6pzR8
-#EXTINF:2257 tvg-logo="https://i.ytimg.com/vi/TLGz5LzO2_4/mqdefault.jpg" group-title="MÓDULO 35 - Núbia Maia",PRIMEIRO VÍDEO DE 2026 || COMO FAZER BRINCOS COM LINKS DE CONTAS
-https://www.youtube.com/watch?v=TLGz5LzO2_4
-#EXTINF:1822 tvg-logo="https://i.ytimg.com/vi/khcH-5IwguE/mqdefault.jpg" group-title="MÓDULO 35 - Núbia Maia",COMO FAZER UMA BOLSA DE LONA || LIÇÃO 2 - ANEXANDO O ENCERRAMENTO
-https://www.youtube.com/watch?v=khcH-5IwguE
-#EXTINF:1811 tvg-logo="https://i.ytimg.com/vi/BaWur27gGqg/mqdefault.jpg" group-title="MÓDULO 35 - Núbia Maia",COMO FAZER UMA BOLSA DE LONA || LIÇÃO 3 - FORRO E MONTAGEM
-https://www.youtube.com/watch?v=BaWur27gGqg
-#EXTINF:661 tvg-logo="https://i.ytimg.com/vi/fYAe88UCcq0/mqdefault.jpg" group-title="MÓDULO 35 - Núbia Maia",COMO COLOCAR UM FECHO MAGNÉTICO EM UMA BOLSA
-https://www.youtube.com/watch?v=fYAe88UCcq0
-#EXTINF:1656 tvg-logo="https://i.ytimg.com/vi/erGbeK-psPQ/mqdefault.jpg" group-title="MÓDULO 35 - Núbia Maia",SACO DE MALHA | QUAIS MATERIAIS SÃO NECESSÁRIOS PARA PRODUZI-LO?
-https://www.youtube.com/watch?v=erGbeK-psPQ
 #EXTINF:2618 tvg-logo="https://i.ytimg.com/vi/sKeGFpnQ3Kg/mqdefault.jpg" group-title="MÓDULO 35 - Núbia Maia",CAIXA DE JOIAS DE PÉROLAS / AULA 1 / Como fazer a base e a tampa
 https://www.youtube.com/watch?v=sKeGFpnQ3Kg
+#EXTINF:661 tvg-logo="https://i.ytimg.com/vi/fYAe88UCcq0/mqdefault.jpg" group-title="MÓDULO 35 - Núbia Maia",COMO COLOCAR UM FECHO MAGNÉTICO EM UMA BOLSA
+https://www.youtube.com/watch?v=fYAe88UCcq0
+#EXTINF:2856 tvg-logo="https://i.ytimg.com/vi/1EFFra1bkLg/mqdefault.jpg" group-title="MÓDULO 35 - Núbia Maia",COMO FAZER BOLSA NA TELA || AULA 1 - TECENDO NA TELA
+https://www.youtube.com/watch?v=1EFFra1bkLg
+#EXTINF:1822 tvg-logo="https://i.ytimg.com/vi/khcH-5IwguE/mqdefault.jpg" group-title="MÓDULO 35 - Núbia Maia",COMO FAZER BOLSA DE TELA || AULA 2 - ANEXANDO O ENCERRAMENTO
+https://www.youtube.com/watch?v=khcH-5IwguE
+#EXTINF:1811 tvg-logo="https://i.ytimg.com/vi/BaWur27gGqg/mqdefault.jpg" group-title="MÓDULO 35 - Núbia Maia",COMO FAZER BOLSA DE TELA || AULA 3 - FORRO E MONTAGEM
+https://www.youtube.com/watch?v=BaWur27gGqg
+#EXTINF:2257 tvg-logo="https://i.ytimg.com/vi/TLGz5LzO2_4/mqdefault.jpg" group-title="MÓDULO 35 - Núbia Maia",COMO FAZER BRINCOS COM LINKS DE CONTAS
+https://www.youtube.com/watch?v=TLGz5LzO2_4
 #EXTINF:8778 tvg-logo="https://i.ytimg.com/vi/4Hu85Dtc1dA/mqdefault.jpg" group-title="MÓDULO 36 - Keu Crochê",A Bolsa que minhas clientes mais pedem! Segredo revelado Hande made- passo a passo- plastic canva
 https://www.youtube.com/watch?v=4Hu85Dtc1dA
 #EXTINF:7400 tvg-logo="https://i.ytimg.com/vi/yAhM_je7buE/mqdefault.jpg" group-title="MÓDULO 36 - Keu Crochê",Bolsa Damiana na Tela | Passo a Passo Completo | Para Iniciantes 
