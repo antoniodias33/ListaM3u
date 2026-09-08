@@ -1,102 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title=" CANAIS | 01 ABERTOS (05/09/2026 12:10hs)", Balneário Camboriú ao vivo - Avenida Atlântica
+#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title=" CANAIS | 01 ABERTOS (08/09/2026 12:10hs)", Balneário Camboriú ao vivo - Avenida Atlântica
 https://www.youtube.com/watch?v=5Xl6pSgiy3A
-#EXTINF:-1 tvg-logo="https://imgur.com/ZNtHV9e.png" group-title="Públicos/Educativos - Brasil", Canal Educação (Brasil)
-https://canaleducacao-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/9KwUxmX.png" group-title="Públicos/Educativos - Brasil", Canal Gov (Brasil)
-https://canalgov-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-logo="https://loga.net.br/wp-content/uploads/2020/03/14_canal-sa%C3%BAde.png" group-title="Públicos/Educativos - Brasil", Canal Saúde - Fiocruz (Brasil)
-https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/auto.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="Públicos/Educativos - Brasil", Cultura (São Paulo/SP)
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/5tHkE33.png" group-title="Públicos/Educativos - Brasil", Cultura Fast (Samsung TV Plus Brasil)
-https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r18rHyH.png" group-title="Públicos/Educativos - Brasil", Cultura / Catve (Cascavel/PR)
-https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1432013485.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r18rHyH.png" group-title="Públicos/Educativos - Brasil", Catve 2 (Cascavel/PR)
-https://5b33b873179a2.streamlock.net:1443/catve2/catve2/chunklist_w1459967245.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Logo_da_TBC_2021.png" group-title="Públicos/Educativos - Brasil", Cultura / TV Brasil Central (Goiânia/GO)
-https://tbc.zoeweb.tv/tbc/ngrp:tbc_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/QyAQP9d.png" group-title="Públicos/Educativos - Brasil", Cultura / TV Educativa MS (Campo Grande/MS)
-https://stream01.digilab.com.br/fertel/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/LOGO_NOVA_PNG.png" group-title="Públicos/Educativos - Brasil", Cultura / TV Nova (Olinda/PE)
-https://acesso.ecast.site:3675/live/novatvlive.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/nECvgVD.png" group-title="Públicos/Educativos - Brasil", Cultura / TVC (Três Lagoas/MS)
-https://rdcbn.brasilstream.com.br/hls/rdcbn/index.m3u8
-#EXTINF:-1 tvg-logo="https://unitv.com.br/wp-content/uploads/2021/09/UNITVSC-LOGO.png" group-title="Públicos/Educativos - Brasil", Cultura / UNITV-SC (Tubarão/SC)
-https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=9818453201921378000
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/18/Logotipo_do_Canal_FDR_em_2023.png" group-title="Públicos/Educativos - Brasil", Futura / Canal FDR (Fortaleza/CE)
-https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rede_Minas_logo.png" group-title="Públicos/Educativos - Brasil", Rede Minas (Belo Horizonte/MG)
-https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TV_Brasil_logo_2023.svg/1280px-TV_Brasil_logo_2023.svg.png" group-title="Públicos/Educativos - Brasil", TV Brasil
-https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/DOudB67.png" group-title="Públicos/Educativos - Brasil", TV Brasil / TV Foz (Vitória/ES)
-https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/TVE_RS_2024.png" group-title="Públicos/Educativos - Brasil", TV Brasil / TVE (Porto Alegre/RS)
-http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1178284874.m3u8
-#EXTINF:-1 tvg-logo="https://tveradioencontrodasaguas.com.br/wp-content/uploads/2020/01/cropped-logo_radio_tv_encontro_das_aguas.png" group-title="Públicos/Educativos - Brasil", TV Brasil / TV Encontro das Águas (Manaus/AM)
-https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/9lcmme4.png" group-title="Públicos/Educativos - Brasil", TV Brasil Internacional
-https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-logo="https://eassim.com.br/wp-content/uploads/2021/09/tvcidada21-e1632411674425.jpg" group-title="Públicos/Educativos - Brasil", TV Cidadã (Maceió/AL)
-https://video04.logicahost.com.br/tvcidada/tvcidada/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_Rede_Cultura_do_Par%C3%A1.png" group-title="Públicos/Educativos - Brasil", TV Cultura Pará (Belém/PA)
-https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IVUjkii.png" group-title="Públicos/Educativos - Brasil", TV Paraná Turismo (Curitiba/PR)
-http://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r18rHyH.png" group-title="Públicos/Educativos - Brasil", Univesp TV / MasterTV (Cascavel/PR)
-https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/chunklist_w1450795801.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/HnzlMwp.png" group-title="Públicos/Educativos - Brasil", Viva e Eduque (São Paulo/SP)
-https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a6/Logotipo_da_RBATV.png" group-title="Redes Abertas e Afiliadas - Brasil", Band / RBATV (Belém/PA)
-https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/w1CdGsI.png" group-title="Redes Abertas e Afiliadas - Brasil", Gazeta / 40gtv (Lauro de Freitas/BA)
-https://40gtv-aovivo.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://tvc21.com.br/wp-content/uploads/2022/05/LOGO-SITE-TVC.png" group-title="Redes Abertas e Afiliadas - Brasil", Gazeta / TV Cidade (Araçatuba/SP)
-https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="Redes Abertas e Afiliadas - Brasil", Globo (São Paulo/SP)
-http://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Rede_Bahia_logo_%282025%29.png" group-title="Redes Abertas e Afiliadas - Brasil", Globo / TV Bahia (Salvador/BA)
-http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/TV_Meio_Norte_2025_logo.jpg" group-title="Redes Abertas e Afiliadas - Brasil", Meio Norte (Teresina/PI)
-https://isaocorp.cloudecast.com/redemeio/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/5oO72Vy.png" group-title="Redes Abertas e Afiliadas - Brasil", Meio Norte / Líder TV (São Sebastião do Paraíso/MG)
-http://saopaulo01.relaystream.io:1935/lidertvsspgmail.com/lidertvsspgmail.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/7296/cabecalho-7296-20211201143202.png" group-title="Redes Abertas e Afiliadas - Brasil", Meio Norte / TV Alternativa (São Luís/MA)
-https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/UHZGU8Q.png" group-title="Redes Abertas e Afiliadas - Brasil", Meio Norte / TV Brusque (Brusque/SC)
-https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/playlist-480p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_NGT.png" group-title="Redes Abertas e Afiliadas - Brasil", NGT (São Paulo/SP)
-https://isaocorp.cloudecast.com/ngt/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_RBTV.png" group-title="Redes Abertas e Afiliadas - Brasil", RBTV (São Paulo/SP)
-https://video02.logicahost.com.br/rbtv/rbtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_da_TV_Amplitude_Juara.png" group-title="Redes Abertas e Afiliadas - Brasil", Record / TV Amplitude (Juara/MT)
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Logo_TV_Amplitude_Ju%C3%ADna.png" group-title="Redes Abertas e Afiliadas - Brasil", Record / TV Amplitude (Juína/MT)
-https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/RBTV23.png" group-title="Redes Abertas e Afiliadas - Brasil", Rede Brasil (São Paulo/SP)
-https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvmarajoara.com.br/wp-content/uploads/sites/46/2025/07/cropped-cropped-Logo-Super-Marajoara-2026.png" group-title="Redes Abertas e Afiliadas - Brasil", Rede Brasil / Super TV Marajoara (Ananindeua/PA)
-https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/chunklist_w1791564171.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="Redes Abertas e Afiliadas - Brasil", SBT (São Paulo/SP)
-http://s2.micineovs.com/SBT/index.m3u8?token=16FOTt9Ae2m8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/TV_Norte_%282024%29_logo.png" group-title="Redes Abertas e Afiliadas - Brasil", SBT / TV Norte (Belém/PA)
-https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/c00d6e_ed3ce9d662144c8fa0c70eb288d9d9fd~mv2.png" group-title="Redes Abertas e Afiliadas - Brasil", RedeTV! Paraná (Curitiba/PR)
-https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bnraMNShQcU/maxresdefault.jpg" group-title="Redes Abertas e Afiliadas - Brasil", RedeTV! / TV Guará (Caxias/MA)
-https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_rede_pampa.png" group-title="Redes Abertas e Afiliadas - Brasil", RedeTV! / TV Pampa (Porto Alegre/RS)
-https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a51KTYk.png" group-title="Redes Abertas e Afiliadas - Brasil", RedeTV! / TV Pantanal (Cuiabá/MT)
-https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/LwnPRi3.png" group-title="Redes Abertas e Afiliadas - Brasil", RedeTV! / TV SGC (Porto Velho/RO)
-https://5b33b873179a2.streamlock.net:1443/canal17/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/q0upt2V.png" group-title="Redes Abertas e Afiliadas - Brasil", TV A Crítica / BDC TV (Autazes/AM)
-https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/redemanchete/tvladob/refs/heads/main/rtntv.png" group-title="Redes Abertas e Afiliadas - Brasil", TV A Crítica / RTN TV (Santarém/PA)
-https://stmv1.samcast.com.br/cltv/cltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LLpNUqHVam8/mqdefault.jpg" group-title="CANAIS | TV AO VIVO", SBT Ao Vivo
 https://www.youtube.com/watch?v=LLpNUqHVam8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Df3g76Y25gs/mqdefault.jpg" group-title="CANAIS | TV AO VIVO",DiaTV - AO VIVO 24 HORAS POR DIA
@@ -727,28 +631,6 @@ http://168.197.104.22/WOOHOO/index.m3u8
 http://170.83.16.50/WOOHOO/index.m3u8
 #EXTINF:-1 tvg-id="WooHoo.br@SD" tvg-logo="https://i.imgur.com/me622pa.png" group-title="CANAIS | ABERTOS",WooHoo (720p)
 http://186.219.52.187/woohoo/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Andradas/MG - Pico do Gavião
-https://6836041ea1117.streamlock.net/picodogaviao2/picodogaviao2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Cascavel/PR - Panorâmica
-https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Cascavel/PR - Rádio Catve
-https://5b33b873179a2.streamlock.net:1443/catve2/catve2/chunklist_w1459967245.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Foz do Iguaçu/PR - Panorâmica
-https://5b33b873179a2.streamlock.net:1443/camerafozaduana/camerafozaduana.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Foz do Iguaçu/PR - Ponte da Amizade
-https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Guaratuba/PR - Praia Central
-https://video02.logicahost.com.br/portaldacidadegtba/brisadomar1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Goiânia/GO - Panorâmica
-https://5a7d54e35f9d2.streamlock.net/morromendanha1/morromendanha1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Itapema/SC - Rádio Cidade
-https://tv02.zas.media:1936/cidadelitoral/cidadelitoral/chunklist_w207047863.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Macapá/AP - Rádio Diário FM
-https://video02.logicahost.com.br/tvdiario/tvdiario/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Rio Grande/RS - Praia do Cassino
-https://s40.ipcamlive.com/streams/2886jwcamte3pxcid/stream.m3u8
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Toledo/PR - Rádio União FM
-https://5b33b873179a2.streamlock.net:1443/radiouniao/radiouniao/chunklist_w1713089154.m3u8
 #EXTINF:-1 tvg-id="AdessoTV.br@SD" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="CANAIS | ABERTOS1",Adesso TV (720p)
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-id="AlphaChannel.br@SD" tvg-logo="https://i.imgur.com/c1QqslA.png" group-title="CANAIS | ABERTOS1",Alpha Channel (720p)
@@ -967,6 +849,28 @@ https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 https://www.latinasat.com.br/hls/live/stream/index.m3u8
 #EXTINF:-1 tvg-id="TVNBN.br@SD" tvg-logo="https://i.imgur.com/zoHBxn1.png" group-title="CANAIS | ABERTOS1",TVNBN (720p)
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Andradas/MG - Pico do Gavião
+https://6836041ea1117.streamlock.net/picodogaviao2/picodogaviao2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Cascavel/PR - Panorâmica
+https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Cascavel/PR - Rádio Catve
+https://5b33b873179a2.streamlock.net:1443/catve2/catve2/chunklist_w1459967245.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Foz do Iguaçu/PR - Panorâmica
+https://5b33b873179a2.streamlock.net:1443/camerafozaduana/camerafozaduana.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Foz do Iguaçu/PR - Ponte da Amizade
+https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Guaratuba/PR - Praia Central
+https://video02.logicahost.com.br/portaldacidadegtba/brisadomar1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Goiânia/GO - Panorâmica
+https://5a7d54e35f9d2.streamlock.net/morromendanha1/morromendanha1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Itapema/SC - Rádio Cidade
+https://tv02.zas.media:1936/cidadelitoral/cidadelitoral/chunklist_w207047863.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Macapá/AP - Rádio Diário FM
+https://video02.logicahost.com.br/tvdiario/tvdiario/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Rio Grande/RS - Praia do Cassino
+https://s40.ipcamlive.com/streams/2886jwcamte3pxcid/stream.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/modelo-de-design-de-vetor-de-logotipo-de-icone-de-camera-de-cftv_827767-1414.jpg" group-title="Câmeras ao vivo - Brasil", Toledo/PR - Rádio União FM
+https://5b33b873179a2.streamlock.net:1443/radiouniao/radiouniao/chunklist_w1713089154.m3u8
 #EXTINF:-1 tvg-id="LaboralTV.br@SD" tvg-logo="https://tv.laboralsst.com.br/logo.png" group-title="CANAIS | Business",Laboral TV (360p)
 https://tv.laboralsst.com.br/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ForaTedioTV.br@SD" tvg-logo="https://i.imgur.com/R9ul4T1.png" group-title="CANAIS | Comedias",Fora Tedio TV (720p)
@@ -6171,3 +6075,99 @@ https://amg01576-amg01576c2-tcl-us-4894.playouts.now.amagi.tv/playlist.m3u8
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992489
 #EXTINF:-1 tvg-logo="https://imgur.com/M07XlkJ.png" group-title="Pós-TV", TikTok Radio (TCL Channel Brasil)
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529
+#EXTINF:-1 tvg-logo="https://imgur.com/ZNtHV9e.png" group-title="Públicos/Educativos - Brasil", Canal Educação (Brasil)
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9KwUxmX.png" group-title="Públicos/Educativos - Brasil", Canal Gov (Brasil)
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-logo="https://loga.net.br/wp-content/uploads/2020/03/14_canal-sa%C3%BAde.png" group-title="Públicos/Educativos - Brasil", Canal Saúde - Fiocruz (Brasil)
+https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/auto.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="Públicos/Educativos - Brasil", Cultura (São Paulo/SP)
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5tHkE33.png" group-title="Públicos/Educativos - Brasil", Cultura Fast (Samsung TV Plus Brasil)
+https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r18rHyH.png" group-title="Públicos/Educativos - Brasil", Cultura / Catve (Cascavel/PR)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1432013485.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r18rHyH.png" group-title="Públicos/Educativos - Brasil", Catve 2 (Cascavel/PR)
+https://5b33b873179a2.streamlock.net:1443/catve2/catve2/chunklist_w1459967245.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Logo_da_TBC_2021.png" group-title="Públicos/Educativos - Brasil", Cultura / TV Brasil Central (Goiânia/GO)
+https://tbc.zoeweb.tv/tbc/ngrp:tbc_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/QyAQP9d.png" group-title="Públicos/Educativos - Brasil", Cultura / TV Educativa MS (Campo Grande/MS)
+https://stream01.digilab.com.br/fertel/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/LOGO_NOVA_PNG.png" group-title="Públicos/Educativos - Brasil", Cultura / TV Nova (Olinda/PE)
+https://acesso.ecast.site:3675/live/novatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nECvgVD.png" group-title="Públicos/Educativos - Brasil", Cultura / TVC (Três Lagoas/MS)
+https://rdcbn.brasilstream.com.br/hls/rdcbn/index.m3u8
+#EXTINF:-1 tvg-logo="https://unitv.com.br/wp-content/uploads/2021/09/UNITVSC-LOGO.png" group-title="Públicos/Educativos - Brasil", Cultura / UNITV-SC (Tubarão/SC)
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=9818453201921378000
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/18/Logotipo_do_Canal_FDR_em_2023.png" group-title="Públicos/Educativos - Brasil", Futura / Canal FDR (Fortaleza/CE)
+https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rede_Minas_logo.png" group-title="Públicos/Educativos - Brasil", Rede Minas (Belo Horizonte/MG)
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TV_Brasil_logo_2023.svg/1280px-TV_Brasil_logo_2023.svg.png" group-title="Públicos/Educativos - Brasil", TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/DOudB67.png" group-title="Públicos/Educativos - Brasil", TV Brasil / TV Foz (Vitória/ES)
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/TVE_RS_2024.png" group-title="Públicos/Educativos - Brasil", TV Brasil / TVE (Porto Alegre/RS)
+http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1178284874.m3u8
+#EXTINF:-1 tvg-logo="https://tveradioencontrodasaguas.com.br/wp-content/uploads/2020/01/cropped-logo_radio_tv_encontro_das_aguas.png" group-title="Públicos/Educativos - Brasil", TV Brasil / TV Encontro das Águas (Manaus/AM)
+https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/9lcmme4.png" group-title="Públicos/Educativos - Brasil", TV Brasil Internacional
+https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-logo="https://eassim.com.br/wp-content/uploads/2021/09/tvcidada21-e1632411674425.jpg" group-title="Públicos/Educativos - Brasil", TV Cidadã (Maceió/AL)
+https://video04.logicahost.com.br/tvcidada/tvcidada/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_Rede_Cultura_do_Par%C3%A1.png" group-title="Públicos/Educativos - Brasil", TV Cultura Pará (Belém/PA)
+https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IVUjkii.png" group-title="Públicos/Educativos - Brasil", TV Paraná Turismo (Curitiba/PR)
+http://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r18rHyH.png" group-title="Públicos/Educativos - Brasil", Univesp TV / MasterTV (Cascavel/PR)
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/chunklist_w1450795801.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/HnzlMwp.png" group-title="Públicos/Educativos - Brasil", Viva e Eduque (São Paulo/SP)
+https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a6/Logotipo_da_RBATV.png" group-title="Redes Abertas e Afiliadas - Brasil", Band / RBATV (Belém/PA)
+https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/w1CdGsI.png" group-title="Redes Abertas e Afiliadas - Brasil", Gazeta / 40gtv (Lauro de Freitas/BA)
+https://40gtv-aovivo.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://tvc21.com.br/wp-content/uploads/2022/05/LOGO-SITE-TVC.png" group-title="Redes Abertas e Afiliadas - Brasil", Gazeta / TV Cidade (Araçatuba/SP)
+https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TV_Globo_logo_%28April_2025%29.png" group-title="Redes Abertas e Afiliadas - Brasil", Globo (São Paulo/SP)
+http://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Rede_Bahia_logo_%282025%29.png" group-title="Redes Abertas e Afiliadas - Brasil", Globo / TV Bahia (Salvador/BA)
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/TV_Meio_Norte_2025_logo.jpg" group-title="Redes Abertas e Afiliadas - Brasil", Meio Norte (Teresina/PI)
+https://isaocorp.cloudecast.com/redemeio/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5oO72Vy.png" group-title="Redes Abertas e Afiliadas - Brasil", Meio Norte / Líder TV (São Sebastião do Paraíso/MG)
+http://saopaulo01.relaystream.io:1935/lidertvsspgmail.com/lidertvsspgmail.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/7296/cabecalho-7296-20211201143202.png" group-title="Redes Abertas e Afiliadas - Brasil", Meio Norte / TV Alternativa (São Luís/MA)
+https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/UHZGU8Q.png" group-title="Redes Abertas e Afiliadas - Brasil", Meio Norte / TV Brusque (Brusque/SC)
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_NGT.png" group-title="Redes Abertas e Afiliadas - Brasil", NGT (São Paulo/SP)
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_RBTV.png" group-title="Redes Abertas e Afiliadas - Brasil", RBTV (São Paulo/SP)
+https://video02.logicahost.com.br/rbtv/rbtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_da_TV_Amplitude_Juara.png" group-title="Redes Abertas e Afiliadas - Brasil", Record / TV Amplitude (Juara/MT)
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Logo_TV_Amplitude_Ju%C3%ADna.png" group-title="Redes Abertas e Afiliadas - Brasil", Record / TV Amplitude (Juína/MT)
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/RBTV23.png" group-title="Redes Abertas e Afiliadas - Brasil", Rede Brasil (São Paulo/SP)
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvmarajoara.com.br/wp-content/uploads/sites/46/2025/07/cropped-cropped-Logo-Super-Marajoara-2026.png" group-title="Redes Abertas e Afiliadas - Brasil", Rede Brasil / Super TV Marajoara (Ananindeua/PA)
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/chunklist_w1791564171.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="Redes Abertas e Afiliadas - Brasil", SBT (São Paulo/SP)
+http://s2.micineovs.com/SBT/index.m3u8?token=16FOTt9Ae2m8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/TV_Norte_%282024%29_logo.png" group-title="Redes Abertas e Afiliadas - Brasil", SBT / TV Norte (Belém/PA)
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/c00d6e_ed3ce9d662144c8fa0c70eb288d9d9fd~mv2.png" group-title="Redes Abertas e Afiliadas - Brasil", RedeTV! Paraná (Curitiba/PR)
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bnraMNShQcU/maxresdefault.jpg" group-title="Redes Abertas e Afiliadas - Brasil", RedeTV! / TV Guará (Caxias/MA)
+https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_rede_pampa.png" group-title="Redes Abertas e Afiliadas - Brasil", RedeTV! / TV Pampa (Porto Alegre/RS)
+https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a51KTYk.png" group-title="Redes Abertas e Afiliadas - Brasil", RedeTV! / TV Pantanal (Cuiabá/MT)
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/LwnPRi3.png" group-title="Redes Abertas e Afiliadas - Brasil", RedeTV! / TV SGC (Porto Velho/RO)
+https://5b33b873179a2.streamlock.net:1443/canal17/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/q0upt2V.png" group-title="Redes Abertas e Afiliadas - Brasil", TV A Crítica / BDC TV (Autazes/AM)
+https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/redemanchete/tvladob/refs/heads/main/rtntv.png" group-title="Redes Abertas e Afiliadas - Brasil", TV A Crítica / RTN TV (Santarém/PA)
+https://stmv1.samcast.com.br/cltv/cltv/playlist.m3u8
