@@ -1,31 +1,45 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LLpNUqHVam8/mqdefault.jpg" group-title="CANAIS | TV AO VIVO  (14/09/2026 18:10hs)",01 SBT Ao Vivo
-https://www.youtube.com/watch?v=LLpNUqHVam8
-#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="CANAIS | TV AO VIVO  (14/09/2026 18:10hs)",02 Balneário Camboriú ao vivo - Avenida Atlântica
+#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="CANAIS | TV AO VIVO  (18/09/2026 23:10hs)", SBT
+https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="CANAIS | TV AO VIVO  (18/09/2026 23:10hs)", SBT - TV Cidade Verde - (PI)
+http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="CANAIS | TV AO VIVO  (18/09/2026 23:10hs)", SBT - TV Cidade Verde - (PI)
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="CANAIS | TV AO VIVO  (18/09/2026 23:10hs)", SBT - TV Cidade Verde - (PI)
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="CANAIS | TV AO VIVO  (18/09/2026 23:10hs)", SBT TV Guajará (PA)
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="CANAIS | TV AO VIVO  (18/09/2026 23:10hs)", SBT TV Guajará (PA)
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="CANAIS | TV AO VIVO  (18/09/2026 23:10hs)", SBT TV Thathi (SP)
+https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="CANAIS | TV AO VIVO  (18/09/2026 23:10hs)",02 Balneário Camboriú ao vivo - Avenida Atlântica
 https://www.youtube.com/watch?v=5Xl6pSgiy3A
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Df3g76Y25gs/mqdefault.jpg" group-title="CANAIS | TV AO VIVO  (14/09/2026 18:10hs)",DiaTV - AO VIVO 24 HORAS POR DIA
+#EXTINF:-1 group-title="CANAIS | TV AO VIVO  (18/09/2026 23:10hs)",AFV
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Df3g76Y25gs/mqdefault.jpg" group-title="CANAIS | TV AO VIVO  (18/09/2026 23:10hs)",DiaTV - AO VIVO 24 HORAS POR DIA
 https://www.youtube.com/watch?v=Df3g76Y25gs
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/58ilxxea7IY/mqdefault.jpg" group-title="CANAIS | TV AO VIVO  (14/09/2026 18:10hs)",Filmelier TV (Adrenalina Pura - TV Ao VIVO)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/58ilxxea7IY/mqdefault.jpg" group-title="CANAIS | TV AO VIVO  (18/09/2026 23:10hs)",Filmelier TV (Adrenalina Pura - TV Ao VIVO)
 https://www.youtube.com/watch?v=58ilxxea7IY
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3eHrOX2xT3I/mqdefault.jpg" group-title="CANAIS | TV AO VIVO  (14/09/2026 18:10hs)",FILMES DE TERROR (BooH 24 HORAS) - AO VIVO - Booh!
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3eHrOX2xT3I/mqdefault.jpg" group-title="CANAIS | TV AO VIVO  (18/09/2026 23:10hs)",FILMES DE TERROR (BooH 24 HORAS) - AO VIVO - Booh!
 https://www.youtube.com/watch?v=3eHrOX2xT3I
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/AHNPn3PklUU/mqdefault.jpg" group-title="CANAIS | TV AO VIVO  (14/09/2026 18:10hs)",JFTV Câmara 24hs
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/AHNPn3PklUU/mqdefault.jpg" group-title="CANAIS | TV AO VIVO  (18/09/2026 23:10hs)",JFTV Câmara 24hs
 https://www.youtube.com/watch?v=vfgehlY7wzg
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ehvI15Y9NSg/mqdefault.jpg" group-title="CANAIS | TV AO VIVO  (14/09/2026 18:10hs)",MARATONA | Jeremy Wade: Águas Misteriosas | Episódios Completos
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ehvI15Y9NSg/mqdefault.jpg" group-title="CANAIS | TV AO VIVO  (18/09/2026 23:10hs)",MARATONA | Jeremy Wade: Águas Misteriosas | Episódios Completos
 https://youtube.com/playlist?list=PL0kBNbs2h4Glhugk-NjpS7hdlrZZU6wbR&si=CU55UTEU-eOAHNhz
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g5clZ-K8RXg/mqdefault.jpg" group-title="CANAIS | TV AO VIVO  (14/09/2026 18:10hs)",REDE BRASIL AO VIVO 24 HORAS | REDE BRASIL - IEADPE
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g5clZ-K8RXg/mqdefault.jpg" group-title="CANAIS | TV AO VIVO  (18/09/2026 23:10hs)",REDE BRASIL AO VIVO 24 HORAS | REDE BRASIL - IEADPE
 https://www.youtube.com/watch?v=9Q9He_OMFv4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/hAEXNkLjH_s/mqdefault.jpg" group-title="CANAIS | TV AO VIVO  (14/09/2026 18:10hs)",RÁDIO GAÚCHA AO VIVO 24 HORAS
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/hAEXNkLjH_s/mqdefault.jpg" group-title="CANAIS | TV AO VIVO  (18/09/2026 23:10hs)",RÁDIO GAÚCHA AO VIVO 24 HORAS
 https://www.youtube.com/watch?v=hAEXNkLjH_s
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UYz7pDwr6dE/mqdefault.jpg" group-title="CANAIS | TV AO VIVO  (14/09/2026 18:10hs)",Rádio TUPI - AO VIVO
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UYz7pDwr6dE/mqdefault.jpg" group-title="CANAIS | TV AO VIVO  (18/09/2026 23:10hs)",Rádio TUPI - AO VIVO
 https://www.youtube.com/watch?v=NaOwoZuFdiw
-#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="CANAIS | TV AO VIVO  (14/09/2026 18:10hs)",Tv online 1
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="CANAIS | TV AO VIVO  (18/09/2026 23:10hs)",Tv online 1
 https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w808292326.m3u8
-#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="CANAIS | TV AO VIVO  (14/09/2026 18:10hs)",TV Online 2
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="CANAIS | TV AO VIVO  (18/09/2026 23:10hs)",TV Online 2
 https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w641924160.m3u8
-#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="CANAIS | TV AO VIVO  (14/09/2026 18:10hs)",Tv Online 3
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="CANAIS | TV AO VIVO  (18/09/2026 23:10hs)",Tv Online 3
 https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist_w100844842.m3u8
-#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="CANAIS | TV AO VIVO  (14/09/2026 18:10hs)",TV Online 4
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1j4uq6rMUTut4ea_-XHQ3Q0XCE66fAPyI?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c" group-title="CANAIS | TV AO VIVO  (18/09/2026 23:10hs)",TV Online 4
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/adesso.png" group-title="CANAIS | ABERTOS", Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
@@ -143,20 +157,6 @@ https://acesso.ecast.site:3648/live/ritlive.m3u8
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2Vxo3Lc.png" group-title="CANAIS | ABERTOS", SANDEGI TV
 https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="CANAIS | ABERTOS", SBT
-https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="CANAIS | ABERTOS", SBT - TV Cidade Verde - (PI)
-https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="CANAIS | ABERTOS", SBT - TV Cidade Verde - (PI)
-https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="CANAIS | ABERTOS", SBT - TV Cidade Verde - (PI)
-http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="CANAIS | ABERTOS", SBT TV Guajará (PA)
-https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="CANAIS | ABERTOS", SBT TV Guajará (PA)
-https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/KO1v3pS.png" group-title="CANAIS | ABERTOS", SBT TV Thathi (SP)
-https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XaTKJef.png" group-title="CANAIS | ABERTOS", SERTAO TV
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8" group-title="CANAIS | ABERTOS", SERTÃO TV
@@ -885,14 +885,6 @@ https://45.190.28.50/HISTORY_HD/index.m3u8
 http://45.190.28.50/HISTORY_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS | Documentarios", História 2 América Latina Brasil (720p)
 https://45.190.28.50/H2_HD/index.m3u8
-#EXTINF:-1 group-title="CANAIS | Documentarios", História 2 América Latina Brasil (720p)
-http://45.190.28.50/H2_HD/index.m3u8
-#EXTINF:-1 tvg-id="History.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="CANAIS | Documentarios",History (720p)
-http://138.255.2.6:8084/HISTORY/index.m3u8
-#EXTINF:-1 tvg-id="History.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="CANAIS | Documentarios",History (720p)
-http://45.190.28.50/HISTORY_HD/index.m3u8
-#EXTINF:-1 tvg-id="History.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="CANAIS | Documentarios",History (720p)
-http://170.83.16.50/HISTORY/index.m3u8
 #EXTINF:-1 tvg-id="History.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="CANAIS | Documentarios",History (720p)
 http://177.52.24.163/HISTORY-HD/index.m3u8
 #EXTINF:-1 tvg-id="History.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="CANAIS | Documentarios",History (720p)
@@ -3199,6 +3191,14 @@ https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0573ljsgymaix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vhx.imgix.net/xplorationstation/assets/36339403-16f3-499c-b859-c400a5457c24.png" group-title="Documentários", Xploration Station (TCL Channel Brasil)
 https://srpdigital-xplorationstation-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Documentários", História 2 América Latina Brasil (720p)
+http://45.190.28.50/H2_HD/index.m3u8
+#EXTINF:-1 tvg-id="History.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentários",History (720p)
+http://138.255.2.6:8084/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="History.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentários",History (720p)
+http://45.190.28.50/HISTORY_HD/index.m3u8
+#EXTINF:-1 tvg-id="History.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentários",History (720p)
+http://170.83.16.50/HISTORY/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/BRBD1100008DC_20240724T012552SQUARE.png" group-title="Entretenimento e Reality Shows", Canal L!ke (Samsung TV Plus Brasil)
 https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/BR30000438_20240612T014440SQUARE.png" group-title="Entretenimento e Reality Shows", DiaTV (LG Channels Brasil)
