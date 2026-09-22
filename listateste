@@ -1,27 +1,9 @@
 #EXTM3U
-
-
-#Pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc aunque está pensada principalmente para su integración en Kodi
-#
-#Canales de TV y Radios online
-#playlist: https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#ultima actualizacion:10/01/2025
-#
-#*****************************
-#Como usar esta lista en Kodi:
-#
-#	Habilitar PVR IPTV Simple Client en PVR Addons
-#	En la configuración de PVR IPTV Simple Client elegir ruta remota y agregar https://raw.githubusercontent.com/Televito/TDT-Mundo/main/IPTV
-#	Desmarcar la opción de guardar la lista en caché, así siempre se cargará la lista mas actualizada.
-#   Televito, lista IPTV basada en el extinto proyecto Laope
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NRznD77.png" group-title="Leeme",[COLOR red]- Actualizado 10/01/2025-[/COLOR]
 https://i.imgur.com/KWI4c7N.mp4
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lu2hq7p.png" group-title="Chile", [COLOR lime]-Chile-[/COLOR]
 https://i.imgur.com/EwJbXKm.mp4
-
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8ZR2XHN.png" group-title="Chile", TVN3 | FHD | Santiago
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
@@ -355,7 +337,6 @@ https://camara.03.wl.cdnz.cl/camara19/live/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/a8Wirrz.png" group-title="Chile", TV Senado | SD | Valparaíso
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tcZutWc.png" group-title="Internacionales", [COLOR lime] -Internacionales-[/COLOR]
 https://i.imgur.com/KuqaZul.mp4
 
@@ -386,11 +367,8 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cULf4Yd.png" group-title="Internacionales", Estrella TV | HD | Estados Unidos
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/2No4tUS.png" group-title="Internacionales", AMC en español  | HD | Estados Unidos
 https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DURfChW.png" group-title="Cristianos", [COLOR lime]-Cristianos-[/COLOR]
 https://i.imgur.com/LmAvxVu.mp4
@@ -517,9 +495,6 @@ https://fl1002.bozztv.com/ssh101/opinionsur/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iuxxlDA.png" group-title="Animación y Cultura Geek", Opinión Sur Niños | HD | Puerto Natales
 https://fl1002.bozztv.com/ssh101/opinionsurn/tracks-v1a1/mono.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yO19Ju4.png" group-title="Deportes", [COLOR lime]-Deportes-[/COLOR] 
 https://i.imgur.com/qRolRIi.mp4
 
@@ -573,7 +548,6 @@ https://amg01074-fueltv-fueltvemeaen-sportstribal-n7krp.amagi.tv/playlist/amg010
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H2Z0ZWB.png" group-title="Deportes", Lax Sports Network | HD | Estados Unidos
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0AQZLBi.png" group-title="Deportes", Fight Network | HD | Canadá
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
@@ -644,12 +618,8 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JCeTYIg.png" group-title="Deportes", Afro Sport | HD | Nigeria
 https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cG5DVb2.png" group-title="Argentina", [COLOR lime]-Argentina-[/COLOR] 
 https://i.imgur.com/Av8yUYC.mp4
-
-
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/LiU5CsO.png" group-title="Argentina", Canal 2  | HD | Ushuaia
 https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
