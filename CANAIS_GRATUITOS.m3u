@@ -6655,7 +6655,7 @@ http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 https://amtvusdvr.tulix.tv/am2abr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sz9L37n.png" group-title="Variedades em vários idiomas",Bel Ros | Belarus
 https://live3.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pDLwbc0.png" group-title="Venezuela",[COLOR lime]-Venezuela-[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pDLwbc0.png" group-title="Venezuela",Venezuela
 https://i.imgur.com/17muPsg.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NlvRfRT.png" group-title="Venezuela",Promar TV| SD |  Barquisimeto
 http://vcp1.myplaytv.com/promar/promar/playlist.m3u8
