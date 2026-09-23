@@ -235,7 +235,7 @@ http://45.162.64.114/AGROMAIS/index.m3u8
 https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Alpha Channel (720p)
 https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/7rjCS5i.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Amazon Sat (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7rjCS5i.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Amazon Sat (1080p)
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Amazon Sat (1080p)
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
@@ -245,7 +245,7 @@ http://170.83.49.66:8083/AMCHD/index.m3u8
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Angel TV Portuguese (720p)
 https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/rmAm6UE.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Anime TV (360p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rmAm6UE.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Anime TV (360p) [Not 24/7]
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Araruna TV
 https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
@@ -261,7 +261,7 @@ https://livefocamundo.com:8081/ascametv/index.m3u8
 https://cdn-tiva-video01-logicahost-com-br.smartbit.co/canalaugetv/canalaugetv/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Avatar: A lenda de Aang
 https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",AWTV
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",AWTV
 http://168.205.87.198:8555/live/1431/123456/181.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",AWTV (1080p) "EXTVLCOPT:http-referrer=https://awtv.com.br"
 https://awtv.nuvemplay.live/hls/stream.m3u8
@@ -273,7 +273,7 @@ http://206.212.244.63/639/index.m3u8
 https://evpp.mm.uol.com.br/geob_band/app/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Band (720p)
 http://45.190.28.50/BAND_HD/index.m3u8
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Band Minas (720p) [Not 24/7]
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Band Minas (720p) [Not 24/7]
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",BAND PARÁ
 http://evce.mm.uol.com.br:1935/band/band.smil/live.m3u8
@@ -295,7 +295,7 @@ https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
 https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/hfTZFFf.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",BMTV (Quer canais HBO Plus e DISNEY? Assine nossa lista PREMIUM. WhatsApp(47)99626-5594)
 https://srv5.zcast.com.br/bmtv/bmtv/playlist.m3u8
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",BOA VONTADE TV
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",BOA VONTADE TV
 http://168.205.87.198:8555/live/michele/123456/21.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Boas Novas (1080p)
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
@@ -321,10 +321,8 @@ https://cdn-tiva-stream01-msolutionbrasil-com-br.smartbit.co/hls/canal25/live.m3
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Canal 38 (720p)
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",CANAL DO BOI
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",CANAL DO BOI
 http://168.205.87.198:8555/live/1431/123456/167.ts?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="http://www.tvtuga.com/wp-content/uploads/2010/04/canal-do-boi.jpg" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",CANAL DO BOI
-
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Canal do Boi (720p)
 http://45.162.64.114/CANAL_DO_BOI/index.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Canal do Criador (1080p)
@@ -335,7 +333,7 @@ https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Canal FDR
 https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/7SE4CkE.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Canal FDR (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7SE4CkE.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Canal FDR (1080p)
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Canal Futura (720p)
 http://45.162.64.114/FUTURA/index.m3u8
@@ -353,13 +351,13 @@ http://170.82.202.31/OFF/index.m3u8
 https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/Nmt1fM" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",CANAL RURAL
 http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",CANAL RURAL
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",CANAL RURAL
 http://168.205.87.198:8555/live/michele/123456/166.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Canal Rural (1080p)
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mOcCv9k.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",CANAL SAUDE
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/ht4tUOc.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Canal Saúde (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ht4tUOc.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Canal Saúde (720p) [Not 24/7]
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Canal Saúde (720p) [Not 24/7]
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
@@ -379,7 +377,7 @@ https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0UIM9d9.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",CBTV NOW
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/22jXTu4.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Central TV (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/22jXTu4.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Central TV (720p)
 https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/GCTplnu.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",CHANNEL 1
 https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8
@@ -387,7 +385,7 @@ https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8
 https://stmv1.srvif.com/channel1/channel1/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Chef TV (720p)
 http://45.190.28.50/CHEF_TV/index.m3u8
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",CHESPIRITO
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",CHESPIRITO
 http://168.205.87.198:8555/live/michele/123456/159.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Chroma TV (480p)
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
@@ -435,7 +433,7 @@ https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a7
 http://170.84.165.204:80/CANAL_21_HD/index.m3u8
 #EXTINF:-1 tvg-id="CulturaPara.br" tvg-logo="https://i.imgur.com/5jPEI5c.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Cultura ParÃ¡
 http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/S0ISpmU.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",CWB TV (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S0ISpmU.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",CWB TV (720p)
 https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",CWB TV (720p)
 https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
@@ -465,10 +463,6 @@ http://181.78.197.59:8000/play/a07z/index.m3u8
 http://190.83.2.182:8090/ESPN3/index.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",ESPN 4 (1080p)
 http://181.78.197.59:8000/play/a07n/index.m3u8
-#EXTINF:-1 tvg-id="REDE TV" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Estreia 6
-
-#EXTINF:-1 tvg-id="REDE TV" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Estreia 6
-
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Euronews Portuguese (720p)
 https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",EUTV (720p)
@@ -481,7 +475,7 @@ https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
 https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/futura.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",FDR - Futura (CE)
 http://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
-#EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/futura.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",FDR - Futura (CE)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/futura.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",FDR - Futura (CE)
 http://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",FIFA+ Portuguese (720p)
 https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
@@ -495,7 +489,7 @@ http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3x1ScsCW/Photo-1542097081492.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",FOX 25
 https://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",FOX Movies
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",FOX Movies
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.movies.pt.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/DGzL4By.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",FURG TV
 http://stream.furg.br/hls/furgtv_480p.m3u8
@@ -503,7 +497,7 @@ http://stream.furg.br/hls/furgtv_480p.m3u8
 https://tv.unisc.br/hls/test.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Futura (720p)
 http://168.197.104.22:80/FUTURA/index.m3u8
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",GAZETA
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",GAZETA
 http://168.205.87.198:8555/live/michele/123456/69.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",ge Fast (1080p)
 https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
@@ -511,10 +505,6 @@ https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Ghost TV (712p) [Not 24/7]
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/sQwm6Cl.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Globo RJ HD http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMo QoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8? PEDROJUNIORTUTORIAIS #EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV
-
-#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/sQwm6Cl.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Globo RJ HD http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMo QoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8? PEDROJUNIORTUTORIAIS #EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV
-
 #EXTINF:-1 tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",GLOBO SP
 http://95.211.149.215:8081/look/sptv/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",GloboNews (720p)
@@ -549,7 +539,7 @@ https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 #EXTINF:-1 tvg-id="ITV.br" tvg-logo="https://i1.wp.com/itu.tv.br/wp-content/uploads/2020/03/cropped-favicon.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",ITV (480p)
 http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
-#EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",IURD TV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",IURD TV
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",J3NEWS TV
 https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8
@@ -595,7 +585,7 @@ https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
 https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",MasterChef
 https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/iK3OHVr.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Maverick Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iK3OHVr.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Maverick Movies
 http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",MBC Brasil TV
 https://play.mbcbrasil.tv.br/playlist.m3u8
@@ -645,7 +635,7 @@ https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
 https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",NCIS
 https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",NDTV Criciuma
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",NDTV Criciuma
 https://caikron.com.br:19360/criciuma/criciuma.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bnr_world.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",NHK Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
@@ -667,7 +657,7 @@ https://vs20.live.opencaster.com/nickelodeonbrasil_68f1743d/index.m3u8
 https://cdn.jmvstream.com/w/AVJ-9733/playlist/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Nova Era TV (1080p) [Not 24/7]
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/cgN2hfm.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Nova TV Agrotour (360p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgN2hfm.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Nova TV Agrotour (360p)
 https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Novo Tempo (720p)
 http://45.162.64.114/NOVO_TEMPO/index.m3u8
@@ -683,7 +673,7 @@ https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
 https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",O Reino Infantil
 https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8
-#EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/ockostar.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Ocko Star
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ockostar.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Ocko Star
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/NcReOZr.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",OESC TV
 https://stmv1.samcast.com.br/gustavo8536/gustavo8536/playlist.m3u8
@@ -699,7 +689,7 @@ https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Play TV (720p)
 http://45.162.64.114/PLAY_TV/index.m3u8
-#EXTINF:0 tvg-logo="https://img1.wsimg.com/isteam/ip/62cf22b8-69b2-41bc-8a96-e869f5815dcf/PlayTV%20png.png/:/rs=w:180',h:180,m" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Play TV (720p)
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/62cf22b8-69b2-41bc-8a96-e869f5815dcf/PlayTV%20png.png/:/rs=w:180',h:180,m" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Play TV (720p)
 https://playtv.mediastreaming.com.br/play/live.stream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Plena TV (720p)
 https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
@@ -843,9 +833,9 @@ https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
 https://video01.logicahost.com.br/qtalchannel/qtalchannel/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Radio TV Sal One (720p)
 https://lon.rtsp.me/r3ZnG6WN2HIRxPARhAirIQ/1713628621/hls/9QdykDAy.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/1nN4rEP.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Rai Italia America (360p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1nN4rEP.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Rai Italia America (360p)
 http://210.210.155.69/s/s63/S4/mnf.m3u8?checkedby:iptvcat.com
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",RATIMBUM
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",RATIMBUM
 http://168.205.87.198:8555/live/michele/123456/84.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",RBATV (720p)
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
@@ -855,7 +845,7 @@ https://stmv.webtvninjas.com.br/rctv/rctv/playlist.m3u8
 https://5d82644094cc0.streamlock.net/8144/8144/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Record (720p)
 http://45.190.28.50/RECORD/index.m3u8
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",RECORD MINAS
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",RECORD MINAS
 http://168.205.87.198:8555/live/1431/123456/96.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Record News (720p)
 http://45.162.64.114/RECORD_NEWS/index.m3u8
@@ -899,7 +889,7 @@ https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8
 http://45.162.64.114/CNT/index.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Rede CNT Salvador (576i)
 http://168.205.87.198:8555/live/1368/123456/150.m3u8
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",REDE FAMILIA
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",REDE FAMILIA
 http://168.205.87.198:8555/live/michele/123456/151.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Rede Familia (720p)
 http://168.197.104.22:80/REDE_FAMILIA/index.m3u8
@@ -909,11 +899,11 @@ https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Rede Gospel (1080p)
 https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/JSiZG2B.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Rede Mais (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JSiZG2B.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Rede Mais (720p)
 https://5a0c3936c25c8.streamlock.net/8010/8010/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/redemeionorte.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",REDE MEIO NORTE
 http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/KVdTi0M.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Rede Meio Norte (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KVdTi0M.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Rede Meio Norte (1080p)
 http://streaming.jornalmn.com.br/live/tvmn.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Rede Meio Norte (720p)
 https://maystreaming.cloudecast.com/redemeio/index.m3u8
@@ -939,11 +929,11 @@ http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
 http://45.162.64.114/REDE_SECULO_21/index.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Rede SPTV (360p)
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",REDE SUPER
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",REDE SUPER
 http://168.205.87.198:8555/live/1431/123456/163.ts?checkedby:iptvcat.com
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",REDE SUPER
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",REDE SUPER
 http://168.205.87.198:8555/live/michele/123456/163.ts?checkedby:iptvcat.com
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",REDE TV
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",REDE TV
 http://168.205.87.198:8555/live/michele/123456/102.ts?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://s30.postimg.org/ha7dxt4bh/redetv3.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",REDE TV PR
 http://video01.viaflux.com:1935/live/mp4:tvsudoeste_source/playlist.m3u8?PEDROJUNIORTUTORIAIS
@@ -959,9 +949,9 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
 https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/n4RVl9W.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",REDE UTV
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist-480p.m3u8
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",REDE VIDA
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",REDE VIDA
 http://168.205.87.198:8555/live/1431/123456/103.ts?checkedby:iptvcat.com
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",REDE VIDA
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",REDE VIDA
 http://168.205.87.198:8555/live/michele/123456/103.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Rede Vida (720p)
 http://45.190.28.50/REDE_VIDA_HD/index.m3u8
@@ -977,7 +967,7 @@ https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
 https://archive.org/download/comercial-play-premiado-02/Comercial%20Play%20Premiado%2002.mp4
 #EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180802/ufq/kisspng-logo-dish-network-television-channel-directv-5b62ee9d68c872.0964188715332102694292.jpg" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",RENDA EXTRA com ASSINATURASA pela Internet (47)99195-2228
 https://archive.org/download/vsl-renda-extra-com-assinaturas-pela-internet/VSL%20Renda%20Extra%20com%20Assinaturas%20pela%20Internet.mp4
-#EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-logo-bile2.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Retrô TV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-logo-bile2.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Retrô TV
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",RFPtv (360p)
 https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
@@ -1013,19 +1003,19 @@ https://5fb29de4928ea.streamlock.net/2063/2063/playlist.m3u8
 http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",SBN TV Global (720p)
 https://watch.sardius.media/channels/Ea867F3e1F56B06/site_8D363D13Eb/live.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",SBT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",SBT
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u8?checkedby:iptvcat.com
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",SBT ALTEROSA
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",SBT ALTEROSA
 http://168.205.87.198:8555/live/1431/123456/104.ts?checkedby:iptvcat.com
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",SBT ALTEROSA
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",SBT ALTEROSA
 http://168.205.87.198:8555/live/michele/123456/104.ts?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",SBT CARUARU
 http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/WLSauIE.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",SBT Rio (720p) [Not 24/7] [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WLSauIE.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",SBT Rio (720p) [Not 24/7] [Geo-blocked]
 https://ythls.onrender.com/channel/UCsRfBAspa72ExrsN347W2xg.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",SBT RS
 http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.
-#EXTINF:0 tvg-logo="https://i.imgur.com/it5aFKM.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",SBT RS (720p) [Not 24/7] [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/it5aFKM.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",SBT RS (720p) [Not 24/7] [Geo-blocked]
 https://ythls.onrender.com/channel/UCHDfPYXReWt5EVIzBA6TzOQ.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="TVCidadeVerde.br" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-cidade-verde-hd_m.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",SBT TV Cidade Verde
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
@@ -1033,15 +1023,15 @@ https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
 https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSerraDourada.br" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-serra-dourada-hd_m.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",SBT TV Serra Dourada
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",SECULO 21
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",SECULO 21
 http://168.205.87.198:8555/live/1431/123456/106.ts?checkedby:iptvcat.com
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",SECULO 21
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",SECULO 21
 http://168.205.87.198:8555/live/michele/123456/106.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Series Classic (720p)
 https://cdn-tiva-video10-logicahost-com-br.smartbit.co/serieclassic/serieclassic/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Sertão TV (720p)
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",SESC TV
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",SESC TV
 http://168.205.87.198:8555/live/michele/123456/107.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",SESC TV (1080p)
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/93a9920d-1b24-4c5e-a7d2-63d5489f59b5_index.m3u8
@@ -1057,27 +1047,27 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/ch
 https://sicnot.live.impresa.pt/sicnot.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",SIC Replay (1080p)
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/E0IG98f.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",SIC TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E0IG98f.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",SIC TV
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",SIC TV (720p)
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Smithsonian Channel Pluto TV
 https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Sony Canal Novelas
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Sony Channel
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Sony Channel
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sony.channel.ru.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Sony Channel (720p)
 http://45.190.28.50/SONY_HD/index.m3u8
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Sony Movie Channel
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Sony Movie Channel
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sony.movies.us.m3u8?checkedby:iptvcat.com
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Sony Movie Channel (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Sony Movie Channel (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Sony Movies (720p)
 http://45.162.64.114/SONY_MOVIES/index.m3u8
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",SONY SCI-FI
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",SONY SCI-FI
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sony.sci.fi.ru.m3u8?checkedby:iptvcat.com
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Sony Turbo
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Sony Turbo
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sony.turbo.ru.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/V3haAYn.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",SOU TV
 https://video01.kshost.com.br:4443/tiago4725/tiago4725/playlist.m3u8
@@ -1109,23 +1099,23 @@ https://streamingtv.ddoti.com.br/hls/stream.m3u8
 http://177.52.24.163/STUDIO-UNIVERSAL-HD/index.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",STZ TV (1080p)
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/SeF2I7q.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",STZ TV (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SeF2I7q.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",STZ TV (720p)
 https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/KtwsBjH.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",SUL TV
 https://5cf4a2c2512a2.streamlock.net/sultv/sultv/playlist-480p.m3u8
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",SÉRIES CLÁSSICAS
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",SÉRIES CLÁSSICAS
 http://168.205.87.198:8555/live/1431/123456/160.ts?checkedby:iptvcat.com
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",SÉRIES CLÁSSICAS
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",SÉRIES CLÁSSICAS
 http://168.205.87.198:8555/live/michele/123456/160.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Tastemade (720p)
 https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TCM 10 HD (1080p)
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TCM HD
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TCM HD
 http://168.205.87.198:8555/live/1431/123456/187.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TCSM TV
 https://ip.webcamcaboverde.com/memfs/20a13649-f95a-4eeb-a498-e6d3e7bbedcc.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/vcNo9Vj.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Tela Viva (360p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vcNo9Vj.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Tela Viva (360p)
 https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="TELECINEACTION.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Telecine_Action_2.png/320px-Telecine_Action_2.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TELE CINE ACTION
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
@@ -1163,7 +1153,7 @@ https://stmv.webtvninjas.com.br/tv3/tv3/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV A Folha (720p)
 https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/qeo2oPM.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV A7 Plus (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qeo2oPM.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV A7 Plus (1080p)
 https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/plXLd8b.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV ABERTA SP
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
@@ -1181,9 +1171,9 @@ https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAlternativa.br" tvg-logo="https://i.imgur.com/VnlWeo3.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Alternativa (614p)
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV APARECIDA
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV APARECIDA
 http://168.205.87.198:8555/live/1431/123456/131.ts?checkedby:iptvcat.com
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV APARECIDA
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV APARECIDA
 http://168.205.87.198:8555/live/michele/123456/131.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Aparecida (1080p) [Not 24/7]
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
@@ -1203,7 +1193,7 @@ https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbi
 https://59f2354c05961.streamlock.net:1443/bonner/_definst_/bonner/chunklist_w558740421.m3u8
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/lgw1ti6jx/TV_Brasil.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV BRASIL
 http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV BRASIL
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV BRASIL
 http://168.205.87.198:8555/live/michele/123456/134.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Brasil (720p)
 http://45.162.64.114/TV_BRASIL/index.m3u8
@@ -1215,7 +1205,7 @@ http://liveabr2.sambatech.com.br/abr/tvtabr_56fc38e9793ca9941f5203fab6e01263/liv
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV BRICS Portuguese (1080p)
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV BRUSQUE
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV BRUSQUE
 http://168.205.87.198:8555/live/1431/123456/183.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Brusque (720p)
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
@@ -1229,13 +1219,13 @@ http://tv02.logicahost.com.br:1935/tvcapital/tvcapital/live.m3u8
 https://cdn.jmvstream.com/w/AVJ-9779/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RaFTDMi.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV CARAVELAS
 https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
-#EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/tvcaravelas.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Caravelas
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvcaravelas.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Caravelas
 https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV CARAVELAS (TV COM BRASIL)
 https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/chunklist_w1131983888.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Carioca (720p)
 https://cdn-tiva-video03-logicahost-com-br.smartbit.co/cariocainternacional1/cariocainternacional1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/rvQucQg.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Ceará (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rvQucQg.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Ceará (1080p)
 https://cdn.jmvstream.com/w/AVJ-12940/playlist/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV CENTRO SUL
 https://novo.bitstreaming.info:1936/tvcentrosultvstation/tvcentrosultvstation/chunklist_w669581959.m3u8
@@ -1267,7 +1257,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvcinec/_definst_/tvcinec/chunklist-48
 http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Clube (720p)
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/CpXjcyE.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Clube (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CpXjcyE.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Clube (720p)
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/hBw3n2j.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV CN AGITOS
 http://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
@@ -1277,7 +1267,7 @@ https://livefocamundo.com:8081/tvcnb/index.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvcognopolis/_definst_/tvcognopolis/chunklist_w1989881567.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zADpkDP.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV CONTROLES
 https://livefocamundo.com:8081/tvcontroles/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/FSnGAaZ.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Correio (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FSnGAaZ.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Correio (720p) [Not 24/7]
 https://ythls.onrender.com/channel/UCJ4uxK_mo6gNoqk9cyvgWkw.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/m7orza8x9/TV_Cultura.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV CULTURA
 http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8
@@ -1287,9 +1277,9 @@ http://45.162.64.114/TV_CULTURA/index.m3u8
 http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Curuça (360p)
 https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV CÂMARA
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV CÂMARA
 http://168.205.87.198:8555/live/1431/123456/136.ts?checkedby:iptvcat.com
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV CÂMARA
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV CÂMARA
 http://168.205.87.198:8555/live/michele/123456/136.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Câmara (1080p)
 https://stream3.camara.gov.br/tv1/manifest.m3u8
@@ -1309,7 +1299,7 @@ http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
 https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Difusora Leste (1080p)
 https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-difusora-s-o-luis_m.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Difusora São Luis
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-difusora-s-o-luis_m.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Difusora São Luis
 https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Digital Biriguí (640p)
 http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
@@ -1333,7 +1323,7 @@ http://45.190.28.50/TV_ESCOLA/index.m3u8
 http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/3CWGTn" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV EVANGELIZA
 rtmp://tvevangelizar01.crossdigital.com.br/evangelizar/tv
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV EVANGELIZAR
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV EVANGELIZAR
 http://168.205.87.198:8555/live/1431/123456/189.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Evangelizar (720p)
 http://45.162.64.114/EVANGELIZAR/index.m3u8
@@ -1347,8 +1337,6 @@ http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
 http://midia.faap.br/faaplatamlive-live/stream_480/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-logo="http://i.imgur.com/V3zjKvc.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV FAAP HD
 http://midia.faap.br/faaplatamlive-live/stream_720/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV FAAP HD http://midia.faap.br/faaplatamlive-live/stream_720/playlist.m3u8? PEDROJUNIORTUTORIAIS
-
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Fronteira (480i)
 https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
 #EXTINF:-1 tvg-id="TVFuturo.br" tvg-logo="https://i.imgur.com/BFekw0L.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Futuro
@@ -1357,9 +1345,9 @@ https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
 https://streaming03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Futuro (1080p)
 https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
-#EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/TVG.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Galícia
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/TVG.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Galícia
 https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-logo="https://i.imgur.com/0sksWse.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Gazeta (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0sksWse.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Gazeta (720p)
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Gazeta (720p)
 http://45.162.64.114/GAZETA/index.m3u8
@@ -1393,7 +1381,7 @@ https://stmv1.duvoxtv.com.br/gamer/gamer/playlist.m3u8
 http://srv2.zcast.com.br/tvinterativa/tvinterativa/playlist-480p.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Interlagos (360p)
 https://v8.ciclano.io:1443/tvinterlagos/_definst_/tvinterlagos/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/iuQVDpq.jpg" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Interlagos (360p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iuQVDpq.jpg" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Interlagos (360p)
 https://v8.ciclano.io:1443/tvinterlagos/_definst_/tvinterlagos/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/USSYh91.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV IRACEMA
 https://stmv1.srvstm.com/iracematv/iracematv/playlist.m3u8
@@ -1403,13 +1391,13 @@ https://livefocamundo.com:8081/tvjsid/index.m3u8
 https://cdn.jmvstream.com/w/LVW-8213/LVW8213_6Uc30uEIC7/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Justica (720p)
 http://45.162.64.114/TV_JUSTICA/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/I3iMwnY.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV La Verdad [Not 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I3iMwnY.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV La Verdad [Not 24/7]
 https://ythls.onrender.com/channel/UCS5n5q3lJBXom3wVbOiUl9Q.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="TVLiberdade.br" tvg-logo="https://i.imgur.com/W6bHHqE.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Liberdade
 https://5c483b9d1019c.streamlock.net/8238/8238/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Liberdade (720p) [Not 24/7]
 https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/W6bHHqE.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Liberdade (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W6bHHqE.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Liberdade (720p) [Not 24/7]
 https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Life America (720p)
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
@@ -1433,7 +1421,7 @@ https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
 https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Marajoara (720p)
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
-#EXTINF:0 tvg-logo="https://listaiptv.gratis/logos/imagens/master.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Master
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/master.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Master
 https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/ix2GtVx.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV MASTER PB
 https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
@@ -1451,7 +1439,7 @@ http://rtmp.cdn.upx.net.br/7dcb/myStream.sdp/playlist.m3u8
 https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/redemeio/index.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Metropole (720p) [Not 24/7]
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/Elyp4SG.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Metropolitana Rio (360p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Elyp4SG.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Metropolitana Rio (360p)
 https://stmv1.srvstm.com/luis5346/luis5346/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Modelo (720p)
 https://video09.logicahost.com.br/tvmodelo/tvmodelo/playlist.m3u
@@ -1479,7 +1467,7 @@ https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 http://45.162.64.114/TV_PAI_ETERNO/index.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Pampa
 https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/0FOmktl.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Pantanal MS (360p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0FOmktl.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Pantanal MS (360p) [Not 24/7]
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Pantanal MS (360p) [Not 24/7]
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
@@ -1515,11 +1503,11 @@ https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
 https://596639ebdd89b.streamlock.net/tvbela0982/tvbela0982/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OJMDjjz.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV SDB
 https://novo.bitstreaming.info:1936/8094/8094/playlist.m3u8
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV SENADO
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV SENADO
 http://168.205.87.198:8555/live/michele/123456/139.ts?checkedby:iptvcat.com
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV SENADO
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV SENADO
 http://168.205.87.198:8555/live/1431/123456/139.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-logo="https://i.imgur.com/duy6waL.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Senado (1080p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/duy6waL.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Senado (1080p) [Not 24/7]
 https://ythls.onrender.com/channel/UCLgti7NuK0RuW9wty-fxPjQ.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Senado (720p)
 http://45.162.64.114/TV_SENADO/index.m3u8
@@ -1551,7 +1539,7 @@ https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
 #EXTINF:-1 tvg-id="TVTropical.br" tvg-logo="https://i.imgur.com/TD6ZJoa.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Tropical (480p)
 https://59f2354c05961.streamlock.net:1443/tvtropical/tvtropical/playlist.m3u8
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV TURFE
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV TURFE
 http://168.205.87.198:8555/live/michele/123456/152.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV UFG (720p) [Not 24/7]
 http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
@@ -1567,7 +1555,7 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/chunklist_w1724679818.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvuniaobrasilia.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV União (DF)
 https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/Ec90iw0.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV União Natal (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ec90iw0.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV União Natal (1080p)
 https://rtmp.uniaoplay.com.br/tvuniaonatal/6b517d4134797cf29f129240def46bba.sdp/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="TVVerdesCampos.br" tvg-logo="https://i.imgur.com/1mK39TC.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Verdes Campos (360p)
 https://596639ebdd89b.streamlock.net/8124/8124/playlist.m3u8
@@ -1577,9 +1565,9 @@ https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
 https://stmv2.voxtvhd.com.br/vidafm/vidafm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4m1j3CL.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV VIDEONEWS
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/Z1uWe7g.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Vila Real
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z1uWe7g.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Vila Real
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-logo="https://i.imgur.com/q5U0d9k.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Vila Real
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q5U0d9k.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Vila Real
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TV Vila Real (720p)
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
@@ -1605,7 +1593,7 @@ https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
 https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TVE Cultura (720p)
 http://45.190.28.50/TVE/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/MQ6lJpS.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TVE RS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MQ6lJpS.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TVE RS
 https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TVE RS (1080p)
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
@@ -1639,7 +1627,7 @@ http://cdn.tvmatic.net/funny.m3u8
 http://cdn.tvmatic.net/tiktok.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pBba0Wc.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TVN BRASIL
 http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/c5hs2CI.jpg" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TVN Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c5hs2CI.jpg" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TVN Brasil
 http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="TVNBrasil.br" tvg-logo="https://i.imgur.com/Cywnp02.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",TVN Brasil
 http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
@@ -1667,7 +1655,7 @@ https://umatv.nuvemplay.live/hls/stream.m3u8
 http://tv.unisc.br:80/hls/test.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Dx6Yqy.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",UNISUL TV
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=4792034880553908000
-#EXTINF:0 tvg-logo="https://i.imgur.com/N0TvAFz.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",UNISUL TV (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N0TvAFz.png" group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",UNISUL TV (720p)
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=&checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",UNISUL TV (720p)
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
@@ -1691,7 +1679,7 @@ https://596639ebdd89b.streamlock.net/8072/8072/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Vivax TV (720p)
 https://video11.logicahost.com.br/redevivaxtv/redevivaxtv/playlist.m3u8
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",VRT CHANNEL
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",VRT CHANNEL
 http://168.205.87.198:8555/live/michele/123456/146.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",VRT Channel (720p)
 https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8
@@ -1699,7 +1687,7 @@ https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8
 https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",Way TV
 https://stream-hls.castr-cdn.com/5d714f6a0bd97874e36f14e4/live_057ee4605c1711efbd4135c4457c726c/index.fmp4.m3u8
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",WOOHOO
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",WOOHOO
 http://168.205.87.198:8555/live/1431/123456/141.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",WooHoo (720p)
 http://45.162.64.114/WOOHOO/index.m3u8
@@ -1711,9 +1699,9 @@ https://stmv1.srvstm.com/wtvbrasil/wtvbrasil/playlist.m3u8
 https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",XITE Siempre Latino (1080p)
 https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",ZOOMOO
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",ZOOMOO
 http://168.205.87.198:8555/live/michele/123456/162.ts?checkedby:iptvcat.com
-#EXTINF:0 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",ZOOMOO
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS 22/02/2025 22:05Hs",ZOOMOO
 http://168.205.87.198:8555/live/1431/123456/162.ts?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="GuiaDeCanais.br" tvg-logo="https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/colorLogoPNG.png" group-title="01 CANAIS: GUIA DE CANAIS",Guia de Canais
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
