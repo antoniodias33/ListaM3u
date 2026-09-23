@@ -1,82 +1,82 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1onemus.png" group-title="CANAIS | MUSICAS Gratis",1Mus
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1onemus.png" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",1Mus
 http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/4Fun-TV.png" group-title="CANAIS | MUSICAS Gratis",4Fun TV
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/wgTyf6P.png" group-title="CANAIS | MUSICAS Gratis",4FUN TV
+#EXTINF:-1 tvg-logo="https://imgur.com/wgTyf6P.png" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",4FUN TV
 https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/QISHhp6.png" group-title="CANAIS | MUSICAS Gratis",88 STEREO
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/4Fun-TV.png" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",4Fun TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/QISHhp6.png" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",88 STEREO
 http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/amor-para-todos-16x9-v1.jpg" group-title="CANAIS | MUSICAS Gratis",AMOR PARA TODOS
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/amor-para-todos-16x9-v1.jpg" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",AMOR PARA TODOS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
-#EXTINF:-1 tvg-logo="https://imgur.com/VnQgKKE.png" group-title="CANAIS | MUSICAS Gratis",Antena 1 RJ
+#EXTINF:-1 tvg-logo="https://imgur.com/VnQgKKE.png" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",Antena 1 RJ
 http://a1rj.streams.com.br:7801/sm
-#EXTINF:-1 tvg-logo="https://imgur.com/sa8jiwA.png" group-title="CANAIS | MUSICAS Gratis",Atlãndida FM
+#EXTINF:-1 tvg-logo="https://imgur.com/sa8jiwA.png" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",Atlãndida FM
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/baile-picante-16x9-v1.jpg" group-title="CANAIS | MUSICAS Gratis",BAILE PICANTE
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/baile-picante-16x9-v1.jpg" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",BAILE PICANTE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_capital_1024x1024-768x384.png" group-title="CANAIS | MUSICAS Gratis",Capital TV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_capital_1024x1024-768x384.png" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",Capital TV
 https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_capital_1024x1024-768x384.png" group-title="CANAIS | MUSICAS Gratis",Capital TV (Quer canais com GloboPlay e DisneyPlus? Assine nossa LISTA PREMIUM. WhatsApp(47)99626-5594)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_capital_1024x1024-768x384.png" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",Capital TV (Quer canais com GloboPlay e DisneyPlus? Assine nossa LISTA PREMIUM. WhatsApp(47)99626-5594)
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/Colosal-TV.png" group-title="CANAIS | MUSICAS Gratis",Colosal TV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/Colosal-TV.png" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",Colosal TV
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/jfkbG3x.png" group-title="CANAIS | MUSICAS Gratis",Difusora Acreana
+#EXTINF:-1 tvg-logo="https://imgur.com/jfkbG3x.png" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",Difusora Acreana
 http://midia.ac.gov.br/difusora
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/djing.png" group-title="CANAIS | MUSICAS Gratis",DJing
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/djing.png" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",DJing
 https://www.djing.com/tv/29054-03.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CANAIS | MUSICAS Gratis",DJING Animation
-https://www.djing.com/tv/animation.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/djing.png" group-title="CANAIS | MUSICAS Gratis",DJing Animation
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/djing.png" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",DJing Animation
 https://www.djing.com/tv/a-28904-04.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CANAIS | MUSICAS Gratis",DJING Summer Vibes ¹
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",DJING Animation
+https://www.djing.com/tv/animation.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DJING.png" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",DJING Summer Vibes ¹
 https://www.djing.com/tv/s-28049-03-summer-vibes.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospelmusic.jpg" group-title="CANAIS | MUSICAS Gratis",Gospel Music
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospelmusic.jpg" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",Gospel Music
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kpoptvplay.png" group-title="CANAIS | MUSICAS Gratis",Kpop TV Play
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kpoptvplay.png" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",Kpop TV Play
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-kronehit_logo2018_nachtblau_rgb.svg_.png" group-title="CANAIS | MUSICAS Gratis",KroneHIT
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS | MUSICAS Gratis",Kronehit
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",Kronehit
 https://bitcdn-kronehit.bitmovin.com/v2/hls/20000k.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/OA7DMUk.png" group-title="CANAIS | MUSICAS Gratis",LFM TV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-kronehit_logo2018_nachtblau_rgb.svg_.png" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",KroneHIT
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/OA7DMUk.png" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",LFM TV
 https://edge17.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-radio_m2o_-_logo_2019.svg_.png" group-title="CANAIS | MUSICAS Gratis",M2O
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-radio_m2o_-_logo_2019.svg_.png" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",M2O
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-radio_m2o_-_logo_2019.svg_.png" group-title="CANAIS | MUSICAS Gratis",M2O
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-radio_m2o_-_logo_2019.svg_.png" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",M2O
 https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2022/11/maisum.png" group-title="CANAIS | MUSICAS Gratis",MAIS UM
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2022/11/maisum.png" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",MAIS UM
 https://stream.ichibantv.com:3230/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS | MUSICAS Gratis",Ocko
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS | MUSICAS Gratis",Ocko Gold
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ockostar.png" group-title="CANAIS | MUSICAS Gratis",Ocko Star
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/otto.png" group-title="CANAIS | MUSICAS Gratis",Otto Fm TV
-http://streaming.bitonlive.net:8080/hls/ottofm2/204_203/index.m3u8
-#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/pop-pegajoso.jpeg" group-title="CANAIS | MUSICAS Gratis",POP PEGAJOSO
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
-#EXTINF:-1 tvg-logo="https://imgur.com/C4sc9nI.png" group-title="CANAIS | MUSICAS Gratis",PORTAL FOXMIX
-https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/nYirGYT.png" group-title="CANAIS | MUSICAS Gratis",POWER TV
-http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/2c8dg7Y.png" group-title="CANAIS | MUSICAS Gratis",POWER TV
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
-#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/ritmos-inolvidables-16x9-v1.jpg" group-title="CANAIS | MUSICAS Gratis",RITMOS INOLVIDABLES
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rock.png" group-title="CANAIS | MUSICAS Gratis",Rock TV
-https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rtl.png" group-title="CANAIS | MUSICAS Gratis",RTL (Itália)
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/pbvkmrF.png" group-title="CANAIS | MUSICAS Gratis",RU TV
-https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/theretrofb.jpg" group-title="CANAIS | MUSICAS Gratis",The Retro Channel
-https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/2ENPzfC.png" group-title="CANAIS | MUSICAS Gratis",TV 538
-https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/WTCdLuw.png" group-title="CANAIS | MUSICAS Gratis",MTV HD
+#EXTINF:-1 tvg-logo="https://imgur.com/WTCdLuw.png" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",MTV HD
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/287/287-3-main.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",Ocko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",Ocko Gold
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ockostar.png" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",Ocko Star
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/otto.png" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",Otto Fm TV
+http://streaming.bitonlive.net:8080/hls/ottofm2/204_203/index.m3u8
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/pop-pegajoso.jpeg" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",POP PEGAJOSO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
+#EXTINF:-1 tvg-logo="https://imgur.com/C4sc9nI.png" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",PORTAL FOXMIX
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2c8dg7Y.png" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",POWER TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nYirGYT.png" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",POWER TV
+http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/ritmos-inolvidables-16x9-v1.jpg" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",RITMOS INOLVIDABLES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rock.png" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",Rock TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rtl.png" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",RTL (Itália)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/pbvkmrF.png" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",RU TV
+https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/theretrofb.jpg" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",The Retro Channel
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2ENPzfC.png" group-title="CANAIS | MUSICAS Gratis (PARTE 04) 23/09/26 01:25hs",TV 538
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1-12141_al-jazeera-png-aljazeera-logo-01-png-al.png" group-title="CANAIS | NOTICIÁRIO Gratis",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cbsnews.png" group-title="CANAIS | NOTICIÁRIO Gratis",CBS News
