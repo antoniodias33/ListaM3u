@@ -1,12 +1,4 @@
-﻿ESSE CONTEÚDO FAZ PARTE DOS CANAIS GRATUITOS: 
-C:\CURSOS\CANAIS_GRATUITOS.m3u
-OBJETIVO DESTA LISTA: 
-VERIFICAR QUAIS CONTEÚDOS RODAM NO BIT MASTER TV E Transportar os conteúdos para a playlist CANAIS_GRATUITOS.
-
-################################
-
-
-#EXTM3U
+﻿#EXTM3U
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png" group-title="02 PLUTO TV",Nickelodeon Clássico | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG.png" group-title="02 PLUTO TV",Nickelodeon | Pluto TV Brasil | link 2
