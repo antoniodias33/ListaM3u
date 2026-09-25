@@ -1,737 +1,737 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="01 CANAIS | ABERTOS", 01  CANAL DO USUARIO Atualizado EM 25/09/2026 14:55hs
+#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="01 CANAIS | ABERTOS", 01  CANAL DO USUARIO Atualizado EM 25/09/2026 15:05hs
 https://archive.org/download/canal-do-usuario-iptvbm/Canal%20do%20Usuario%20IPTVBM.mp4
-#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="01 CANAIS | ABERTOS", 01  CANAL DO USUARIO Atualizado EM 10/09/2026 14:55Hs
+#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="01 CANAIS | ABERTOS", 01  CANAL DO USUARIO Atualizado EM 10/09/2026 15:05Hs
 https://archive.org/download/canal-do-usuario-iptvbm/Canal%20do%20Usuario%20IPTVBM.mp4
-#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",01  CANAL DO USUARIO Atualizado EM 25/09/2026 14:55hs
-https://netmidia.aligapp.com.br/uploads/midias/69403d303cc5e_video_divulgacao_1765817560536.mp4
-#EXTINF:-1 tvg-logo="https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1775688612576-u0628igjimf.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Cinturao Verde
-https://play.redecinturaoverde.com.br/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1775702325773-d10vtu076za.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",MBC Brasil TV
-https://play.mbcbrasil.tv.br/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PMptSP3.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Primer TV (1080p)
-http://200.194.238.229:8383/live/primer/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p7tt72X.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TELE 6 (720p)
-https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3395A2h.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Arapuan (720p)
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",ADB TV (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",ADB TV (1080p)
 https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/adesso.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Adesso TV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/adesso.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Adesso TV (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Adesso TV (720p)
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Adrenalina Pura TV
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Adrenalina Pura TV
 https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",AgroCanal (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",AgroCanal (720p)
 http://45.162.64.114/AGRO_CANAL/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",AgroMais (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",AgroMais (720p)
 http://45.162.64.114/AGROMAIS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7rjCS5i.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Amazon Sat (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7rjCS5i.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Amazon Sat (1080p)
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Amazon Sat (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Amazon Sat (1080p)
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",AMC Latin America Brazil (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",AMC Latin America Brazil (720p)
 http://170.83.49.66:8083/AMCHD/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Angel TV Portuguese (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Angel TV Portuguese (720p)
 https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Araruna TV
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Araruna TV
 https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Aratu On
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Aratu On
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Arte 1 (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Arte 1 (720p)
 http://45.162.64.114/ARTE1/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",ARTV Canal Parlamento (720p) [Not 24/7]
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",ARTV Canal Parlamento (720p) [Not 24/7]
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Avatar: A lenda de Aang
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Avatar: A lenda de Aang
 https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",AWTV
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",AWTV
 http://168.205.87.198:8555/live/1431/123456/181.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",AWTV (1080p) 
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",AWTV (1080p) 
 https://awtv.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Babyfirst
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Babyfirst
 https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Blitstv
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Blitstv
 https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",BM&C News (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",BM&C News (720p)
 https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",BOA VONTADE TV
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",BOA VONTADE TV
 http://168.205.87.198:8555/live/michele/123456/21.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Boas Novas (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Boas Novas (1080p)
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Bob Esponja Calça Quadrada (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Bob Esponja Calça Quadrada (720p)
 https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",BR8 TV
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",BR8 TV
 https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GgH6F4t.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",CANAL 25 JUNDIAI
+#EXTINF:-1 tvg-logo="https://imgur.com/GgH6F4t.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",CANAL 25 JUNDIAI
 http://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9SjoGWj.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Canal 25 JundiaÃ­
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SjoGWj.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Canal 25 JundiaÃ­
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Canal 38 (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Canal 38 (720p)
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",CANAL DO BOI
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",CANAL DO BOI
 http://168.205.87.198:8555/live/1431/123456/167.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Canal do Boi (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Canal do Boi (720p)
 http://45.162.64.114/CANAL_DO_BOI/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Canal Educacao
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Canal Educacao
 https://canaleducacao-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Canal Educacao (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Canal Educacao (720p)
 http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Canal FDR
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Canal FDR
 https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Canal Futura (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Canal Futura (720p)
 http://45.162.64.114/FUTURA/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Canal Gov (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Canal Gov (720p)
 https://canalgov-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Canal Metropolitano de Noticias
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Canal Metropolitano de Noticias
 https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",CANAL RURAL
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",CANAL RURAL
 http://168.205.87.198:8555/live/michele/123456/166.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Canal Sete
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Canal Sete
 http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Canal UOL (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Canal UOL (1080p)
 https://video24.mais.uol.com.br/live/6146.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/catve.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Catve - Cultura (PR)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/catve.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Catve - Cultura (PR)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/catve.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Catve - Cultura (PR)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/catve.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Catve - Cultura (PR)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Catve FM (720p) [Not 24/7]
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Catve FM (720p) [Not 24/7]
 https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Catve Master TV (720p) [Not 24/7]
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Catve Master TV (720p) [Not 24/7]
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Catve2 (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Catve2 (720p)
 https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",CHESPIRITO
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",CHESPIRITO
 http://168.205.87.198:8555/live/michele/123456/159.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Chroma TV (480p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Chroma TV (480p)
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",CINDIE TV (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",CINDIE TV (1080p)
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Classique TV (360p)
+#EXTINF:-1 tvg-logo="https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1775688612576-u0628igjimf.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Cinturao Verde
+https://play.redecinturaoverde.com.br/playlist.m3u8
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Classique TV (360p)
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",COM Brasil (1080p) [Not 24/7]
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",COM Brasil (1080p) [Not 24/7]
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Comedy Central Pluto TV
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Comedy Central Pluto TV
 https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Comedy Central South Park
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Comedy Central South Park
 https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Conecta Mais TV (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Conecta Mais TV (720p)
 https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",ConecTV Brasil (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",ConecTV Brasil (720p)
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",CSI: Miami
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",CSI: Miami
 https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
-#EXTINF:-1 tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2020/05/TV-Cultura-logo-e1603864549316.jpg" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",CULTURA
+#EXTINF:-1 tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2020/05/TV-Cultura-logo-e1603864549316.jpg" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",CULTURA
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w970754890.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Cultura Fast (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Cultura Fast (720p)
 https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Yr8diVX.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",DEMAIS TV
+#EXTINF:-1 tvg-logo="https://imgur.com/Yr8diVX.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",DEMAIS TV
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Despertar TV (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Despertar TV (720p)
 https://br.conectmy.com.br/DespertarTV/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Detetives Médicos
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Detetives Médicos
 https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Diff
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Diff
 https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",DumDum (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",DumDum (720p)
 http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",EBS (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",EBS (1080p)
 https://streams.prd.commavservices.eu/live/ebs/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",EBS Plus (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",EBS Plus (1080p)
 https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",ElyTV (360p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",ElyTV (360p)
 https://stmv1.srvsite.com/ely/ely/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",ESPN (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",ESPN (1080p)
 http://181.78.197.59:8000/play/a07z/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",ESPN 4 (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",ESPN 4 (1080p)
 http://181.78.197.59:8000/play/a07n/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Estúdio 96.5 FM Rio de Janeiro - RJ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Estúdio 96.5 FM Rio de Janeiro - RJ
 http://cdn.rj.assocrj.com.br/live//tupi-estudio-video06/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Euronews Portuguese (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Euronews Portuguese (720p)
 https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",EUTV (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",EUTV (720p)
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",FailArmy
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",FailArmy
 https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Fala Litoral (480p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Fala Litoral (480p)
 https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/X3lIFxM.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",FALA LITORAL WEB TV
+#EXTINF:-1 tvg-logo="https://imgur.com/X3lIFxM.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",FALA LITORAL WEB TV
 https://5c483b9d1019c.streamlock.net:443/falalitoraltv/falalitoraltv/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Famatv (1080p) [Not 24/7]
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Famatv (1080p) [Not 24/7]
 https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",FIFA+ Portuguese (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",FIFA+ Portuguese (720p)
 https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Filmes Suspense
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Filmes Suspense
 https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Fish TV (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Fish TV (720p)
 http://45.162.64.114/FISH_TV/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Fonte TV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Fonte TV (1080p) [Not 24/7]
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-fonte.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",FonteTV (GO)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-fonte.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",FonteTV (GO)
 http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Fora Tedio TV (720p) 
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Fora Tedio TV (720p) 
 https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/635px-france24.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",France 24
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/635px-france24.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",France 24
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/300px-Canal_Futura.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Futura
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/300px-Canal_Futura.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Futura
 https://tv.unisc.br/hls/test.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Futura (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Futura (720p)
 http://168.197.104.22:80/FUTURA/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",GAZETA
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",GAZETA
 http://168.205.87.198:8555/live/michele/123456/69.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",ge Fast (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",ge Fast (1080p)
 https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Gospel Cartoon (360p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Gospel Cartoon (360p)
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Gospel Movie TV (360p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Gospel Movie TV (360p)
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",ISTV (720p) [Not 24/7]
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",ISTV (720p) [Not 24/7]
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",IURD TV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",IURD TV
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",J3NEWS TV
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",J3NEWS TV
 https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Jornada nas Estrelas A Nova Geração
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Jornada nas Estrelas A Nova Geração
 https://jmp2.uk/plu-69162ad79505d0f3b1ebf07d.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Jornada nas Estrelas Deep Space Nine
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Jornada nas Estrelas Deep Space Nine
 https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Jornada nas Estrelas Voyager
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Jornada nas Estrelas Voyager
 https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Kenan & Kel
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Kenan & Kel
 https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",KK TV Angola (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",KK TV Angola (1080p)
 https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",KpopTV Play (576p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",KpopTV Play (576p)
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Kuriakos Cine (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Kuriakos Cine (1080p)
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Kuriakos Kids (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Kuriakos Kids (1080p)
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Kuriakos Music (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Kuriakos Music (1080p)
 http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Kuriakos TV (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Kuriakos TV (1080p)
 https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",L!ke (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",L!ke (1080p)
 https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Laboral TV (360p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Laboral TV (360p)
 https://tv.laboralsst.com.br/hls/stream.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Loading (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Loading (720p)
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",MacGyver
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",MacGyver
 https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Maná Igreja Online (1080p) [Not 24/7]
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Maná Igreja Online (1080p) [Not 24/7]
 https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hMLxwL0.img" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Master TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMLxwL0.img" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Master TV
 http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FioVeSb.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",MASTER TV PR
+#EXTINF:-1 tvg-logo="https://imgur.com/FioVeSb.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",MASTER TV PR
 http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",MasterChef
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",MasterChef
 https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",MNTV
+#EXTINF:-1 tvg-logo="https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1775702325773-d10vtu076za.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",MBC Brasil TV
+https://play.mbcbrasil.tv.br/playlist.m3u8
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",MNTV
 https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",MTV Are you the One?
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",MTV Are you the One?
 https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",MTV Biggest Pop (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",MTV Biggest Pop (1080p)
 https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",MTV Catfish (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",MTV Catfish (720p)
 https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",MTV Com o Ex
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",MTV Com o Ex
 https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",MTV Dating
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",MTV Dating
 https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",MTV Jovens e Mães (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",MTV Jovens e Mães (720p)
 https://jmp2.uk/plu-620fdc7d8a36fc000710e3ba.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",MTV Pluto TV
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",MTV Pluto TV
 https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",MTV Reality (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",MTV Reality (720p)
 https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",MTV Rocks
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",MTV Rocks
 https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",MTV Rupaul's Drag Race
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",MTV Rupaul's Drag Race
 https://jmp2.uk/plu-645111f1d8436e00081bb2bd.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",MTV Shore
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",MTV Shore
 https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Muzangala TV (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Muzangala TV (1080p)
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",MyTime Movie Network Brazil (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",MyTime Movie Network Brazil (720p)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",N Sports (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",N Sports (1080p)
 https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Naruto
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Naruto
 https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",NCIS
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",NCIS
 https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",NDTV Criciuma
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",NDTV Criciuma
 https://caikron.com.br:19360/criciuma/criciuma.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Nick Jr. Club (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Nick Jr. Club (720p)
 https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Nickelodeon Clássico (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Nickelodeon Clássico (720p)
 https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Nickelodeon iCarly
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Nickelodeon iCarly
 https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Nickelodeon Teen (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Nickelodeon Teen (720p)
 https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Nickelodeon Toons (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Nickelodeon Toons (720p)
 https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",NickOnline (360p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",NickOnline (360p)
 https://x1colegal.com/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/McgXMZ6.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",NOVA ERA TV
+#EXTINF:-1 tvg-logo="https://imgur.com/McgXMZ6.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",NOVA ERA TV
 http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Nova Era TV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Nova Era TV (1080p) [Not 24/7]
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Novo Tempo (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Novo Tempo (720p)
 http://45.162.64.114/NOVO_TEMPO/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",NTV (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",NTV (720p)
 https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Numbers
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Numbers
 https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",O Dia TV
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",O Dia TV
 https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",O Encantador de Cães
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",O Encantador de Cães
 https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",O Reino Infantil
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",O Reino Infantil
 https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ockostar.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Ocko Star
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ockostar.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Ocko Star
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Oggy e as Baratas Tontas
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Oggy e as Baratas Tontas
 https://jmp2.uk/plu-63221bafdc6e110007b50270.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",ON FM (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",ON FM (720p)
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Petlovers TV
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Petlovers TV
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/wqOAIgT.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",PLAN TV
+#EXTINF:-1 tvg-logo="https://imgur.com/wqOAIgT.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",PLAN TV
 https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Play TV (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Play TV (720p)
 http://45.162.64.114/PLAY_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/playtv.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",PlayTV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/08/playtv.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",PlayTV
 https://isaocorp.cloudecast.com/playtv/mono.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Plena TV (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Plena TV (720p)
 https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Plenitude TV
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Plenitude TV
 https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Porto Canal (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Porto Canal (720p)
 https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Pronto-socorro: Histórias De Emergência
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PMptSP3.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Primer TV (1080p)
+http://200.194.238.229:8383/live/primer/playlist.m3u8
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Pronto-socorro: Histórias De Emergência
 https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1nN4rEP.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Rai Italia America (360p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1nN4rEP.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Rai Italia America (360p)
 http://210.210.155.69/s/s63/S4/mnf.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",RATIMBUM
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",RATIMBUM
 http://168.205.87.198:8555/live/michele/123456/84.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",RBATV (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",RBATV (720p)
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",RECORD 2
+#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",RECORD 2
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",RECORD MINAS
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",RECORD MINAS
 http://168.205.87.198:8555/live/1431/123456/96.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Record News (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Record News (720p)
 http://45.162.64.114/RECORD_NEWS/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",RecordTV Interior SP
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",RecordTV Interior SP
 http://200.77.176.130:8000/udp/224.0.0.4:49152
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",RecordTV MT
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",RecordTV MT
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",RecordTV MT 2
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",RecordTV MT 2
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-nKFQjWxV-Co/XRZMlbgmYDI/AAAAAAAABPI/RLnB3Goeyw83rN6mM2J7O3kw8sQ3QtyCgCLcBGAs/s320/Screenshot_2019-06-28-14-19-55.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",RED BULL TV
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-nKFQjWxV-Co/XRZMlbgmYDI/AAAAAAAABPI/RLnB3Goeyw83rN6mM2J7O3kw8sQ3QtyCgCLcBGAs/s320/Screenshot_2019-06-28-14-19-55.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Red Bull TV BR (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Red Bull TV BR (1080p)
 https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Rede Brasil (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Rede Brasil (1080p)
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Rede CNT Rio de Janeiro (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Rede CNT Rio de Janeiro (720p)
 http://45.162.64.114/CNT/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Rede CNT Salvador (576i)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Rede CNT Salvador (576i)
 http://168.205.87.198:8555/live/1368/123456/150.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",REDE FAMILIA
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",REDE FAMILIA
 http://168.205.87.198:8555/live/michele/123456/151.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Rede Familia (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Rede Familia (720p)
 http://168.197.104.22:80/REDE_FAMILIA/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Rede Globo (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Rede Globo (1080p)
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/iqWnub9.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Rede Gospel
+#EXTINF:-1 tvg-logo="http://i.imgur.com/iqWnub9.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Rede Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Rede Gospel (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Rede Gospel (1080p)
 https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://redemaisfamilia.com.br/wp-content/uploads/2022/08/Logo-rede-mais-familia.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Rede Mais Família
+#EXTINF:-1 tvg-logo="https://redemaisfamilia.com.br/wp-content/uploads/2022/08/Logo-rede-mais-familia.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Rede Mais Família
 https://video09.logicahost.com.br/redefamilia/redefamilia/chunklist_w1847404135.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Rede Meio Norte (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Rede Meio Norte (720p)
 https://maystreaming.cloudecast.com/redemeio/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/fP74ULx.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",REDE METROPOLITANA
+#EXTINF:-1 tvg-logo="https://imgur.com/fP74ULx.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",REDE METROPOLITANA
 https://cdn.cdnseguro.com/metropolitana2/metropolitana2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-minas-original.jpg" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Rede Minas
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-minas-original.jpg" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Rede Minas
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Rede NGT (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Rede NGT (1080p)
 https://isaocorp.cloudecast.com/ngt/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Rede Seculo 21 (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Rede Seculo 21 (720p)
 http://45.162.64.114/REDE_SECULO_21/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Rede SPTV (360p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Rede SPTV (360p)
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/super-tv-logo-FDAE640290-seeklogo.com.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Rede Super
-https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w1249447642.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",REDE SUPER
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",REDE SUPER
 http://168.205.87.198:8555/live/michele/123456/163.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",REDE SUPER
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",REDE SUPER
 http://168.205.87.198:8555/live/1431/123456/163.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",REDE TV
-http://168.205.87.198:8555/live/michele/123456/102.ts?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",REDE TV
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/super-tv-logo-FDAE640290-seeklogo.com.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Rede Super
+https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w1249447642.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",REDE TV
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Rede TV! Mais
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",REDE TV
+http://168.205.87.198:8555/live/michele/123456/102.ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Rede TV! Mais
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",REDE VIDA
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",REDE VIDA
 http://168.205.87.198:8555/live/1431/123456/103.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",REDE VIDA
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",REDE VIDA
 http://168.205.87.198:8555/live/michele/123456/103.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",RedeTV! Parana
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",RedeTV! Parana
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Reino Infantil
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Reino Infantil
 https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-logo-bile2.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Retrô TV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-logo-bile2.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Retrô TV
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",RFPtv (360p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",RFPtv (360p)
 https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",RIT TV (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",RIT TV (1080p)
 https://acesso.ecast.site:3648/live/ritlive.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/12/RTN-logo.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",RTN
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/12/RTN-logo.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",RTN
 https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",RTP 1 (720p) [Not 24/7]
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",RTP 1 (720p) [Not 24/7]
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",RTP 2 (720p) [Not 24/7]
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",RTP 2 (720p) [Not 24/7]
 https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",RTP Açores (504p) [Not 24/7]
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",RTP Açores (504p) [Not 24/7]
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",RTP Açores (720p) [Not 24/7]
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",RTP Açores (720p) [Not 24/7]
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",RTP Madeira (504p) [Not 24/7]
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",RTP Madeira (504p) [Not 24/7]
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",RTP Memória (504p) [Not 24/7]
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",RTP Memória (504p) [Not 24/7]
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",RTP Mundo (504p) [Not 24/7]
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",RTP Mundo (504p) [Not 24/7]
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",RTP Noticias (504p) [Not 24/7]
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",RTP Noticias (504p) [Not 24/7]
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",RTP Noticias (720p) [Not 24/7]
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",RTP Noticias (720p) [Not 24/7]
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",RTP África (504p) [Not 24/7]
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",RTP África (504p) [Not 24/7]
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/90kb4L2.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",RTV CANAL 38
+#EXTINF:-1 tvg-logo="https://imgur.com/90kb4L2.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",RTV CANAL 38
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/chunklist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Rádio Sines (720p) [Geo-blocked]
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Rádio Sines (720p) [Geo-blocked]
 https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",SBN TV Global (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",SBN TV Global (720p)
 https://watch.sardius.media/channels/Ea867F3e1F56B06/site_8D363D13Eb/live.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",SECULO 21
-http://168.205.87.198:8555/live/1431/123456/106.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",SECULO 21
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",SECULO 21
 http://168.205.87.198:8555/live/michele/123456/106.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",SESC TV
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",SECULO 21
+http://168.205.87.198:8555/live/1431/123456/106.ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",SESC TV
 http://168.205.87.198:8555/live/michele/123456/107.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",SIC Alta Definição (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",SIC Alta Definição (1080p)
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",SIC Replay (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",SIC Replay (1080p)
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E0IG98f.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",SIC TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E0IG98f.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",SIC TV
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",SIC TV (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",SIC TV (720p)
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Smithsonian Channel Pluto TV
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Smithsonian Channel Pluto TV
 https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Sony Movies (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Sony Movies (720p)
 http://45.162.64.114/SONY_MOVIES/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",SOU TV
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",SOU TV
 https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",South Park: Coleção Cartman
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",South Park: Coleção Cartman
 https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",South Park: Coleção Kenny
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",South Park: Coleção Kenny
 https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",South Park: Coleção Kyle
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",South Park: Coleção Kyle
 https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",South Park: Coleção Stan
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",South Park: Coleção Stan
 https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/90joMXl.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",STUDIO TV
+#EXTINF:-1 tvg-logo="https://imgur.com/90joMXl.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",STUDIO TV
 https://streamingtv.ddoti.com.br/hls/stream.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",STZ TV (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",STZ TV (1080p)
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",SÉRIES CLÁSSICAS
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",SÉRIES CLÁSSICAS
 http://168.205.87.198:8555/live/michele/123456/160.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",SÉRIES CLÁSSICAS
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",SÉRIES CLÁSSICAS
 http://168.205.87.198:8555/live/1431/123456/160.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Tastemade (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Tastemade (720p)
 https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TCM 10 HD (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TCM 10 HD (1080p)
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TCM HD
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TCM HD
 http://168.205.87.198:8555/live/1431/123456/187.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Terra Viva (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p7tt72X.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TELE 6 (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Terra Viva (720p)
 http://45.162.64.114/TERRAVIVA/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",The Pet Collective (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",The Pet Collective (720p)
 https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TikTok Radio Brasil (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TikTok Radio Brasil (1080p)
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TNT Novelas Brazil (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TNT Novelas Brazil (720p)
 http://45.162.64.114/TNT_NOVELAS/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Tokusato
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Tokusato
 https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Trace Brasil (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Trace Brasil (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Trace Toca (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Trace Toca (1080p)
 https://channels.trace.plus/Traceprod/TOCA_hd/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Trace Urban (Australia) (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Trace Urban (Australia) (1080p)
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Trace Urban France (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Trace Urban France (1080p)
 https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Turma da Mônica (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Turma da Mônica (720p)
 https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV A Critica
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV A Critica
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV A Folha (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV A Folha (720p)
 https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Aldeia (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Aldeia (720p)
 https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Aliança Catarinense (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Aliança Catarinense (720p)
 https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Alternativa (410p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Alternativa (410p)
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV APARECIDA
-http://168.205.87.198:8555/live/michele/123456/131.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV APARECIDA
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV APARECIDA
 http://168.205.87.198:8555/live/1431/123456/131.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Aparecida (1080p) [Not 24/7]
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV APARECIDA
+http://168.205.87.198:8555/live/michele/123456/131.ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Aparecida (1080p) [Not 24/7]
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Assembleia Piaui
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3395A2h.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Arapuan (720p)
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Assembleia Piaui
 https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/09/tvassembleia.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Assembléia Maceió
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/09/tvassembleia.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Assembléia Maceió
 https://5c483b9d1019c.streamlock.net/staffvideotv/staffvideotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/vOgUR4M.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV BOQUEIRAO
+#EXTINF:-1 tvg-logo="https://imgur.com/vOgUR4M.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV BOQUEIRAO
 https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/3KyZQDS.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV BRAGA BRASIL
+#EXTINF:-1 tvg-logo="https://imgur.com/3KyZQDS.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV BRAGA BRASIL
 https://alanza.iptv2022.com/Braga_Brasil/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV BRASIL
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV BRASIL
 http://168.205.87.198:8555/live/michele/123456/134.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Brasil (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Brasil (720p)
 http://45.162.64.114/TV_BRASIL/index.m3u8
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/lgw1ti6jx/TV_Brasil.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV BRASIL HD
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/lgw1ti6jx/TV_Brasil.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV BRASIL HD
 http://liveabr2.sambatech.com.br/abr/tvtabr_56fc38e9793ca9941f5203fab6e01263/livestream.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Brasil Oeste (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Brasil Oeste (720p)
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV BRICS Portuguese (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV BRICS Portuguese (1080p)
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV BRUSQUE
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV BRUSQUE
 http://168.205.87.198:8555/live/1431/123456/183.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Brusque (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Brusque (720p)
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bnzdrdjj.jpg" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Brusque (SC)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bnzdrdjj.jpg" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Brusque (SC)
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Cancao Nova (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Cancao Nova (720p)
 http://45.162.64.114/CANCAO_NOVA/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/DPXwC9p.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV CHROMA
+#EXTINF:-1 tvg-logo="https://imgur.com/DPXwC9p.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV CHROMA
 https://5c483b9d1019c.streamlock.net:443/8054/8054/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Cidade
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Cidade
 https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Cidade Verde Cuiaba 
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Cidade Verde Cuiaba 
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CpXjcyE.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Clube (720p)
-https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Clube (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Clube (720p)
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/4o6Xeee.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV COM DF
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CpXjcyE.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Clube (720p)
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://imgur.com/4o6Xeee.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV COM DF
 https://5b7f3c45ab7c2.streamlock.net:443/8008/smil:8008.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uxefHY3.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Comunitaria
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uxefHY3.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Comunitaria
 https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/c1XFUsl.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Cultura
+#EXTINF:-1 tvg-logo="https://imgur.com/c1XFUsl.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Cultura
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Cultura (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Cultura (720p)
 http://45.162.64.114/TV_CULTURA/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Curuça (360p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Curuça (360p)
 https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV CÂMARA
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV CÂMARA
 http://168.205.87.198:8555/live/michele/123456/136.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV CÂMARA
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV CÂMARA
 http://168.205.87.198:8555/live/1431/123456/136.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Câmara (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Câmara (1080p)
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Difusao (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Difusao (720p)
 https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/diariodosertao.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Diário do Sertão
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/diariodosertao.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Diário do Sertão
 https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/Yj9UKv2.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Escola
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/Yj9UKv2.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Escola
 http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV EVANGELIZAR
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV EVANGELIZAR
 http://168.205.87.198:8555/live/1431/123456/189.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Evangelizar (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Evangelizar (720p)
 http://45.162.64.114/EVANGELIZAR/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Fronteira (480i)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Fronteira (480i)
 https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Futuro (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Futuro (1080p)
 https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/fmGNohE.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV GALEGA
-https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/fmGNohE.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV GALEGA
+#EXTINF:-1 tvg-logo="https://imgur.com/fmGNohE.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV GALEGA
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Gazeta (720p)
+#EXTINF:-1 tvg-logo="https://imgur.com/fmGNohE.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV GALEGA
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Gazeta (720p)
 http://45.162.64.114/GAZETA/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Grande Natal (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Grande Natal (1080p)
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Justica (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Justica (720p)
 http://45.162.64.114/TV_JUSTICA/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Life America (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Life America (720p)
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Litoral RN (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Litoral RN (720p)
 https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmaceio.jpg" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Maceió (AL)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmaceio.jpg" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Maceió (AL)
 https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Mais Maricá (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Mais Maricá (1080p)
 https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Maná 1 (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Maná 1 (1080p)
 https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Maná 2 (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Maná 2 (1080p)
 https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Maná Brasil (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Maná Brasil (1080p)
 https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Maná Moçambique (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Maná Moçambique (1080p)
 https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Marajoara (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Marajoara (720p)
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV MAX (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV MAX (720p)
 https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Metropole (720p) [Not 24/7]
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Metropole (720p) [Not 24/7]
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/bYIUQJb.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV METROPOLITANA RIO
+#EXTINF:-1 tvg-logo="https://imgur.com/bYIUQJb.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV METROPOLITANA RIO
 https://alanza.iptv2022.com/METROPOLITANA_RIO/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Modelo (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Modelo (720p)
 https://video09.logicahost.com.br/tvmodelo/tvmodelo/playlist.m3u
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Natal (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Natal (1080p)
 http://185.228.163.146:8000/play/a01y/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Padre Cicero (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Padre Cicero (720p)
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Pai Eterno (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Pai Eterno (720p)
 http://45.162.64.114/TV_PAI_ETERNO/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Pampa
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Pampa
 https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Pantanal MS (360p) [Not 24/7]
-https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0FOmktl.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Pantanal MS (360p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0FOmktl.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Pantanal MS (360p) [Not 24/7]
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Paraense (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Pantanal MS (360p) [Not 24/7]
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Paraense (720p)
 https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Paraná Turismo (720p) [Not 24/7]
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Paraná Turismo (720p) [Not 24/7]
 http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Passo Fundo (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Passo Fundo (720p)
 https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Petropolis (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Petropolis (720p)
 https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Klwjy9d.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV RIO MADEIRA
+#EXTINF:-1 tvg-logo="https://imgur.com/Klwjy9d.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV RIO MADEIRA
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV SENADO
-http://168.205.87.198:8555/live/1431/123456/139.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV SENADO
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV SENADO
 http://168.205.87.198:8555/live/michele/123456/139.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Senado (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV SENADO
+http://168.205.87.198:8555/live/1431/123456/139.ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Senado (720p)
 http://45.162.64.114/TV_SENADO/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Series 1 As Panteras (480p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Series 1 As Panteras (480p)
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/zq9ZcXP.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV SETE LAGOAS
+#EXTINF:-1 tvg-logo="https://imgur.com/zq9ZcXP.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV SETE LAGOAS
 https://video04.logicahost.com.br/santiagoproducoes/santiagoproducoes/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Show Fortaleza (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Show Fortaleza (720p)
 https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Sim Cachoeiro (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Sim Cachoeiro (720p)
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Sim Colatina (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Sim Colatina (720p)
 https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/1Nf2kbP.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV SUL BAHIA
+#EXTINF:-1 tvg-logo="https://imgur.com/1Nf2kbP.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV SUL BAHIA
 https://a.cdni.live/radiomultimidia/radiomultimidia/chunklist_w1711981393.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Sul Bahia (320p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Sul Bahia (320p)
 https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV São Raimundo (268p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV São Raimundo (268p)
 https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zW83GGD.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Terceiro Anjo
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zW83GGD.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Terceiro Anjo
 http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Terceiro Anjo (360p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Terceiro Anjo (360p)
 https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV TURFE
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV TURFE
 http://168.205.87.198:8555/live/michele/123456/152.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV UFOP (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV UFOP (1080p)
 https://app.tvufop.com.br/hls/tvufop.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Universal (480p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Universal (480p)
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q5U0d9k.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Vila Real
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z1uWe7g.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Vila Real
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z1uWe7g.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Vila Real
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Vila Real (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q5U0d9k.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Vila Real
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Vila Real (720p)
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Viçosa (480p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Viçosa (480p)
 http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Zimbo (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Zimbo (1080p)
 https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV Zoom (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV Zoom (720p)
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV+Pet
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV+Pet
 https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/TV5-Monde-Info.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TV5 Monde Info
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/TV5-Monde-Info.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TVC-Rio
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TVC-Rio
 https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TVCOM DF (360p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TVCOM DF (360p)
 https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TVCOM Maceió (480p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TVCOM Maceió (480p)
 https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MQ6lJpS.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TVE RS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MQ6lJpS.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TVE RS
 https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TVE RS (1080p)
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TVE RS (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TVE RS (1080p)
 https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TVI (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TVE RS (1080p)
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TVI (720p)
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TVI Ficção (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TVI Ficção (720p)
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TVI Reality (720p) [Not 24/7]
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TVI Reality (720p) [Not 24/7]
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvireality.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TVitapé (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TVitapé (720p)
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TVLatinaSat (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TVLatinaSat (720p)
 https://www.latinasat.com.br/hls/live/stream/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TVNBN (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TVNBN (720p)
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",TVídeoNews (720p) [Not 24/7]
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",TVídeoNews (720p) [Not 24/7]
 https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",UMA TV
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",UMA TV
 https://umatv.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/aLkMdWW.png" group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",UNISC TV
+#EXTINF:-1 tvg-logo="https://imgur.com/aLkMdWW.png" group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",UNISC TV
 http://tv.unisc.br:80/hls/test.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",V+ TVI (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",V+ TVI (720p)
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",VEJA+ TV (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",VEJA+ TV (1080p)
 https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",Vivax TV (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",Vivax TV (720p)
 https://video11.logicahost.com.br/redevivaxtv/redevivaxtv/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",VRT CHANNEL
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",VRT CHANNEL
 http://168.205.87.198:8555/live/michele/123456/146.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",WOOHOO
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",WOOHOO
 http://168.205.87.198:8555/live/1431/123456/141.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",WooHoo (720p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",WooHoo (720p)
 http://45.162.64.114/WOOHOO/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",XITE Nuevo Latino (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",XITE Nuevo Latino (1080p)
 https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",XITE Siempre Latino (1080p)
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",XITE Siempre Latino (1080p)
 https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",ZOOMOO
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",ZOOMOO
 http://168.205.87.198:8555/live/1431/123456/162.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 14:55hs)",ZOOMOO
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 15:05hs)",ZOOMOO
 http://168.205.87.198:8555/live/michele/123456/162.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS: SBT (25/09/2026 14:55hs)",SBT Interior (720p)
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS: SBT (25/09/2026 14:55hs)",SBT News (720p)
-https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
-#EXTINF:-1 group-title="01 CANAIS: SBT (25/09/2026 14:55hs)",SBT ALTEROSA
-http://168.205.87.198:8555/live/michele/123456/104.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS: SBT (25/09/2026 14:55hs)",SBT ALTEROSA
+#EXTINF:-1 group-title="01 CANAIS: SBT (25/09/2026 15:05hs)",SBT ALTEROSA
 http://168.205.87.198:8555/live/1431/123456/104.ts?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvguajara.png" group-title="01 CANAIS: SBT (25/09/2026 14:55hs)",SBT TV Guajará (PA)
+#EXTINF:-1 group-title="01 CANAIS: SBT (25/09/2026 15:05hs)",SBT ALTEROSA
+http://168.205.87.198:8555/live/michele/123456/104.ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="01 CANAIS: SBT (25/09/2026 15:05hs)",SBT Interior (720p)
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 group-title="01 CANAIS: SBT (25/09/2026 15:05hs)",SBT News (720p)
+https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvguajara.png" group-title="01 CANAIS: SBT (25/09/2026 15:05hs)",SBT TV Guajará (PA)
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="01 CANAIS: SBT (25/09/2026 14:55hs)",SBT | interior de SP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="01 CANAIS: SBT (25/09/2026 15:05hs)",SBT | interior de SP
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="01 CANAIS: SBT (25/09/2026 14:55hs)",SBT | TV Guajará | Tailândia | PA
+#EXTINF:-1 tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="01 CANAIS: SBT (25/09/2026 15:05hs)",01  CANAL DO USUARIO Atualizado EM 25/09/2026 14:55hs
+https://netmidia.aligapp.com.br/uploads/midias/69403d303cc5e_video_divulgacao_1765817560536.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="01 CANAIS: SBT (25/09/2026 15:05hs)",SBT | TV Guajará | Tailândia | PA
 https://video05.logicahost.com.br/tvguajara/tvguajara/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MD0SGrQ.png" group-title="02 BRASIL",Brasil
 https://i.imgur.com/ijpETVg.mp4
@@ -853,10 +853,10 @@ https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8
 https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8
 #EXTINF:-1 group-title="02 PLUTO TV",Pluto TV Vida Real
 https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="04 Brasil: anime e tokusatsu",Anime | Pluto TV Brasil ~ link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="04 Brasil: anime e tokusatsu",Anime Ação | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="04 Brasil: anime e tokusatsu",Anime | Pluto TV Brasil ~ link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png" group-title="04 Brasil: anime e tokusatsu",Beyblade | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/656f389c3944b60008e5bdab/colorLogoPNG.png" group-title="04 Brasil: anime e tokusatsu",Boruto | Pluto TV Brasil
@@ -867,10 +867,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/646663b01
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65d9167818036500080e8780/colorLogoPNG.png" group-title="04 Brasil: anime e tokusatsu",Hunter x Hunter | Pluto TV Brasil ~ link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65d9167818036500080e8780/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="04 Brasil: anime e tokusatsu",Naruto | link 2 | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64c92f965580090008084968/colorLogoPNG.png" group-title="04 Brasil: anime e tokusatsu",Naruto Shippuden | link 2 | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c92f965580090008084968/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="04 Brasil: anime e tokusatsu",Naruto | link 2 | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="04 Brasil: anime e tokusatsu",One Piece | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63988c2750108d00072e2686/colorLogoPNG.png" group-title="04 Brasil: anime e tokusatsu",Super Onze | Brasil: infanto-juvenis
@@ -1087,28 +1087,28 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/662156805
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2a81954b020008ed17a4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png" group-title="04 Brasil: lifestyle e realities",KFood | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba83c08f00076b60a6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG.png" group-title="04 Brasil: lifestyle e realities",MasterChef | Pluto TV Brasil ~ link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG.png" group-title="04 Brasil: lifestyle e realities",MasterChef Brasil | RunTime TV
 https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG.png" group-title="04 Brasil: lifestyle e realities",MasterChef | Pluto TV Brasil ~ link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61843f5e491af10007f7eefa/colorLogoPNG.png" group-title="04 Brasil: lifestyle e realities",Minha Obsessão Favorita | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61843f5e491af10007f7eefa/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png" group-title="04 Brasil: lifestyle e realities",Mistérios | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG.png" group-title="04 Brasil: lifestyle e realities",MTV | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png" group-title="04 Brasil: lifestyle e realities",MTV Are you the One? | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/645111f1d8436e00081bb2bd/colorLogoPNG.png" group-title="04 Brasil: lifestyle e realities",MTV Drag | link 2 | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645111f1d8436e00081bb2bd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png" group-title="04 Brasil: lifestyle e realities",MTV Catfish | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626c2a3502d84a0007cec817/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png" group-title="04 Brasil: lifestyle e realities",MTV Com o Ex | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61a528267e1b8b0007357920/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/645111f1d8436e00081bb2bd/colorLogoPNG.png" group-title="04 Brasil: lifestyle e realities",MTV Drag | link 2 | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645111f1d8436e00081bb2bd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoPNG.png" group-title="04 Brasil: lifestyle e realities",MTV Jovens e Mães | Teen Mom | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620fdc7d8a36fc000710e3ba/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png" group-title="04 Brasil: lifestyle e realities",MTV Shore | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625463563b8ddc0007134aeb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG.png" group-title="04 Brasil: lifestyle e realities",MTV | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64ad7394798def00087b2bfe/colorLogoPNG.png" group-title="04 Brasil: lifestyle e realities",Negócio Fechado | Pluto TV Brasil | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ad7394798def00087b2bfe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/colorLogoPNG.png" group-title="04 Brasil: lifestyle e realities",O encantador de cães | link 2
@@ -1143,8 +1143,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64ff2d8c6625510008c5a512/colorLogoPNG.png" group-title="04 Brasil: maratona de ficção",Rookie Blue | Pluto TV Brasil | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ff2d8c6625510008c5a512/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="04 Brasil: maratona de ficção",South Park | Pluto TV Brasil - link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/660d7268e8fba80008521de8/colorLogoPNG.png" group-title="04 Brasil: maratona de ficção",South Park Apocalipse | Pluto TV Brasil - link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/660d7268e8fba80008521de8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65df71008b24c80008f04281/colorLogoPNG.png" group-title="04 Brasil: maratona de ficção",South Park Coleção Cartman | Pluto TV Brasil - link 2
@@ -1155,6 +1153,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65df70436
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65df713dec9fda0008b7a81d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65df70b0f7f0af0008c3b316/colorLogoPNG.png" group-title="04 Brasil: maratona de ficção",South Park Coleção Stan | Pluto TV Brasil - link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65df70b0f7f0af0008c3b316/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="04 Brasil: maratona de ficção",South Park | Pluto TV Brasil - link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/613fd0043ffa39000736bb2b/colorLogoPNG.png" group-title="04 Brasil: maratona de ficção",Younger | Pluto TV Brasil ~ link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UaQXbL1.png" group-title="04 Brasil: notícias",ARTV Canal Parlamento | Portugal
@@ -1629,46 +1629,6 @@ http://177.52.24.163/USA-HD/index.m3u8
 https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
 #EXTINF:-1 tvg-name="BR: WOOHOO" tvg-logo="https://docdog.top/logo/countries/brazil/woohoo.png" group-title="CANAIS | 03 ABERTOS",WooHoo VIP
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4924
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fh4SQ6L.png" group-title="CANAIS | ABERTOS",BAND (Experimente nossa lista MULTI-SERVER) WhatsApp (47)99626-5594
-https://media.cdntvms.com.br/band_sat/index.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="CANAIS | ABERTOS",BAND Pará - RBA TV
-https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cctv13.png" group-title="CANAIS | ABERTOS",CCTV Notícias
-https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctv13_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/s80elMU.png" group-title="CANAIS | ABERTOS",CONEXAO TV
-https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/chunklist-480p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5gkt9DD.png" group-title="CANAIS | ABERTOS",Rai 4K (Itália)
-https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/2Vxo3Lc.png" group-title="CANAIS | ABERTOS",SANDEGI TV
-https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/XaTKJef.png" group-title="CANAIS | ABERTOS",SERTAO TV
-http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8" group-title="CANAIS | ABERTOS",SERTÃO TV
-http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/chunklist_w1172238546.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png" group-title="CANAIS | ABERTOS",SIC
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/IQWmGHN.png" group-title="CANAIS | ABERTOS",TV CANDIDES
-https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SVmkbKwWILA/XXpn6tIEuDI/AAAAAAAABz0/jyRMv dB8L6Av2CinwIqYkG4XBUZ1A3IDgCLcBGAsYHQ/s320/Captura de tela_2019-09-12-12-42-47.png" group-title="CANAIS | ABERTOS",TV CARIOCA
-https://video04.logicahost.com.br/cariocainternacional/cariocainternacional/chunklist_w553281216.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="CANAIS | ABERTOS",TV Cultura - TV Guará (MA)
-https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u
-#EXTINF:-1 tvg-logo="https://imgur.com/M53Agyb.png" group-title="CANAIS | ABERTOS",TV DIÁRIO DO BRASIL TV PREVE
-https://video01.kshost.com.br:4443/paulispar7372/paulispar7372/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Pv95YP8.png" group-title="CANAIS | ABERTOS",TV DO POVO
-https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FY8kjgr.png" group-title="CANAIS | ABERTOS",TV GALLO
-https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/NOEr7gX.png" group-title="CANAIS | ABERTOS",TV GRAO PARA
-https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/L2ib2Mg.png" group-title="CANAIS | ABERTOS",TV OMINDARE
-https://video01.kshost.com.br/lourdes52007/lourdes52007/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/YsqXFyc.png" group-title="CANAIS | ABERTOS",TV OSORIO NEWS
-https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/OPIwjmg.png" group-title="CANAIS | ABERTOS",TV STA CECILIA
-https://60d88f8ce1206.streamlock.net/2063/2063/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/rLGrmCU.png" group-title="CANAIS | ABERTOS",TV SUL DE MINAS
-https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
 #EXTINF:-1 tvg-id="AlphaChannel.br@SD" tvg-logo="https://i.imgur.com/c1QqslA.png" group-title="CANAIS | ABERTOS",Alpha Channel (720p)
 https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
 #EXTINF:-1 tvg-id="AugeTV.br@SD" tvg-logo="https://m.media-amazon.com/images/I/81UMY8nlXHL._SL500_.png" group-title="CANAIS | ABERTOS",Auge TV (720p)
@@ -1679,20 +1639,24 @@ http://170.84.165.204/BAND_HD/index.m3u8
 http://138.255.2.6:8084/BAND/index.m3u8
 #EXTINF:-1 tvg-id="Band.br@SD" tvg-logo="https://i.imgur.com/1r5T6Pw.png" group-title="CANAIS | ABERTOS",Band (720p)
 http://45.190.28.50/BAND_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fh4SQ6L.png" group-title="CANAIS | ABERTOS",BAND (Experimente nossa lista MULTI-SERVER) WhatsApp (47)99626-5594
+https://media.cdntvms.com.br/band_sat/index.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="CANAIS | ABERTOS",BAND Pará - RBA TV
+https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-id="BemMelhor.br@SD" tvg-logo="https://www.ubplay.com.br/wp-content/uploads/sites/67/2025/10/capa-site-bemmelhor.png" group-title="CANAIS | ABERTOS",Bem Melhor (720p)
 https://cdn-tiva-video01-logicahost-com-br.smartbit.co/bemmelhor/bemmelhor/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal25Jundiai.br@SD" tvg-logo="https://i.imgur.com/7igGMwH.png" group-title="CANAIS | ABERTOS",Canal 25 Jundiai (720p)
 https://cdn-tiva-stream01-msolutionbrasil-com-br.smartbit.co/hls/canal25/live.m3u8
 #EXTINF:-1 tvg-id="CanaldoBoi.br@SD" tvg-logo="https://i.imgur.com/pVM5MhS.png" group-title="CANAIS | ABERTOS",Canal do Boi (720p)
-http://45.190.28.50/CANAL_DO_BOI/index.m3u8
-#EXTINF:-1 tvg-id="CanaldoBoi.br@SD" tvg-logo="https://i.imgur.com/pVM5MhS.png" group-title="CANAIS | ABERTOS",Canal do Boi (720p)
-http://186.219.52.187/canal_do_boi/index.m3u8
-#EXTINF:-1 tvg-id="CanaldoBoi.br@SD" tvg-logo="https://i.imgur.com/pVM5MhS.png" group-title="CANAIS | ABERTOS",Canal do Boi (720p)
-http://170.83.49.66:8083/CANALDOBOIHD/index.m3u8
+http://168.197.104.22/CANAL_DO_BOI/index.m3u8
 #EXTINF:-1 tvg-id="CanaldoBoi.br@SD" tvg-logo="https://i.imgur.com/pVM5MhS.png" group-title="CANAIS | ABERTOS",Canal do Boi (720p)
 http://170.83.16.50/CANAL_DO_BOI/index.m3u8
 #EXTINF:-1 tvg-id="CanaldoBoi.br@SD" tvg-logo="https://i.imgur.com/pVM5MhS.png" group-title="CANAIS | ABERTOS",Canal do Boi (720p)
-http://168.197.104.22/CANAL_DO_BOI/index.m3u8
+http://170.83.49.66:8083/CANALDOBOIHD/index.m3u8
+#EXTINF:-1 tvg-id="CanaldoBoi.br@SD" tvg-logo="https://i.imgur.com/pVM5MhS.png" group-title="CANAIS | ABERTOS",Canal do Boi (720p)
+http://186.219.52.187/canal_do_boi/index.m3u8
+#EXTINF:-1 tvg-id="CanaldoBoi.br@SD" tvg-logo="https://i.imgur.com/pVM5MhS.png" group-title="CANAIS | ABERTOS",Canal do Boi (720p)
+http://45.190.28.50/CANAL_DO_BOI/index.m3u8
 #EXTINF:-1 tvg-id="CanalLibras.br@SD" tvg-logo="https://i.imgur.com/LnWWKzP.png" group-title="CANAIS | ABERTOS",Canal Libras (720p)
 https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 #EXTINF:-1 tvg-id="CanalOff.br@SD" tvg-logo="https://i.imgur.com/1biaLgJ.png" group-title="CANAIS | ABERTOS",Canal Off (1080p)
@@ -1701,6 +1665,10 @@ http://170.82.202.31/OFF/index.m3u8
 https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSTART.br@SD" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logomarca_CANAL_START_100X100_PNG_CrAzZzP.png" group-title="CANAIS | ABERTOS",Canal START (720p)
 https://cdn-tiva-srv5-zcast-com-br.smartbit.co/canalstart/canalstart/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cctv13.png" group-title="CANAIS | ABERTOS",CCTV Notícias
+https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctv13_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/s80elMU.png" group-title="CANAIS | ABERTOS",CONEXAO TV
+https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/chunklist-480p.m3u8
 #EXTINF:-1 tvg-id="ConexaoTV.br@SD" tvg-logo="https://i.imgur.com/CJ9SPsZ.png" group-title="CANAIS | ABERTOS",Conexão TV (720p)
 https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CulturaPara.br@SD" tvg-logo="https://i.imgur.com/5jPEI5c.png" group-title="CANAIS | ABERTOS",Cultura Para (720p)
@@ -1729,18 +1697,22 @@ https://cdn-tiva-video08-logicahost-com-br.smartbit.co/lidertvssp/lidertvssp/pla
 http://177.52.24.163/MEGAPIX-HD/index.m3u8
 #EXTINF:-1 tvg-id="MKKWebTV.br@SD" tvg-logo="https://i.imgur.com/A8Yhtid.png" group-title="CANAIS | ABERTOS",MKK Web TV (720p) [Not 24/7]
 https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
-#EXTINF:-1 tvg-id="PlayTV.br@SD" tvg-logo="https://i.imgur.com/Ikrj3lk.png" group-title="CANAIS | ABERTOS",Play TV (720p)
-http://45.177.114.115/PLAY_TV/index.m3u8
+#EXTINF:-1 tvg-name="RedeTV!" tvg-logo="logo" group-title="CANAIS | ABERTOS",O Dia TV
+https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/playlist.m3u8
 #EXTINF:-1 tvg-id="PlayTV.br@SD" tvg-logo="https://i.imgur.com/Ikrj3lk.png" group-title="CANAIS | ABERTOS",Play TV (720p)
 http://168.197.104.22/PLAY_TV/index.m3u8
+#EXTINF:-1 tvg-id="PlayTV.br@SD" tvg-logo="https://i.imgur.com/Ikrj3lk.png" group-title="CANAIS | ABERTOS",Play TV (720p)
+http://45.177.114.115/PLAY_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5gkt9DD.png" group-title="CANAIS | ABERTOS",Rai 4K (Itália)
+https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1 tvg-id="RCTVBrasil.br@SD" tvg-logo="https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1776378749826-jef0fj1ekwq.png" group-title="CANAIS | ABERTOS",RCTV Brasil
 https://stmv.webtvninjas.com.br/rctv/rctv/playlist.m3u8
 #EXTINF:-1 tvg-id="Record.br@SD" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="CANAIS | ABERTOS",Record (576p)
 https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
 #EXTINF:-1 tvg-id="Record.br@SD" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="CANAIS | ABERTOS",Record (720p)
-http://170.84.165.204/Record_HD/index.m3u8
-#EXTINF:-1 tvg-id="Record.br@SD" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="CANAIS | ABERTOS",Record (720p)
 http://138.255.2.6:8084/RECORD/index.m3u8
+#EXTINF:-1 tvg-id="Record.br@SD" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="CANAIS | ABERTOS",Record (720p)
+http://170.84.165.204/Record_HD/index.m3u8
 #EXTINF:-1 tvg-name="BR: Record RJ" group-title="CANAIS | ABERTOS",Record RJ
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/58729
 #EXTINF:-1 tvg-id="RecordTVBelem.br@SD" tvg-logo="https://i.imgur.com/gEEiN10.png" group-title="CANAIS | ABERTOS",Record TV Belem (720p) [Geo-blocked]
@@ -1762,11 +1734,11 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-id="RedeBrasil.br@SD" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="CANAIS | ABERTOS",Rede Brasil (720p)
 http://45.190.28.50/REDE_BRASIL_HD/index.m3u8
 #EXTINF:-1 tvg-id="RedeBrasil.br@SD" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="CANAIS | ABERTOS",Rede Brasil (720p)
-https://cdn-tiva-video09-logicahost-com-br.smartbit.co/redebrasiloficial/redebrasiloficial/playlist.m3u8
+http://138.255.2.6:8084/REDEBRASIL/index.m3u8
 #EXTINF:-1 tvg-id="RedeBrasil.br@SD" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="CANAIS | ABERTOS",Rede Brasil (720p)
 http://170.84.165.204/REDEBRASIL/index.m3u8
 #EXTINF:-1 tvg-id="RedeBrasil.br@SD" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="CANAIS | ABERTOS",Rede Brasil (720p)
-http://138.255.2.6:8084/REDEBRASIL/index.m3u8
+https://cdn-tiva-video09-logicahost-com-br.smartbit.co/redebrasiloficial/redebrasiloficial/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br@SD" tvg-logo="https://i.imgur.com/jcasAmw.png" group-title="CANAIS | ABERTOS",Rede CNT Rio de Janeiro (720p)
 http://45.190.28.50/CNT_HD/index.m3u8
 #EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br@SD" tvg-logo="https://i.imgur.com/jcasAmw.png" group-title="CANAIS | ABERTOS",Rede CNT Rio de Janeiro (720p)
@@ -1788,11 +1760,11 @@ http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="CANAIS | ABERTOS",Rede TV! (1080p)
 http://45.190.28.50/REDE_TV_HD/index.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="CANAIS | ABERTOS",Rede TV! (720p)
-http://170.83.16.50/REDE_TV/index.m3u8
+http://170.83.49.66:8083/REDETVHD/index.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="CANAIS | ABERTOS",Rede TV! (720p)
 http://168.197.104.22/REDE_TV/index.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="CANAIS | ABERTOS",Rede TV! (720p)
-http://170.83.49.66:8083/REDETVHD/index.m3u8
+http://170.83.16.50/REDE_TV/index.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="CANAIS | ABERTOS",Rede TV! (720p)
 http://186.219.52.187/rede_tv/index.m3u8
 #EXTINF:-1 tvg-id="RedeTVES.br@SD" tvg-logo="https://i.imgur.com/k7vO9Bk.png" group-title="CANAIS | ABERTOS",Rede TV! ES (1080p)
@@ -1803,6 +1775,8 @@ https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4896
 #EXTINF:-1 tvg-name="BR: RPC TV CURITIBA" group-title="CANAIS | ABERTOS",RPC TV Curitiba
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4897
+#EXTINF:-1 tvg-logo="https://imgur.com/2Vxo3Lc.png" group-title="CANAIS | ABERTOS",SANDEGI TV
+https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
 #EXTINF:-1 tvg-name="BR:SBT" tvg-logo="https://docdog.top/logo/countries/brazil/sbt.png" group-title="CANAIS | ABERTOS",SBT
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4898
 #EXTINF:-1 tvg-id="SBTCuiaba.br@SD" tvg-logo="https://i.imgur.com/EZJWQ3i.png" group-title="CANAIS | ABERTOS",SBT Cuiaba
@@ -1812,11 +1786,11 @@ https://media.cdntvms.com.br/sbt_sat/index.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br@SD" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="CANAIS | ABERTOS",SBT Nacional (720p)
 http://45.190.28.50/SBT_HD/index.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br@SD" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="CANAIS | ABERTOS",SBT Nacional (720p)
-http://138.255.2.6:8084/SBT/index.m3u8
+http://170.84.165.204/SBT_HD/index.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br@SD" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="CANAIS | ABERTOS",SBT Nacional (720p)
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br@SD" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="CANAIS | ABERTOS",SBT Nacional (720p)
-http://170.84.165.204/SBT_HD/index.m3u8
+http://138.255.2.6:8084/SBT/index.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br@SD" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="CANAIS | ABERTOS",SBT Nacional (720p) [Geo-blocked]
 https://dai.google.com/linear/hls/event/Gmgmn9icSMOL6TAePageWQ/master.m3u8
 #EXTINF:-1 tvg-name="BR: SBT NORDESTE" tvg-logo="https://docdog.top/logo/countries/brazil//SBTNORDESTE.jpg" group-title="CANAIS | ABERTOS",SBT Nordeste
@@ -1827,6 +1801,10 @@ https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
 https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTSinop.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8b/Logotipo_do_SBT_Sinop.png" group-title="CANAIS | ABERTOS",SBT Sinop
 https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/XaTKJef.png" group-title="CANAIS | ABERTOS",SERTAO TV
+http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8" group-title="CANAIS | ABERTOS",SERTÃO TV
+http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/chunklist_w1172238546.m3u8
 #EXTINF:-1 tvg-id="SESCTV.br@SD" tvg-logo="https://i.imgur.com/Mu8O6CV.png" group-title="CANAIS | ABERTOS",SESC TV (1080p)
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/93a9920d-1b24-4c5e-a7d2-63d5489f59b5_index.m3u8
 #EXTINF:-1 tvg-id="SESCTV.br@SD" tvg-logo="https://i.imgur.com/Mu8O6CV.png" group-title="CANAIS | ABERTOS",SESC TV (720p)
@@ -1834,55 +1812,61 @@ http://45.162.64.114/SESC_TV/index.m3u8
 #EXTINF:-1 tvg-id="SESCTV.br@SD" tvg-logo="https://i.imgur.com/Mu8O6CV.png" group-title="CANAIS | ABERTOS",SESC TV (720p)
 http://138.255.2.6:8084/SESCTV/index.m3u8
 #EXTINF:-1 tvg-id="SESCTV.br@SD" tvg-logo="https://i.imgur.com/Mu8O6CV.png" group-title="CANAIS | ABERTOS",SESC TV (720p)
-http://45.190.28.50/SESC_TV/index.m3u8
+http://170.83.49.66:8083/SESCTVHD/index.m3u8
 #EXTINF:-1 tvg-id="SESCTV.br@SD" tvg-logo="https://i.imgur.com/Mu8O6CV.png" group-title="CANAIS | ABERTOS",SESC TV (720p)
 http://186.219.52.187/sesc_tv/index.m3u8
 #EXTINF:-1 tvg-id="SESCTV.br@SD" tvg-logo="https://i.imgur.com/Mu8O6CV.png" group-title="CANAIS | ABERTOS",SESC TV (720p)
-http://170.83.49.66:8083/SESCTVHD/index.m3u8
+http://45.190.28.50/SESC_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png" group-title="CANAIS | ABERTOS",SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 tvg-id="SonyChannel.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="CANAIS | ABERTOS",Sony Channel (720p)
-http://45.190.28.50/SONY_HD/index.m3u8
+https://cdn-5.nxplay.com.br/SONY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="SonyChannel.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="CANAIS | ABERTOS",Sony Channel (720p)
 http://138.255.2.6:8084/SONY/index.m3u8
 #EXTINF:-1 tvg-id="SonyChannel.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="CANAIS | ABERTOS",Sony Channel (720p)
-https://cdn-5.nxplay.com.br/SONY_CHANNEL/index.m3u8
+http://45.190.28.50/SONY_HD/index.m3u8
 #EXTINF:-1 tvg-id="TV3Curitiba.br@SD" tvg-logo="https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1776133208960-o2l2f7f02f.png" group-title="CANAIS | ABERTOS",TV 3 Curitiba
 https://stmv.webtvninjas.com.br/tv3/tv3/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAdorar.br@SD" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_Adorar_100x100_s5tW1gW.png" group-title="CANAIS | ABERTOS",TV Adorar (720p)
 https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/tvadorar/index.m3u8
 #EXTINF:-1 tvg-id="TVBirigui.br@SD" tvg-logo="https://i.imgur.com/z7VlNLR.png" group-title="CANAIS | ABERTOS",TV Birigui (320p)
-https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8
-#EXTINF:-1 tvg-id="TVBirigui.br@SD" tvg-logo="https://i.imgur.com/z7VlNLR.png" group-title="CANAIS | ABERTOS",TV Birigui (320p)
 http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+#EXTINF:-1 tvg-id="TVBirigui.br@SD" tvg-logo="https://i.imgur.com/z7VlNLR.png" group-title="CANAIS | ABERTOS",TV Birigui (320p)
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBirigui.br@SD" tvg-logo="https://i.imgur.com/z7VlNLR.png" group-title="CANAIS | ABERTOS",TV Birigui (640p)
 https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png" group-title="CANAIS | ABERTOS",TV Brasil (720p)
 http://170.83.49.66:8083/TVBRASILHD/index.m3u8
-#EXTINF:-1 tvg-id="TVBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png" group-title="CANAIS | ABERTOS",TV Brasil (720p)
-http://138.255.2.6:8084/TVBRASIL/index.m3u8
-#EXTINF:-1 tvg-id="TVBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png" group-title="CANAIS | ABERTOS",TV Brasil (720p)
-http://45.190.28.50/TV_BRASIL/index.m3u8
-#EXTINF:-1 tvg-id="TVBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png" group-title="CANAIS | ABERTOS",TV Brasil (720p)
-http://186.219.52.187/tv_brasil/index.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png" group-title="CANAIS | ABERTOS",TV Brasil (720p)
 http://170.84.165.204/TVBRASIL/index.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png" group-title="CANAIS | ABERTOS",TV Brasil (720p)
 http://168.197.104.22/TV_BRASIL/index.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png" group-title="CANAIS | ABERTOS",TV Brasil (720p)
 http://45.177.114.115/TV_BRASIL/index.m3u8
+#EXTINF:-1 tvg-id="TVBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png" group-title="CANAIS | ABERTOS",TV Brasil (720p)
+http://138.255.2.6:8084/TVBRASIL/index.m3u8
+#EXTINF:-1 tvg-id="TVBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png" group-title="CANAIS | ABERTOS",TV Brasil (720p)
+http://45.190.28.50/TV_BRASIL/index.m3u8
+#EXTINF:-1 tvg-id="TVBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png" group-title="CANAIS | ABERTOS",TV Brasil (720p)
+http://186.219.52.187/tv_brasil/index.m3u8
 #EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-logo="https://i.imgur.com/OaM9hkH.png" group-title="CANAIS | ABERTOS",TV Cancao Nova (576p)
 https://cdn-5.nxplay.com.br/CANCAO_NOVA/index.m3u8
 #EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-logo="https://i.imgur.com/OaM9hkH.png" group-title="CANAIS | ABERTOS",TV Cancao Nova (720p)
-http://138.255.2.6:8084/CANCAONOVA/index.m3u8
-#EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-logo="https://i.imgur.com/OaM9hkH.png" group-title="CANAIS | ABERTOS",TV Cancao Nova (720p)
 http://170.83.16.50/CANCAO_NOVA/index.m3u8
+#EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-logo="https://i.imgur.com/OaM9hkH.png" group-title="CANAIS | ABERTOS",TV Cancao Nova (720p)
+http://138.255.2.6:8084/CANCAONOVA/index.m3u8
 #EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-logo="https://i.imgur.com/OaM9hkH.png" group-title="CANAIS | ABERTOS",TV Cancao Nova (720p)
 http://186.219.52.187/cancao_nova/index.m3u8
 #EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-logo="https://i.imgur.com/OaM9hkH.png" group-title="CANAIS | ABERTOS",TV Cancao Nova (720p)
-https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
+http://45.190.28.50/CANCAO_NOVA_HD/index.m3u8
 #EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-logo="https://i.imgur.com/OaM9hkH.png" group-title="CANAIS | ABERTOS",TV Cancao Nova (720p)
 http://168.197.104.22/CANCAO_NOVA/index.m3u8
 #EXTINF:-1 tvg-id="TVCancaoNova.br@SD" tvg-logo="https://i.imgur.com/OaM9hkH.png" group-title="CANAIS | ABERTOS",TV Cancao Nova (720p)
-http://45.190.28.50/CANCAO_NOVA_HD/index.m3u8
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/IQWmGHN.png" group-title="CANAIS | ABERTOS",TV CANDIDES
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SVmkbKwWILA/XXpn6tIEuDI/AAAAAAAABz0/jyRMv dB8L6Av2CinwIqYkG4XBUZ1A3IDgCLcBGAsYHQ/s320/Captura de tela_2019-09-12-12-42-47.png" group-title="CANAIS | ABERTOS",TV CARIOCA
+https://video04.logicahost.com.br/cariocainternacional/cariocainternacional/chunklist_w553281216.m3u8
 #EXTINF:-1 tvg-id="TVCarioca.br@SD" tvg-logo="https://i.imgur.com/mVWydMw.png" group-title="CANAIS | ABERTOS",TV Carioca (720p)
 https://cdn-tiva-video03-logicahost-com-br.smartbit.co/cariocainternacional1/cariocainternacional1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCidadedePetropolis.br@SD" tvg-logo="https://i.imgur.com/xUs8gHV.png" group-title="CANAIS | ABERTOS",TV Cidade de Petrópolis (1080p) [Not 24/7]
@@ -1890,7 +1874,11 @@ https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png" group-title="CANAIS | ABERTOS",TV Cultura (480p)
 https://cdn-5.nxplay.com.br/TV_CULTURA/index.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png" group-title="CANAIS | ABERTOS",TV Cultura (720p)
-https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8
+http://138.255.2.6:8084/CULTURA/index.m3u8
+#EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png" group-title="CANAIS | ABERTOS",TV Cultura (720p)
+http://168.197.104.22/TV_CULTURA/index.m3u8
+#EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png" group-title="CANAIS | ABERTOS",TV Cultura (720p)
+http://45.190.28.50/TV_CULTURA_HD/index.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png" group-title="CANAIS | ABERTOS",TV Cultura (720p)
 http://170.84.165.204/CULTURA_HD/index.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png" group-title="CANAIS | ABERTOS",TV Cultura (720p)
@@ -1902,95 +1890,109 @@ http://186.219.52.187/cultura/index.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png" group-title="CANAIS | ABERTOS",TV Cultura (720p)
 http://45.177.114.115/TV_CULTURA/index.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png" group-title="CANAIS | ABERTOS",TV Cultura (720p)
-http://45.190.28.50/TV_CULTURA_HD/index.m3u8
-#EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png" group-title="CANAIS | ABERTOS",TV Cultura (720p)
-http://138.255.2.6:8084/CULTURA/index.m3u8
-#EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png" group-title="CANAIS | ABERTOS",TV Cultura (720p)
-http://168.197.104.22/TV_CULTURA/index.m3u8
+https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="CANAIS | ABERTOS",TV Cultura - TV Guará (MA)
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u
 #EXTINF:-1 tvg-id="TVDestak.br@SD" tvg-logo="https://i.imgur.com/YoCVrav.png" group-title="CANAIS | ABERTOS",TV Destak (320p)
 https://59f2354c05961.streamlock.net:1443/pascoal/pascoal/playlist.m3u8
 #EXTINF:-1 tvg-id="TVDestak.br@SD" tvg-logo="https://i.imgur.com/YoCVrav.png" group-title="CANAIS | ABERTOS",TV Destak (360p)
-http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
-#EXTINF:-1 tvg-id="TVDestak.br@SD" tvg-logo="https://i.imgur.com/YoCVrav.png" group-title="CANAIS | ABERTOS",TV Destak (360p)
 https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDestak.br@SD" tvg-logo="https://i.imgur.com/YoCVrav.png" group-title="CANAIS | ABERTOS",TV Destak (360p)
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
 #EXTINF:-1 tvg-id="TVDifusoraLeste.br@SD" tvg-logo="https://i.imgur.com/hEd25Cr.png" group-title="CANAIS | ABERTOS",TV Difusora Leste (1080p)
 https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/M53Agyb.png" group-title="CANAIS | ABERTOS",TV DIÁRIO DO BRASIL TV PREVE
+https://video01.kshost.com.br:4443/paulispar7372/paulispar7372/playlist.m3u8
 #EXTINF:-1 tvg-id="TVDiarioMacapa.br@SD" tvg-logo="https://i.imgur.com/yAW2Z5j.jpg" group-title="CANAIS | ABERTOS",TV Diário Macapá (1080p) [Not 24/7]
 https://5ad482a77183d.streamlock.net/marliomelohotmail.com/marliomelohotmail.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Pv95YP8.png" group-title="CANAIS | ABERTOS",TV DO POVO
+https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVEncontrodasAguas.br@SD" group-title="CANAIS | ABERTOS",TV Encontro das Aguas
 https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8
 #EXTINF:-1 tvg-id="TVEscola.br@SD" tvg-logo="https://i.imgur.com/OF6aGQj.png" group-title="CANAIS | ABERTOS",TV Escola (720p)
 http://45.190.28.50/TV_ESCOLA/index.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-logo="https://i.imgur.com/0sksWse.png" group-title="CANAIS | ABERTOS",TV Gazeta (720p)
-http://45.190.28.50/GAZETA_HD/index.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-logo="https://i.imgur.com/0sksWse.png" group-title="CANAIS | ABERTOS",TV Gazeta (720p)
-http://45.162.64.114/TV_GAZETA/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FY8kjgr.png" group-title="CANAIS | ABERTOS",TV GALLO
+https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-logo="https://i.imgur.com/0sksWse.png" group-title="CANAIS | ABERTOS",TV Gazeta (720p)
 http://138.255.2.6:8084/GAZETA/index.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-logo="https://i.imgur.com/0sksWse.png" group-title="CANAIS | ABERTOS",TV Gazeta (720p)
 https://tv.nuvemplay.live/hls/40gtv/stream.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-logo="https://i.imgur.com/0sksWse.png" group-title="CANAIS | ABERTOS",TV Gazeta (720p)
-http://168.197.104.22/GAZETA/index.m3u8
+http://170.84.165.204/Gazeta_HD/index.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-logo="https://i.imgur.com/0sksWse.png" group-title="CANAIS | ABERTOS",TV Gazeta (720p)
 http://186.219.52.187/gazeta/index.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-logo="https://i.imgur.com/0sksWse.png" group-title="CANAIS | ABERTOS",TV Gazeta (720p)
-http://170.84.165.204/Gazeta_HD/index.m3u8
+http://168.197.104.22/GAZETA/index.m3u8
+#EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-logo="https://i.imgur.com/0sksWse.png" group-title="CANAIS | ABERTOS",TV Gazeta (720p)
+http://45.162.64.114/TV_GAZETA/index.m3u8
+#EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-logo="https://i.imgur.com/0sksWse.png" group-title="CANAIS | ABERTOS",TV Gazeta (720p)
+http://45.190.28.50/GAZETA_HD/index.m3u8
 #EXTINF:-1 tvg-id="TVGazin.br@SD" tvg-logo="https://tvgazin.com.br/wp-content/uploads/2024/03/logo.png" group-title="CANAIS | ABERTOS",TV Gazin (720p)
 https://cdn-tiva-video09-logicahost-com-br.smartbit.co/tvgazin/tvgazin/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS | ABERTOS",TV Globo Rio de Janeiro (720p)
 http://45.190.28.50/GLOBO_HD/index.m3u8
 #EXTINF:-1 tvg-id="TVGloboSaoPaulo.br@SD" tvg-logo="https://i.imgur.com/OoSUg78.png" group-title="CANAIS | ABERTOS",TV Globo Sao Paulo (720p)
-http://170.84.165.204/Globo_HD/index.m3u8
-#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br@SD" tvg-logo="https://i.imgur.com/OoSUg78.png" group-title="CANAIS | ABERTOS",TV Globo Sao Paulo (720p)
 https://cdn-5.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br@SD" tvg-logo="https://i.imgur.com/OoSUg78.png" group-title="CANAIS | ABERTOS",TV Globo Sao Paulo (720p)
+http://170.84.165.204/Globo_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/NOEr7gX.png" group-title="CANAIS | ABERTOS",TV GRAO PARA
+https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGuara.br@SD" tvg-logo="https://i.imgur.com/8PErNBT.png" group-title="CANAIS | ABERTOS",TV Guará (720p) [Not 24/7]
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 #EXTINF:-1 tvg-id="TVInterlagos.br@SD" tvg-logo="https://i.imgur.com/iuQVDpq.jpg" group-title="CANAIS | ABERTOS",TV Interlagos (360p)
 https://v8.ciclano.io:1443/tvinterlagos/_definst_/tvinterlagos/playlist.m3u8
 #EXTINF:-1 tvg-id="TVJustica.br@SD" tvg-logo="https://i.imgur.com/rOQKiMO.png" group-title="CANAIS | ABERTOS",TV Justica (720p)
-http://170.83.16.50/TV_JUSTICA/index.m3u8
-#EXTINF:-1 tvg-id="TVJustica.br@SD" tvg-logo="https://i.imgur.com/rOQKiMO.png" group-title="CANAIS | ABERTOS",TV Justica (720p)
-http://170.83.49.66:8083/TVJUSTICAHD/index.m3u8
-#EXTINF:-1 tvg-id="TVJustica.br@SD" tvg-logo="https://i.imgur.com/rOQKiMO.png" group-title="CANAIS | ABERTOS",TV Justica (720p)
 http://186.219.52.187/tv_justica/index.m3u8
+#EXTINF:-1 tvg-id="TVJustica.br@SD" tvg-logo="https://i.imgur.com/rOQKiMO.png" group-title="CANAIS | ABERTOS",TV Justica (720p)
+http://138.255.2.6:8084/TVJUSTICA/index.m3u8
 #EXTINF:-1 tvg-id="TVJustica.br@SD" tvg-logo="https://i.imgur.com/rOQKiMO.png" group-title="CANAIS | ABERTOS",TV Justica (720p)
 http://168.197.104.22/TV_JUSTICA/index.m3u8
 #EXTINF:-1 tvg-id="TVJustica.br@SD" tvg-logo="https://i.imgur.com/rOQKiMO.png" group-title="CANAIS | ABERTOS",TV Justica (720p)
 http://45.190.28.50/TV_JUSTICA/index.m3u8
 #EXTINF:-1 tvg-id="TVJustica.br@SD" tvg-logo="https://i.imgur.com/rOQKiMO.png" group-title="CANAIS | ABERTOS",TV Justica (720p)
-http://138.255.2.6:8084/TVJUSTICA/index.m3u8
+http://170.83.49.66:8083/TVJUSTICAHD/index.m3u8
+#EXTINF:-1 tvg-id="TVJustica.br@SD" tvg-logo="https://i.imgur.com/rOQKiMO.png" group-title="CANAIS | ABERTOS",TV Justica (720p)
+http://170.83.16.50/TV_JUSTICA/index.m3u8
 #EXTINF:-1 tvg-id="TVLiberdade.br@SD" tvg-logo="https://i.imgur.com/W6bHHqE.png" group-title="CANAIS | ABERTOS",TV Liberdade (720p) [Not 24/7]
 https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMeio.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/17/Logotipo_da_TV_Meio.png" group-title="CANAIS | ABERTOS",TV Meio (720p)
 https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/redemeio/index.m3u8
 #EXTINF:-1 tvg-id="TVMon.br@SD" tvg-logo="https://i.imgur.com/Gjan8rl.png" group-title="CANAIS | ABERTOS",TV Mon (720p)
 https://cdn-tiva-video10-logicahost-com-br.smartbit.co/tvmon/tvmon/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/L2ib2Mg.png" group-title="CANAIS | ABERTOS",TV OMINDARE
+https://video01.kshost.com.br/lourdes52007/lourdes52007/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/YsqXFyc.png" group-title="CANAIS | ABERTOS",TV OSORIO NEWS
+https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
 #EXTINF:-1 tvg-id="TVProfissao.br@SD" tvg-logo="https://i.imgur.com/c33suOT.png" group-title="CANAIS | ABERTOS",TV Profissao
 https://stmv.webtvninjas.com.br/tvprofissao/tvprofissao/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRaTimBum.br@SD" tvg-logo="https://i.imgur.com/JIQwz0w.png" group-title="CANAIS | ABERTOS",TV Ra Tim Bum (576p)
 http://45.162.64.114/RA_TIM_BUM/index.m3u8
 #EXTINF:-1 tvg-id="TVRaTimBum.br@SD" tvg-logo="https://i.imgur.com/JIQwz0w.png" group-title="CANAIS | ABERTOS",TV Ra Tim Bum (720p)
-http://170.83.49.66:8083/TVRATIMBUMHD/index.m3u8
-#EXTINF:-1 tvg-id="TVRaTimBum.br@SD" tvg-logo="https://i.imgur.com/JIQwz0w.png" group-title="CANAIS | ABERTOS",TV Ra Tim Bum (720p)
-http://186.219.52.187/ratimbum/index.m3u8
+http://168.197.104.22/RA_TIM_BUM/index.m3u8
 #EXTINF:-1 tvg-id="TVRaTimBum.br@SD" tvg-logo="https://i.imgur.com/JIQwz0w.png" group-title="CANAIS | ABERTOS",TV Ra Tim Bum (720p)
 http://45.190.28.50/RATIMBUM/index.m3u8
 #EXTINF:-1 tvg-id="TVRaTimBum.br@SD" tvg-logo="https://i.imgur.com/JIQwz0w.png" group-title="CANAIS | ABERTOS",TV Ra Tim Bum (720p)
-http://168.197.104.22/RA_TIM_BUM/index.m3u8
-#EXTINF:-1 tvg-id="TVSenado.br@SD" tvg-logo="https://i.imgur.com/duy6waL.png" group-title="CANAIS | ABERTOS",TV Senado (720p)
-http://45.190.28.50/TV_SENADO/index.m3u8
-#EXTINF:-1 tvg-id="TVSenado.br@SD" tvg-logo="https://i.imgur.com/duy6waL.png" group-title="CANAIS | ABERTOS",TV Senado (720p)
-http://170.83.49.66:8083/TVSENADOHD/index.m3u8
-#EXTINF:-1 tvg-id="TVSenado.br@SD" tvg-logo="https://i.imgur.com/duy6waL.png" group-title="CANAIS | ABERTOS",TV Senado (720p)
-http://170.83.16.50/TV_SENADO/index.m3u8
+http://186.219.52.187/ratimbum/index.m3u8
+#EXTINF:-1 tvg-id="TVRaTimBum.br@SD" tvg-logo="https://i.imgur.com/JIQwz0w.png" group-title="CANAIS | ABERTOS",TV Ra Tim Bum (720p)
+http://170.83.49.66:8083/TVRATIMBUMHD/index.m3u8
 #EXTINF:-1 tvg-id="TVSenado.br@SD" tvg-logo="https://i.imgur.com/duy6waL.png" group-title="CANAIS | ABERTOS",TV Senado (720p)
 http://186.219.52.187/tv_senado/index.m3u8
 #EXTINF:-1 tvg-id="TVSenado.br@SD" tvg-logo="https://i.imgur.com/duy6waL.png" group-title="CANAIS | ABERTOS",TV Senado (720p)
 http://168.197.104.22/TV_SENADO/index.m3u8
 #EXTINF:-1 tvg-id="TVSenado.br@SD" tvg-logo="https://i.imgur.com/duy6waL.png" group-title="CANAIS | ABERTOS",TV Senado (720p)
 http://138.255.2.6:8084/TVSENADO/index.m3u8
+#EXTINF:-1 tvg-id="TVSenado.br@SD" tvg-logo="https://i.imgur.com/duy6waL.png" group-title="CANAIS | ABERTOS",TV Senado (720p)
+http://170.83.16.50/TV_SENADO/index.m3u8
+#EXTINF:-1 tvg-id="TVSenado.br@SD" tvg-logo="https://i.imgur.com/duy6waL.png" group-title="CANAIS | ABERTOS",TV Senado (720p)
+http://45.190.28.50/TV_SENADO/index.m3u8
+#EXTINF:-1 tvg-id="TVSenado.br@SD" tvg-logo="https://i.imgur.com/duy6waL.png" group-title="CANAIS | ABERTOS",TV Senado (720p)
+http://170.83.49.66:8083/TVSENADOHD/index.m3u8
 #EXTINF:-1 tvg-id="TVSolComunidade.br@SD" tvg-logo="https://i.imgur.com/5cGnb4r.png" group-title="CANAIS | ABERTOS",TV Sol Comunidade (480p) [Not 24/7]
 http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/OPIwjmg.png" group-title="CANAIS | ABERTOS",TV STA CECILIA
+https://60d88f8ce1206.streamlock.net/2063/2063/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/rLGrmCU.png" group-title="CANAIS | ABERTOS",TV SUL DE MINAS
+https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
 #EXTINF:-1 tvg-id="TVECultura.br@SD" tvg-logo="https://i.imgur.com/FpqoWcB.png" group-title="CANAIS | ABERTOS",TVE Cultura (720p)
 http://45.190.28.50/TVE/index.m3u8
 #EXTINF:-1 tvg-id="TVEBahia.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/960px-TVE_Bahia_logo.svg.png" group-title="CANAIS | ABERTOS",TVE RS (1080p) [Not 24/7]
@@ -2004,17 +2006,15 @@ http://cdn.tvmatic.net/funny.m3u8
 #EXTINF:-1 tvg-id="TVMaticTikTok.br@SD" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="CANAIS | ABERTOS",TVMatic TikTok (720p)
 http://cdn.tvmatic.net/tiktok.m3u8
 #EXTINF:-1 tvg-id="WooHoo.br@SD" tvg-logo="https://i.imgur.com/me622pa.png" group-title="CANAIS | ABERTOS",WooHoo (720p)
+http://45.190.28.50/WOOHOO/index.m3u8
+#EXTINF:-1 tvg-id="WooHoo.br@SD" tvg-logo="https://i.imgur.com/me622pa.png" group-title="CANAIS | ABERTOS",WooHoo (720p)
+http://138.255.2.6:8084/WOOHOO/index.m3u8
+#EXTINF:-1 tvg-id="WooHoo.br@SD" tvg-logo="https://i.imgur.com/me622pa.png" group-title="CANAIS | ABERTOS",WooHoo (720p)
 http://168.197.104.22/WOOHOO/index.m3u8
 #EXTINF:-1 tvg-id="WooHoo.br@SD" tvg-logo="https://i.imgur.com/me622pa.png" group-title="CANAIS | ABERTOS",WooHoo (720p)
 http://170.83.16.50/WOOHOO/index.m3u8
 #EXTINF:-1 tvg-id="WooHoo.br@SD" tvg-logo="https://i.imgur.com/me622pa.png" group-title="CANAIS | ABERTOS",WooHoo (720p)
 http://186.219.52.187/woohoo/index.m3u8
-#EXTINF:-1 tvg-id="WooHoo.br@SD" tvg-logo="https://i.imgur.com/me622pa.png" group-title="CANAIS | ABERTOS",WooHoo (720p)
-http://45.190.28.50/WOOHOO/index.m3u8
-#EXTINF:-1 tvg-id="WooHoo.br@SD" tvg-logo="https://i.imgur.com/me622pa.png" group-title="CANAIS | ABERTOS",WooHoo (720p)
-http://138.255.2.6:8084/WOOHOO/index.m3u8
-#EXTINF:-1 tvg-name="RedeTV!" tvg-logo="logo" group-title="CANAIS | ABERTOS",O Dia TV
-https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XsvbAWR.png" group-title="CANAIS | Animation",One Piece
 https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8
 #EXTINF:-1 tvg-id="PlutoTVGamingporUbisoft.us@BR" tvg-logo="https://images.pluto.tv/channels/64c815e8a1c6130008fef928/colorLogoPNG.png" group-title="CANAIS | Animation",Pluto TV Gaming por Ubisoft (720p)
