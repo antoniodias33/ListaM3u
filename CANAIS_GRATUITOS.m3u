@@ -124,7 +124,7 @@ https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 17:00hs)",ElyTV (360p)
 https://stmv1.srvsite.com/ely/ely/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="01 CANAIS | ABERTOS (25/09/2026 17:00hs)",Estúdio 96.5 FM Rio de Janeiro - RJ
-http://cdn.rj.assocrj.com.br/live//tupi-estudio-video06/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+http://cdn.rj.assocrj.com.br/live//tupi-estudio-video06/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 17:00hs)",Euronews Portuguese (720p)
 https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 17:00hs)",EUTV (720p)
@@ -166,7 +166,7 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 17:00hs)",ISTV (720p) [Not 24/7]
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png" group-title="01 CANAIS | ABERTOS (25/09/2026 17:00hs)",IURD TV
-https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?checkedby:iptvcat.com
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 17:00hs)",J3NEWS TV
 https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (25/09/2026 17:00hs)",Jornada nas Estrelas A Nova Geração
@@ -766,27 +766,27 @@ http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H5zWaCa.png" group-title="04 Brasil: cristianismo",TV Pai Eterno | GO Brasil
 https://video09.logicahost.com.br/paieterno/paieterno/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png" group-title="04 Brasil: educativos e documentários",Animais | Pluto TV Brasil | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a92/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a92/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png" group-title="04 Brasil: educativos e documentários",Documentários | Pluto TV Brasil | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/664df5221dc48600087592b1/colorLogoPNG.png" group-title="04 Brasil: educativos e documentários",Manual do Mundo | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/664df5221dc48600087592b1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/664df5221dc48600087592b1/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62b5c5a064163d0007b2efe6/colorLogoPNG.png" group-title="04 Brasil: educativos e documentários",Mistérios sem Solução | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b5c5a064163d0007b2efe6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b5c5a064163d0007b2efe6/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="04 Brasil: educativos e documentários",Natureza | Pluto TV Brasil ~ link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" group-title="04 Brasil: educativos e documentários",Smithsonian Channel | legendado | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/WAZB0H8e-u5ypkyl_lol08jLETezqqNbtIaafgp7O5m_WtpSb8OVXqmNO0_GW2Q8UFXdXB2E1w=s400-c-k-c0x00ffffff-no-rj" group-title="04 Brasil: educativos e documentários",Space Today TV | Brasil
 https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_50acwl5q0f0g.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="04 Brasil: educativos e documentários",Turbo | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/faZEzAh.png" group-title="04 Brasil: educativos e documentários",TV Brasil Web
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ewJjke2.jpg" group-title="04 Brasil: educativos e documentários",TV Brasil | RBA TV | Rio do Sul | SC
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e010e6cd663f0007e57dc8/colorLogoPNG.png" group-title="04 Brasil: educativos e documentários",TV Cultura | episódios | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e010e6cd663f0007e57dc8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e010e6cd663f0007e57dc8/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zmheeSl.png" group-title="04 Brasil: educativos e documentários",TV Cultura | São Paulo
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="04 Brasil: infanto-juvenis",Toon Googles TG Brasil
