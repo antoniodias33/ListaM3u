@@ -1,16 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N2bpVTVf640/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (26/09/2026 20:45hs)",Aula 00 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
-https://www.youtube.com/watch?v=N2bpVTVf640
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-4BbjcXRDik/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (26/09/2026 20:45hs)",Aula 02 - Materiais Essenciais Para Bolsas na Malha Plástica (Não Compre Antes de Ver Isso!)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-4BbjcXRDik/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (26/09/2026 21:15hs)",Aula 01 - Materiais Essenciais Para Bolsas na Malha Plástica (Não Compre Antes de Ver Isso!)
 https://www.youtube.com/watch?v=-4BbjcXRDik
-#EXTINF:523 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (26/09/2026 20:45hs)" audio-track="pt-BR",Aula 03 - BOLSAS feitas à mão (ATUALIZADO EM: 09/09/2026 01:00hs)
-https://www.youtube.com/watch?v=QuQFg7QUTnE
-#EXTINF:500 tvg-logo="https://i.ytimg.com/vi/MRIXyMphsWo/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (26/09/2026 20:45hs)",Aula 04 - Saiba as PRINCIPAIS FERRAMENTAS para quem quer INICIAR em Bolsas em Tela
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N2bpVTVf640/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (26/09/2026 21:15hs)",Aula 02 - Materiais Básicos para Iniciantes (Tipos de Tela e Tecidos para Forro)
+https://www.youtube.com/watch?v=N2bpVTVf640
+#EXTINF:500 tvg-logo="https://i.ytimg.com/vi/MRIXyMphsWo/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (26/09/2026 21:15hs)",Aula 03 - Saiba as PRINCIPAIS FERRAMENTAS para quem quer INICIAR em Bolsas em Tela
 https://www.youtube.com/watch?v=MRIXyMphsWo
-#EXTINF:215 tvg-logo="https://i.ytimg.com/vi/bsN2Kp-6wek/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (26/09/2026 20:45hs)",Aula 05 - Uma bolsa simples muito bonita feita de tela plástica
-https://www.youtube.com/watch?v=bsN2Kp-6wek
-#EXTINF:830 tvg-logo="https://i.ytimg.com/vi/T3qAQ15ZOYs/mqdefault.jpg" group-title="MÓDULO 00 - Boas Vindas (26/09/2026 20:45hs)",Aula 06 - Dicas para Fazer Bolsas na Tela
-https://www.youtube.com/watch?v=T3qAQ15ZOYs
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/2159366254-d25c1fb421980e01c88038cb3889fae9c7ad5b2e8b0612136d15f8fdcc57513e-d_360x203?&r=pad&region=us" group-title="MÓDULO 01 - Materiais Básicos",Aula 01 - Diferença entre tela 3 mm e 4 mm e outras (Bolsa Edna aos 37Minutos)
 https://player.vimeo.com/video/1193802601?fl=pl&fe=sh#t=37m38s&end=39m35s
 #EXTINF:2865 tvg-logo="https://i.ytimg.com/vi/l3xcAn3vL8k/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 02 - Minha 1ª Bolsa na tela plástica (Materiais)
@@ -27,8 +21,14 @@ https://www.youtube.com/watch?v=5AA4WKIWb4U
 https://www.youtube.com/watch?v=fKWA5oTmCFc
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/w9A8fXzEqgc/mqdefault.jpg" group-title="MÓDULO 01 - Materiais Básicos",Aula 12 - Zíperes - Como costurar um zíper em uma bolsa de tela plástica – Parte 2
 https://www.youtube.com/watch?v=w9A8fXzEqgc
-#EXTINF:-1 group-title="MÓDULO 01 - Materiais Básicos",Aula 16 - Bolsa na Tela
+#EXTINF:-1 group-title="MÓDULO 01 - Materiais Básicos",Aula 13 - Bolsa na Tela
 https://player.vimeo.com/video/1224156517
+#EXTINF:523 tvg-logo="https://i.ytimg.com/vi/QuQFg7QUTnE/mqdefault.jpg" group-title="MÓDULO 01a - Materiais Basicos" audio-track="pt-BR",Aula 01 - BOLSAS feitas à mão (ATUALIZADO EM: 09/09/2026 01:00hs)
+https://www.youtube.com/watch?v=QuQFg7QUTnE
+#EXTINF:215 tvg-logo="https://i.ytimg.com/vi/bsN2Kp-6wek/mqdefault.jpg" group-title="MÓDULO 01a - Materiais Basicos",Aula 02 - Uma bolsa simples muito bonita feita de tela plástica
+https://www.youtube.com/watch?v=bsN2Kp-6wek
+#EXTINF:830 tvg-logo="https://i.ytimg.com/vi/T3qAQ15ZOYs/mqdefault.jpg" group-title="MÓDULO 01a - Materiais Basicos",Aula 03 - Dicas para Fazer Bolsas na Tela
+https://www.youtube.com/watch?v=T3qAQ15ZOYs
 #EXTINF:723 tvg-logo="https://i.ytimg.com/vi/XGs_DmcrX7o/mqdefault.jpg" group-title="MÓDULO 02 - Fundamentos",Aula 01 - TELA PLÁSTICA  QUAL MELHOR FIO  Telas com furos de 3mm
 https://www.youtube.com/watch?v=XGs_DmcrX7o
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wLBh1S3.jpeg" group-title="MÓDULO 02 - Fundamentos",Aula 02 - Qual Fio Usar
