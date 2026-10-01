@@ -13,17 +13,17 @@ https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srURmsi.png" group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",01 SBT | TV Guajará | Tailândia | PA
 https://video05.logicahost.com.br/tvguajara/tvguajara/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fh4SQ6L.png" group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",02 BAND (Experimente nossa lista MULTI-SERVER) WhatsApp (47)99626-5594
+https://dai.google.com/linear/hls/pa/event/f0Tz47QTSQy_RsfSP_WcSA/stream/15f615bc-67d7-4127-afde-f96cefb6e99a:SCL2/variant/db41dabc175aace8c60ccd8dd182f588/bandwidth/4728000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",02 GLOBO (Experimente nossa lista MULTI-SERVER) WhatsApp (47)99626-5594
 https://media.cdntvms.com.br/band_sat/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",02 GLOBO TV BAHIA
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fh4SQ6L.png" group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",02 BAND (Experimente nossa lista MULTI-SERVER) WhatsApp (47)99626-5594
-https://dai.google.com/linear/hls/pa/event/f0Tz47QTSQy_RsfSP_WcSA/stream/15f615bc-67d7-4127-afde-f96cefb6e99a:SCL2/variant/db41dabc175aace8c60ccd8dd182f588/bandwidth/4728000.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",02 RECORD 2
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",02 RecordTV MT
+#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",02 RecordTV MT
 https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",02 RecordTV MT 2
+#EXTINF:-1 tvg-logo="https://imgur.com/IkZeok1.png" group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",02 RecordTV MT 2
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PMSiLyy.png" group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",02 TV Galega
 https://cdn.live.br1.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
@@ -119,6 +119,10 @@ https://streams.prd.commavservices.eu/live/ebs/index.m3u8
 https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",ElyTV (360p)
 https://stmv1.srvsite.com/ely/ely/playlist.m3u8
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",ESPN (1080p)
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",ESPN 4 (1080p)
+http://181.78.197.59:8000/play/a07n/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",Estúdio 96.5 FM Rio de Janeiro - RJ
 http://cdn.rj.assocrj.com.br/live//tupi-estudio-video06/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",Euronews Portuguese (720p)
@@ -332,15 +336,15 @@ http://45.162.64.114/REDE_SECULO_21/index.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",Rede SPTV (360p)
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",REDE SUPER
-http://168.205.87.198:8555/live/1431/123456/163.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",REDE SUPER
 http://168.205.87.198:8555/live/michele/123456/163.ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",REDE SUPER
+http://168.205.87.198:8555/live/1431/123456/163.ts?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/super-tv-logo-FDAE640290-seeklogo.com.png" group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",Rede Super
 https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w1249447642.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",REDE TV
-https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",REDE TV
 http://168.205.87.198:8555/live/michele/123456/102.ts?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://imgur.com/2vYqKX5.png" group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",REDE TV
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",Rede TV! Mais
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",REDE VIDA
@@ -386,9 +390,9 @@ https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",SBN TV Global (720p)
 https://watch.sardius.media/channels/Ea867F3e1F56B06/site_8D363D13Eb/live.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",SECULO 21
-http://168.205.87.198:8555/live/michele/123456/106.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",SECULO 21
 http://168.205.87.198:8555/live/1431/123456/106.ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",SECULO 21
+http://168.205.87.198:8555/live/michele/123456/106.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",SESC TV
 http://168.205.87.198:8555/live/michele/123456/107.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",SIC Alta Definição (1080p)
@@ -418,9 +422,9 @@ https://streamingtv.ddoti.com.br/hls/stream.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",STZ TV (1080p)
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",SÉRIES CLÁSSICAS
-http://168.205.87.198:8555/live/1431/123456/160.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",SÉRIES CLÁSSICAS
 http://168.205.87.198:8555/live/michele/123456/160.ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",SÉRIES CLÁSSICAS
+http://168.205.87.198:8555/live/1431/123456/160.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",Tastemade (720p)
 https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",TCM 10 HD (1080p)
@@ -458,9 +462,9 @@ https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",TV Alternativa (410p)
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",TV APARECIDA
-http://168.205.87.198:8555/live/1431/123456/131.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",TV APARECIDA
 http://168.205.87.198:8555/live/michele/123456/131.ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",TV APARECIDA
+http://168.205.87.198:8555/live/1431/123456/131.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",TV Aparecida (1080p) [Not 24/7]
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",TV Assembleia Piaui
@@ -495,10 +499,10 @@ https://5c483b9d1019c.streamlock.net:443/8054/8054/playlist.m3u8
 https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",TV Cidade Verde Cuiaba "EXTVLCOPT:http-referrer=https://www.tvcidadeverde.com.br"
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CpXjcyE.png" group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",TV Clube (720p)
-https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",TV Clube (720p)
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CpXjcyE.png" group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",TV Clube (720p)
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/4o6Xeee.png" group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",TV COM DF
 https://5b7f3c45ab7c2.streamlock.net:443/8008/smil:8008.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uxefHY3.png" group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",TV Comunitaria
@@ -573,10 +577,10 @@ https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 http://45.162.64.114/TV_PAI_ETERNO/index.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",TV Pampa
 https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",TV Pantanal MS (360p) [Not 24/7]
-https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0FOmktl.png" group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",TV Pantanal MS (360p) [Not 24/7]
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",TV Pantanal MS (360p) [Not 24/7]
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",TV Paraense (720p)
 https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",TV Paraná Turismo (720p) [Not 24/7]
@@ -588,9 +592,9 @@ https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Klwjy9d.png" group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",TV RIO MADEIRA
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",TV SENADO
-http://168.205.87.198:8555/live/1431/123456/139.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",TV SENADO
 http://168.205.87.198:8555/live/michele/123456/139.ts?checkedby:iptvcat.com
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",TV SENADO
+http://168.205.87.198:8555/live/1431/123456/139.ts?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",TV Senado (720p)
 http://45.162.64.114/TV_SENADO/index.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",TV Series 1 As Panteras (480p)
@@ -619,10 +623,10 @@ http://168.205.87.198:8555/live/michele/123456/152.ts?checkedby:iptvcat.com
 https://app.tvufop.com.br/hls/tvufop.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",TV Universal (480p)
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z1uWe7g.png" group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",TV Vila Real
-https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q5U0d9k.png" group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",TV Vila Real
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z1uWe7g.png" group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",TV Vila Real
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",TV Vila Real (720p)
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",TV Viçosa (480p)
@@ -682,13 +686,9 @@ https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",XITE Siempre Latino (1080p)
 https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
 #EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",ZOOMOO
-http://168.205.87.198:8555/live/michele/123456/162.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",ZOOMOO
 http://168.205.87.198:8555/live/1431/123456/162.ts?checkedby:iptvcat.com
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",ESPN (1080p)
-http://181.78.197.59:8000/play/a07z/index.m3u8
-#EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",ESPN 4 (1080p)
-http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1 group-title="01 CANAIS | ABERTOS (01/10/2026 03:35hs)",ZOOMOO
+http://168.205.87.198:8555/live/michele/123456/162.ts?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://imgur.com/1lEuaIB.png" group-title="02  Variedades - Brasil",+Favela TV (São Paulo/SP)
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-18206/playlist/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/H8rooCk.png" group-title="02  Variedades - Brasil",Assim é Portugal (Soul TV)
