@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ch_qyt1g8" tvg-name="01 Liberamos TODOS os canais em sua TV (WhatsApp 47 99626 5594)" tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="01 BRASIL (02/10/2026 00:50hs)",01 Liberamos TODOS os canais em sua TV (WhatsApp 47 99626 5594)
-https://netmidia.aligapp.com.br/uploads/midias/69403d303cc5e_video_divulgacao_1765817560536.mp4
-#EXTINF:-1 tvg-id="ch_1xaeuqd" tvg-name="Brasil" tvg-logo="https://i.imgur.com/MD0SGrQ.png" group-title="01 BRASIL (02/10/2026 00:50hs)",Brasil
-https://i.imgur.com/ijpETVg.mp4
-#EXTINF:-1 tvg-id="ch_pq4cmq" tvg-name="MAM NEWS WEB TV" tvg-logo="https://imgur.com/nmI1IXD.png" group-title="01 BRASIL (02/10/2026 00:50hs)",MAM NEWS WEB TV
-https://stmv3.samcast.com.br/mamnews/mamnews/playlist.m3u8
-#EXTINF:-1 tvg-id="ch_9a2ok6" tvg-name="TV GUARAPARI" tvg-logo="https://imgur.com/BTfw3EI.png" group-title="01 BRASIL (02/10/2026 00:50hs)",TV GUARAPARI
+#EXTINF:-1 tvg-id="ch_9a2ok6" tvg-name="TV GUARAPARI" tvg-logo="https://imgur.com/BTfw3EI.png" group-title="01 BRASIL (02/10/2026 01:00hs)",TV GUARAPARI
 http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/playlist.m3u8
-#EXTINF:-1 tvg-id="ch_1k3fbkv" tvg-name="TV Rio Preto | HD | São José do Rio Preto" tvg-logo="https://i.imgur.com/fJA5u7e.png" group-title="01 BRASIL (02/10/2026 00:50hs)",TV Rio Preto | HD | São José do Rio Preto
+#EXTINF:-1 tvg-id="ch_pq4cmq" tvg-name="MAM NEWS WEB TV" tvg-logo="https://imgur.com/nmI1IXD.png" group-title="01 BRASIL (02/10/2026 01:00hs)",MAM NEWS WEB TV
+https://stmv3.samcast.com.br/mamnews/mamnews/playlist.m3u8
+#EXTINF:-1 tvg-id="ch_1k3fbkv" tvg-name="TV Rio Preto | HD | São José do Rio Preto" tvg-logo="https://i.imgur.com/fJA5u7e.png" group-title="01 BRASIL (02/10/2026 01:00hs)",TV Rio Preto | HD | São José do Rio Preto
 https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
-#EXTINF:-1 tvg-id="ch_b27496" tvg-name="TV TSPB" tvg-logo="https://imgur.com/pBenlhD.png" group-title="01 BRASIL (02/10/2026 00:50hs)",TV TSPB
+#EXTINF:-1 tvg-id="ch_qyt1g8" tvg-name="01 Liberamos TODOS os canais em sua TV (WhatsApp 47 99626 5594)" tvg-logo="https://cubomagico.radiostream321.com/users.img/3200348/1595775560/icon_thumb_80_1595775560.jpg" group-title="01 BRASIL (02/10/2026 01:00hs)",01 Liberamos TODOS os canais em sua TV (WhatsApp 47 99626 5594)
+https://netmidia.aligapp.com.br/uploads/midias/69403d303cc5e_video_divulgacao_1765817560536.mp4
+#EXTINF:-1 tvg-id="ch_1xaeuqd" tvg-name="Brasil" tvg-logo="https://i.imgur.com/MD0SGrQ.png" group-title="01 BRASIL (02/10/2026 01:00hs)",Brasil
+https://i.imgur.com/ijpETVg.mp4
+#EXTINF:-1 tvg-id="ch_b27496" tvg-name="TV TSPB" tvg-logo="https://imgur.com/pBenlhD.png" group-title="01 BRASIL (02/10/2026 01:00hs)",TV TSPB
 https://5cf4a2c2512a2.streamlock.net/8028/8028/chunklist.m3u8
 #EXTINF:-1 tvg-id="ch_1ska3nd" tvg-name="01 RENDA EXTRA com Aplicativo de Streamings (WhatsApp 47 99626 5594)" tvg-logo="https://www.febspot.com/contents/videos_screenshots/3481000/3481764/320x180/1.jpg" group-title="02 CANAIS | ABERTOS",01 RENDA EXTRA com Aplicativo de Streamings (WhatsApp 47 99626 5594)
 https://st30.febspot.com/videos/3481000/3481764/3481764_720p.mp4
