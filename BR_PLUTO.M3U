@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="site_origem",Site Origem
+https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/br.m3u
 #EXTINF:-1 tvg-id="",A Caçadora de Relíquias
 https://jmp2.uk/plu-67e59a6557487a8b7fe73e23.m3u8
 #EXTINF:-1 tvg-id="",A Feiticeira
