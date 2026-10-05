@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:1226 tvg-logo="https://i.ytimg.com/vi/d-i2NuP0YDM/mqdefault.jpg" group-title="NOVO CURSO - CATECISMO IC",CATECISMO DA IGREJA CATÓLICA - APRESENTAÇÃO DO CURSO
-https://www.youtube.com/watch?v=d-i2NuP0YDM
-#EXTINF:391 tvg-logo="https://i.ytimg.com/vi/QlfLdgVw2EI/mqdefault.jpg" group-title="NOVO CURSO - CATECISMO IC",POR QUE LER O CATECISMO?
-https://www.youtube.com/watch?v=QlfLdgVw2EI
 #EXTINF:537 tvg-logo="https://i.ytimg.com/vi/FkyB9D88_E8/mqdefault.jpg" group-title="NOVO CURSO - CATECISMO IC",COMO LER O CATECISMO DA IGREJA CATÓLICA
 https://www.youtube.com/watch?v=FkyB9D88_E8
-#EXTINF:661 tvg-logo="https://i.ytimg.com/vi/zD_JQOUcDsc/mqdefault.jpg" group-title="NOVO CURSO - CATECISMO IC",LEIA O CATECISMO COM A BÍBLIA - CATECISMO DA IGREJA CATÓLICA
-https://www.youtube.com/watch?v=zD_JQOUcDsc
 #EXTINF:1148 tvg-logo="https://i.ytimg.com/vi/ss6N3FRO2xM/mqdefault.jpg" group-title="NOVO CURSO - CATECISMO IC",O DESEJO DE DEUS NO CORAÇÃO HUMANO - CATECISMO DA IGREJA CATÓLICA
 https://www.youtube.com/watch?v=ss6N3FRO2xM
 #EXTINF:704 tvg-logo="https://i.ytimg.com/vi/oPx6PrX1Q8M/mqdefault.jpg" group-title="NOVO CURSO - CATECISMO IC",COMO ALCANÇAR DEUS - OS CAMINHOS NATURAIS DE ACESSO A DEUS - CATECISMO DA IGREJA CATÓLICA
@@ -877,7 +871,73 @@ https://www.youtube.com/watch?v=C5LW67rC5pM
 https://www.youtube.com/watch?v=-L_5J9DPBos
 #EXTINF:723 tvg-id="_4apwKPv8iY" tvg-logo="https://i.ytimg.com/vi/_4apwKPv8iY/mqdefault.jpg" group-title="O Catecismo em um ano (Padre Adriano Zandoná)",O Catecismo em Um Ano Dia 264 - O Mérito do Homem - Padre Adriano Zandoná
 https://www.youtube.com/watch?v=_4apwKPv8iY
-#EXTINF:597 tvg-id="bwSerU-3rRY" tvg-logo="https://i.ytimg.com/vi/bwSerU-3rRY/mqdefault.jpg" group-title="O Catecismo em um ano (Padre Adriano Zandoná)",bwSerU-3rRY
+#EXTINF:597 tvg-id="bwSerU-3rRY" tvg-logo="https://i.ytimg.com/vi/bwSerU-3rRY/mqdefault.jpg" group-title="O Catecismo em um ano (Padre Adriano Zandoná)",Catecismo em Um Ano Dia 265 - O Chamado à Santidade - Padre Adriano Zandoná
 https://www.youtube.com/watch?v=bwSerU-3rRY
-#EXTINF:441 tvg-id="Y1XnnJ5tBr8" tvg-logo="https://i.ytimg.com/vi/Y1XnnJ5tBr8/mqdefault.jpg" group-title="O Catecismo em um ano (Padre Adriano Zandoná)",Y1XnnJ5tBr8
-https://www.youtube.com/watch?v=Y1XnnJ5tBr8
+#EXTINF:1680 tvg-id="VYEdYKbGRXU" tvg-logo="https://i.ytimg.com/vi/VYEdYKbGRXU/mqdefault.jpg" group-title="Catequese Passo a Passo",A BÍBLIA PODE ERRAR? INSPIRAÇÃO  INERRÂNCIA E O VERBO VIVO | Parágrafos 105–108
+https://www.youtube.com/watch?v=VYEdYKbGRXU
+#EXTINF:806 tvg-id="vypqtgKt_cs" tvg-logo="https://i.ytimg.com/vi/vypqtgKt_cs/mqdefault.jpg" group-title="Catequese Passo a Passo",A BÍBLIA NÃO FALA NADA COMIGO... O QUE ESTOU FAZENDO DE ERRADO?
+https://www.youtube.com/watch?v=vypqtgKt_cs
+#EXTINF:1320 tvg-id="I9FoWjy8yBc" tvg-logo="https://i.ytimg.com/vi/I9FoWjy8yBc/mqdefault.jpg" group-title="Catequese Passo a Passo",DOGMAS: Prisão ou Liberdade? O que o Catecismo REALMENTE ensina - Parágrafos 88-90
+https://www.youtube.com/watch?v=I9FoWjy8yBc
+#EXTINF:847 tvg-id="7EP32eYFJrM" tvg-logo="https://i.ytimg.com/vi/7EP32eYFJrM/mqdefault.jpg" group-title="Catequese Passo a Passo",QUEM PODE INTERPRETAR A BÍBLIA? A verdade que TODO CATÓLICO precisa saber
+https://www.youtube.com/watch?v=7EP32eYFJrM
+#EXTINF:637 tvg-id="IBo9P6nkiDI" tvg-logo="https://i.ytimg.com/vi/IBo9P6nkiDI/mqdefault.jpg" group-title="Catequese Passo a Passo",A VERDADE QUE TODO CATÓLICO PRECISA SABER (mas 90% não conhece) | Catequese Passo a Passo #84
+https://www.youtube.com/watch?v=IBo9P6nkiDI
+#EXTINF:730 tvg-id="9xQ5HED0u3k" tvg-logo="https://i.ytimg.com/vi/9xQ5HED0u3k/mqdefault.jpg" group-title="Catequese Passo a Passo",BÍBLIA vs TRADIÇÃO? Descubra a VERDADE que POUCOS conhecem! Catequese Passo a Passo | § 80-83
+https://www.youtube.com/watch?v=9xQ5HED0u3k
+#EXTINF:750 tvg-id="yls2n3qk9Xg" tvg-logo="https://i.ytimg.com/vi/yls2n3qk9Xg/mqdefault.jpg" group-title="Catequese Passo a Passo",VOCÊ SABIA? A IGREJA TEM A AUTORIDADE DE JESUS PARA ENSINAR | Catequese Passo a Passo | §77  78 e 79
+https://www.youtube.com/watch?v=yls2n3qk9Xg
+#EXTINF:601 tvg-id="DZ1mbzVE__s" tvg-logo="https://i.ytimg.com/vi/DZ1mbzVE__s/mqdefault.jpg" group-title="Catequese Passo a Passo",COMO DEUS GARANTIU QUE SUA MENSAGEM CHEGASSE ATÉ VOCÊ SEM ERROS? | Catequese Passo a Passo | §74-76
+https://www.youtube.com/watch?v=DZ1mbzVE__s
+#EXTINF:48 tvg-id="QXQ8y9t3HhI" tvg-logo="https://i.ytimg.com/vi/QXQ8y9t3HhI/mqdefault.jpg" group-title="Catequese Passo a Passo",DEUS AINDA FALA HOJE? A resposta vai te SURPREENDER!
+https://www.youtube.com/watch?v=QXQ8y9t3HhI
+#EXTINF:879 tvg-id="exTG147k0nM" tvg-logo="https://i.ytimg.com/vi/exTG147k0nM/mqdefault.jpg" group-title="Catequese Passo a Passo",REVELAÇÕES PRIVADAS: COMO SABER SE É DE DEUS ou ENGANO? | Catequese Passo a Passo | Parágrafos 66 67
+https://www.youtube.com/watch?v=exTG147k0nM
+#EXTINF:59 tvg-id="0Vpryvo2gfI" tvg-logo="https://i.ytimg.com/vi/0Vpryvo2gfI/mqdefault.jpg" group-title="Catequese Passo a Passo",Por que católicos NÃO procuram novas revelações? 🤔
+https://www.youtube.com/watch?v=0Vpryvo2gfI
+#EXTINF:705 tvg-id="JYExlO02WcQ" tvg-logo="https://i.ytimg.com/vi/JYExlO02WcQ/mqdefault.jpg" group-title="Catequese Passo a Passo",PARE DE PROCURAR EXPERIÊNCIAS MÍSTICAS! JESUS é SUFICIENTE | Catequese Passo a Passo | Parágrafo 65
+https://www.youtube.com/watch?v=JYExlO02WcQ
+#EXTINF:635 tvg-id="IMc_j8cg8lo" tvg-logo="https://i.ytimg.com/vi/IMc_j8cg8lo/mqdefault.jpg" group-title="Catequese Passo a Passo",VOCÊ É PARTE DO PLANO DE DEUS! DESCUBRA COMO ISRAEL PREPAROU SUA SALVAÇÃO | Catequese | § 62 63 e 64
+https://www.youtube.com/watch?v=IMc_j8cg8lo
+#EXTINF:819 tvg-id="ioPVfkRRxoE" tvg-logo="https://i.ytimg.com/vi/ioPVfkRRxoE/mqdefault.jpg" group-title="Catequese Passo a Passo",VOCÊ PRECISA SABER POR QUE FAZ PARTE DO PLANO DE ABRAÃO | Catequese Passo a Passo | Par. 59  60 e 61
+https://www.youtube.com/watch?v=ioPVfkRRxoE
+#EXTINF:836 tvg-id="tDlLGq5bKTA" tvg-logo="https://i.ytimg.com/vi/tDlLGq5bKTA/mqdefault.jpg" group-title="Catequese Passo a Passo",POR QUE DEUS DIVIDIU A HUMANIDADE A VERDADE SOBRE BABEL REVELADA! Catequese Passo a Passo!
+https://www.youtube.com/watch?v=tDlLGq5bKTA
+#EXTINF:565 tvg-id="1G5Qcw_RSYQ" tvg-logo="https://i.ytimg.com/vi/1G5Qcw_RSYQ/mqdefault.jpg" group-title="Catequese Passo a Passo",POR QUE DEUS NÃO NOS ABANDONOU DEPOIS DO PECADO DE ADÃO? | Catequese Passo a Passo | Paragr. 54 e 55
+https://www.youtube.com/watch?v=1G5Qcw_RSYQ
+#EXTINF:523 tvg-id="YBN8H1FccpQ" tvg-logo="https://i.ytimg.com/vi/YBN8H1FccpQ/mqdefault.jpg" group-title="Catequese Passo a Passo",DO ANTIGO TESTAMENTO A JESUS: A ESTRATÉGIA DIVINA DE REVELAÇÃO | Catequese Passo a Passo! §53
+https://www.youtube.com/watch?v=YBN8H1FccpQ
+#EXTINF:384 tvg-id="WttjY-Db52k" tvg-logo="https://i.ytimg.com/vi/WttjY-Db52k/mqdefault.jpg" group-title="Catequese Passo a Passo",O QUE SIGNIFICA SER ADOTADO POR DEUS? | Catequese Passo a Passo | Parágrafo 52
+https://www.youtube.com/watch?v=WttjY-Db52k
+#EXTINF:379 tvg-id="vpGQw6z1iuI" tvg-logo="https://i.ytimg.com/vi/vpGQw6z1iuI/mqdefault.jpg" group-title="Catequese Passo a Passo",COMO DEUS SE REVELA A VOCÊ? A VERDADE QUE POUCOS CONHECEM | Catequese Passo a Passo | Parágrafo 51
+https://www.youtube.com/watch?v=vpGQw6z1iuI
+#EXTINF:482 tvg-id="FnL-ANyEljg" tvg-logo="https://i.ytimg.com/vi/FnL-ANyEljg/mqdefault.jpg" group-title="Catequese Passo a Passo",OS DOIS CAMINHOS PARA CONHECER DEUS QUE TODO CATÓLICO PRECISA ENTENDER | Parágrafo 50
+https://www.youtube.com/watch?v=FnL-ANyEljg
+#EXTINF:434 tvg-id="2CGQ66EeF4g" tvg-logo="https://i.ytimg.com/vi/2CGQ66EeF4g/mqdefault.jpg" group-title="Catequese Passo a Passo",A ÚNICA MANEIRA CORRETA DE FALAR SOBRE DEUS | Catequese Passo a Passo | Parágrafo 43
+https://www.youtube.com/watch?v=2CGQ66EeF4g
+#EXTINF:554 tvg-id="LO1XSFRt0MI" tvg-logo="https://i.ytimg.com/vi/LO1XSFRt0MI/mqdefault.jpg" group-title="Catequese Passo a Passo",POR QUE NUNCA VAMOS CONSEGUIR DESCREVER DEUS COMPLETAMENTE | Catequese Passo a Passo | Parágrafo 42
+https://www.youtube.com/watch?v=LO1XSFRt0MI
+#EXTINF:342 tvg-id="jjNVxm7gWS0" tvg-logo="https://i.ytimg.com/vi/jjNVxm7gWS0/mqdefault.jpg" group-title="Catequese Passo a Passo",FALAR DE DEUS É PERIGOSO? | Catequese Passo a Passo | Parágrafo 40
+https://www.youtube.com/watch?v=jjNVxm7gWS0
+#EXTINF:303 tvg-id="cCvc7Z4-Kpg" tvg-logo="https://i.ytimg.com/vi/cCvc7Z4-Kpg/mqdefault.jpg" group-title="Catequese Passo a Passo",A FÉ COMEÇA COM A RAZÃO? DESCUBRA O QUE DIZ A IGREJA | Catequese Passo a Passo | Parágrafo 39
+https://www.youtube.com/watch?v=cCvc7Z4-Kpg
+#EXTINF:450 tvg-id="IcCUkd7-SVE" tvg-logo="https://i.ytimg.com/vi/IcCUkd7-SVE/mqdefault.jpg" group-title="Catequese Passo a Passo",A RAZÃO NÃO BASTA: ENTENDA POR QUE PRECISAMOS DA REVELAÇÃO | Catequese Passo a Passo | Parágrafo 38
+https://www.youtube.com/watch?v=IcCUkd7-SVE
+#EXTINF:458 tvg-id="tBC0iO8xlfo" tvg-logo="https://i.ytimg.com/vi/tBC0iO8xlfo/mqdefault.jpg" group-title="Catequese Passo a Passo",POR QUE MUITOS FOGEM DA VERDADE SOBRE DEUS? | Catequese Passo a Passo | Parágrafo 37
+https://www.youtube.com/watch?v=tBC0iO8xlfo
+#EXTINF:406 tvg-id="ltJhIpk1fcY" tvg-logo="https://i.ytimg.com/vi/ltJhIpk1fcY/mqdefault.jpg" group-title="Catequese Passo a Passo",É POSSÍVEL CONHECER DEUS SEM BÍBLIA OU IGREJA? | Catequese Passo a Passo | Parágrafo 36
+https://www.youtube.com/watch?v=ltJhIpk1fcY
+#EXTINF:327 tvg-id="RcJHcBFN728" tvg-logo="https://i.ytimg.com/vi/RcJHcBFN728/mqdefault.jpg" group-title="Catequese Passo a Passo",O MUNDO E O HOMEM NÃO SE EXPLICAM SOZINHOS | Catequese Passo a Passo | Parágrafo 34
+https://www.youtube.com/watch?v=RcJHcBFN728
+#EXTINF:392 tvg-id="DiP6lL22DE4" tvg-logo="https://i.ytimg.com/vi/DiP6lL22DE4/mqdefault.jpg" group-title="Catequese Passo a Passo",OS SINAIS DE DEUS DENTRO DE NÓS | Catequese Passo a Passo | Parágrafo 33
+https://www.youtube.com/watch?v=DiP6lL22DE4
+#EXTINF:383 tvg-id="M_U1Up6uBlM" tvg-logo="https://i.ytimg.com/vi/M_U1Up6uBlM/mqdefault.jpg" group-title="Catequese Passo a Passo",COMO A CRIAÇÃO PROVA A EXISTÊNCIA DE DEUS? | Catequese Passo a Passo| Parágrafo 32
+https://www.youtube.com/watch?v=M_U1Up6uBlM
+#EXTINF:575 tvg-id="rF5oTRIagjs" tvg-logo="https://i.ytimg.com/vi/rF5oTRIagjs/mqdefault.jpg" group-title="Catequese Passo a Passo",POR QUE NUNCA ESTAMOS SATISFEITOS? | Catequese Passo a Passo | Parágrafo #31
+https://www.youtube.com/watch?v=rF5oTRIagjs
+#EXTINF:592 tvg-id="yv53VIFIIXc" tvg-logo="https://i.ytimg.com/vi/yv53VIFIIXc/mqdefault.jpg" group-title="Catequese Passo a Passo",O desejo de Deus - Parágrafos 27 a 30 - Catecismo Passo a Passo
+https://www.youtube.com/watch?v=yv53VIFIIXc
+#EXTINF:688 tvg-id="ejs-UFDG3Ss" tvg-logo="https://i.ytimg.com/vi/ejs-UFDG3Ss/mqdefault.jpg" group-title="Catequese Passo a Passo",Como usar o Catecismo da Igreja Católica: Dicas essenciais para estudo e compreensão! # 2
+https://www.youtube.com/watch?v=ejs-UFDG3Ss
+#EXTINF:403 tvg-id="rjfpny2B9Ts" tvg-logo="https://i.ytimg.com/vi/rjfpny2B9Ts/mqdefault.jpg" group-title="Catequese Passo a Passo",Introdução ao Catecismo da Igreja Católica - Catecismo Passo a Passo
+https://www.youtube.com/watch?v=rjfpny2B9Ts
